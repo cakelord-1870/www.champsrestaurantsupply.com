@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.champsrestaurantsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.champsrestaurantsupply.com/collections/meat-processing-equipment.atom"/>
+  <title>Champs Restaurant Supply</title>
+  <updated>2017-06-13T23:47:44-05:00</updated>
+  <author>
+    <name>Champs Restaurant Supply</name>
+  </author>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11604207375</id>
+    <published>2017-06-13T23:47:44-05:00</published>
+    <updated>2017-06-13T23:47:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/thunderbird-tb-400e-stainless-steel-22-1-5-hp-meat-grinder-115-v"/>
+    <title>Thunderbird TB-400E Stainless Steel #22  1.5 HP Meat Grinder -115 V</title>
+    <s:type>Meat Processing Equipment</s:type>
+    <s:vendor>Thunderbird</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/400.jpg?v=1497415959"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Thunderbird<br>
+        <strong>Type: </strong>Meat Processing Equipment<br>
+        <strong>Price: </strong>
+            1199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Thunderbird TB-400E Stainless Steel #22  1.5 HP Meat Grinder -115 V</strong></p>
+<p>Meat Grinder, bench style with #22 attachment hub, approximately 18 - 20lbs capacity, stainless steel head, worm knife &amp; pan, includes: one 3/16" plate, knife &amp; sausage stuffing attachment, 1-1/2 HP, ETL, CE, NSF</p>
+<p> </p>
+<p>180 days labor and 500 days parts warranty</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11604207375</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1199.00</s:price>
+      <s:sku>TB-400E</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4062226052</id>
+    <published>2015-12-29T11:39:00-06:00</published>
+    <updated>2015-12-29T11:39:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/thunderbird-tb-300e-meat-grinder"/>
+    <title>Thunderbird TB-300E Electric Meat Grinder</title>
+    <s:type>Meat Processing Equipment</s:type>
+    <s:vendor>Thunderbird</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/TB-400E_meqp_1_grande_e6faad16-030e-42f6-bc3b-23fb333ed339.jpg?v=1497414404"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Thunderbird<br>
+        <strong>Type: </strong>Meat Processing Equipment<br>
+        <strong>Price: </strong>
+            899.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Thunderbird TB-300E Electric Meat Grinder</strong></p>
+<ul>
+<li>Electric Meat Grinder</li>
+<li>Bench style with #12 attachment hub</li>
+<li>Approximately 8 - 12lbs capacity</li>
+<li>1-HP motor assembly</li>
+<li>Stainless steel head</li>
+<li>Worm knife &amp; pan</li>
+<li>includes: one 3/16" plate &amp; sausage stuffing attachment</li>
+<li>115v/60/1-ph, 14.0 amps</li>
+<li>UL, NSF</li>
+<li><span>180 days labor and 500 days parts warranty</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-day</s:tag>
+    <s:tag>Product type_Meat Processing Equipment</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4062226052</id>
+      <title>Default Title</title>
+      <s:price currency="USD">899.99</s:price>
+      <s:sku>TB-300E</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+</feed>

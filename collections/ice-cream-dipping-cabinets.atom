@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.champsrestaurantsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.champsrestaurantsupply.com/collections/ice-cream-dipping-cabinets.atom"/>
+  <title>Champs Restaurant Supply</title>
+  <updated>2015-05-02T15:31:00-05:00</updated>
+  <author>
+    <name>Champs Restaurant Supply</name>
+  </author>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/1366104452</id>
+    <published>2015-05-02T15:31:00-05:00</published>
+    <updated>2015-05-02T15:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/turbo-air-tidc-91w-white-ice-cream-dipping-cabinets"/>
+    <title>Turbo Air TIDC-91W-N White Ice Cream Dipping Cabinets</title>
+    <s:type>Ice Cream Dipping Cabinets</s:type>
+    <s:vendor>Turbo Air</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/1_87dfacc2-cbbc-47a5-9682-c87fbbced1cd.jpeg?v=1453936554"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Turbo Air<br>
+        <strong>Type: </strong>Ice Cream Dipping Cabinets<br>
+        <strong>Price: </strong>
+            9983.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><b>Dimensions:</b> 89" L x 26 1/8" D x 49 5/8" H</span></p>
+<div>
+<div><span><span><b>Warranty:</b> 2 Year Parts &amp;  Labor | 5 Year Compress</span>or</span></div>
+<div><span></span></div>
+<div>
+<div class="padder">
+<div id="product_tabs_description_tabbed_contents">
+<div class="std">
+<p><span><strong><span>Locked-in temperature equal from top to bottom</span></strong></span><br><span>New technology of the Cold Wall System eliminates temperature fluctuations throughout the top and bottom areas of the interior cabinet. No more melting ice cream above while freezing below. Scooping has never been easier.</span></p>
+<p><span><strong><span>Attractive contemporary design with curved glass front and top</span></strong></span><br><span>Sleek new curved front and top glass is attractive and draws attention at once. Deep lowered glass front optimizes product visibility and impulse buying. This merchandiser is perfect for ice cream viewing and dipping.</span></p>
+<p><span><strong><span>LED lighting for interior canopy</span></strong></span><br><span>Brighter and longer lasting LED light bulbs produce less heat, saving energy while maximizing its display effect. Independent on/off light switch equipped.</span></p>
+<div class="std">
+<span><strong><span>Extra storage space</span></strong></span><br><span>Extra storage space to accommodate additional ice cream tubs underneath the basket. Doors located to the rear allows easy access to the storage area eliminating inconvenient bracket usage in picking up ice cream tubs</span>
+</div>
+<p><span><strong><span>Easy grip rack handles</span></strong></span><br><span>PE coated wire container racks have easy grip handles for convenient product removal.</span></p>
+<p><span><strong><span>Efficient refrigeration system</span></strong></span><br><span>Turbo Air's dipping cabinets are designed with oversized and balanced (CFC Free R-134A and R-404A) refrigeration systems. These include efficient evaporators and condensers for faster freezing and greater efficiency.</span></p>
+<p><span><strong><span>Standard plastic can holder for each container rack</span></strong></span><br><span>Each container rack comes standard with an ABS plastic can holder in standard. Attached on top of the ice cream containers, it holds the container firmly in place and provides attractive display appearance.</span></p>
+<p><span><strong><span>Manual defrost system</span></strong></span></p>
+<p><span><strong><span>PE coated removable magnetic frost shields</span></strong></span><br><span>Provides fast and easy removal of accumulated frost on inside walls.</span></p>
+<p><span><strong><span>Standard plastic night covers for case opening</span></strong></span></p>
+<p><span><strong><span>Maintains -10°F ~ 8°F for the best in frozen Ice cream preservation</span></strong></span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div>
+<div style="font-size: 13.3333330154419px;">
+<div style="font-size: 13.3333330154419px;">
+<div style="font-size: 10pt;">
+<div class="padder" style="box-sizing: border-box; margin: 0px; padding: 0px; color: #4b4b4b; font-family: 'Open sans'; font-size: 13px; line-height: 20px; background-color: #ffffff;">
+<div id="product_tabs_description_tabbed_contents" style="box-sizing: border-box; margin: 0px; padding: 0px;">
+<div class="std" style="box-sizing: border-box; margin: 0px; padding: 0px;"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div></div>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>freeship</s:tag>
+    <s:tag>Product type_Ice Cream Dipping Cabinets</s:tag>
+    <s:tag>Vendor_Turbo Air</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/1366104452</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9983.70</s:price>
+      <s:sku>TIDC-91W-N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/1366103876</id>
+    <published>2015-05-02T15:31:00-05:00</published>
+    <updated>2015-05-02T15:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/turbo-air-tidc-26w-white-ice-cream-dipping-cabinets"/>
+    <title>Turbo Air TTIDC-26W-N White Ice Cream Dipping Cabinets</title>
+    <s:type>Ice Cream Dipping Cabinets</s:type>
+    <s:vendor>Turbo Air</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/1_5560ce61-4e79-43c6-9d30-7ae5c2320f09.jpeg?v=1453936546"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Turbo Air<br>
+        <strong>Type: </strong>Ice Cream Dipping Cabinets<br>
+        <strong>Price: </strong>
+            4407.13
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><b>Dimensions:</b> 26" L x 26 1/8" D x 49 1/2" H</span></p>
+<div><span><b>Warranty:</b> 2 Year Parts &amp;  Labor | 5 Year Compressor</span></div>
+<div>
+<div class="padder">
+<div id="product_tabs_description_tabbed_contents">
+<div class="std">
+<p><span><strong><span>Locked-in temperature equal from top to bottom</span></strong></span><br><span>New technology of the Cold Wall System eliminates temperature fluctuations throughout the top and bottom areas of the interior cabinet. No more melting ice cream above while freezing below. Scooping has never been easier.</span></p>
+<p><span><strong><span>Attractive contemporary design with curved glass front and top</span></strong></span><br><span>Sleek new curved front and top glass is attractive and draws attention at once. Deep lowered glass front optimizes product visibility and impulse buying. This merchandiser is perfect for ice cream viewing and dipping.</span></p>
+<p><span><strong><span>LED lighting for interior canopy</span></strong></span><br><span>Brighter and longer lasting LED light bulbs produce less heat, saving energy while maximizing its display effect. Independent on/off light switch equipped.</span></p>
+<p><span><strong><span>Easy grip rack handles</span></strong></span><br><span>PE coated wire container racks have easy grip handles for convenient product removal.</span></p>
+<p><span><strong><span>Efficient refrigeration system</span></strong></span><br><span>Turbo Air's dipping cabinets are designed with oversized and balanced (CFC Free R-134A and R-404A) refrigeration systems. These include efficient evaporators and condensers for faster freezing and greater efficiency.</span></p>
+<p><span><strong><span>Standard plastic can holder for each container rack</span></strong></span><br><span>Each container rack comes standard with an ABS plastic can holder in standard. Attached on top of the ice cream containers, it holds the container firmly in place and provides attractive display appearance.</span></p>
+<p><span><strong><span>Manual defrost system</span></strong></span></p>
+<p><span><strong><span>PE coated removable magnetic frost shields</span></strong></span><br><span>Provides fast and easy removal of accumulated frost on inside walls.</span></p>
+<p><span><strong><span>Standard plastic night covers for case opening</span></strong></span></p>
+<p><span><strong><span>Maintains -10°F ~ 8°F for the best in frozen Ice cream preservation</span></strong></span></p>
+</div>
+</div>
+</div>
+</div>
+<div style="font-size: 10pt;">
+<div class="padder" style="box-sizing: border-box; margin: 0px; padding: 0px; color: #4b4b4b; font-family: 'Open sans'; font-size: 13px; line-height: 20px; background-color: #ffffff;">
+<div id="product_tabs_description_tabbed_contents" style="box-sizing: border-box; margin: 0px; padding: 0px;">
+<div class="std" style="box-sizing: border-box; margin: 0px; padding: 0px;"></div>
+</div>
+</div>
+</div>
+<div style="font-size: 10pt;">
+<div class="padder" style="box-sizing: border-box; margin: 0px; padding: 0px; color: #4b4b4b; font-family: 'Open sans'; font-size: 13px; line-height: 20px; background-color: #ffffff;">
+<div id="product_tabs_description_tabbed_contents" style="box-sizing: border-box; margin: 0px; padding: 0px;">
+<div class="std" style="box-sizing: border-box; margin: 0px; padding: 0px;">
+<p style="box-sizing: border-box; margin: 0px 0px 1em; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-size: medium; color: #132dcd;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif;"> </span></strong></span></p>
+</div>
+</div>
+</div>
+</div>
+<div>
+<div style="text-align: center;"></div>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>freeship</s:tag>
+    <s:tag>Product type_Ice Cream Dipping Cabinets</s:tag>
+    <s:tag>Vendor_Turbo Air</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/1366103876</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4407.13</s:price>
+      <s:sku>TIDC-26W-N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/1366103364</id>
+    <published>2015-05-02T15:31:00-05:00</published>
+    <updated>2015-05-02T15:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/turbo-air-tidc-91g-green-ice-cream-dipping-cabinet"/>
+    <title>Turbo Air TIDC-91G-N Green Ice Cream Dipping Cabinet</title>
+    <s:type>Ice Cream Dipping Cabinets</s:type>
+    <s:vendor>Turbo Air</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/turbo-air-tidc-91g-green-91-ice-cream-freezer-dipping-cabinet-with-low-curved-glass-21-19-cu-ft.jpg?v=1497393110"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Turbo Air<br>
+        <strong>Type: </strong>Ice Cream Dipping Cabinets<br>
+        <strong>Price: </strong>
+            9983.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif;"> </span></strong></p>
+<p><b>Dimensions:</b> 89" L x 26 1/8" D x 49 5/8" H</p>
+<div>
+<div><span><span><b>Warranty:</b> 2 Year Parts &amp;  Labor | 5 Year Compress</span>or</span></div>
+<div><span></span></div>
+<div>
+<div class="padder">
+<div id="product_tabs_description_tabbed_contents">
+<div class="std">
+<p><span><strong><span>Locked-in temperature equal from top to bottom</span></strong></span><br><span>New technology of the Cold Wall System eliminates temperature fluctuations throughout the top and bottom areas of the interior cabinet. No more melting ice cream above while freezing below. Scooping has never been easier.</span></p>
+<p><span><strong><span>Attractive contemporary design with curved glass front and top</span></strong></span><br><span>Sleek new curved front and top glass is attractive and draws attention at once. Deep lowered glass front optimizes product visibility and impulse buying. This merchandiser is perfect for ice cream viewing and dipping.</span></p>
+<p><span><strong><span>LED lighting for interior canopy</span></strong></span><br><span>Brighter and longer lasting LED light bulbs produce less heat, saving energy while maximizing its display effect. Independent on/off light switch equipped.</span></p>
+<div class="std">
+<span><strong><span>Extra storage space</span></strong></span><br><span>Extra storage space to accommodate additional ice cream tubs underneath the basket. Doors located to the rear allows easy access to the storage area eliminating inconvenient bracket usage in picking up ice cream tubs</span>
+</div>
+<br>
+<p><span><strong><span>Easy grip rack handles</span></strong></span><br><span>PE coated wire container racks have easy grip handles for convenient product removal.</span></p>
+<p><span><strong><span>Efficient refrigeration system</span></strong></span><br><span>Turbo Air's dipping cabinets are designed with oversized and balanced (CFC Free R-134A and R-404A) refrigeration systems. These include efficient evaporators and condensers for faster freezing and greater efficiency.</span></p>
+<p><span><strong><span>Standard plastic can holder for each container rack</span></strong></span><br><span>Each container rack comes standard with an ABS plastic can holder in standard. Attached on top of the ice cream containers, it holds the container firmly in place and provides attractive display appearance.</span></p>
+<p><span><strong><span>Manual defrost system</span></strong></span></p>
+<p><span><strong><span>PE coated removable magnetic frost shields</span></strong></span><br><span>Provides fast and easy removal of accumulated frost on inside walls.</span></p>
+<p><span><strong><span>Standard plastic night covers for case opening</span></strong></span></p>
+<p><span><strong><span>Maintains -10°F ~ 8°F for the best in frozen Ice cream preservation</span></strong></span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div>
+<div style="text-align: center;"></div>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>freeship</s:tag>
+    <s:tag>Product type_Ice Cream Dipping Cabinets</s:tag>
+    <s:tag>Vendor_Turbo Air</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/1366103364</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9983.70</s:price>
+      <s:sku>TIDC-91G-N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/1366102660</id>
+    <published>2015-05-02T15:31:00-05:00</published>
+    <updated>2015-05-02T15:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/turbo-air-tidc-26g-green-ice-cream-dipping-cabinet"/>
+    <title>Turbo Air TIDC-26G-N Green Ice Cream Dipping Cabinet</title>
+    <s:type>Ice Cream Dipping Cabinets</s:type>
+    <s:vendor>Turbo Air</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/1_c8705714-12a9-4547-911b-d5e040bde4d3.jpeg?v=1453936544"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Turbo Air<br>
+        <strong>Type: </strong>Ice Cream Dipping Cabinets<br>
+        <strong>Price: </strong>
+            4407.13
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><b>Dimensions:</b> 26" L x 26 1/8" D x 49 1/2" H</span></p>
+<div><span><b>Warranty:</b> 2 Year Parts &amp;  Labor | 5 Year Compressor</span></div>
+<div>
+<div class="padder">
+<div id="product_tabs_description_tabbed_contents">
+<div class="std">
+<p><span><strong><span>Locked-in temperature equal from top to bottom</span></strong></span><br><span>New technology of the Cold Wall System eliminates temperature fluctuations throughout the top and bottom areas of the interior cabinet. No more melting ice cream above while freezing below. Scooping has never been easier.</span></p>
+<p><span><strong><span>Attractive contemporary design with curved glass front and top</span></strong></span><br><span>Sleek new curved front and top glass is attractive and draws attention at once. Deep lowered glass front optimizes product visibility and impulse buying. This merchandiser is perfect for ice cream viewing and dipping.</span></p>
+<p><span><strong><span>LED lighting for interior canopy</span></strong></span><br><span>Brighter and longer lasting LED light bulbs produce less heat, saving energy while maximizing its display effect. Independent on/off light switch equipped.</span></p>
+<p><span><strong><span>Easy grip rack handles</span></strong></span><br><span>PE coated wire container racks have easy grip handles for convenient product removal.</span></p>
+<p><span><strong><span>Efficient refrigeration system</span></strong></span><br><span>Turbo Air's dipping cabinets are designed with oversized and balanced (CFC Free R-134A and R-404A) refrigeration systems. These include efficient evaporators and condensers for faster freezing and greater efficiency.</span></p>
+<p><span><strong><span>Standard plastic can holder for each container rack</span></strong></span><br><span>Each container rack comes standard with an ABS plastic can holder in standard. Attached on top of the ice cream containers, it holds the container firmly in place and provides attractive display appearance.</span></p>
+<p><span><strong><span>Manual defrost system</span></strong></span></p>
+<p><span><strong><span>PE coated removable magnetic frost shields</span></strong></span><br><span>Provides fast and easy removal of accumulated frost on inside walls.</span></p>
+<p><span><strong><span>Standard plastic night covers for case opening</span></strong></span></p>
+<p><span><strong><span>Maintains -10°F ~ 8°F for the best in frozen Ice cream preservation</span></strong></span></p>
+</div>
+</div>
+</div>
+</div>
+<div style="font-size: 10pt;">
+<div class="padder" style="box-sizing: border-box; margin: 0px; padding: 0px; color: #4b4b4b; font-family: 'Open sans'; font-size: 13px; line-height: 20px; background-color: #ffffff;">
+<div id="product_tabs_description_tabbed_contents" style="box-sizing: border-box; margin: 0px; padding: 0px;">
+<div class="std" style="box-sizing: border-box; margin: 0px; padding: 0px;">
+<div><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-size: medium; color: #132dcd;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif;"> </span></strong></span></div>
+</div>
+</div>
+</div>
+</div>
+<div style="font-size: 10pt;">
+<div class="padder" style="box-sizing: border-box; margin: 0px; padding: 0px; color: #4b4b4b; font-family: 'Open sans'; font-size: 13px; line-height: 20px; background-color: #ffffff;">
+<div id="product_tabs_description_tabbed_contents" style="box-sizing: border-box; margin: 0px; padding: 0px;">
+<div class="std" style="box-sizing: border-box; margin: 0px; padding: 0px;"></div>
+</div>
+</div>
+</div>
+<br>
+<div>
+<div style="text-align: center;"></div>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>freeship</s:tag>
+    <s:tag>Product type_Ice Cream Dipping Cabinets</s:tag>
+    <s:tag>Vendor_Turbo Air</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/1366102660</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4407.13</s:price>
+      <s:sku>TIDC-26G-N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/1366101444</id>
+    <published>2015-05-02T15:31:00-05:00</published>
+    <updated>2015-05-02T15:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/turbo-air-tidc-70w-white-ice-cream-dipping-cabinets"/>
+    <title>Turbo Air TIDC-70W-N White Ice Cream Dipping Cabinets</title>
+    <s:type>Ice Cream Dipping Cabinets</s:type>
+    <s:vendor>Turbo Air</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/1_7922e69f-a789-4ef9-b044-c55eae5bf5ea.jpeg?v=1453936552"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Turbo Air<br>
+        <strong>Type: </strong>Ice Cream Dipping Cabinets<br>
+        <strong>Price: </strong>
+            8940.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><b>Dimensions:</b> 68" L x 26 1/8" D x 49 5/8" H</span></p>
+<div>
+<div><span><span><b>Warranty:</b> 2 Year Parts &amp;  Labor | 5 Year Compress</span>or</span></div>
+<div><span></span></div>
+<div>
+<div class="padder">
+<div id="product_tabs_description_tabbed_contents">
+<div class="std">
+<p><span><strong><span>Locked-in temperature equal from top to bottom</span></strong></span><br><span>New technology of the Cold Wall System eliminates temperature fluctuations throughout the top and bottom areas of the interior cabinet. No more melting ice cream above while freezing below. Scooping has never been easier.</span></p>
+<p><span><strong><span>Attractive contemporary design with curved glass front and top</span></strong></span><br><span>Sleek new curved front and top glass is attractive and draws attention at once. Deep lowered glass front optimizes product visibility and impulse buying. This merchandiser is perfect for ice cream viewing and dipping.</span></p>
+<p><span><strong><span>LED lighting for interior canopy</span></strong></span><br><span>Brighter and longer lasting LED light bulbs produce less heat, saving energy while maximizing its display effect. Independent on/off light switch equipped.</span></p>
+<div class="std">
+<span><strong><span>Extra storage space</span></strong></span><br><span>Extra storage space to accommodate additional ice cream tubs underneath the basket. Doors located to the rear allows easy access to the storage area eliminating inconvenient bracket usage in picking up ice cream tubs</span>
+</div>
+<br>
+<p><span><strong><span>Easy grip rack handles</span></strong></span><br><span>PE coated wire container racks have easy grip handles for convenient product removal.</span></p>
+<p><span><strong><span>Efficient refrigeration system</span></strong></span><br><span>Turbo Air's dipping cabinets are designed with oversized and balanced (CFC Free R-134A and R-404A) refrigeration systems. These include efficient evaporators and condensers for faster freezing and greater efficiency.</span></p>
+<p><span><strong><span>Standard plastic can holder for each container rack</span></strong></span><br><span>Each container rack comes standard with an ABS plastic can holder in standard. Attached on top of the ice cream containers, it holds the container firmly in place and provides attractive display appearance.</span></p>
+<p><span><strong><span>Manual defrost system</span></strong></span></p>
+<p><span><strong><span>PE coated removable magnetic frost shields</span></strong></span><br><span>Provides fast and easy removal of accumulated frost on inside walls.</span></p>
+<p><span><strong><span>Standard plastic night covers for case opening</span></strong></span></p>
+<p><span><strong><span>Maintains -10°F ~ 8°F for the best in frozen Ice cream preservation</span></strong></span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div>
+<div style="text-align: center;"></div>
+</div>
+<p><span style="color: #000000;"> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>freeship</s:tag>
+    <s:tag>Product type_Ice Cream Dipping Cabinets</s:tag>
+    <s:tag>Vendor_Turbo Air</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/1366101444</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8940.05</s:price>
+      <s:sku>TIDC-70W-N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/1366100036</id>
+    <published>2015-05-02T15:31:00-05:00</published>
+    <updated>2015-05-02T15:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/turbo-air-tidc-70g-green-ice-cream-dipping-cabinet"/>
+    <title>Turbo Air TIDC-70G-N Green Ice Cream Dipping Cabinet</title>
+    <s:type>Ice Cream Dipping Cabinets</s:type>
+    <s:vendor>Turbo Air</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/1_eb39829f-4283-489a-b690-7e932ee372b2.jpeg?v=1464378693"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Turbo Air<br>
+        <strong>Type: </strong>Ice Cream Dipping Cabinets<br>
+        <strong>Price: </strong>
+            8940.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #000000;"><b>Dimensions:</b> 68" L x 26 1/8" D x 49 5/8" H</span></p>
+<div>
+<div style="font-size: 13.3333330154419px;"><span style="color: #000000;"><span style="font-size: medium;"><b>Warranty:</b> 2 Year Parts &amp;  Labor | 5 Year Compress</span>or</span></div>
+<div style="font-size: 10pt;"></div>
+<div style="font-size: 10pt;">
+<ul class="tabs" style="box-sizing: border-box; margin: 15px 0px; padding: 0px; list-style: none; overflow: hidden; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #496778; zoom: 1; color: #4b4b4b; font-family: 'Open sans'; font-size: 13px; line-height: 20px; background-color: #ffffff;">
+<li id="product_tabs_description_tabbed" class="active first" style="box-sizing: border-box; margin: 0px; padding: 0px; float: left; border-right-width: 1px; border-right-style: solid; border-right-color: #ffffff; border-left-width: 0px; font-size: 0.9em; line-height: 1em; background: #f2f2f2;"><span style="color: #000000;"><a style="box-sizing: border-box; margin: 0px; padding: 6px 10px; color: #000000; display: block; font-weight: bold; background: #496778;">Product Description</a></span></li>
+</ul>
+<div class="padder" style="box-sizing: border-box; margin: 0px; padding: 0px; color: #4b4b4b; font-family: 'Open sans'; font-size: 13px; line-height: 20px; background-color: #ffffff;">
+<div id="product_tabs_description_tabbed_contents" style="box-sizing: border-box; margin: 0px; padding: 0px;">
+<div class="std" style="box-sizing: border-box; margin: 0px; padding: 0px;">
+<p style="box-sizing: border-box; margin: 0px 0px 1em; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-size: medium; color: #000000;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif;">Locked-in temperature equal from top to bottom</span></strong></span><br style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif; color: #000000;">New technology of the Cold Wall System eliminates temperature fluctuations throughout the top and bottom areas of the interior cabinet. No more melting ice cream above while freezing below. Scooping has never been easier.</span></p>
+<br style="box-sizing: border-box; margin: 0px; padding: 0px;">
+<p style="box-sizing: border-box; margin: 0px 0px 1em; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-size: medium; color: #000000;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif;">Attractive contemporary design with curved glass front and top</span></strong></span><br style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif; color: #000000;">Sleek new curved front and top glass is attractive and draws attention at once. Deep lowered glass front optimizes product visibility and impulse buying. This merchandiser is perfect for ice cream viewing and dipping.</span></p>
+<br style="box-sizing: border-box; margin: 0px; padding: 0px;">
+<p style="box-sizing: border-box; margin: 0px 0px 1em; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-size: medium; color: #000000;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif;">LED lighting for interior canopy</span></strong></span><br style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif; color: #000000;">Brighter and longer lasting LED light bulbs produce less heat, saving energy while maximizing its display effect. Independent on/off light switch equipped.</span></p>
+<div class="std" style="box-sizing: border-box; margin: 0px; padding: 0px;">
+<span style="box-sizing: border-box; margin: 0px; padding: 0px; font-size: medium; color: #000000;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif;">Extra storage space</span></strong></span><br style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif; color: #000000;">Extra storage space to accommodate additional ice cream tubs underneath the basket. Doors located to the rear allows easy access to the storage area eliminating inconvenient bracket usage in picking up ice cream tubs</span>
+</div>
+<br style="box-sizing: border-box; margin: 0px; padding: 0px;">
+<p style="box-sizing: border-box; margin: 0px 0px 1em; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-size: medium; color: #000000;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif;">Easy grip rack handles</span></strong></span><br style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif; color: #000000;">PE coated wire container racks have easy grip handles for convenient product removal.</span></p>
+<br style="box-sizing: border-box; margin: 0px; padding: 0px;">
+<p style="box-sizing: border-box; margin: 0px 0px 1em; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-size: medium; color: #000000;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif;">Efficient refrigeration system</span></strong></span><br style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif; color: #000000;">Turbo Air's dipping cabinets are designed with oversized and balanced (CFC Free R-134A and R-404A) refrigeration systems. These include efficient evaporators and condensers for faster freezing and greater efficiency.</span></p>
+<br style="box-sizing: border-box; margin: 0px; padding: 0px;">
+<p style="box-sizing: border-box; margin: 0px 0px 1em; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-size: medium; color: #000000;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif;">Standard plastic can holder for each container rack</span></strong></span><br style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif; color: #000000;">Each container rack comes standard with an ABS plastic can holder in standard. Attached on top of the ice cream containers, it holds the container firmly in place and provides attractive display appearance.</span></p>
+<br style="box-sizing: border-box; margin: 0px; padding: 0px;">
+<p style="box-sizing: border-box; margin: 0px 0px 1em; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-size: medium; color: #000000;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif;">Manual defrost system</span></strong></span></p>
+<br style="box-sizing: border-box; margin: 0px; padding: 0px;">
+<p style="box-sizing: border-box; margin: 0px 0px 1em; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-size: medium; color: #000000;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif;">PE coated removable magnetic frost shields</span></strong></span><br style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif; color: #000000;">Provides fast and easy removal of accumulated frost on inside walls.</span></p>
+<br style="box-sizing: border-box; margin: 0px; padding: 0px;">
+<p style="box-sizing: border-box; margin: 0px 0px 1em; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-size: medium; color: #000000;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif;">Standard plastic night covers for case opening</span></strong></span></p>
+<br style="box-sizing: border-box; margin: 0px; padding: 0px;">
+<p style="box-sizing: border-box; margin: 0px 0px 1em; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-size: medium; color: #000000;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif;">Maintains -10°F ~ 8°F for the best in frozen Ice cream preservation</span></strong></span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div></div>
+<br>
+<div>
+<div style="text-align: center;"></div>
+</div>
+<p><span style="color: #000000;"> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>freeship</s:tag>
+    <s:tag>Product type_Ice Cream Dipping Cabinets</s:tag>
+    <s:tag>Vendor_Turbo Air</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/1366100036</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8940.05</s:price>
+      <s:sku>TIDC-70G-N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/1366098308</id>
+    <published>2015-05-02T15:31:00-05:00</published>
+    <updated>2015-05-02T15:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/turbo-air-tidc-47w-white-ice-cream-dipping-cabinets"/>
+    <title>Turbo Air TIDC-47W-N White Ice Cream Dipping Cabinets</title>
+    <s:type>Ice Cream Dipping Cabinets</s:type>
+    <s:vendor>Turbo Air</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/1_1e41ad1b-81d0-4a96-9d47-01d51ca9ae42.jpeg?v=1464378692"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Turbo Air<br>
+        <strong>Type: </strong>Ice Cream Dipping Cabinets<br>
+        <strong>Price: </strong>
+            6432.08
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="font-size: 10pt;"><span style="color: #000000;"><b>Dimensions:</b> 47" L x 26 1/8" D x 49 5/8" H</span></p>
+<div>
+<div><span style="color: #000000;"><span style="font-size: medium;"><b>Warranty:</b> 2 Year Parts &amp;  Labor | 5 Year Compress</span>or</span></div>
+<div style="font-size: 10pt;"></div>
+<div style="font-size: 10pt;">
+<ul class="tabs" style="box-sizing: border-box; margin: 15px 0px; padding: 0px; list-style: none; overflow: hidden; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #496778; zoom: 1; color: #4b4b4b; font-family: 'Open sans'; font-size: 13px; line-height: 20px; background-color: #ffffff;">
+<li id="product_tabs_description_tabbed" class="active first" style="box-sizing: border-box; margin: 0px; padding: 0px; float: left; border-right-width: 1px; border-right-style: solid; border-right-color: #ffffff; border-left-width: 0px; font-size: 0.9em; line-height: 1em; background: #f2f2f2;"><span style="color: #000000;"><a style="box-sizing: border-box; margin: 0px; padding: 6px 10px; color: #000000; display: block; font-weight: bold; background: #496778;">Product Description</a></span></li>
+</ul>
+<div class="padder" style="box-sizing: border-box; margin: 0px; padding: 0px; color: #4b4b4b; font-family: 'Open sans'; font-size: 13px; line-height: 20px; background-color: #ffffff;">
+<div id="product_tabs_description_tabbed_contents" style="box-sizing: border-box; margin: 0px; padding: 0px;">
+<div class="std" style="box-sizing: border-box; margin: 0px; padding: 0px;">
+<p style="box-sizing: border-box; margin: 0px 0px 1em; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-size: medium; color: #000000;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif;">Locked-in temperature equal from top to bottom</span></strong></span><br style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif; color: #000000;">New technology of the Cold Wall System eliminates temperature fluctuations throughout the top and bottom areas of the interior cabinet. No more melting ice cream above while freezing below. Scooping has never been easier.</span></p>
+<br style="box-sizing: border-box; margin: 0px; padding: 0px;">
+<p style="box-sizing: border-box; margin: 0px 0px 1em; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-size: medium; color: #000000;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif;">Attractive contemporary design with curved glass front and top</span></strong></span><br style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif; color: #000000;">Sleek new curved front and top glass is attractive and draws attention at once. Deep lowered glass front optimizes product visibility and impulse buying. This merchandiser is perfect for ice cream viewing and dipping.</span></p>
+<br style="box-sizing: border-box; margin: 0px; padding: 0px;">
+<p style="box-sizing: border-box; margin: 0px 0px 1em; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-size: medium; color: #000000;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif;">LED lighting for interior canopy</span></strong></span><br style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif; color: #000000;">Brighter and longer lasting LED light bulbs produce less heat, saving energy while maximizing its display effect. Independent on/off light switch equipped.</span></p>
+<div class="std" style="box-sizing: border-box; margin: 0px; padding: 0px;">
+<span style="box-sizing: border-box; margin: 0px; padding: 0px; font-size: medium; color: #000000;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif;">Extra storage space</span></strong></span><br style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif; color: #000000;">Extra storage space to accommodate additional ice cream tubs underneath the basket. Doors located to the rear allows easy access to the storage area eliminating inconvenient bracket usage in picking up ice cream tubs</span>
+</div>
+<br style="box-sizing: border-box; margin: 0px; padding: 0px;">
+<p style="box-sizing: border-box; margin: 0px 0px 1em; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-size: medium; color: #000000;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif;">Easy grip rack handles</span></strong></span><br style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif; color: #000000;">PE coated wire container racks have easy grip handles for convenient product removal.</span></p>
+<br style="box-sizing: border-box; margin: 0px; padding: 0px;">
+<p style="box-sizing: border-box; margin: 0px 0px 1em; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-size: medium; color: #000000;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif;">Efficient refrigeration system</span></strong></span><br style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif; color: #000000;">Turbo Air's dipping cabinets are designed with oversized and balanced (CFC Free R-134A and R-404A) refrigeration systems. These include efficient evaporators and condensers for faster freezing and greater efficiency.</span></p>
+<br style="box-sizing: border-box; margin: 0px; padding: 0px;">
+<p style="box-sizing: border-box; margin: 0px 0px 1em; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-size: medium; color: #000000;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif;">Standard plastic can holder for each container rack</span></strong></span><br style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif; color: #000000;">Each container rack comes standard with an ABS plastic can holder in standard. Attached on top of the ice cream containers, it holds the container firmly in place and provides attractive display appearance.</span></p>
+<br style="box-sizing: border-box; margin: 0px; padding: 0px;">
+<p style="box-sizing: border-box; margin: 0px 0px 1em; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-size: medium; color: #000000;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif;">Manual defrost system</span></strong></span></p>
+<br style="box-sizing: border-box; margin: 0px; padding: 0px;">
+<p style="box-sizing: border-box; margin: 0px 0px 1em; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-size: medium; color: #000000;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif;">PE coated removable magnetic frost shields</span></strong></span><br style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif; color: #000000;">Provides fast and easy removal of accumulated frost on inside walls.</span></p>
+<br style="box-sizing: border-box; margin: 0px; padding: 0px;">
+<p style="box-sizing: border-box; margin: 0px 0px 1em; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-size: medium; color: #000000;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif;">Standard plastic night covers for case opening</span></strong></span></p>
+<br style="box-sizing: border-box; margin: 0px; padding: 0px;">
+<p style="box-sizing: border-box; margin: 0px 0px 1em; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-size: medium; color: #000000;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif;">Maintains -10°F ~ 8°F for the best in frozen Ice cream preservation</span></strong></span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div>
+<div style="font-size: 10pt;">
+<div class="padder" style="box-sizing: border-box; margin: 0px; padding: 0px; color: #4b4b4b; font-family: 'Open sans'; font-size: 13px; line-height: 20px; background-color: #ffffff;">
+<div id="product_tabs_description_tabbed_contents" style="box-sizing: border-box; margin: 0px; padding: 0px;">
+<div class="std" style="box-sizing: border-box; margin: 0px; padding: 0px;"></div>
+</div>
+</div>
+</div>
+</div>
+<div style="font-size: 10pt;"></div>
+<div style="font-size: 10pt;"></div>
+<br>
+<div>
+<div style="text-align: center;"></div>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>freeship</s:tag>
+    <s:tag>Product type_Ice Cream Dipping Cabinets</s:tag>
+    <s:tag>Vendor_Turbo Air</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/1366098308</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6432.08</s:price>
+      <s:sku>TIDC-47W-N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/1366096836</id>
+    <published>2015-05-02T15:31:00-05:00</published>
+    <updated>2015-05-02T15:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/turbo-air-tidc-47g-green-ice-cream-dipping-cabinet"/>
+    <title>Turbo Air TIDC-47G-N Green Ice Cream Dipping Cabinet</title>
+    <s:type>Ice Cream Dipping Cabinets</s:type>
+    <s:vendor>Turbo Air</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/1_7c3a9cb0-b4e3-43d0-a94d-cd60c918d8b5.jpeg?v=1464378691"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Turbo Air<br>
+        <strong>Type: </strong>Ice Cream Dipping Cabinets<br>
+        <strong>Price: </strong>
+            6432.08
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="font-size: 10pt;"><span style="color: #000000;"><b>Dimensions:</b> 47" L x 26 1/8" D x 49 5/8" H</span></p>
+<div>
+<div><span style="color: #000000;"><b style="font-size: medium;">Warranty:</b> 2 Year Parts &amp;  Labor | 5 Year Compressor</span></div>
+<div style="font-size: 10pt;"></div>
+<div style="font-size: 10pt;">
+<ul class="tabs" style="box-sizing: border-box; margin: 15px 0px; padding: 0px; list-style: none; overflow: hidden; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #496778; zoom: 1; color: #4b4b4b; font-family: 'Open sans'; font-size: 13px; line-height: 20px; background-color: #ffffff;">
+<li id="product_tabs_description_tabbed" class="active first" style="box-sizing: border-box; margin: 0px; padding: 0px; float: left; border-right-width: 1px; border-right-style: solid; border-right-color: #ffffff; border-left-width: 0px; font-size: 0.9em; line-height: 1em; background: #f2f2f2;"><span style="color: #000000;"><a style="box-sizing: border-box; margin: 0px; padding: 6px 10px; color: #000000; display: block; font-weight: bold; background: #496778;">Product Description</a></span></li>
+</ul>
+<div class="padder" style="box-sizing: border-box; margin: 0px; padding: 0px; color: #4b4b4b; font-family: 'Open sans'; font-size: 13px; line-height: 20px; background-color: #ffffff;">
+<div id="product_tabs_description_tabbed_contents" style="box-sizing: border-box; margin: 0px; padding: 0px;">
+<div class="std" style="box-sizing: border-box; margin: 0px; padding: 0px;">
+<p style="box-sizing: border-box; margin: 0px 0px 1em; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-size: medium; color: #000000;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif;">Locked-in temperature equal from top to bottom</span></strong></span><br style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif; color: #000000;">New technology of the Cold Wall System eliminates temperature fluctuations throughout the top and bottom areas of the interior cabinet. No more melting ice cream above while freezing below. Scooping has never been easier.</span></p>
+<br style="box-sizing: border-box; margin: 0px; padding: 0px;">
+<p style="box-sizing: border-box; margin: 0px 0px 1em; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-size: medium; color: #000000;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif;">Attractive contemporary design with curved glass front and top</span></strong></span><br style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif; color: #000000;">Sleek new curved front and top glass is attractive and draws attention at once. Deep lowered glass front optimizes product visibility and impulse buying. This merchandiser is perfect for ice cream viewing and dipping.</span></p>
+<br style="box-sizing: border-box; margin: 0px; padding: 0px;">
+<p style="box-sizing: border-box; margin: 0px 0px 1em; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-size: medium; color: #000000;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif;">LED lighting for interior canopy</span></strong></span><br style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif; color: #000000;">Brighter and longer lasting LED light bulbs produce less heat, saving energy while maximizing its display effect. Independent on/off light switch equipped.</span></p>
+<div class="std" style="box-sizing: border-box; margin: 0px; padding: 0px;">
+<span style="box-sizing: border-box; margin: 0px; padding: 0px; font-size: medium; color: #000000;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif;">Extra storage space</span></strong></span><br style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif; color: #000000;">Extra storage space to accommodate additional ice cream tubs underneath the basket. Doors located to the rear allows easy access to the storage area eliminating inconvenient bracket usage in picking up ice cream tubs</span>
+</div>
+<br style="box-sizing: border-box; margin: 0px; padding: 0px;">
+<p style="box-sizing: border-box; margin: 0px 0px 1em; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-size: medium; color: #000000;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif;">Easy grip rack handles</span></strong></span><br style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif; color: #000000;">PE coated wire container racks have easy grip handles for convenient product removal.</span></p>
+<br style="box-sizing: border-box; margin: 0px; padding: 0px;">
+<p style="box-sizing: border-box; margin: 0px 0px 1em; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-size: medium; color: #000000;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif;">Efficient refrigeration system</span></strong></span><br style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif; color: #000000;">Turbo Air's dipping cabinets are designed with oversized and balanced (CFC Free R-134A and R-404A) refrigeration systems. These include efficient evaporators and condensers for faster freezing and greater efficiency.</span></p>
+<br style="box-sizing: border-box; margin: 0px; padding: 0px;">
+<p style="box-sizing: border-box; margin: 0px 0px 1em; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-size: medium; color: #000000;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif;">Standard plastic can holder for each container rack</span></strong></span><br style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif; color: #000000;">Each container rack comes standard with an ABS plastic can holder in standard. Attached on top of the ice cream containers, it holds the container firmly in place and provides attractive display appearance.</span></p>
+<br style="box-sizing: border-box; margin: 0px; padding: 0px;">
+<p style="box-sizing: border-box; margin: 0px 0px 1em; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-size: medium; color: #000000;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif;">Manual defrost system</span></strong></span></p>
+<br style="box-sizing: border-box; margin: 0px; padding: 0px;">
+<p style="box-sizing: border-box; margin: 0px 0px 1em; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-size: medium; color: #000000;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif;">PE coated removable magnetic frost shields</span></strong></span><br style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif; color: #000000;">Provides fast and easy removal of accumulated frost on inside walls.</span></p>
+<br style="box-sizing: border-box; margin: 0px; padding: 0px;">
+<p style="box-sizing: border-box; margin: 0px 0px 1em; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-size: medium; color: #000000;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif;">Standard plastic night covers for case opening</span></strong></span></p>
+<br style="box-sizing: border-box; margin: 0px; padding: 0px;">
+<p style="box-sizing: border-box; margin: 0px 0px 1em; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-size: medium; color: #000000;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif;">Maintains -10°F ~ 8°F for the best in frozen Ice cream preservation</span></strong></span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div>
+<div style="font-size: 10pt;">
+<div class="padder" style="box-sizing: border-box; margin: 0px; padding: 0px; color: #4b4b4b; font-family: 'Open sans'; font-size: 13px; line-height: 20px; background-color: #ffffff;">
+<div id="product_tabs_description_tabbed_contents" style="box-sizing: border-box; margin: 0px; padding: 0px;">
+<div class="std" style="box-sizing: border-box; margin: 0px; padding: 0px;">
+<div><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-size: medium; color: #132dcd;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif;"> </span></strong></span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div style="font-size: 10pt;"></div>
+<br>
+<div>
+<div style="text-align: center;"></div>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>freeship</s:tag>
+    <s:tag>Product type_Ice Cream Dipping Cabinets</s:tag>
+    <s:tag>Vendor_Turbo Air</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/1366096836</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6432.08</s:price>
+      <s:sku>TIDC-47G-N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.champsrestaurantsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.champsrestaurantsupply.com/collections/equipment-stands.atom"/>
+  <title>Champs Restaurant Supply</title>
+  <updated>2017-05-22T23:44:37-05:00</updated>
+  <author>
+    <name>Champs Restaurant Supply</name>
+  </author>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11473609679</id>
+    <published>2017-05-22T23:44:37-05:00</published>
+    <updated>2017-05-22T23:44:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/30-x-72-all-stainless-steel-equipment-stand-with-1-1-2h-3-sides-upturn"/>
+    <title>30&quot; X 72&quot; All Stainless Steel Equipment Stand With 1-1/2&quot;H 3 Sides Upturn</title>
+    <s:type>Equipment Stands</s:type>
+    <s:vendor>Champs Restaurant Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/32-104-large_97666b20-b7ce-457c-b9a4-ac066941c0c8.jpg?v=1495514678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champs Restaurant Supply<br>
+        <strong>Type: </strong>Equipment Stands<br>
+        <strong>Price: </strong>
+            585.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>30" X 72" All Stainless Steel Equipment Stand With 1-1/2"H 3 Sides Upturn</strong></p>
+<ul>
+<li>Equipment Stand, 72"W x 30"D x 24"H</li>
+<li>18/430 stainless steel top with 1" upturn on sides &amp; rear</li>
+<li>Stainless steel undershelf &amp; legs</li>
+<li>Adjustable plastic bullet feet, ETL﻿</li>
+<li>NFS</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Length_72 Inches</s:tag>
+    <s:tag>Width_30 Inches</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11473609679</id>
+      <title>Default Title</title>
+      <s:price currency="USD">585.00</s:price>
+      <s:sku>ES-P3072</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11473609551</id>
+    <published>2017-05-22T23:44:37-05:00</published>
+    <updated>2017-05-22T23:44:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/30-x-60-all-stainless-steel-equipment-stand-with-1-1-2h-3-sides-upturn"/>
+    <title>30&quot; X 60&quot; All Stainless Steel Equipment Stand With 1-1/2&quot;H 3 Sides Upturn</title>
+    <s:type>Equipment Stands</s:type>
+    <s:vendor>Champs Restaurant Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/60_918ffe6d-5175-4a6a-90b6-5ea77706194b.jpg?v=1495515504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champs Restaurant Supply<br>
+        <strong>Type: </strong>Equipment Stands<br>
+        <strong>Price: </strong>
+            509.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>30" X 60" All Stainless Steel Equipment Stand With 1-1/2"H 3 Sides Upturn</strong></p>
+<ul>
+<li>Equipment Stand, 60"W x 30"D x 24"H</li>
+<li>18/430 stainless steel top with 1" upturn on sides &amp; rear</li>
+<li>Stainless steel undershelf &amp; legs</li>
+<li>Adjustable plastic bullet feet, ETL﻿</li>
+<li>NFS</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Length_60 Inches</s:tag>
+    <s:tag>Width_30 Inches</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11473609551</id>
+      <title>Default Title</title>
+      <s:price currency="USD">509.00</s:price>
+      <s:sku>ES-P3060</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11473609487</id>
+    <published>2017-05-22T23:44:36-05:00</published>
+    <updated>2017-05-22T23:44:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/30-x-48-all-stainless-steel-equipment-stand-with-1-1-2h-3-sides-upturn"/>
+    <title>30&quot; X 48&quot; All Stainless Steel Equipment Stand With 1-1/2&quot;H 3 Sides Upturn</title>
+    <s:type>Equipment Stands</s:type>
+    <s:vendor>Champs Restaurant Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/32-104-large_21f75d90-b1ce-4f5d-aed6-8d8a49546d58.jpg?v=1495514677"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champs Restaurant Supply<br>
+        <strong>Type: </strong>Equipment Stands<br>
+        <strong>Price: </strong>
+            479.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>30" X 48" All Stainless Steel Equipment Stand With 1-1/2"H 3 Sides Upturn</strong></p>
+<ul>
+<li>﻿Equipment Stand, 48"W x 30"D x 24"H</li>
+<li>18/430 stainless steel top with 1" upturn on sides &amp; rear</li>
+<li>Stainless steel undershelf &amp; legs</li>
+<li>Adjustable plastic bullet feet, ETL</li>
+<li>NFS</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Length_48 Inches</s:tag>
+    <s:tag>Width_30 Inches</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11473609487</id>
+      <title>Default Title</title>
+      <s:price currency="USD">479.00</s:price>
+      <s:sku>ES-P3048</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11473609359</id>
+    <published>2017-05-22T23:44:36-05:00</published>
+    <updated>2017-05-22T23:44:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/30-x-36-all-stainless-steel-equipment-stand-with-1-1-2h-3-sides-upturn"/>
+    <title>30&quot; X 36&quot; All Stainless Steel Equipment Stand With 1-1/2&quot;H 3 Sides Upturn</title>
+    <s:type>Equipment Stands</s:type>
+    <s:vendor>Champs Restaurant Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/32-104-large_c12efee4-ca3f-43f0-ac85-ab149069acc8.jpg?v=1495514676"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champs Restaurant Supply<br>
+        <strong>Type: </strong>Equipment Stands<br>
+        <strong>Price: </strong>
+            439.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>30" X 36" All Stainless Steel Equipment Stand With 1-1/2"H 3 Sides Upturn</strong></p>
+<ul>
+<li>Equipment Stand, 36"W x 30"D x 24"H</li>
+<li>18/430 stainless steel top with 1" upturn on sides &amp; rear</li>
+<li>Stainless steel undershelf &amp; legs</li>
+<li>Adjustable plastic bullet feet, ETL﻿</li>
+<li>NFS</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Length_36 Inches</s:tag>
+    <s:tag>Width_30 Inches</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11473609359</id>
+      <title>Default Title</title>
+      <s:price currency="USD">439.00</s:price>
+      <s:sku>ES-P3036</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11473609103</id>
+    <published>2017-05-22T23:44:35-05:00</published>
+    <updated>2017-05-22T23:44:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/30-x-24-all-stainless-steel-equipment-stand-with-1-1-2h-3-sides-upturn"/>
+    <title>30&quot; X 24&quot; All Stainless Steel Equipment Stand With 1-1/2&quot;H 3 Sides Upturn</title>
+    <s:type>Equipment Stands</s:type>
+    <s:vendor>Champs Restaurant Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/32-104-large.jpg?v=1495514676"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champs Restaurant Supply<br>
+        <strong>Type: </strong>Equipment Stands<br>
+        <strong>Price: </strong>
+            305.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>30"D X 24"W All Stainless Steel Equipment Stand With 1-1/2"H 3 Sides Upturn</strong></p>
+<ul>
+<li>Equipment Stand, 24"W x 30"D x 24"H</li>
+<li>18/430 stainless steel top with 1" upturn on sides &amp; rear</li>
+<li>Stainless steel undershelf &amp; legs</li>
+<li>Adjustable plastic bullet feet, ETL﻿</li>
+<li>NFS</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Length_24 Inches</s:tag>
+    <s:tag>Width_30 Inches</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11473609103</id>
+      <title>Default Title</title>
+      <s:price currency="USD">305.00</s:price>
+      <s:sku>ES-P3024</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11473609039</id>
+    <published>2017-05-22T23:44:34-05:00</published>
+    <updated>2017-05-22T23:44:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/30-x-18-all-stainless-steel-equipment-stand-with-1-1-2h-3-sides-upturn"/>
+    <title>30&quot; X 18&quot; All Stainless Steel Equipment Stand With 1-1/2&quot;H 3 Sides Upturn</title>
+    <s:type>Equipment Stands</s:type>
+    <s:vendor>Champs Restaurant Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/Thorinox-DSTAND-3018-GS-Equipment-Stand.jpg?v=1495514675"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champs Restaurant Supply<br>
+        <strong>Type: </strong>Equipment Stands<br>
+        <strong>Price: </strong>
+            249.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>30"D X 18"W All Stainless Steel Equipment Stand With 1-1/2"H 3 Sides Upturn</strong></p>
+<ul>
+<li>﻿Equipment Stand, 18"W x 30"D x 24"H</li>
+<li>18/430 stainless steel top with 1" upturn on sides &amp; rear</li>
+<li>Stainless steel undershelf &amp; legs</li>
+<li>Adjustable plastic bullet feet, ETL</li>
+<li>NFS</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Length_18 Inches</s:tag>
+    <s:tag>Width_30 Inches</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11473609039</id>
+      <title>Default Title</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>ES-P3018</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11473608847</id>
+    <published>2017-05-22T23:44:33-05:00</published>
+    <updated>2017-05-22T23:44:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/30-x-12-all-stainless-steel-equipment-stand-with-1-1-2h-3-sides-upturn"/>
+    <title>30&quot; X 12&quot; All Stainless Steel Equipment Stand With 1-1/2&quot;H 3 Sides Upturn</title>
+    <s:type>Equipment Stands</s:type>
+    <s:vendor>Champs Restaurant Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/Thorinox-DSTAND-3018-GS-Equipment-Stand_grande_5ce93b52-ae3e-497a-a85a-1574e346c892.jpg?v=1499048421"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champs Restaurant Supply<br>
+        <strong>Type: </strong>Equipment Stands<br>
+        <strong>Price: </strong>
+            229.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>30"D X 12"W All Stainless Steel Equipment Stand With 1-1/2"H 3 Sides Upturn</strong></p>
+<ul>
+<li>﻿Equipment Stand, 12"W x 30"D x 24"H</li>
+<li>18/430 stainless steel top with 1" upturn on sides &amp; rear</li>
+<li>stainless steel undershelf &amp; legs</li>
+<li>adjustable plastic bullet feet, ETL</li>
+<li>NFS</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Length_12 Inches</s:tag>
+    <s:tag>Width_30 Inches</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11473608847</id>
+      <title>Default Title</title>
+      <s:price currency="USD">229.00</s:price>
+      <s:sku>ES-P3012</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4084388804</id>
+    <published>2016-01-01T11:57:00-06:00</published>
+    <updated>2016-01-01T11:57:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/gsw-s3012-12-stainless-steel-equipment-stand-with-galvanized-undershelf"/>
+    <title>30&quot; X 12&quot; Stainless Steel Equipment Stand with Galvanized Undershelf</title>
+    <s:type>Equipment Stands</s:type>
+    <s:vendor>Champs Restaurant Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/Thorinox-DSTAND-3018-GS-Equipment-Stand_grande_069a3c88-b1b8-4420-8b50-606bfddb5244.jpg?v=1499048421"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champs Restaurant Supply<br>
+        <strong>Type: </strong>Equipment Stands<br>
+        <strong>Price: </strong>
+            185.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>S3012 12" STAINLESS STEEL EQUIPMENT STAND WITH GALVANIZED UNDERSHELF</strong></p>
+<ul>
+<li>﻿Equipment Stand, 12"W x 30"D x 24"H</li>
+<li>18 gauge stainless steel top with 1" upturn on sides &amp; rear</li>
+<li>galvanized undershelf &amp; legs, adjustable plastic bullet feet, ETL</li>
+<li>NFS</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Length_12 Inches</s:tag>
+    <s:tag>Product type_Equipment Stands</s:tag>
+    <s:tag>Width_30 Inches</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4084388804</id>
+      <title>Default Title</title>
+      <s:price currency="USD">185.00</s:price>
+      <s:sku>ES-S3012</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4080378180</id>
+    <published>2015-12-31T14:25:00-06:00</published>
+    <updated>2015-12-31T14:25:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/copy-of-equipment-stand-es-3019"/>
+    <title>30&quot; X 72&quot; Stainless Steel Equipment Stand with Galvanized Undershelf</title>
+    <s:type>Equipment Stands</s:type>
+    <s:vendor>Champs Restaurant Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/1_53615687-dd7e-42c0-ad55-f407b08a28aa.jpg?v=1469218375"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champs Restaurant Supply<br>
+        <strong>Type: </strong>Equipment Stands<br>
+        <strong>Price: </strong>
+            479.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>30" X 72" Stainless Steel Equipment Stand with Galvanized Undershelf</strong></p>
+<ul>
+<li>Equipment Stand, 72"W x 30"D x 24"H</li>
+<li>18 gauge stainless steel top with 1" upturn on sides &amp; rear</li>
+<li>Galvanized undershelf &amp; legs</li>
+<li>Adjustable plastic bullet feet, ETL﻿</li>
+<li>NFS</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Length_72 Inches</s:tag>
+    <s:tag>Product type_Equipment Stands</s:tag>
+    <s:tag>Width_30 Inches</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4080378180</id>
+      <title>Default Title</title>
+      <s:price currency="USD">479.00</s:price>
+      <s:sku>ES-S3072</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4080375108</id>
+    <published>2015-12-31T14:25:00-06:00</published>
+    <updated>2015-12-31T14:25:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/copy-of-equipment-stand-es-3018"/>
+    <title>30&quot; X 60&quot; Stainless Steel Equipment Stand with Galvanized Undershelf</title>
+    <s:type>Equipment Stands</s:type>
+    <s:vendor>Champs Restaurant Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/60_116d2d72-2465-4476-8997-fbb29daed79a.jpg?v=1495515508"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champs Restaurant Supply<br>
+        <strong>Type: </strong>Equipment Stands<br>
+        <strong>Price: </strong>
+            425.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>30" X 60" Stainless Steel Equipment Stand with Galvanized Undershelf</strong></p>
+<ul>
+<li>﻿Equipment Stand, 60"W x 30"D x 24"H</li>
+<li>18 gauge stainless steel top with 1" upturn on sides &amp; rear</li>
+<li>Galvanized undershelf &amp; legs</li>
+<li>Adjustable plastic bullet feet, ETL</li>
+<li>NFS</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Length_60 Inches</s:tag>
+    <s:tag>Product type_Equipment Stands</s:tag>
+    <s:tag>Width_30 Inches</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4080375108</id>
+      <title>Default Title</title>
+      <s:price currency="USD">425.00</s:price>
+      <s:sku>ES-S3060</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4080373188</id>
+    <published>2015-12-31T14:25:00-06:00</published>
+    <updated>2015-12-31T14:25:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/equipment-stand-es-3018"/>
+    <title>30&quot; X 18&quot; Stainless Steel Equipment Stand with Galvanized Undershelf</title>
+    <s:type>Equipment Stands</s:type>
+    <s:vendor>Champs Restaurant Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/Thorinox-DSTAND-3018-GS-Equipment-Stand_grande_546adf4c-a24d-4760-80a5-888627131d92.jpg?v=1495515451"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champs Restaurant Supply<br>
+        <strong>Type: </strong>Equipment Stands<br>
+        <strong>Price: </strong>
+            209.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>GSW ES-S3018 18" Stainless Steel Equipment Stand with Galvanized Undershelf</strong></p>
+<ul>
+<li>Equipment Stand, 18"W x 30"D x 24"H</li>
+<li>18 gauge stainless steel top with 1" upturn on sides &amp; rear</li>
+<li>Galvanized undershelf &amp; legs</li>
+<li>Adjustable plastic bullet feet, ETL</li>
+<li>NFS</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Length_18 Inches</s:tag>
+    <s:tag>Product type_Equipment Stands</s:tag>
+    <s:tag>Width_30 Inches</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4080373188</id>
+      <title>Default Title</title>
+      <s:price currency="USD">209.00</s:price>
+      <s:sku>ES-S3018</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4080108356</id>
+    <published>2015-12-31T12:16:00-06:00</published>
+    <updated>2015-12-31T12:16:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/equipment-stand-es-s3060-1-upturn-on-3-sides-30w-x-60l-x-24-h"/>
+    <title>30&quot; X 48&quot; Stainless Steel Equipment Stand with Galvanized Undershelf</title>
+    <s:type>Equipment Stands</s:type>
+    <s:vendor>Champs Restaurant Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/1_large_c666cb2e-12c2-4e7d-a606-300c92a291f9.jpg?v=1453935352"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champs Restaurant Supply<br>
+        <strong>Type: </strong>Equipment Stands<br>
+        <strong>Price: </strong>
+            389.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>30" X 48" Stainless Steel Equipment Stand with Galvanized Undershelf</strong></p>
+<ul>
+<li>Equipment Stand, 48"W x 30"D x 24"H</li>
+<li>18 gauge stainless steel top with 1" upturn on sides &amp; rear</li>
+<li>Galvanized undershelf &amp; legs</li>
+<li>Adjustable plastic bullet feet, ETL</li>
+<li>NFS</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Length_48 Inches</s:tag>
+    <s:tag>Product type_Equipment Stands</s:tag>
+    <s:tag>Width_30 Inches</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4080108356</id>
+      <title>Default Title</title>
+      <s:price currency="USD">389.00</s:price>
+      <s:sku>ES-S3048</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4079895748</id>
+    <published>2015-12-31T12:06:00-06:00</published>
+    <updated>2015-12-31T12:06:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/equipment-stand-es-s3012-30w-x-12l-x-24h"/>
+    <title>30&quot; X 36&quot; Stainless Steel Equipment Stand with Galvanized Undershelf</title>
+    <s:type>Equipment Stands</s:type>
+    <s:vendor>Champs Restaurant Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/1_76949286-b079-4221-a003-afad634ae08a.jpg?v=1453935345"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champs Restaurant Supply<br>
+        <strong>Type: </strong>Equipment Stands<br>
+        <strong>Price: </strong>
+            306.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>30" X 36" Stainless Steel Equipment Stand with Galvanized Undershelf</strong></p>
+<ul>
+<li>﻿Equipment Stand, 36"W x 30"D x 24"H</li>
+<li>18 gauge stainless steel top with 1" upturn on sides &amp; rear</li>
+<li>Galvanized undershelf &amp; legs</li>
+<li>Adjustable plastic bullet feet, ETL</li>
+<li>NFS</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Length_36 Inches</s:tag>
+    <s:tag>Product type_Equipment Stands</s:tag>
+    <s:tag>Width_30 Inches</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4079895748</id>
+      <title>Default Title</title>
+      <s:price currency="USD">306.00</s:price>
+      <s:sku>ES-S3036</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4072388612</id>
+    <published>2015-12-30T16:36:00-06:00</published>
+    <updated>2015-12-30T16:36:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/equipment-stand-es-s3072"/>
+    <title>30&quot; X 24&quot; Stainless Steel Equipment Stand with Galvanized Undershelf</title>
+    <s:type>Equipment Stands</s:type>
+    <s:vendor>Champs Restaurant Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/1_188ec913-1449-446f-920d-96985d72d03c.jpg?v=1453935342"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champs Restaurant Supply<br>
+        <strong>Type: </strong>Equipment Stands<br>
+        <strong>Price: </strong>
+            289.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>30" X 24" Stainless Steel Equipment Stand with Galvanized Undershelf</strong></p>
+<ul>
+<li>﻿Equipment Stand, 24"W x 30"D x 24"H</li>
+<li>18 gauge stainless steel top with 1" upturn on sides &amp; rear</li>
+<li>Galvanized undershelf &amp; legs</li>
+<li>Adjustable plastic bullet feet, ETL</li>
+<li>NFS</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Length_24 Inches</s:tag>
+    <s:tag>Product type_Equipment Stands</s:tag>
+    <s:tag>Width_30 Inches</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4072388612</id>
+      <title>Default Title</title>
+      <s:price currency="USD">289.00</s:price>
+      <s:sku>ES-S3024</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+</feed>

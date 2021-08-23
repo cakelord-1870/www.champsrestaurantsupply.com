@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.champsrestaurantsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.champsrestaurantsupply.com/collections/vollrath.atom"/>
+  <title>Champs Restaurant Supply</title>
+  <updated>2016-12-07T11:45:00-06:00</updated>
+  <author>
+    <name>Champs Restaurant Supply</name>
+  </author>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/9654459791</id>
+    <published>2016-12-07T11:45:00-06:00</published>
+    <updated>2016-12-07T11:45:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/vollrath-38004-servewell-electric-4-well-stainless-steel-steam-table"/>
+    <title>Vollrath 38004 ServeWell Electric 4-Well Stainless Steel Steam Table</title>
+    <s:type>Electric Steam Tables</s:type>
+    <s:vendor>Vollrath</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/897846.jpg?v=1481133045"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vollrath<br>
+        <strong>Type: </strong>Electric Steam Tables<br>
+        <strong>Price: </strong>
+            2159.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><strong>Vollrath 38004 ServeWell Electric 4-Well Stainless Steel Steam Table</strong></h3>
+<ul class="staticList">
+<li>Recommended for use with up to 4" H full size or fractional pans</li>
+<li>Watts: 1920 (480 per Well)</li>
+<li>Volts: 120V</li>
+<li>Stainless steel</li>
+<li>Made in USA and NSF Approved</li>
+<li>Material: Stainless steel</li>
+<li>8" Wide cutting board</li>
+<li>Automatic thermostat controls</li>
+<li>Thermostat wells cannot pit or rust</li>
+<li>Dimensions: 61-1/4"L x  32''W x  34''H</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>3-day</s:tag>
+    <s:tag>Vendor_Vollrath</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/9654459791</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2159.00</s:price>
+      <s:sku>38004</s:sku>
+      <s:grams>27216</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/9654429647</id>
+    <published>2016-12-07T11:41:00-06:00</published>
+    <updated>2016-12-07T11:41:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/vollrath-38002-servewell-electric-2-well-stainless-steel-steam-table"/>
+    <title>Vollrath 38002 ServeWell Electric 2-Well Stainless Steel Steam Table</title>
+    <s:type>Electric Steam Tables</s:type>
+    <s:vendor>Vollrath</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/492784_fa34f33d-51d1-415b-a37a-4de848479bfa.jpg?v=1481133160"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vollrath<br>
+        <strong>Type: </strong>Electric Steam Tables<br>
+        <strong>Price: </strong>
+            1399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><strong>Vollrath 38002 ServeWell Electric 2-Well Stainless Steel Steam Table</strong></h3>
+<ul>
+<li>Servewell</li>
+<li>2-Well</li>
+<li>Stainless steel body construction including legs and undershelf</li>
+<li>8" Wide cutting board</li>
+<li>7-1/2" Wide plate shelf</li>
+<li>Equipped with drains</li>
+<li>Shipped knocked down</li>
+<li>Auto thermostatic controls</li>
+<li>Low water indicator</li>
+<li>Standard adapter plates and insets can be used</li>
+<li>Dimensions: 32" W x 32" D x 34" H</li>
+<li>Electrical: 120v/60/1-ph, 480 watts per well, NEMA 5-15P, 10' power cord</li>
+<li>NSF, UL approved</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>3-day</s:tag>
+    <s:tag>Vendor_Vollrath</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/9654429647</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1399.00</s:price>
+      <s:sku>38002</s:sku>
+      <s:grams>27216</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/9654409295</id>
+    <published>2016-12-07T11:36:00-06:00</published>
+    <updated>2016-12-07T11:36:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/vollrath-38003-servewell-electric-3-well-stainless-steel-steam-table"/>
+    <title>Vollrath 38003 ServeWell Electric 3-Well Stainless Steel  Steam Table</title>
+    <s:type>Electric Steam Tables</s:type>
+    <s:vendor>Vollrath</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/thumbnail_468b9afe-9ed7-47c2-a880-bfa6d8705f2d.jpg?v=1481132483"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vollrath<br>
+        <strong>Type: </strong>Electric Steam Tables<br>
+        <strong>Price: </strong>
+            1659.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><strong>Vollrath 38003 ServeWell Electric 3-Well S/S Steam Table </strong></h3>
+<ul class="staticList">
+<li>Watts: 1440 (480 per Well)</li>
+<li>Volts: 120V</li>
+<li>Stainless steel</li>
+<li>Made in USA and NSF Approved</li>
+<li>Material: Stainless steel</li>
+<li>8" Wide cutting board</li>
+<li>Automatic thermostat controls</li>
+<li>Thermostat wells cannot pit or rust</li>
+<li>Recommended for use with up to 4" H full size or fractional pans</li>
+<li>Dimensions: 46-1/2"L X 32" W X 34" H</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>3-day</s:tag>
+    <s:tag>Vendor_Vollrath</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/9654409295</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1659.00</s:price>
+      <s:sku>38003</s:sku>
+      <s:grams>27216</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/6283793668</id>
+    <published>2016-07-19T11:12:00-05:00</published>
+    <updated>2016-07-19T11:12:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/vollrath-47090-10-aqua-nylon-handle-french-whip"/>
+    <title>Vollrath 47090 10&quot; Aqua Nylon Handle French Whip</title>
+    <s:type>Wire Whips and Whisks</s:type>
+    <s:vendor>Vollrath</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/A5D5_1_20141222115749915.jpg?v=1468944893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vollrath<br>
+        <strong>Type: </strong>Wire Whips and Whisks<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Vollrath 47090 10" Aqua Nylon Handle French Whip</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_Vollrath</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/6283793668</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47090</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/6283786756</id>
+    <published>2016-07-19T11:10:00-05:00</published>
+    <updated>2016-07-19T11:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/vollrath-47092-14-aqua-nylon-handle-french-whip"/>
+    <title>Vollrath 47092 14&quot; Aqua Nylon Handle French Whip</title>
+    <s:type>Wire Whips and Whisks</s:type>
+    <s:vendor>Vollrath</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/175-47092_large_70f0587d-2b6c-46f6-9871-0ec25235991e.jpg?v=1468944990"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vollrath<br>
+        <strong>Type: </strong>Wire Whips and Whisks<br>
+        <strong>Price: </strong>
+            12.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Vollrath 47092 14" Aqua Nylon Handle French Whip</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_Vollrath</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/6283786756</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.69</s:price>
+      <s:sku>47092</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/6283780036</id>
+    <published>2016-07-19T11:08:00-05:00</published>
+    <updated>2016-07-19T11:08:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/vollrath-47094-18-nylon-handle-french-whip"/>
+    <title>Vollrath 47094 18&quot; Nylon Handle French Whip</title>
+    <s:type>Wire Whips and Whisks</s:type>
+    <s:vendor>Vollrath</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/thumbnail_a449e336-e342-4581-bca6-da29a05ce672.jpg?v=1468945027"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vollrath<br>
+        <strong>Type: </strong>Wire Whips and Whisks<br>
+        <strong>Price: </strong>
+            15.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p id="partNameId">Vollrath 47094 18" Nylon Handle French Whip</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_Vollrath</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/6283780036</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.69</s:price>
+      <s:sku>47094</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/6283769796</id>
+    <published>2016-07-19T11:04:00-05:00</published>
+    <updated>2016-07-19T11:04:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/vollrath-47097-24-french-whip-with-aqua-nylon-handle"/>
+    <title>Vollrath 47097 24&quot; French Whip with Aqua Nylon Handle</title>
+    <s:type>Wire Whips and Whisks</s:type>
+    <s:vendor>Vollrath</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/175-47097_large_676f05af-b19e-48ee-a8e0-c724c9e1c538.jpg?v=1468945011"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vollrath<br>
+        <strong>Type: </strong>Wire Whips and Whisks<br>
+        <strong>Price: </strong>
+            20.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p itemprop="name">Vollrath 47097 24" French Whip with Aqua Nylon Handle</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_Vollrath</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/6283769796</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.69</s:price>
+      <s:sku>47097</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/6283752324</id>
+    <published>2016-07-19T10:59:00-05:00</published>
+    <updated>2016-07-19T10:59:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/vollrath-47095-20-aqua-nylon-handle-french-whip"/>
+    <title>Vollrath 47095 20&quot; Aqua Nylon Handle French Whip</title>
+    <s:type>Wire Whips and Whisks</s:type>
+    <s:vendor>Vollrath</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/175-47095_large_d1d1b720-ffca-4497-b4b2-1fa336034c04.jpg?v=1468944253"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vollrath<br>
+        <strong>Type: </strong>Wire Whips and Whisks<br>
+        <strong>Price: </strong>
+            17.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Vollrath 47095 20" Aqua Nylon Handle French Whip</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_Vollrath</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/6283752324</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.69</s:price>
+      <s:sku>47095</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/6283735684</id>
+    <published>2016-07-19T10:56:00-05:00</published>
+    <updated>2016-07-19T10:56:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/vollrath-47002-10-nylon-handle-piano-whip"/>
+    <title>Vollrath 47002 10&quot; Nylon Handle Piano Whip</title>
+    <s:type>Wire Whips and Whisks</s:type>
+    <s:vendor>Vollrath</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/175-47002_large_1b2eb1b7-b02f-46f1-847d-e37cedab719b.jpg?v=1468943950"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vollrath<br>
+        <strong>Type: </strong>Wire Whips and Whisks<br>
+        <strong>Price: </strong>
+            9.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Vollrath 47002 10" Nylon Handle Piano Whip</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_Vollrath</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/6283735684</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.69</s:price>
+      <s:sku>47002</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/6283723716</id>
+    <published>2016-07-19T10:53:00-05:00</published>
+    <updated>2016-07-19T10:53:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/vollrath-47006-18-piano-whip-purple"/>
+    <title>Vollrath  47006  18&quot; Piano Whip - Purple</title>
+    <s:type>Wire Whips and Whisks</s:type>
+    <s:vendor>Vollrath</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/sm_93.jpg?v=1468943771"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vollrath<br>
+        <strong>Type: </strong>Wire Whips and Whisks<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Vollrath 47006  18" Piano Whip - Purple</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_Vollrath</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/6283723716</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>47006</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/6283710212</id>
+    <published>2016-07-19T10:45:00-05:00</published>
+    <updated>2016-07-19T10:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/vollrath-47004-14-nylon-handle-piano-whip"/>
+    <title>Vollrath 47004 14&quot; Nylon Handle Piano Whip</title>
+    <s:type>Wire Whips and Whisks</s:type>
+    <s:vendor>Vollrath</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/sm_91.jpg?v=1468943536"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vollrath<br>
+        <strong>Type: </strong>Wire Whips and Whisks<br>
+        <strong>Price: </strong>
+            11.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Vollrath 47004 14" Nylon Handle Piano Whip</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_Vollrath</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/6283710212</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.69</s:price>
+      <s:sku>47004</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+</feed>

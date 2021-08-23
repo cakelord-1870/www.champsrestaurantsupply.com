@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.champsrestaurantsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.champsrestaurantsupply.com/collections/mop-sink-faucet.atom"/>
+  <title>Champs Restaurant Supply</title>
+  <updated>2017-06-06T15:41:47-05:00</updated>
+  <author>
+    <name>Champs Restaurant Supply</name>
+  </author>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11569622351</id>
+    <published>2017-06-06T15:41:47-05:00</published>
+    <updated>2017-06-06T15:41:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/krowne-16-127-royal-series-service-faucet-with-long-spout"/>
+    <title>Krowne 16-127 Royal Series Service Faucet with Long Spout</title>
+    <s:type>Mop Sink Faucet</s:type>
+    <s:vendor>KROWNE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/16-127_krowne-1.jpg?v=1496781807"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KROWNE<br>
+        <strong>Type: </strong>Mop Sink Faucet<br>
+        <strong>Price: </strong>
+            133.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Krowne 16-127 Royal Series Service Faucet with Long Spout</strong></p>
+<ul>
+<li>6-1/2" heavy cast spout with pail hook and hose thread</li>
+<li>8" Center</li>
+<li>Wall mount</li>
+<li>Bracket for spout support included</li>
+<li>Rough brass finish</li>
+<li>Built-in vacuum breaker</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11569622351</id>
+      <title>Default Title</title>
+      <s:price currency="USD">133.00</s:price>
+      <s:sku>16-127</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+</feed>

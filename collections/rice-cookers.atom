@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.champsrestaurantsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.champsrestaurantsupply.com/collections/rice-cookers.atom"/>
+  <title>Champs Restaurant Supply</title>
+  <updated>2017-06-16T10:45:00-05:00</updated>
+  <author>
+    <name>Champs Restaurant Supply</name>
+  </author>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11614973903</id>
+    <published>2017-06-16T10:45:00-05:00</published>
+    <updated>2017-06-16T10:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/ricemaster-55-cup-uncooked-capacity-electronic-rice-cooker-steamer"/>
+    <title>RiceMaster 55 cup uncooked capacity Electronic Rice Cooker/Steamer</title>
+    <s:type>Rice Cookers</s:type>
+    <s:vendor>Town Food Service</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/501027.jpg?v=1497628066"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Town Food Service<br>
+        <strong>Type: </strong>Rice Cookers<br>
+        <strong>Price: </strong>
+            389.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>RiceMaster 55 cup uncooked capacity Electronic Rice Cooker/Steamer</strong>
+<ul>
+<li>RiceMaster Rice Cooker/Steamer</li>
+<li>Electronic</li>
+<li>55 cup uncooked capacity</li>
+<li>One touch, auto cook/hold</li>
+<li>Cooks in 46 minutes</li>
+<li>230v/50/60/1-ph, 15 amps, 3330 watts</li>
+<li>ETL, NSF</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Power Type_Electric</s:tag>
+    <s:tag>Vendor_Town Food</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11614973903</id>
+      <title>Default Title</title>
+      <s:price currency="USD">389.00</s:price>
+      <s:sku>TOWN 57155</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11614827407</id>
+    <published>2017-06-16T09:45:23-05:00</published>
+    <updated>2017-06-16T09:45:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/ricemaster-37-cup-uncooked-capacity-electronic-rice-cooker-steamer"/>
+    <title>RiceMaster 37 cup uncooked capacity Electronic  Rice Cooker/Steamer</title>
+    <s:type>Rice Cookers</s:type>
+    <s:vendor>Town Food Service</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/501027_5c4d6d48-6ae7-4388-88d4-9a33a2aad4f4.jpg?v=1497627885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Town Food Service<br>
+        <strong>Type: </strong>Rice Cookers<br>
+        <strong>Price: </strong>
+            319.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>RiceMaster 37 cup uncooked capacity Electronic Rice Cooker/Steamer</strong>
+<ul>
+<li>RiceMaster Rice Cooker/Steamer</li>
+<li>Electronic</li>
+<li>37 cup uncooked capacity</li>
+<li>One touch</li>
+<li>Auto cook/hold</li>
+<li>Cooks in 43 minutes</li>
+<li>120v/60/1-ph, 18 amps, 2160 watts</li>
+<li>ETL, NSF</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Power Type_Electric</s:tag>
+    <s:tag>Vendor_Town Food</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11614827407</id>
+      <title>Default Title</title>
+      <s:price currency="USD">319.00</s:price>
+      <s:sku>Town 257137</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4490264004</id>
+    <published>2016-02-29T00:03:00-06:00</published>
+    <updated>2016-02-29T00:03:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/thunder-group-sej3201-30-cup-countertop-electric-rice-cooker"/>
+    <title>Thunder Group SEJ3201 30 Cup Countertop Electric Rice Cooker</title>
+    <s:type>Rice Cookers</s:type>
+    <s:vendor>Thunder Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/THUN-SEJ3201-2T.jpeg?v=1457026445"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Thunder Group<br>
+        <strong>Type: </strong>Rice Cookers<br>
+        <strong>Price: </strong>
+            238.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Thunder Group SEJ3201 30 Cup Countertop Electric Rice Cooker</strong></p>
+<ul>
+<li>Electric rice Cooker/Warmer</li>
+<li>30 cup capacity</li>
+<li>Digital control pad</li>
+<li>Hinged lid</li>
+<li>Includes rice spoon</li>
+<li>Measuring cup and non-stick silicone pad</li>
+<li>Stainless steel</li>
+<li>NSF</li>
+<li>cETLus</li>
+<li>110-120v/60/1-ph</li>
+<li>1460 watt</li>
+</ul>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Power Type_Electric</s:tag>
+    <s:tag>Product type_Rice Cookers</s:tag>
+    <s:tag>Vendor_Thunder Group</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4490264004</id>
+      <title>Default Title</title>
+      <s:price currency="USD">238.99</s:price>
+      <s:sku>SEJ3201</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/3947388548</id>
+    <published>2015-12-11T15:46:00-06:00</published>
+    <updated>2015-12-11T15:46:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/rinnai-propane-gas-rice-cooker-55-cups-rer-55asl-nsf"/>
+    <title>Rinnai Propane Gas Rice Cooker 55 Cups RER-55ASL NSF</title>
+    <s:type>Rice Cookers</s:type>
+    <s:vendor>Rinnai</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/41B39SOiT8L_1_1024x1024_37525ecf-c7f1-4719-bba4-1f6d39caf370.jpg?v=1495078038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rinnai<br>
+        <strong>Type: </strong>Rice Cookers<br>
+        <strong>Price: </strong>
+            449.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span face="Arial" style="font-family: Arial;">Rinnai 50 cup Rice Cooker (RER55ASL) is great for restaurant use because it can cook up to 50 cups or 100 bowls of rice in 22 minutes, and keeps it warm for hours. The preparation of rice has traditionally been a cooking process which requires time-consuming attention to ensure the rice is cooked properly. This automatic rice cooker will simplify the process by automatically controlling the heat and timing, while freeing up a heating element on the range. Simply add the correct amount of rice and water to this cooker, turn it on, and walk away! This gas rice cooker has a piezo pilot ignition and runs on propane gas.</span></div>
+<div><span face="Arial" style="font-family: Arial;"> </span></div>
+<div><span face="Arial" style="font-family: Arial;">Prepare large or small quantities of rice to perfection, with Rinnai gas-fired rice cookers. These safe, dependable, commercial-quality cookers simmer rice to maturity in less time than electric cookers, while also saving energy and money. Cook from 25 to 55 cups of rice using either natural gas or propane. The automatic two-stage burner and automatic simmer function complement the accurate, dependable thermostat, so rice comes out perfect and fluffy every time.</span></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>Power Type_Gas</s:tag>
+    <s:tag>Product type_Rice Cookers</s:tag>
+    <s:tag>Vendor_Thunder Group</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/3947388548</id>
+      <title>Default Title</title>
+      <s:price currency="USD">449.99</s:price>
+      <s:sku>RER-55ASL</s:sku>
+      <s:grams>11340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/3947375812</id>
+    <published>2015-12-11T15:37:00-06:00</published>
+    <updated>2015-12-11T15:37:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/rinnai-55-cups-natural-gas-rice-cooker-rer-55asn"/>
+    <title>Rinnai 55 Cups Natural Gas Rice Cooker RER-55ASN</title>
+    <s:type>Rice Cookers</s:type>
+    <s:vendor>Rinnai</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/41B39SOiT8L_1.jpg?v=1453935524"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rinnai<br>
+        <strong>Type: </strong>Rice Cookers<br>
+        <strong>Price: </strong>
+            449.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><span>Rinnai 50 cup Rice Cooker (RER55AS) is great for restaurant use because it can cook up to 50 cups or 100 bowls of rice in 22 minutes, and keeps it warm for hours. The preparation of rice has traditionally been a cooking process which requires time-consuming attention to ensure the rice is cooked properly. This automatic rice cooker will simplify the process by automatically controlling the heat and timing, while freeing up a heating element on the range. Simply add the correct amount of rice and water to this cooker, turn it on, and walk away! This gas rice cooker has a piezo pilot ignition and runs on natural gas.</span></div>
+<div>
+<div><span color="#00429a" face="Arial" style="color: #00429a; font-family: Arial;"><span> </span></span></div>
+<div><span>Prepare large or small quantities of rice to perfection, with Rinnai gas-fired rice cookers. These safe, dependable, commercial-quality cookers simmer rice to maturity in less time than electric cookers, while also saving energy and money. The automatic two-stage burner and automatic simmer function complement the accurate, dependable thermostat, so rice comes out perfect and fluffy every time.</span></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>Power Type_Gas</s:tag>
+    <s:tag>Product type_Rice Cookers</s:tag>
+    <s:tag>Vendor_Thunder Group</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/3947375812</id>
+      <title>Default Title</title>
+      <s:price currency="USD">449.99</s:price>
+      <s:sku>RER-55ASN</s:sku>
+      <s:grams>11340</s:grams>
+    </s:variant>
+  </entry>
+</feed>

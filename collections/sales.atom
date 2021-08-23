@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.champsrestaurantsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.champsrestaurantsupply.com/collections/sales.atom"/>
+  <title>Champs Restaurant Supply</title>
+  <updated>2016-01-13T22:43:00-06:00</updated>
+  <author>
+    <name>Champs Restaurant Supply</name>
+  </author>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4173452804</id>
+    <published>2016-01-13T22:43:00-06:00</published>
+    <updated>2016-01-13T22:43:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/radiance-tar-4-24-4-burner-range-with-standard-oven"/>
+    <title>Radiance TAR-4 24&quot; 4 Burner Range with Standard Oven</title>
+    <s:type>Commercial Ranges</s:type>
+    <s:vendor>Radiance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/083-tar4lp_large_d1e85370-1ce3-4424-910d-4af46f239c0e.jpeg?v=1453935497"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Radiance<br>
+        <strong>Type: </strong>Commercial Ranges<br>
+        <strong>Price: </strong>
+            1709.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4 class="detail-label">Radiance TAR-4 24" 4 Burner Range with Standard Oven</h4>
+<div>
+<ul>
+<li><span style="line-height: 1.5;">Radiance Heavy Duty Restaurant Range</span></li>
+<li><span style="line-height: 1.5;">56-1/2" (H) x 24" (W) x 32" (D) overall dimensions</span></li>
+<li><span style="line-height: 1.5;">20-1/8" (L) x 26-1/4" (D) x 13-5/8" (H) oven dimensions (standard depth)</span></li>
+<li><span style="line-height: 1.5;">250° to 550°F temperature range</span></li>
+<li><span style="line-height: 1.5;">Heavy gauge welded frame construction</span></li>
+<li><span style="line-height: 1.5;">Stainless steel front, sides, back riser and lift off shelf</span></li>
+<li><span style="line-height: 1.5;">Individual pilot for each lift off top open burner</span></li>
+<li><span style="line-height: 1.5;">(4) open burners</span></li>
+<li><span style="line-height: 1.5;">12" x 12" heavy duty cast iron grates</span></li>
+<li><span style="line-height: 1.5;">6" stainless steel legs</span></li>
+<li><span style="line-height: 1.5;">163,000 total BTU’s</span></li>
+<li><span style="line-height: 1.5;">Full size pull out crumb tray</span></li>
+<li><span style="line-height: 1.5;">Stainless steel oven interior</span></li>
+<li><span style="line-height: 1.5;">(1) oven rack included</span></li>
+<li><span style="line-height: 1.5;">Push button ignition for standing pilot</span></li>
+<li><span style="line-height: 1.5;">3/4" gas connection</span></li>
+<li><span style="line-height: 1.5;"><span>Natural Gas with LP convertible kit</span></span></li>
+<li><span style="line-height: 1.5;">CSA certified</span></li>
+<li><span style="line-height: 1.5;"><span>1 Year limited parts and labor</span></span></li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>Number of Burners_4</s:tag>
+    <s:tag>Power Type_Gas</s:tag>
+    <s:tag>Product type_Commercial Ranges</s:tag>
+    <s:tag>sales</s:tag>
+    <s:tag>Vendor_Turbo Air</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4173452804</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1709.00</s:price>
+      <s:sku>TAR-4</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/3999589892</id>
+    <published>2015-12-19T11:41:00-06:00</published>
+    <updated>2015-12-19T11:41:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/hs-1416dg-hand-sink-w-deck-mount-with-no-lead-faucet-strainer-14-1-2-w-16-1-2h-1"/>
+    <title>Stainless Steel Wall Mount Hand Sink with 4&quot; Faucet</title>
+    <s:type>Hand Sinks</s:type>
+    <s:vendor>Champs Restaurant Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/a1_grande_7e91dc05-e4a2-4b8d-9149-3c6941ffbc2b.jpg?v=1495082322"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champs Restaurant Supply<br>
+        <strong>Type: </strong>Hand Sinks<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This 16" economy hand sink with 4" splash mounted gooseneck faucet provides an affordable priced hand washing station for any commercial kitchen. It features a single deep drawn 10" x 14" x 5" sink bowl. A 1-1/2" stainless steel basket drain with strainer plate and faucet is included with the sink.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sales</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/3999589892</id>
+      <title>Default Title</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>WHS-01</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/3993511364</id>
+    <published>2015-12-18T10:20:00-06:00</published>
+    <updated>2015-12-18T10:20:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/winco-fw-s500-electric-food-warmer-1200w"/>
+    <title>Winco FW-S500 Electric Food Warmer - 1200W</title>
+    <s:type>Countertop Food Warmers</s:type>
+    <s:vendor>Winco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/81M7KHySXUL._SX450__1_grande_5d10553a-1800-43b2-a0bb-f06d9e9ea7f4.jpg?v=1497367864"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Winco<br>
+        <strong>Type: </strong>Countertop Food Warmers<br>
+        <strong>Price: </strong>
+            99.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Winco FW-S500 Electric Food Warmer - 1200W</strong>
+<ul>
+<li>Electric Food Warmer is an energy efficient way to keep your food warm and ready to plate</li>
+<li>It's specially designed internal heating elements</li>
+<li>this countertop warmer holds your prepared foods at foodsafe temperatures for hours</li>
+<li>It also has a heavy duty water well made of durable 20 gauge</li>
+<li>18/8 stainless steel to stand up to the daily demands of your business</li>
+<li>Winco FW-S500 Electric Food Warmer has a holding capacity of 6 gallon and will hold up to 1 full size steam table pan</li>
+<li> NSF certified and ETF listed</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>3-day</s:tag>
+    <s:tag>Product type_Countertop Food Warmers</s:tag>
+    <s:tag>sales</s:tag>
+    <s:tag>Vendor_Winco</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/3993511364</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku>FW-S500</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/3988142276</id>
+    <published>2015-12-17T16:30:00-06:00</published>
+    <updated>2015-12-17T16:30:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/winco-ehl-2-bulb-professional-free-standing-heat-lamp-twin"/>
+    <title>Winco EHL-2 Twin Bulb Standing Heat Lamp</title>
+    <s:type>Countertop Food Warmers</s:type>
+    <s:vendor>Winco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/41TF3zAI08L._SY300__1.jpg?v=1453936938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Winco<br>
+        <strong>Type: </strong>Countertop Food Warmers<br>
+        <strong>Price: </strong>
+            84.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Winco EHL-2 Twin Bulb Standing Heat Lamp</strong>
+<ul>
+<li>Heat Lamp, free standing</li>
+<li>Heavy duty 14 gauge anodized aluminum frame</li>
+<li>Aluminum hood</li>
+<li>4 adjustable heights</li>
+<li>Includes (2) clear infrared 250W bulbs</li>
+<li>120V/60/1-ph, 6 ft. power cord, ETL listed</li>
+<li>19-1/2"L x 14-1/4"W x 23-1/2"H</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-day</s:tag>
+    <s:tag>Product type_Countertop Food Warmers</s:tag>
+    <s:tag>sales</s:tag>
+    <s:tag>Vendor_Winco</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/3988142276</id>
+      <title>Default Title</title>
+      <s:price currency="USD">84.99</s:price>
+      <s:sku>EHL-2</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/3986568388</id>
+    <published>2015-12-17T11:09:00-06:00</published>
+    <updated>2015-12-17T11:09:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-1-compartment-sink-18x18-no-drainboard"/>
+    <title>BK Resources One Compartment Sink with No Drainboard - 18&quot; x 18&quot; Compartment</title>
+    <s:type>One Compartment Sinks</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/1_3d88d23d-d21c-4b7e-a500-4c07c890f9f3.jpg?v=1459135194"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>One Compartment Sinks<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>BK Resources One Compartment Sink with No Drainboard - 18" x 18" Compartment</strong></p>
+<ul>
+<li>Dimensions <span> 23"W x 23-13/16"D x 43-3/4"H</span>
+</li>
+<li>18 Ga T-304 stainless steel constructed</li>
+<li>No drainboard </li>
+<li>Accommodates 8'' on center Faucets  </li>
+<li>18" x 18" x 12" deep compartment</li>
+<li>9"H backsplash</li>
+<li>8" O.C. splash mount faucet holes</li>
+<li>1-1/2" rolled edges on front &amp; sides</li>
+<li> Includes basket drain (BKDR-4)</li>
+<li>Galvanized steel legs</li>
+<li>Adjustable high impact corrosion resistant feet</li>
+<li>NSF</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-day</s:tag>
+    <s:tag>Product type_One Compartment Sinks</s:tag>
+    <s:tag>sales</s:tag>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/3986568388</id>
+      <title>Default Title</title>
+      <s:price currency="USD">299.00</s:price>
+      <s:sku>1S1818N</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/3980702404</id>
+    <published>2015-12-16T15:41:00-06:00</published>
+    <updated>2015-12-16T15:41:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-3-compartment-sink-18x18"/>
+    <title>BK Resources Three Compartment Sink with Two Drainboard - 18&quot; x 18&quot; Compartment</title>
+    <s:type>Three Compartment Sinks</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/md_n95391_1.jpg?v=1453934946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Three Compartment Sinks<br>
+        <strong>Price: </strong>
+            899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>BK Resources Three Compartment Sink with Two Drainboard - 18" x 18" Compartment</strong></p>
+<ul>
+<li>Dimensions : 90<span>''W x 25-13/16''D x 43-3/4"H</span>
+</li>
+<li>18 Ga T-304 stainless steel constructed</li>
+<li>12'' Deep compartment </li>
+<li>18'' Drainboard left &amp; Right </li>
+<li>9'' Backsplash </li>
+<li>Accommodates 8'' on center Faucets</li>
+<li>8" O.C. splash mount faucet holes</li>
+<li>1-1/2" rolled front &amp; side edges</li>
+<li>Includes drain basket</li>
+<li>Galvanized steel legs</li>
+<li>Adjustable high impact corrosion resistant feet</li>
+<li>NSF</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-day</s:tag>
+    <s:tag>Drainboard_Two Drainboard</s:tag>
+    <s:tag>Product type_Three Compartment Sinks</s:tag>
+    <s:tag>sales</s:tag>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/3980702404</id>
+      <title>Default Title</title>
+      <s:price currency="USD">899.00</s:price>
+      <s:sku>3S1818D2</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/3972625284</id>
+    <published>2015-12-15T11:54:00-06:00</published>
+    <updated>2015-12-15T11:54:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/pitco-35c-35-40-lb-fryer"/>
+    <title>PITCO 35C+S 35 LB Commercial Natural Gas Fryer 90,000 BTU</title>
+    <s:type>Fryers</s:type>
+    <s:vendor>Pitco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/PIT-35CS-2_1.jpg?v=1494280305"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pitco<br>
+        <strong>Type: </strong>Fryers<br>
+        <strong>Price: </strong>
+            775.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>PITCO 35C+S 35 LB Commercial Natural Gas Fryer 90,000 BTU</strong>
+<ul>
+<li>Stainless steel front and door construction</li>
+<li>Sides and back are galvanized</li>
+<li>Comes with two wire mesh baskets and one nickel plated tube rack</li>
+<li>Legs are 6" and easily adjustable to fit any need</li>
+<li>Controlled thermostat will automatically maintain selected temperature</li>
+<li>Safety features include gas control valve and temperature safety switch</li>
+<li>Stainless steel heat baffles and construction ensure a long life in your kitchen</li>
+<li><span>Dimensions: 47.28"H x 15.13"W x 30.28"D</span></li>
+<li><span>Fry Area (WxD): 14.00" x 14.00"</span></li>
+<li><span>Temperature: 200°F - 400°F</span></li>
+<li><span>Total BTU: 90,000</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>Product type_Fryers</s:tag>
+    <s:tag>sales</s:tag>
+    <s:tag>Vendor_Pitco</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/3972625284</id>
+      <title>Default Title</title>
+      <s:price currency="USD">775.00</s:price>
+      <s:sku>35C+S</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4204546308</id>
+    <published>2015-12-12T15:10:00-06:00</published>
+    <updated>2015-12-12T15:10:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/atosa-atfs-75-75-lb-stainless-steel-natural-gas-deep-fryer"/>
+    <title>Atosa ATFS-75 75 LB Stainless Steel Gas Deep Fryer</title>
+    <s:type>Fryers</s:type>
+    <s:vendor>Atosa Refrigeration</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/1_4d144737-3a21-4274-af81-9155b8d3f98b.jpg?v=1453934709"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Atosa Refrigeration<br>
+        <strong>Type: </strong>Fryers<br>
+        <strong>Price: </strong>
+            1511.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span><strong>Dimension</strong>: 21-1/4" Wide x 30" Deep x 44-1/2" Height</span></div>
+<div><span><strong>Burner Style</strong>: Tube Burners</span></div>
+<div><span><strong>Construction</strong>: Stainless Steel</span></div>
+<div><span><strong>Capacity</strong>: 75 Lb </span></div>
+<div><span><strong># of Fry Baskets</strong>: 2 Baskets (included)</span></div>
+<div><span><strong>Temperature Range</strong>: 200 -400 F Degrees </span></div>
+<div><span><strong>Total BTU</strong>: 34,000 Per Burner/ 170,000 Total </span></div>
+<div><span><strong>Warranty</strong>: 1 Year Parts and Labor and Prorated 5 Years Fryer Pot Warranty</span></div>
+<div><span></span></div>
+</div>
+<div><span></span></div>
+<p> </p>
+<div><span>Atosa heavy duty 75 LB deep fryer has all stainless steel construction, a 75 lb oil capacity, and 5 burners rated at 170,000 BTU's for quick heat recovery! All stainless steel construction provides added durability and easy maintenance for your kitchen crew. Safety features includes self-reset high temperature limit and oil cooling zone seated in the bottom of the tank. All fryers come with worry free 1 year parts and labor warranty and conform with NSF and ETL Sanitation standards.</span></div>
+<div></div>
+<ul>
+<li><span style="line-height: 1.5;">(5) 34,000 BTU Burners</span></li>
+<li><span style="line-height: 1.5;">Durable Stainless Steel Construction</span></li>
+<li><span style="line-height: 1.5;">Corrosion-Resistant and easy to clean</span></li>
+<li><span style="line-height: 1.5;">Heavy Duty Burners with Standby Pilots</span></li>
+<li><span style="line-height: 1.5;">Safety Valve with Automatic Voltage Stabilization</span></li>
+<li><span style="line-height: 1.5;">High Quality Thermostat with Temp Control 200-400 Degrees</span></li>
+<li><span style="line-height: 1.5;">Self-Reset Hi-Limit Shut Off for Added Safety</span></li>
+<li><span style="line-height: 1.5;">Nickel Plated Baskets with Wire Mesh Crumb Screen</span></li>
+<li><span style="line-height: 1.5;">Oil Cooling Zone for Food Residue</span></li>
+<li><span style="line-height: 1.5;">Adjustable Stainless Steel Legs</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>freeship</s:tag>
+    <s:tag>liftgate</s:tag>
+    <s:tag>Product type_Fryers</s:tag>
+    <s:tag>sales</s:tag>
+    <s:tag>Vendor_Atosa Refrigeration</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4204546308</id>
+      <title>Natural</title>
+      <s:price currency="USD">1511.00</s:price>
+      <s:sku>ATFS-75-NAT</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4204546308</id>
+      <title>Propane/LP</title>
+      <s:price currency="USD">1511.00</s:price>
+      <s:sku>ATFS-75-LP</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/3952209860</id>
+    <published>2015-12-12T15:10:00-06:00</published>
+    <updated>2015-12-12T15:10:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/atosa-atfs-50-50-lb-stainless-steel-deep-fryer"/>
+    <title>Atosa ATFS-50 50 LB Stainless Steel Gas Deep Fryer</title>
+    <s:type>Fryers</s:type>
+    <s:vendor>Atosa Refrigeration</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/HD-40-LB-S-S-Deep-Fryer-31156_large_grande_e2aacf48-3faa-41d6-ac5b-0a4bf8e575b4.jpeg?v=1453934708"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Atosa Refrigeration<br>
+        <strong>Type: </strong>Fryers<br>
+        <strong>Price: </strong>
+            1290.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span><strong>Dimension</strong>: 15-1/2" Wide x 30" Deep x 44-1/2" Height</span></div>
+<div><span><strong>Burner Style</strong>: Tube Burners</span></div>
+<div><span><strong>Construction</strong>: Stainless Steel</span></div>
+<div><span><strong>Capacity</strong>: 50 Lb </span></div>
+<div><span><strong># of Fry Baskets</strong>: 2 Baskets (included)</span></div>
+<div><span><strong>Temperature Range</strong>: 200 -400 F Degrees </span></div>
+<div><span><strong>Total BTU</strong>: 33,000 Per Burner/ 132,000 Total </span></div>
+<div><span><strong>Warranty</strong>: 1 Year Parts and Labor and Prorated 5 Years Fryer Pot Warranty</span></div>
+<div><span></span></div>
+</div>
+<div><span></span></div>
+<p> </p>
+<div><span>Atosa heavy duty 50 LB deep fryer has all stainless steel construction, a 50 lb oil capacity, and 4 burners rated at 132,000 BTU's for quick heat recovery! All stainless steel construction provides added durability and easy maintenance for your kitchen crew. Safety features includes self-reset high temperature limit and oil cooling zone seated in the bottom of the tank. All fryers come with worry free 1 year parts and labor warranty and conform with NSF and ETL Sanitation standards.</span></div>
+<div></div>
+<ul>
+<li><span style="line-height: 1.5;">(4) 33,000 BTU Burners</span></li>
+<li><span style="line-height: 1.5;">Durable Stainless Steel Construction</span></li>
+<li><span style="line-height: 1.5;">Corrosion-Resistant and easy to clean</span></li>
+<li><span style="line-height: 1.5;">Heavy Duty Burners with Standby Pilots</span></li>
+<li><span style="line-height: 1.5;">Safety Valve with Automatic Voltage Stabilization</span></li>
+<li><span style="line-height: 1.5;">High Quality Thermostat with Temp Control 200-400 Degrees</span></li>
+<li><span style="line-height: 1.5;">Self-Reset Hi-Limit Shut Off for Added Safety</span></li>
+<li><span style="line-height: 1.5;">Nickel Plated Baskets with Wire Mesh Crumb Screen</span></li>
+<li><span style="line-height: 1.5;">Oil Cooling Zone for Food Residue</span></li>
+<li><span style="line-height: 1.5;">Adjustable Stainless Steel Legs</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>freeship</s:tag>
+    <s:tag>liftgate</s:tag>
+    <s:tag>Product type_Fryers</s:tag>
+    <s:tag>sales</s:tag>
+    <s:tag>Vendor_Atosa Refrigeration</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/3952209860</id>
+      <title>Natural</title>
+      <s:price currency="USD">1290.00</s:price>
+      <s:sku>ATFS-50-NAT</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/3952209860</id>
+      <title>Propane/LP</title>
+      <s:price currency="USD">1290.00</s:price>
+      <s:sku>ATFS-50-LP</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/3952190724</id>
+    <published>2015-12-12T15:01:00-06:00</published>
+    <updated>2015-12-12T15:01:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/atosa-atfs-40-40-lb-stainless-steel-deep-fryer"/>
+    <title>Atosa ATFS-40 40 LB Stainless Steel Gas Deep Fryer</title>
+    <s:type>Fryers</s:type>
+    <s:vendor>Atosa Refrigeration</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/HD-40-LB-S-S-Deep-Fryer-31156_large_149fbc2c-321e-404c-a444-e58444450796.jpeg?v=1453934706"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Atosa Refrigeration<br>
+        <strong>Type: </strong>Fryers<br>
+        <strong>Price: </strong>
+            1007.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><span><strong>Dimension</strong>: 15-1/2" Wide x 30" Deep x 44-1/2" Height</span></div>
+<div><span><strong>Burner Style</strong>: Tube Burners</span></div>
+<div><span><strong>Construction</strong>: Stainless Steel</span></div>
+<div><span><strong>Capacity</strong>: 40 Lb </span></div>
+<div><span><strong># of Fry Baskets</strong>: 2 Baskets (included)</span></div>
+<div><span><strong>Temperature Range</strong>: 200 -400 F Degrees </span></div>
+<div><span><strong>Total BTU</strong>: 99,000</span></div>
+<div><span><strong>Warranty</strong>: 1 Year Parts and Labor and Prorated 5 Years Fryer Pot Warranty</span></div>
+<div><span></span></div>
+</div>
+<div><span></span></div>
+<p> </p>
+<div><span>Atosa heavy duty 40 LB deep fryer has all stainless steel construction, a 40 lb oil capacity, and 3 burners rated at 99,000 BTU's for quick heat recovery! All stainless steel construction provides added durability and easy maintenance for your kitchen crew. Safety features includes self-reset high temperature limit and oil cooling zone seated in the bottom of the tank. All fryers come with worry free 1 year parts and labor warranty and conform with NSF and ETL Sanitation standards.</span></div>
+<div></div>
+<ul>
+<li><span style="line-height: 1.5;">(3) 33,000 BTU Burners</span></li>
+<li><span style="line-height: 1.5;">Durable Stainless Steel Construction</span></li>
+<li><span style="line-height: 1.5;">Corrosion-Resistant and easy to clean</span></li>
+<li><span style="line-height: 1.5;">Heavy Duty Burners with Standby Pilots</span></li>
+<li><span style="line-height: 1.5;">Safety Valve with Automatic Voltage Stabilization</span></li>
+<li><span style="line-height: 1.5;">High Quality Thermostat with Temp Control 200-400 Degrees</span></li>
+<li><span style="line-height: 1.5;">Self-Reset Hi-Limit Shut Off for Added Safety</span></li>
+<li><span style="line-height: 1.5;">Nickel Plated Baskets with Wire Mesh Crumb Screen</span></li>
+<li><span style="line-height: 1.5;">Oil Cooling Zone for Food Residue</span></li>
+<li><span style="line-height: 1.5;">Adjustable Stainless Steel Legs</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>freeship</s:tag>
+    <s:tag>liftgate</s:tag>
+    <s:tag>Product type_Fryers</s:tag>
+    <s:tag>sales</s:tag>
+    <s:tag>Vendor_Atosa Refrigeration</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/3952190724</id>
+      <title>Natural</title>
+      <s:price currency="USD">1007.00</s:price>
+      <s:sku>ATFS-40-NAT</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/3952190724</id>
+      <title>Propane/LP</title>
+      <s:price currency="USD">1007.00</s:price>
+      <s:sku>ATFS-40-LP</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/3940657028</id>
+    <published>2015-12-10T17:32:00-06:00</published>
+    <updated>2015-12-10T17:32:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/thunder-group-alsp1826-18x26-full-size-pan"/>
+    <title>Thunder Group ALSP1826 18&quot; x 26&quot; Full Size Aluminum Sheet Pan</title>
+    <s:type>Sheet Pans / Bun Pans</s:type>
+    <s:vendor>Thunder Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/WDPB004N-l_grande_cffae012-e1fd-40c8-aca4-9ea36f4f97fa.jpg?v=1469126285"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Thunder Group<br>
+        <strong>Type: </strong>Sheet Pans / Bun Pans<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sturdy aluminum sheet pans all sizes are perfect for all your baking needs</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>Product type_Sheet Pans / Bun Pans</s:tag>
+    <s:tag>sales</s:tag>
+    <s:tag>Vendor_Thunder Group</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/3940657028</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>ALSP1826</s:sku>
+      <s:grams>11340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/3940656836</id>
+    <published>2015-12-10T17:32:00-06:00</published>
+    <updated>2015-12-10T17:32:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/thunder-group-alsp1013-91-2x13-quarter-size-pan"/>
+    <title>Thunder Group ALSP1013 9-1/2&quot; x 13&quot; Quarter Size Aluminum Sheet Pan</title>
+    <s:type>Sheet Pans / Bun Pans</s:type>
+    <s:vendor>Thunder Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/1_ad174c79-ba0c-44aa-9076-fa0f4a445638.jpg?v=1459135266"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Thunder Group<br>
+        <strong>Type: </strong>Sheet Pans / Bun Pans<br>
+        <strong>Price: </strong>
+            4.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sturdy aluminum sheet pans all sizes are perfect for all your baking needs</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>Product type_Sheet Pans / Bun Pans</s:tag>
+    <s:tag>sales</s:tag>
+    <s:tag>Vendor_Thunder Group</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/3940656836</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.59</s:price>
+      <s:sku>ALSP1013</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+</feed>

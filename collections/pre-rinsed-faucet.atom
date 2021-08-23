@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.champsrestaurantsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.champsrestaurantsupply.com/collections/pre-rinsed-faucet.atom"/>
+  <title>Champs Restaurant Supply</title>
+  <updated>2017-06-06T11:39:43-05:00</updated>
+  <author>
+    <name>Champs Restaurant Supply</name>
+  </author>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11568818831</id>
+    <published>2017-06-06T11:39:43-05:00</published>
+    <updated>2017-06-06T11:39:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/17-109wl-royal-series-8-center-wall-mount-pre-rinse-with-add-on-faucet-12-spout"/>
+    <title>Krowne 17-109WL 8&quot; Center Wall Mount Pre-Rinse with Add-On Faucet, 12&quot; Spout</title>
+    <s:type>Pre-Rinsed Faucet</s:type>
+    <s:vendor>KROWNE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/31YmtpgdaFL_69f517d1-1f9b-458c-b42d-499b1659c949.jpg?v=1503340146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KROWNE<br>
+        <strong>Type: </strong>Pre-Rinsed Faucet<br>
+        <strong>Price: </strong>
+            359.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4 itemprop="name">Krowne 17-109WL  Royal Series 8" Center Wall Mount Pre-Rinse with Add-On Faucet, 12" Spout</h4>
+<ul class="list">
+<li>Part of the Royal Series from Krowne</li>
+<li>Low-lead compliant</li>
+<li>44'' hose has been tested to 400 psi</li>
+<li>Wall bracket and mounting kit included for easy installation</li>
+<li>
+<sup>1</sup>⁄<sub>4</sub>-turn cartridge valve for simple operation</li>
+<li>Chrome-plated brass base construction</li>
+<li>Finger hook included to hold faucet out of the way when not in use</li>
+<li>Unit is 35 in. high with a 15-inch overhang</li>
+<li>Water flow of 1-1/2 gpm at 60 psi, with a max flow of 2 gpm</li>
+<li>Overall Dimensions: 12-3/8" W x 21" D x 35" H</li>
+<li>NSF Certified</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_Krowne</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11568818831</id>
+      <title>Default Title</title>
+      <s:price currency="USD">359.50</s:price>
+      <s:sku>17-109WL</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11552731727</id>
+    <published>2017-06-02T14:01:22-05:00</published>
+    <updated>2017-06-02T14:01:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-optiflow-series-bkf-4hddpr-wb-g-4-deck-mount-lead-free-pre-rinse"/>
+    <title>BK Resources OptiFlow Series BKF-4HDDPR-WB-G 4&quot; Deck Mount Lead Free Pre-Rinse</title>
+    <s:type>Pre-Rinsed Faucet</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/51D2Jg2Y8AL._SL1150.jpg?v=1496430254"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Pre-Rinsed Faucet<br>
+        <strong>Price: </strong>
+            310.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4 id="title" class="a-size-large a-spacing-none"><span id="productTitle" class="a-size-large">BK Resources OptiFlow Series BKF-4HDDPR-WB-G 4" Deck Mount Lead Free Pre-Rinse</span></h4>
+<ul class="a-unordered-list a-vertical a-spacing-none">
+<li><span class="a-list-item">Triple-ply hose rated to 300 psi</span></li>
+<li><span class="a-list-item">12" wall bracket. 1/2 female inlet</span></li>
+<li><span class="a-list-item">1/4 turn ceramic cartridges</span></li>
+<li><span class="a-list-item">Integral check valves</span></li>
+<li><span class="a-list-item">Color coded hot &amp; cold indicators</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product type_Pre-Rinsed Faucet</s:tag>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11552731727</id>
+      <title>Default Title</title>
+      <s:price currency="USD">310.20</s:price>
+      <s:sku>BKF-4HDDPR-WB-G</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4813653316</id>
+    <published>2016-04-25T17:19:00-05:00</published>
+    <updated>2016-04-25T17:19:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bkf-vsmpr-wb-af12-g-8-splash-mount-pre-rinse-faucet"/>
+    <title>BK Resources BKF-VSMPR-WB-AF12-G 8&quot; Splash Mount Pre-Rinse Faucet</title>
+    <s:type>Pre-Rinsed Faucet</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/bk-bkf-vsmpr-wb-af12-g_grande_9a1bcb83-489b-4d57-97a0-7be26d2d2d99.jpeg?v=1468352612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Pre-Rinsed Faucet<br>
+        <strong>Price: </strong>
+            327.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>WorkForce Prerinse, 8" C/C Splashmount, With 12" Add On Faucet, NSF 61/9</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product type_Pre-Rinsed Faucet</s:tag>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4813653316</id>
+      <title>Default Title</title>
+      <s:price currency="USD">327.20</s:price>
+      <s:sku>BKF-VSMPR-WB-AF12-G</s:sku>
+      <s:grams>11340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4813652868</id>
+    <published>2016-04-25T17:19:00-05:00</published>
+    <updated>2016-04-25T17:19:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bkf-vsmpr-wb-af8-g-8value-splash-mount-pre-rinse"/>
+    <title>BK Resources BKF-VSMPR-WB-AF8-G 8&quot;Value Splash Mount Pre-Rinse</title>
+    <s:type>Pre-Rinsed Faucet</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/bk-resources-bkf-smpr-wb-af14-g.jpeg?v=1461622792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Pre-Rinsed Faucet<br>
+        <strong>Price: </strong>
+            324.77
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>WorkForce Prerinse, 8" C/C Splashmount, With 8" Add On Faucet, NSF 61/9</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product type_Pre-Rinsed Faucet</s:tag>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4813652868</id>
+      <title>Default Title</title>
+      <s:price currency="USD">324.77</s:price>
+      <s:sku>BKF-VSMPR-WB-AF8-G</s:sku>
+      <s:grams>11340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4813652804</id>
+    <published>2016-04-25T17:19:00-05:00</published>
+    <updated>2016-04-25T17:19:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bkf-vsmpr-wb-g-8value-splash-mount-pre-rinse"/>
+    <title>BK Resources BKF-VSMPR-WB-G 8&quot;Value Splash Mount Pre-Rinse</title>
+    <s:type>Pre-Rinsed Faucet</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/BKF-VSMPR-WB.jpeg?v=1461622791"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Pre-Rinsed Faucet<br>
+        <strong>Price: </strong>
+            235.93
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>WorkForce Prerinse, 8" C/C Splashmount, NSF 61/9</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product type_Pre-Rinsed Faucet</s:tag>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4813652804</id>
+      <title>Default Title</title>
+      <s:price currency="USD">235.93</s:price>
+      <s:sku>BKF-VSMPR-WB-G</s:sku>
+      <s:grams>11340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/3999201732</id>
+    <published>2015-12-19T09:45:00-06:00</published>
+    <updated>2015-12-19T09:45:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/krowme-17-108wl-wall-mount-pre-rinse-low-lead"/>
+    <title>Krowne 17-108WL 8&apos;&apos; Splashmount Pre-Rinse Unit</title>
+    <s:type>Pre-Rinsed Faucet</s:type>
+    <s:vendor>KROWNE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/17-108w_1_grande_3b37cbba-ff37-460a-b958-7e2c703b5ac1.jpg?v=1464380053"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KROWNE<br>
+        <strong>Type: </strong>Pre-Rinsed Faucet<br>
+        <strong>Price: </strong>
+            291.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>KROWME-17-108WL - WALL MOUNT PRE-RINSE, LOW LEAD</p>
+<p><span>Royal Series Pre-Rinse Assembly with Wall Bracket, wall-mounted, 8 centers, spring action flexible gooseneck, 35 high with 15 overhang, internal check valves, 1/2 NPT female inlets, NSF</span>. <span>Pre-assemble tu cut installation time, solid chrome plated brass base</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product type_Pre-Rinsed Faucet</s:tag>
+    <s:tag>Vendor_Krowne</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/3999201732</id>
+      <title>Default Title</title>
+      <s:price currency="USD">291.00</s:price>
+      <s:sku>17-108WL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

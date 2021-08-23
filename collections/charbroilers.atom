@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.champsrestaurantsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.champsrestaurantsupply.com/collections/charbroilers.atom"/>
+  <title>Champs Restaurant Supply</title>
+  <updated>2017-05-22T00:27:22-05:00</updated>
+  <author>
+    <name>Champs Restaurant Supply</name>
+  </author>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11463357391</id>
+    <published>2017-05-22T00:27:22-05:00</published>
+    <updated>2017-05-22T00:27:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/atosa-atrc-48-48-countertop-radiant-gas-charbroiler"/>
+    <title>Atosa ATRC-48 48&quot; Countertop Radiant Gas Charbroiler</title>
+    <s:type>Charbroilers</s:type>
+    <s:vendor>Atosa Refrigeration</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/ATCB-48_1_1024x1024_40654cf8-2c02-4459-9bca-773c3b98ce56.png?v=1495430907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Atosa Refrigeration<br>
+        <strong>Type: </strong>Charbroilers<br>
+        <strong>Price: </strong>
+            1583.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Atosa ATRC-48 48" Countertop Radiant Gas Charbroiler</strong></p>
+<ul>
+<li>Durable stainless steel structure, corrosion-resistant and easy to clean</li>
+<li>Simple and reasonable structure, easy to manipulate and maintain</li>
+<li>Highly efficient stainless steel burner.standby pilots</li>
+<li>Thick stainless steel radiant plates, for quick and even heating</li>
+<li>Cast iron grill to maintain the thermal inertia</li>
+<li>4 Burners Independent manual controls to save the energy</li>
+<li>Adjustable multi-level top grates</li>
+<li>Adjustable stainless steel legs</li>
+<li>140,000 Total B.T.U </li>
+<li>Dimensions:48" W x 27.6"D x 15.2"H</li>
+<li><span>Intertek ETL Listed and NSF</span></li>
+<li>Warranty: I YEAR PARTS AND LABOR</li>
+<li>Available : Natural Gas &amp; Propane </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_Atosa Refrigeration</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11463357391</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1583.00</s:price>
+      <s:sku>ATRC-48</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11463350031</id>
+    <published>2017-05-22T00:25:11-05:00</published>
+    <updated>2017-05-22T00:25:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/atosa-atrc-36-36-countertop-radiant-gas-charbroiler"/>
+    <title>Atosa ATRC-36 36&quot; Countertop Radiant Gas Charbroiler</title>
+    <s:type>Charbroilers</s:type>
+    <s:vendor>Atosa Refrigeration</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/ATCB-36_1024x1024_780c0dd1-28c5-4e3a-9f09-d3ebf792d646.png?v=1495430831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Atosa Refrigeration<br>
+        <strong>Type: </strong>Charbroilers<br>
+        <strong>Price: </strong>
+            1262.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><strong>Atosa ATRC-36 36" Countertop Radiant Gas Charbroiler</strong></div>
+<br>
+<ul>
+<li>Durable stainless steel structure, corrosion-resistant and easy to clean</li>
+<li>Simple and reasonable structure, easy to manipulate and maintain</li>
+<li>Highly efficient stainless steel burner.standby pilots</li>
+<li>Thick stainless steel radiant plates, for quick and even heating</li>
+<li>Cast iron grill to maintain the thermal inertia</li>
+<li>3 Burners Independent manual controls to save the energy</li>
+<li>Adjustable multi-level top grates</li>
+<li>Adjustable stainless steel legs</li>
+<li>105,000 Total B.T.U </li>
+<li>Dimensions:36" W x 27.6"D x 15.2"H</li>
+<li><span>Intertek ETL Listed and NSF</span></li>
+<li>Warranty: I YEAR PARTS AND LABOR</li>
+<li>Available : Natural Gas &amp; Propane </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_Atosa Refrigeration</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11463350031</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1262.00</s:price>
+      <s:sku>ATRC-36</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11463333391</id>
+    <published>2017-05-22T00:23:19-05:00</published>
+    <updated>2017-05-22T00:23:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/atosa-atrc-24-24-countertop-radiant-gas-charbroiler"/>
+    <title>Atosa ATRC-24 24&quot; Countertop Radiant Gas Charbroiler</title>
+    <s:type>Charbroilers</s:type>
+    <s:vendor>Atosa Refrigeration</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/ATCB-24_1024x1024_b0198e82-206b-4825-8933-0a3c882e58d7.png?v=1495430666"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Atosa Refrigeration<br>
+        <strong>Type: </strong>Charbroilers<br>
+        <strong>Price: </strong>
+            941.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Atosa ATRC-24 24" Countertop Radiant Gas Charbroiler </strong></p>
+<ul>
+<li>Durable stainless steel structure, corrosion-resistant and easy to clean</li>
+<li>Simple and reasonable structure, easy to manipulate and maintain</li>
+<li>Highly efficient stainless steel burner.standby pilots</li>
+<li>Thick stainless steel radiant plates, for quick and even heating</li>
+<li>Cast iron grill to maintain the thermal inertia</li>
+<li>2 Burners Independent manual controls to save the energy</li>
+<li>Adjustable multi-level top grates</li>
+<li>Adjustable stainless steel legs</li>
+<li>70,000 Total B.T.U </li>
+<li>Dimensions:24" W x 27.6"D x 15.2"H</li>
+<li><span>Intertek ETL Listed and NSF</span></li>
+<li>Warranty: I YEAR PARTS AND LABOR</li>
+<li>Available : Natural Gas &amp; Propane </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_Atosa Refrigeration</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11463333391</id>
+      <title>Default Title</title>
+      <s:price currency="USD">941.00</s:price>
+      <s:sku>ATRC-24</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/5038229124</id>
+    <published>2016-06-06T10:37:03-05:00</published>
+    <updated>2016-06-06T10:37:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/tuebo-air-tarb-48-48-counter-top-gas-radiant-commercial-broiler"/>
+    <title>Radiance TARB-48 48&quot; Counter Top Gas Commercial Charbroiler</title>
+    <s:type>Charbroilers</s:type>
+    <s:vendor>Turbo Air</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/894-108.jpeg?v=1465227438"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Turbo Air<br>
+        <strong>Type: </strong>Charbroilers<br>
+        <strong>Price: </strong>
+            1919.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Turbo Air TARB-48 48" Counter Top Gas Radiant Commercial Broiler</strong></p>
+<ul>
+<li>Stainless steel front, sides and 4” front top ledge</li>
+<li>120,000 BTU total</li>
+<li>Heavy duty cast-iron radiant</li>
+<li>Welded heat box and radiant bracket</li>
+<li>Reversible 3 bar cast-iron grate with grease runner</li>
+<li>Removable full width grease pan</li>
+<li>Ergonomically designed heat resistant PPS (Poly Phenylene Sulfide) On-Off knob</li>
+<li>Adjustable standing pilot for each burner</li>
+<li>¾” rear gas connection and gas pressure regulator</li>
+<li>2” stainless steel legs included</li>
+<li>Dimensions: 48"W x 30"D x 12"H</li>
+<li><strong>Warranty: 1 Year Parts and labor</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_Turbo Air</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/5038229124</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1919.00</s:price>
+      <s:sku>TARB-48</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/5038228996</id>
+    <published>2016-06-06T10:37:02-05:00</published>
+    <updated>2016-06-06T10:37:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/turbo-air-tarb-36-6-burners-countertop-gas-radiance-charbroiler"/>
+    <title>Radiance TARB-36 6-Burners Countertop Gas Charbroiler</title>
+    <s:type>Charbroilers</s:type>
+    <s:vendor>Turbo Air</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/894-107.jpeg?v=1465227436"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Turbo Air<br>
+        <strong>Type: </strong>Charbroilers<br>
+        <strong>Price: </strong>
+            1529.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Turbo Air TARB-36 6-Burners Countertop Gas Radiance Charbroiler</p>
+<ul>
+<li>Stainless steel front, sides and 4” front top ledge</li>
+<li>90,000 BTU total</li>
+<li>Heavy duty cast-iron radiant</li>
+<li>Welded heat box and radiant bracket</li>
+<li>Reversible 3 bar cast-iron grate with grease runner</li>
+<li>Removable full width grease pan</li>
+<li>Ergonomically designed heat resistant PPS (Poly Phenylene Sulfide) On-Off knob</li>
+<li>Adjustable standing pilot for each burner</li>
+<li>¾” rear gas connection and gas pressure regulator</li>
+<li>2” stainless steel legs included</li>
+<li>4” stainless steel legs available as an option</li>
+<li>Dimensions:  36"W x 30"D x 12"H</li>
+<li>WARRANTY : 1 Year Labor and Parts</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_Turbo Air</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/5038228996</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1529.00</s:price>
+      <s:sku>TARB-36</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/5038228868</id>
+    <published>2016-06-06T10:37:01-05:00</published>
+    <updated>2016-06-06T10:37:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/turbo-air-30-counter-top-radiant-gas-commercial-broiler"/>
+    <title>Radiance TARB-30 30&quot; Counter Top Gas Commercial Charbroiler</title>
+    <s:type>Charbroilers</s:type>
+    <s:vendor>Turbo Air</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/md_n168524.jpeg?v=1465227433"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Turbo Air<br>
+        <strong>Type: </strong>Charbroilers<br>
+        <strong>Price: </strong>
+            1379.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Turbo Air 30" Counter Top Radiant Gas Commercial Broiler </p>
+<ul>
+<li>Stainless steel front, sides and 4” front top ledge</li>
+<li>15,000 BTU/hr stainless steel straight burners for every 6” of broiler width</li>
+<li>Heavy duty cast-iron radiant</li>
+<li>Welded heat box and radiant bracket</li>
+<li>Reversible 3 bar cast-iron grate with grease runner</li>
+<li>Removable full width grease pan</li>
+<li>Ergonomically designed heat resistant PPS (Poly Phenylene Sulfide) On-Off knob</li>
+<li>Adjustable standing pilot for each burner</li>
+<li>¾” rear gas connection and gas pressure regulator</li>
+<li>2” stainless steel legs included</li>
+<li>#of Burners: 5</li>
+<li>Total BTUs: 75,000</li>
+<li>Dimensions:  30"W x 30"D x 10"H</li>
+<li>WARRANTY : 1 Year Labor and Parts Warranty</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_Turbo Air</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/5038228868</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1379.00</s:price>
+      <s:sku>TARB-30</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/5038228740</id>
+    <published>2016-06-06T10:37:00-05:00</published>
+    <updated>2016-06-06T10:37:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/turbo-air-gas-charbroiler-radiant-24w-4-burners"/>
+    <title>Radiance TARB-24 24&quot; Counter Top Gas Commercial Charbroiler</title>
+    <s:type>Charbroilers</s:type>
+    <s:vendor>Turbo Air</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/894-106.jpeg?v=1465227429"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Turbo Air<br>
+        <strong>Type: </strong>Charbroilers<br>
+        <strong>Price: </strong>
+            1119.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4 itemprop="name">TURBO AIR TARB-24 24" 4 BURNERS GAS RADIANT CHARBROILER</h4>
+<ul>
+<li>Stainless steel front, sides and 4” front top ledge</li>
+<li>60,000 BTU total</li>
+<li>Heavy duty cast-iron radiant</li>
+<li>Welded heat box and radiant bracket</li>
+<li>Reversible 3 bar cast-iron grate with grease runner</li>
+<li>Removable full width grease pan</li>
+<li>Ergonomically designed heat resistant PPS (Poly Phenylene Sulfide) On-Off knob</li>
+<li>Adjustable standing pilot for each burner</li>
+<li>¾” rear gas connection and gas pressure regulator</li>
+<li>2” stainless steel legs included</li>
+<li>Dimensions:  24"W x 30"D x 12"H</li>
+<li>Warranty :1 Year Parts &amp; Labor</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_Turbo Air</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/5038228740</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1119.00</s:price>
+      <s:sku>TARB-24</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/5038228612</id>
+    <published>2016-06-06T10:36:59-05:00</published>
+    <updated>2016-06-06T10:36:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/turbo-air-radiance-tarb-18-commercial-countertop-gas-char-broiler-18"/>
+    <title>Radiance TARB-18 18&quot; Commercial Countertop Gas Charbroiler</title>
+    <s:type>Charbroilers</s:type>
+    <s:vendor>Turbo Air</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/ta-tarb-18_grande_9a425fc1-7e0c-4e59-8c5e-3f4bd2ea4d9e.jpeg?v=1465629103"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Turbo Air<br>
+        <strong>Type: </strong>Charbroilers<br>
+        <strong>Price: </strong>
+            1049.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Turbo Air Radiance TARB-18 Commercial Countertop Gas Char-Broiler 18"</p>
+<ul>
+<li>Stainless steel front, sides and 4” front top ledge</li>
+<li>45,000 BTU total</li>
+<li>Heavy duty cast-iron radiant</li>
+<li>Welded heat box and radiant bracket</li>
+<li>Reversible 3 bar cast-iron grate with grease runner</li>
+<li>Removable full width grease pan</li>
+<li>Ergonomically designed heat resistant PPS (Poly Phenylene Sulfide) On-Off knob</li>
+<li>Adjustable standing pilot for each burner</li>
+<li>¾” rear gas connection and gas pressure regulator</li>
+<li>2” stainless steel legs included</li>
+<li>4” stainless steel legs available as an option</li>
+<li>Dimensions:  18"W x 30"D x 12"H</li>
+<li>WARRANTY : 1 Year Labor and Parts</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_Turbo Air</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/5038228612</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1049.00</s:price>
+      <s:sku>TARB-18</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/5038228356</id>
+    <published>2016-06-06T10:36:57-05:00</published>
+    <updated>2016-06-06T10:36:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/turbo-air-tarb-12-12-gas-countertop-charbroiler"/>
+    <title>Radiance TARB-12 12&quot;  Gas Countertop Charbroiler</title>
+    <s:type>Charbroilers</s:type>
+    <s:vendor>Turbo Air</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/TARB-12-2_grande_1213b5c3-4e2e-410b-b7e1-c79ff334df4b.jpeg?v=1465629101"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Turbo Air<br>
+        <strong>Type: </strong>Charbroilers<br>
+        <strong>Price: </strong>
+            889.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Turbo Air TARB-12 12" Gas Countertop Charbroiler</strong></p>
+<ul>
+<li>Stainless steel front, sides and 4” front top ledge</li>
+<li>30,000 BTU total</li>
+<li>Heavy duty cast-iron radiant</li>
+<li>Welded heat box and radiant bracket</li>
+<li>Reversible 3 bar cast-iron grate with grease runner</li>
+<li>Removable full width grease pan</li>
+<li>Ergonomically designed heat resistant PPS (Poly Phenylene Sulfide) On-Off knob</li>
+<li>Adjustable standing pilot for each burner</li>
+<li>¾” rear gas connection and gas pressure regulator</li>
+<li>2” stainless steel legs included</li>
+<li>4” stainless steel legs available as an option</li>
+<li>Dimensions: 12"W x 30"D x 12"H</li>
+<li>WARRANTY : 1 Year Labor and Parts Warranty</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_Turbo Air</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/5038228356</id>
+      <title>Default Title</title>
+      <s:price currency="USD">889.00</s:price>
+      <s:sku>TARB-12</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+</feed>

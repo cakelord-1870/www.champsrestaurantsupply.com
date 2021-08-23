@@ -1,0 +1,1575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.champsrestaurantsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.champsrestaurantsupply.com/collections/commercial-ranges.atom"/>
+  <title>Champs Restaurant Supply</title>
+  <updated>2017-06-07T22:47:12-05:00</updated>
+  <author>
+    <name>Champs Restaurant Supply</name>
+  </author>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11577934031</id>
+    <published>2017-06-07T22:47:12-05:00</published>
+    <updated>2017-06-07T22:47:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/imperial-range-ir-6-e-36-electric-6-burner-restaurant-range-with-standard-oven"/>
+    <title>Imperial Range IR-6-E 36&quot; Electric 6 Burner Restaurant Range with Standard oven</title>
+    <s:type>Commercial Ranges</s:type>
+    <s:vendor>Imperial Range</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/md_n126434.jpg?v=1496893632"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Range<br>
+        <strong>Type: </strong>Commercial Ranges<br>
+        <strong>Price: </strong>
+            3423.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Imperial Range IR-6-E 36" Electric 6 Burner Restaurant Range with Standard oven</p>
+<ul>
+<li>Electric Range</li>
+<li>6 French Plates</li>
+<li>One (1) Standard Oven</li>
+<li>High Performance 5 KW Element Provides Even Heating Throughout The Oven.</li>
+<li>Heavy Duty Thermostat With Temperature Range From 150°F - 500°F.</li>
+<li>1 Chrome Oven Rack Is Included.</li>
+<li>Stainless Steel Front, Top, Sides, Back-guard, Shelf, Landing Ledge And Kick Plate.</li>
+<li>6" Heavy Duty Legs With Adjustable Feet.</li>
+<li>
+<strong>Dimensions:</strong> 36"W x 36"D x 31-1/4"H</li>
+<li>
+<strong>Electrical:</strong> (Unit Is Shipped As 3-phase But Can Be Field-converted To Single Phase) 208 Volts, Single Phase, 17 KW, 81.73 Amps 208 Volts, 3 Phase, 17 KW, 47.24 Amps 240 Volts, Single Phase, 17 KW, 70.83 Amps 240 Volts, 3 Phase, 17 KW, 40.94 Amps </li>
+<li>
+<strong>Warranty:</strong> 1 Year Parts And Labor</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Number of Burners_6</s:tag>
+    <s:tag>Power Type_Electric</s:tag>
+    <s:tag>Vendor_Imperial Range</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11577934031</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3423.00</s:price>
+      <s:sku>IR-6-E</s:sku>
+      <s:grams>158757</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11577933903</id>
+    <published>2017-06-07T22:47:11-05:00</published>
+    <updated>2017-06-07T22:47:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/imperial-range-ir-4-e-24restaurant-range-4-round-electric-burners-standard-oven"/>
+    <title>Imperial Range IR-4-E 24&quot;Restaurant Range 4 Round Electric Burners - Standard Oven</title>
+    <s:type>Commercial Ranges</s:type>
+    <s:vendor>Imperial Range</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/md_n126414.jpg?v=1496893631"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Range<br>
+        <strong>Type: </strong>Commercial Ranges<br>
+        <strong>Price: </strong>
+            3045.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Imperial Range IR-4-E 24"Restaurant Range 4 Round Electric Burners - Standard Oven</p>
+<ul>
+<li>Stainless front, 5" landing ledge, sides, back guard and high shelf</li>
+<li>6" adjustable legs standard</li>
+<li>208V or 240V 1 phase electrical are available. (AMPS - 63/36 - 54/32) PLEASE specify voltage needed when ordering</li>
+<li>Dimensions: 24"W x 34-3/4"D x 56-1/2"H</li>
+<li>1 year parts and labor warranty.</li>
+<li>NSF and ETL listed.</li>
+<li>(4) 9 1/2" diameter sealed round 2KW "French" style plate elements</li>
+<li>Easy cleaning Teflon surfaces</li>
+<li>Individual infinite style controls for precise temperatures</li>
+<li>Knobs stay cool to the touch</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Number of Burners_4</s:tag>
+    <s:tag>Power Type_Electric</s:tag>
+    <s:tag>Vendor_Imperial Range</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11577933903</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3045.00</s:price>
+      <s:sku>IR-4-E</s:sku>
+      <s:grams>158757</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11577933839</id>
+    <published>2017-06-07T22:47:10-05:00</published>
+    <updated>2017-06-07T22:47:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/imperial-range-ir-6-c-36-commercial-gas-6-burner-range-w-26-1-2-convection-oven"/>
+    <title>Imperial Range IR-6-C 36&quot; Commercial Gas 6 Burner Range w/ 26-1/2&quot; Convection Oven</title>
+    <s:type>Commercial Ranges</s:type>
+    <s:vendor>Imperial Range</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/md_n77841.jpg?v=1496893631"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Range<br>
+        <strong>Type: </strong>Commercial Ranges<br>
+        <strong>Price: </strong>
+            8430.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Imperial Range IR-6-C 36" Commercial Gas 6 Burner Range w/ 26-1/2" Convection Oven</p>
+<ul>
+<li>Stainless steel exterior</li>
+<li>(6) 28,000 BTU open burners</li>
+<li>(1) 26 1/2" Convection oven</li>
+<li>Total BTUs: 222,000</li>
+<li>Gas option: Natural or LP (choose at checkout)</li>
+<li>Dimensions: 36"W x 31.25"D x 36"H</li>
+<li>Warranty:1 Year parts and labor</li>
+<li>Top grate design allows pots to move easily from section to section</li>
+<li>5” landing ledge</li>
+<li>(1) Convection oven</li>
+<li>3 position switch for cooking or cool down</li>
+<li>Burner “On” indicator light and one hour manual timer</li>
+<li>Control knobs are cast aluminum with heat protected grips</li>
+<li>6” heavy duty legs with adjustable feet</li>
+<li>3/4” pipe gas connection</li>
+<li>AGA and CGA design certified</li>
+<li>NSF Certified</li>
+<li>1 Year Parts and Labor Warranty</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Number of Burners_6</s:tag>
+    <s:tag>Power Type_Gas</s:tag>
+    <s:tag>Vendor_Imperial Range</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11577933839</id>
+      <title>Natural</title>
+      <s:price currency="USD">8430.95</s:price>
+      <s:sku>IR-6-C-NAT</s:sku>
+      <s:grams>158757</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11577933839</id>
+      <title>Propane/LP</title>
+      <s:price currency="USD">8430.95</s:price>
+      <s:sku>IR-6-C-LP</s:sku>
+      <s:grams>158757</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11577933647</id>
+    <published>2017-06-07T22:47:09-05:00</published>
+    <updated>2017-06-07T22:47:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/imperial-range-ir-6-g24-60-restaurant-range-6-gas-burner-w-24-griddle-and-2-ovens"/>
+    <title>Imperial Range IR-6-G24 60&quot; Restaurant Range 6 Gas Burner w/24&quot; Griddle and 2 Ovens</title>
+    <s:type>Commercial Ranges</s:type>
+    <s:vendor>Imperial Range</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/md_n32182.jpg?v=1496893630"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Range<br>
+        <strong>Type: </strong>Commercial Ranges<br>
+        <strong>Price: </strong>
+            8817.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Imperial Range IR-6-G24 60" Restaurant Range 6 Gas Burner w/24" Griddle and 2 Ovens</p>
+<ul>
+<li>S/S Front Sides</li>
+<li>6 Burners-24" Manual Griddle (Left) - 2 Ovens</li>
+<li>Standing Pilots</li>
+<li>Burners Are 32,000 BTU/hr. With A 7,000 BTU/hr. Low Simmer Feature</li>
+<li>PyroCentric Burner Heads With Two Rings Of Flame For Even Cooking</li>
+<li>Stainless Steel Front, Ledge, Sides, Backquard And Shelf</li>
+<li>Anti-clogging Shield Design In Grate Protects The Pilot From Grease And Spills</li>
+<li>Pots Slide Easily From Section To Section</li>
+<li>35,000 Btu Oven, Porcelan Interior For Ease Of Cleaning</li>
+<li>High Altitude Kit Is Available For Those @ 2000' Or Above Sea Level</li>
+<li>
+<strong>Dimensions:</strong><span> 60"W x 31-1/2"D x 56-1/2"H</span>
+</li>
+<li><span><strong>Gas:</strong> 302,000 BTU's Total <br><strong>Warranty:</strong> 1 Year Parts And Labor Warranty </span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Number of Burners_6</s:tag>
+    <s:tag>Power Type_Gas</s:tag>
+    <s:tag>Vendor_Imperial Range</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11577933647</id>
+      <title>Natural</title>
+      <s:price currency="USD">8817.60</s:price>
+      <s:sku>IR-6-G24-NAT</s:sku>
+      <s:grams>158757</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11577933647</id>
+      <title>Propane/LP</title>
+      <s:price currency="USD">8817.60</s:price>
+      <s:sku>IR-6-G24-LP</s:sku>
+      <s:grams>158757</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11577933519</id>
+    <published>2017-06-07T22:47:08-05:00</published>
+    <updated>2017-06-07T22:47:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/imperial-range-ir-10-60-gas-restaurant-range-w-10-burners-and-two-26-1-2-ovens"/>
+    <title>Imperial Range IR-10 60&quot; Gas Restaurant Range w/10 Burners and Two 26-1/2&quot; Ovens</title>
+    <s:type>Commercial Ranges</s:type>
+    <s:vendor>Imperial Range</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/md_n32185.jpg?v=1496893629"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Range<br>
+        <strong>Type: </strong>Commercial Ranges<br>
+        <strong>Price: </strong>
+            5128.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Imperial Range IR-10 60" Gas Restaurant Range w/10 Burners and Two 26-1/2" Ovens</p>
+<ul>
+<li>10) 28,000 BTU open top burners with removable heads for easy cleaning</li>
+<li>PyroCentric burner heads with two rings of flame for even cooking regardless of pan size</li>
+<li>Heavy duty removable cast iron top grates are 12" x 12" and form a flat surface for easy sliding of cookware</li>
+<li>Pilot burners for provides instant ignition. Pilots are protected by shield design in top grates</li>
+<li>Manual infinite burner controls</li>
+<li>Full width, removable drip pan</li>
+<li>Stainless front, 5" landing ledge, sides, backguard and high shelf</li>
+<li>6" adjustable legs standard</li>
+<li>Interiors Dimensions:26-1/2"W x 26"D x 14" H</li>
+<li>Dimensions: 60"W x 32-3/4"D x 56-1/2"H</li>
+<li>3/4" rear gas connection</li>
+<li>1 year parts and labor warranty.</li>
+<li>AGA and CGA design certified, NSF and CE listed.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Number of Burners_10</s:tag>
+    <s:tag>Power Type_Gas</s:tag>
+    <s:tag>Vendor_Imperial Range</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11577933519</id>
+      <title>Natural</title>
+      <s:price currency="USD">5128.00</s:price>
+      <s:sku>IR-10-NAT</s:sku>
+      <s:grams>158757</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11577933519</id>
+      <title>Propane/LP</title>
+      <s:price currency="USD">5128.00</s:price>
+      <s:sku>IR-10-LP</s:sku>
+      <s:grams>158757</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11577933327</id>
+    <published>2017-06-07T22:47:08-05:00</published>
+    <updated>2017-06-07T22:47:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/imperial-range-ir-6-36-restaurant-range-with-6-open-gas-burners-and-standard-oven"/>
+    <title>Imperial Range IR-6 36&quot; Restaurant Range with 6 Open Gas Burners and Standard Oven</title>
+    <s:type>Commercial Ranges</s:type>
+    <s:vendor>Imperial Range</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/md_n32158.jpg?v=1496893628"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Range<br>
+        <strong>Type: </strong>Commercial Ranges<br>
+        <strong>Price: </strong>
+            3004.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Imperial Range IR-6 36" Restaurant Range with 6 Open Gas Burners and Standard Oven</p>
+<ul>
+<li>36” gas restaurant range</li>
+<li>(6) 28,000 BTU burners</li>
+<li>One 26-1/2” standard oven, 35,000 BTU</li>
+<li>Holds full size 18” x 26” sheet pans can be rotated front to back or left to right</li>
+<li>Stainless front, landing ledge, sides, back guard, and high shelf</li>
+<li>Quad burner options (1) anti clogging burner with full flame, (2) all purpose, (3) sauté (4) wok jet</li>
+<li>Anti clogging pilot shield</li>
+<li>12” x 12” grates remove easily</li>
+<li>Top grate design allows pots to move section to section</li>
+<li>Removable oven door</li>
+<li>6” heavy duty legs with adjustable feet</li>
+<li>150° - 500°F thermostat</li>
+<li>3/4” pipe gas connection</li>
+<li>1 year parts and labor warranty</li>
+<li>NSF apprived</li>
+<li>Dimension: 36"W x <span>56-1/2”H X </span>28-7/8"D</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Number of Burners_6</s:tag>
+    <s:tag>Power Type_Gas</s:tag>
+    <s:tag>Vendor_Imperial Range</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11577933327</id>
+      <title>Natural</title>
+      <s:price currency="USD">3004.00</s:price>
+      <s:sku>IR-6-NAT</s:sku>
+      <s:grams>158757</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11577933327</id>
+      <title>Propane/LP</title>
+      <s:price currency="USD">3004.00</s:price>
+      <s:sku>IR-6-LP</s:sku>
+      <s:grams>158757</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11577933071</id>
+    <published>2017-06-07T22:47:06-05:00</published>
+    <updated>2017-06-07T22:47:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/imperial-range-ir-4-24-restaurant-range-with-4-gas-burners-and-standard-oven"/>
+    <title>Imperial Range IR-4 24&quot; Restaurant Range with 4 Gas Burners and Standard Oven</title>
+    <s:type>Commercial Ranges</s:type>
+    <s:vendor>Imperial Range</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/md_n32146.jpg?v=1496893627"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Range<br>
+        <strong>Type: </strong>Commercial Ranges<br>
+        <strong>Price: </strong>
+            2494.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Imperial Range IR-4 24" Restaurant Range with 4 Gas Burners and Standard Oven</p>
+<ul>
+<li>4) 28,000 BTU open top burners with removable heads for easy cleaning</li>
+<li>PyroCentric burner heads with two rings of flame for even cooking regardless of pan size</li>
+<li>Heavy duty removable cast iron top grates are 12" x 12" and form a flat surface for easy sliding of cookware</li>
+<li>Pilot burners for provides instant ignition. Pilots are protected by shield design in top grates</li>
+<li>Manual infinite burner controls</li>
+<li>Full width, removable drip pan</li>
+<li>Stainless front, 5" landing ledge, sides, backguard and high shelf</li>
+<li>6" adjustable legs standard</li>
+<li>Dimensions: 24"W x 32-3/4"D x 56-1/2"H</li>
+<li>Nat. gas standard. Please specify if installing above 2,000 ft elevation when ordering</li>
+<li>3/4" rear gas connection</li>
+<li>1 year parts and labor warranty.</li>
+<li>AGA and CGA design certified, NSF and CE listed.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Number of Burners_4</s:tag>
+    <s:tag>Power Type_Gas</s:tag>
+    <s:tag>Vendor_Imperial Range</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11577933071</id>
+      <title>Natural</title>
+      <s:price currency="USD">2494.00</s:price>
+      <s:sku>IR-4-NAT</s:sku>
+      <s:grams>158757</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11577933071</id>
+      <title>Propane/LP</title>
+      <s:price currency="USD">2494.00</s:price>
+      <s:sku>IR-4-LP</s:sku>
+      <s:grams>158757</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4206020164</id>
+    <published>2016-01-18T00:17:37-06:00</published>
+    <updated>2016-01-18T00:17:37-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/southbend-s36d-s-series-36-6-burners-stove-with-1-standard-oven"/>
+    <title>Southbend S36D S-Series 36&quot; 6 Burners Stove with 1 Standard Oven</title>
+    <s:type>Commercial Ranges</s:type>
+    <s:vendor>Southbend</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/ajqavnebzulwcrz.jpeg?v=1453935566"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Southbend<br>
+        <strong>Type: </strong>Commercial Ranges<br>
+        <strong>Price: </strong>
+            1656.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Southbend's S-Series restaurant range offers a quality, versatile range for commercial foodservice applications. 24", 36", 48", and 60" widths and a number of top configurations are available. Configurations include combinations of open burners, griddles and hot tops.</p>
+<p>24" and 36" ranges base feature a selection of top configurations and one oven below. The 24" range features the 19-1/2" x 26-1/2" x 14" space-saver oven that allows a full size sheet pan to fit in the cavity! 36" ranges are available with 26" x 26-1/2" x 14" standard or convection oven bases. Standard and space saver ovens come with 1 oven rack and convection ovens come with 2 oven racks. Standard ovens and convection ovens hold sheet pans that fit side-to-side or front-to-back.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-day</s:tag>
+    <s:tag>freeship</s:tag>
+    <s:tag>liftgate</s:tag>
+    <s:tag>Number of Burners_6</s:tag>
+    <s:tag>Power Type_Gas</s:tag>
+    <s:tag>Product type_Commercial Ranges</s:tag>
+    <s:tag>Vendor_Southbend</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4206020164</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1656.00</s:price>
+      <s:sku>S36D</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4206020100</id>
+    <published>2016-01-18T00:17:00-06:00</published>
+    <updated>2016-01-18T00:17:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/southbend-s24e-s-series-24-4-burners-stove-with-1-space-saver-oven"/>
+    <title>Southbend S24E S-Series 24&quot; 4 Burners Stove with 1 Space Saver Oven</title>
+    <s:type>Commercial Ranges</s:type>
+    <s:vendor>Southbend</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/SB-S24E-2.jpeg?v=1453935568"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Southbend<br>
+        <strong>Type: </strong>Commercial Ranges<br>
+        <strong>Price: </strong>
+            1698.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Southbend's S-Series restaurant range offers a quality, versatile range for commercial foodservice applications. 24", 36", 48", and 60" widths and a number of top configurations are available. Configurations include combinations of open burners, griddles and hot tops.</p>
+<p>24" and 36" ranges base feature a selection of top configurations and one oven below. The 24" range features the 19-1/2" x 26-1/2" x 14" space-saver oven that allows a full size sheet pan to fit in the cavity! 36" ranges are available with 26" x 26-1/2" x 14" standard or convection oven bases. Standard and space saver ovens come with 1 oven rack and convection ovens come with 2 oven racks. Standard ovens and convection ovens hold sheet pans that fit side-to-side or front-to-back.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-day</s:tag>
+    <s:tag>freeship</s:tag>
+    <s:tag>liftgate</s:tag>
+    <s:tag>Number of Burners_4</s:tag>
+    <s:tag>Power Type_Gas</s:tag>
+    <s:tag>Product type_Commercial Ranges</s:tag>
+    <s:tag>Vendor_Southbend</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4206020100</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1698.00</s:price>
+      <s:sku>S24E</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4173453956</id>
+    <published>2016-01-13T22:43:00-06:00</published>
+    <updated>2016-01-13T22:43:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/radiance-targ-4b36g-60-4-burner-range-and-36-griddle-with-2-standard-oven"/>
+    <title>Radiance TARG-4B36G 60&quot; 4 Burner Range and 36&quot; Griddle with 2 Standard Oven</title>
+    <s:type>Commercial Ranges</s:type>
+    <s:vendor>Radiance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/md_n125933.jpeg?v=1453935518"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Radiance<br>
+        <strong>Type: </strong>Commercial Ranges<br>
+        <strong>Price: </strong>
+            5149.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Radiance TARG-4B36G 60" 4 Burner Range and 36" Griddle with 2 Standard Oven</strong></p>
+<div>
+<ul>
+<li><span style="line-height: 1.5;">Stainless steel front, sides, and back riser lift-off high shelf frame construction</span></li>
+<li>4 Burners: Individual pilot for each lift off top open burner at 32,000 BTU/HR</li>
+<li>36" Thermostatic griddle <span>(Option of having griddle on right side or left side of burners when facing the front of the unit .Please call for availability)</span>
+</li>
+<li>Four 6" Stainless steel adjustable legs</li>
+<li>12" x 12" Sectioned heavy duty cast iron grates</li>
+<li>Full size pull out crumb tray</li>
+<li>2 Standard ovens</li>
+<li>Wrap around full stainless steel oven interior</li>
+<li>Adjustable oven thermostat from 250°F to 550°F</li>
+<li>Pull off stainless steel door for easy cleaning</li>
+<li>(1) Stainless steel oven rack per oven</li>
+<li>Push button ignition to light a standing pilot for oven</li>
+<li>Natural gas with LP conversion kit</li>
+<li>BTU total: 283,000</li>
+<li>Oven dimensions: 26-2/5" W x 26-1/3" D x 13-3/5" H (per oven)</li>
+<li>Overall dimensions: 60" W x 32" D x 56-1/2" H</li>
+<li>CSA approved</li>
+<li><span>1 Year limited parts and labor</span></li>
+</ul>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>Number of Burners_4</s:tag>
+    <s:tag>Power Type_Gas</s:tag>
+    <s:tag>Product type_Commercial Ranges</s:tag>
+    <s:tag>Vendor_Turbo Air</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4173453956</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5149.00</s:price>
+      <s:sku>TARG-4B36G</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4173453892</id>
+    <published>2016-01-13T22:43:00-06:00</published>
+    <updated>2016-01-13T22:43:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/radiance-targ-6b24g-60-6-burner-range-and-24-griddle-with-2-standard-oven"/>
+    <title>Radiance TARG-6B24G 60&quot; 6 Burner Range and 24&quot; Griddle with 2 Standard Oven</title>
+    <s:type>Commercial Ranges</s:type>
+    <s:vendor>Radiance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/s-l400.jpg?v=1471887695"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Radiance<br>
+        <strong>Type: </strong>Commercial Ranges<br>
+        <strong>Price: </strong>
+            4959.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Radiance TARG-6B24G 60" 6 Burner Range and 24" Griddle with 2 Standard Oven</strong></p>
+<div>
+<ul>
+<li><span style="line-height: 1.5;">Stainless steel front, sides, and back riser lift-off high shelf frame construction</span></li>
+<li>
+<div>6 Burners: Individual pilot for each lift off top open burner at 32,000 BTU/HR</div>
+</li>
+<li>
+<div>24" Thermostatic griddle <span>(Option of having griddle on right side or left side of burners when facing the front of the unit .Please call for availability)</span>
+</div>
+</li>
+<li>
+<div>Four 6" Stainless steel adjustable legs</div>
+</li>
+<li>
+<div>12" x 12" Sectioned heavy duty cast iron grates</div>
+</li>
+<li>
+<div>Full size pull out crumb tray</div>
+</li>
+<li>
+<div>2 Standard ovens</div>
+</li>
+<li>
+<div>Wrap around full stainless steel oven interior</div>
+</li>
+<li>
+<div>Adjustable oven thermostat from 250°F to 550°F</div>
+</li>
+<li>
+<div>Pull off stainless steel door for easy cleaning</div>
+</li>
+<li>
+<div>(1) Stainless steel oven rack per oven</div>
+</li>
+<li>
+<div>Push button ignition to light a standing pilot for oven</div>
+</li>
+<li>
+<div>Natural Gas with LP convertible kit</div>
+</li>
+<li>
+<div>BTU total: 307,000</div>
+</li>
+<li>Oven dimensions: 26-2/5" W x 26-1/3" Dx 13-3/5" H (per oven)</li>
+<li>Overall dimensions: 60" W x 32" D x 56-1/2" H</li>
+<li>
+<div><span>CSA approved</span></div>
+</li>
+<li><span>1 Year limited parts and labor</span></li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>Number of Burners_6</s:tag>
+    <s:tag>Power Type_Gas</s:tag>
+    <s:tag>Product type_Commercial Ranges</s:tag>
+    <s:tag>Vendor_Turbo Air</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4173453892</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4959.00</s:price>
+      <s:sku>TARG-6B24G</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4173453828</id>
+    <published>2016-01-13T22:43:00-06:00</published>
+    <updated>2016-01-13T22:43:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/radiance-tar-10-60-10-burner-range-with-2-standard-oven"/>
+    <title>Radiance TAR-10 60&quot; 10 Burner Gas Range with 2 Standard Oven</title>
+    <s:type>Commercial Ranges</s:type>
+    <s:vendor>Radiance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/tar-10_1_2.jpg?v=1453935492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Radiance<br>
+        <strong>Type: </strong>Commercial Ranges<br>
+        <strong>Price: </strong>
+            3669.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Radiance TAR-10 60" 10 Burner Gas Range with 2 Standard Oven</strong>
+<div class="col-xs-12 col-sm-6 ng-scope" ng-repeat="specifications in ctrl.specificationSets">
+<ul>
+<li>60″W Radiance Restaurant Range</li>
+<li>(10) 32,000 BTU/hr each lift-off top Open Burners</li>
+<li>2 standard oven w/(1) rack</li>
+<li>Stainless steel ext. at front, sides &amp; back riser lift-off high shelf</li>
+<li>Full stainless steel oven interior</li>
+<li>Adjustable oven thermostat</li>
+<li>26.3″ Depth standard</li>
+<li>6″ stainless steel adjustable legs standard, Regulator included, 390,000 BTU total</li>
+<li><span>Overall dimensions: 60" W x 32" D x 56-1/2" H</span></li>
+<li><span>Gas regulator included</span></li>
+<li><span>Natural Gas with LP convertible kit</span></li>
+<li><span>1 Year limited parts and labor</span></li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-6 ng-scope" ng-repeat="specifications in ctrl.specificationSets"><span></span></div>
+<div class="col-xs-12 col-sm-6 ng-scope" ng-repeat="specifications in ctrl.specificationSets"></div>
+<div class="col-xs-12 col-sm-6 ng-scope" ng-repeat="specifications in ctrl.specificationSets"><span></span></div>
+<div class="col-xs-12 col-sm-6 ng-scope" ng-repeat="specifications in ctrl.specificationSets"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>Number of Burners_10</s:tag>
+    <s:tag>Power Type_Gas</s:tag>
+    <s:tag>Product type_Commercial Ranges</s:tag>
+    <s:tag>Vendor_Turbo Air</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4173453828</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3669.00</s:price>
+      <s:sku>TAR-10</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4173453764</id>
+    <published>2016-01-13T22:43:00-06:00</published>
+    <updated>2016-01-13T22:43:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/radiance-targ-2b36g-48-2-burner-range-and-36-griddle-with-2-standard-oven"/>
+    <title>Radiance TARG-2B36G 48&quot; 2 Burner Range and 36&quot; Griddle with 2 Standard Oven</title>
+    <s:type>Commercial Ranges</s:type>
+    <s:vendor>Radiance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/targ-2b36g_1-mhxlydtmrxf8o3hx00x6zsp3yvgznmof28hloojrw0.jpeg?v=1453935512"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Radiance<br>
+        <strong>Type: </strong>Commercial Ranges<br>
+        <strong>Price: </strong>
+            4959.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Radiance TARG-2B36G 48" 2 Burner Range and 36" Griddle with 2 Standard Oven</strong></p>
+<ul>
+<li>Heavy gauge welded frame construction</li>
+<li>
+<div><span style="line-height: 1.4;">Radiance Restaurant Range</span></div>
+</li>
+<li>
+<div><span style="line-height: 1.4;">32,000 BTU</span></div>
+</li>
+<li>
+<div><span style="line-height: 1.4;">Open Burners</span></div>
+</li>
+<li>
+<div><span style="line-height: 1.4;">36" Griddle </span></div>
+</li>
+<li><span style="line-height: 1.4;"><span>Natural Gas with LP convertible kit</span></span></li>
+<li>
+<div><span style="line-height: 1.4;">2 standard ovens w/(1) rack</span></div>
+</li>
+<li>
+<div><span style="line-height: 1.4;">stainless steel ext. at front</span></div>
+</li>
+<li>
+<div><span style="line-height: 1.4;">sides &amp; back riser lift-off high shelf,</span></div>
+</li>
+<li>
+<div><span style="line-height: 1.4;">full stainless steel oven interior,</span></div>
+</li>
+<li>
+<div><span style="line-height: 1.4;">adjustable oven thermostat</span></div>
+</li>
+<li>
+<div><span style="line-height: 1.4;">26.3" Depth standard</span></div>
+</li>
+<li>
+<div><span style="line-height: 1.4;">6" stainless steel adjustable legs standard</span></div>
+</li>
+<li>
+<div><span style="line-height: 1.4;">regulator included</span></div>
+</li>
+<li>
+<div><span style="line-height: 1.4;">219,000 BTU total</span></div>
+</li>
+<li>
+<div><span style="line-height: 1.5;">Fully adjustable oven thermostat providing temperatures from 250-550 degrees</span></div>
+</li>
+<li>
+<div><span style="line-height: 1.4;">Thermostatically controlled Griddle</span></div>
+</li>
+<li><span style="line-height: 1.4;"><span>(Option of having griddle on right side or left side of burners when facing the front of the unit .Please call for availability)</span></span></li>
+<li>
+<div><span style="line-height: 1.4;">CSA certified</span></div>
+</li>
+<li><span style="line-height: 1.4;"><span>1 Year limited parts and labor</span></span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>Number of Burners_2</s:tag>
+    <s:tag>Power Type_Gas</s:tag>
+    <s:tag>Product type_Commercial Ranges</s:tag>
+    <s:tag>Vendor_Turbo Air</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4173453764</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4959.00</s:price>
+      <s:sku>TARG-2B36G</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4173453700</id>
+    <published>2016-01-13T22:43:00-06:00</published>
+    <updated>2016-01-13T22:43:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/radiance-targ-4b24g-48-4-burner-range-and-24-griddle-with-2-standard-oven"/>
+    <title>Radiance TARG-4B24G 48&quot; 4 Burner Range and 24&quot; Griddle with 2 Standard Oven</title>
+    <s:type>Commercial Ranges</s:type>
+    <s:vendor>Radiance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/turbo-air-targ-4b24g-range-48-restaurant-gas-138.jpg?v=1476121377"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Radiance<br>
+        <strong>Type: </strong>Commercial Ranges<br>
+        <strong>Price: </strong>
+            4859.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong> Radiance TARG-4B24G 48" 4 Burner Range and 24" Griddle with 2 Standard Oven</strong></p>
+<div>
+<ul>
+<li><span style="line-height: 1.5;">Stainless steel front, sides, and back riser lift-off high shelf frame construction</span></li>
+<li><span style="line-height: 1.5;">(4) Burners: Individual pilot for each lift off top open burner at 32,000 BTU/HR</span></li>
+<li><span style="line-height: 1.5;">24" Thermostatic griddle <span>(Option of having griddle on right side or left side of burners when facing the front of the unit .Please call for availability)</span></span></li>
+<li><span style="line-height: 1.5;">Four 6" Stainless steel adjustable legs</span></li>
+<li><span style="line-height: 1.5;">12" x 12" Sectioned heavy duty cast iron grates</span></li>
+<li><span style="line-height: 1.5;">Full size pull out crumb tray (2) Standard ovens</span></li>
+<li><span style="line-height: 1.5;">Wrap around full stainless steel oven interior</span></li>
+<li><span style="line-height: 1.5;">Adjustable oven thermostat from 250°F to 550°F</span></li>
+<li><span style="line-height: 1.5;">Pull off stainless steel door for easy cleaning</span></li>
+<li><span style="line-height: 1.5;">(1) Stainless steel oven rack per oven</span></li>
+<li><span style="line-height: 1.5;">Push button ignition to light a standing pilot for oven</span></li>
+<li><span style="line-height: 1.5;">Natural Gas with LP convertible kit</span></li>
+<li><span style="line-height: 1.5;">BTU total: 243,000</span></li>
+<li><span style="line-height: 1.5;">CSA approved</span></li>
+<li>
+<span>1 Year limited parts and labor Warranty</span> </li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>Number of Burners_4</s:tag>
+    <s:tag>Power Type_Gas</s:tag>
+    <s:tag>Product type_Commercial Ranges</s:tag>
+    <s:tag>Vendor_Turbo Air</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4173453700</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4859.00</s:price>
+      <s:sku>TARG-4B24G</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4173453636</id>
+    <published>2016-01-13T22:43:00-06:00</published>
+    <updated>2016-01-13T22:43:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/radiance-targ-6b12g-48-6-burner-range-and-12-griddle-with-2-standard-oven"/>
+    <title>Radiance TARG-6B12G 48&quot; 6 Burner Range and 12&quot; Griddle with 2 Standard Oven</title>
+    <s:type>Commercial Ranges</s:type>
+    <s:vendor>Radiance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/targ-6b12g_1.jpg?v=1507759352"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Radiance<br>
+        <strong>Type: </strong>Commercial Ranges<br>
+        <strong>Price: </strong>
+            4759.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Radiance TARG-6B12G 48" 6 Burner Range and 12" Griddle with 2 Standard Oven</strong></p>
+<div>
+<ul>
+<li><span style="line-height: 1.5;">Stainless steel front, sides, and back riser lift-off high shelf frame construction</span></li>
+<li>
+<div>(6) Burners: Individual pilot for each lift off top open burner at 32,000 BTU/HR</div>
+</li>
+<li>
+<div>12" Thermostatic griddle <span>(Option of having griddle on right side or left side of burners when facing the front of the unit .Please call for availability)</span>
+</div>
+</li>
+<li>
+<div>Four 6" Stainless steel adjustable legs</div>
+</li>
+<li>
+<div>12" x 12" Sectioned heavy duty cast iron grates</div>
+</li>
+<li>
+<div>Full size pull out crumb tray</div>
+</li>
+<li>
+<div>(2) Standard ovens</div>
+</li>
+<li>
+<div>Wrap around full stainless steel oven interior</div>
+</li>
+<li>
+<div>Adjustable oven thermostat from 250°F to 550°F</div>
+</li>
+<li>
+<div>Pull off stainless steel door for easy cleaning</div>
+</li>
+<li>
+<div>(1) Stainless steel oven rack per oven</div>
+</li>
+<li>
+<div>Push button ignition to light a standing pilot for oven</div>
+</li>
+<li>
+<div>Natural Gas with LP convertible kit</div>
+</li>
+<li>
+<div>BTU total: 277,000</div>
+</li>
+<li>Oven dimensions: 20-1/10" W x 26-1/3" D x 13-3/5" H</li>
+<li>Overall dimensions: 48" W x 32" D x 56-1/2" H</li>
+<li>
+<div>CSA approved</div>
+</li>
+<li><span>1 Year limited parts and labor</span></li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>Number of Burners_6</s:tag>
+    <s:tag>Power Type_Gas</s:tag>
+    <s:tag>Product type_Commercial Ranges</s:tag>
+    <s:tag>Vendor_Turbo Air</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4173453636</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4759.00</s:price>
+      <s:sku>TARG-6B12G</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4173453572</id>
+    <published>2016-01-13T22:43:00-06:00</published>
+    <updated>2016-01-13T22:43:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/radiance-tar-8-48-8-burner-range-with-2-standard-oven"/>
+    <title>Radiance TAR-8 48&quot; 8 Burner Gas Range with 2 Standard Oven</title>
+    <s:type>Commercial Ranges</s:type>
+    <s:vendor>Radiance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/tar-8_1_2.jpg?v=1453935508"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Radiance<br>
+        <strong>Type: </strong>Commercial Ranges<br>
+        <strong>Price: </strong>
+            3612.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong> Radiance TAR-8 48" 8 Burner Range with 2 Standard Oven</strong></p>
+<div>
+<ul>
+<li><span style="line-height: 1.5;">Stainless steel front, sides, and back riser lift-off high shelf frame construction</span></li>
+<li>
+<div>Wrap around full stainless steel oven interior (which eliminates the worry of paint chipping and rust)</div>
+</li>
+<li>
+<div>(8) Burners: Individual pilot for each lift off top open burner at 32,000 BTU/HR</div>
+</li>
+<li>
+<div>(2) Standard ovens</div>
+</li>
+<li>
+<div>6" Stainless steel adjustable legs</div>
+</li>
+<li>
+<div>12" x 12" Sectioned heavy duty cast iron grates</div>
+</li>
+<li>
+<div>Full size bread crumb tray</div>
+</li>
+<li>
+<div>Adjustable thermostat from 250°F to 550°F</div>
+</li>
+<li>
+<div>Pull off stainless steel door for easy cleaning</div>
+</li>
+<li>
+<div>(1) Stainless steel oven rack included per oven</div>
+</li>
+<li>
+<div>Push button ignition to light a standing pilot for oven</div>
+</li>
+<li>
+<div>Natural Gas with LP convertible kit</div>
+</li>
+<li>
+<div>Total BTUs: 326,000</div>
+</li>
+<li>
+<div>Gas regulator included</div>
+</li>
+<li>
+<div>Oven dimensions (per oven): 20-1/10" wide x 26-1/3" deep x 13-3/5" high</div>
+</li>
+<li>
+<div>Overall dimensions: 48" wide x 32" deep x 56-1/2" high</div>
+</li>
+<li>
+<div>CSA approved</div>
+</li>
+<li><span>1 Year limited parts and labor</span></li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>Number of Burners_8</s:tag>
+    <s:tag>Power Type_Gas</s:tag>
+    <s:tag>Product type_Commercial Ranges</s:tag>
+    <s:tag>Vendor_Turbo Air</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4173453572</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3612.00</s:price>
+      <s:sku>TAR-8</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4173453444</id>
+    <published>2016-01-13T22:43:00-06:00</published>
+    <updated>2016-01-13T22:43:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/radiance-targ-2b24g-36-2-burner-range-and-24-griddle-with-standard-oven"/>
+    <title>Radiance TARG-2B24G 36&quot; 2 Burner Range and 24&quot; Griddle with Standard Oven</title>
+    <s:type>Commercial Ranges</s:type>
+    <s:vendor>Radiance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/targ-2b24g_1_2.jpg?v=1453935503"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Radiance<br>
+        <strong>Type: </strong>Commercial Ranges<br>
+        <strong>Price: </strong>
+            3699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Radiance TARG-2B24G 36" 2 Burner Range and 24" Griddle with Standard Oven</strong></p>
+<ul>
+<li><span style="line-height: 1.5;">Stainless steel front, sides, and back riser lift-off high shelf frame construction</span></li>
+<li><span style="line-height: 1.5;">(2) Burners: Individual pilot for each lift off top open burner at 32,000 BTU/HR</span></li>
+<li><span style="line-height: 1.5;">24" Thermostatic griddle (Option of having griddle on right side or left side of burners when facing the front of the unit .Please call for availability)</span></li>
+<li><span style="line-height: 1.5;">Four 6" Stainless steel adjustable legs</span></li>
+<li><span style="line-height: 1.5;">12" x 12" Sectioned heavy duty cast iron grates</span></li>
+<li><span style="line-height: 1.5;">Full size pull out crumb tray</span></li>
+<li><span style="line-height: 1.5;">(1) Standard oven</span></li>
+<li><span style="line-height: 1.5;">Wrap around full stainless steel oven interior</span></li>
+<li><span style="line-height: 1.5;">Adjustable oven thermostat from 250°F to 550°F</span></li>
+<li><span style="line-height: 1.5;">Pull off stainless steel door for easy cleaning</span></li>
+<li><span style="line-height: 1.5;">(1) Stainless steel oven rack</span></li>
+<li><span style="line-height: 1.5;">Push button ignition to light a standing pilot for oven</span></li>
+<li><span style="line-height: 1.5;">Natural Gas with LP convertible kit</span></li>
+<li><span style="line-height: 1.5;">BTU total: 144,000</span></li>
+<li><span style="line-height: 1.5;"><span style="line-height: 1.5;"><span>CSA approved</span></span></span></li>
+<li><span style="line-height: 1.5;"><span style="line-height: 1.5;"><span>1 Year limited parts and labor</span></span></span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>Number of Burners_2</s:tag>
+    <s:tag>Power Type_Gas</s:tag>
+    <s:tag>Product type_Commercial Ranges</s:tag>
+    <s:tag>Vendor_Turbo Air</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4173453444</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3699.00</s:price>
+      <s:sku>TARG-2B24G</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4173453380</id>
+    <published>2016-01-13T22:43:00-06:00</published>
+    <updated>2016-01-13T22:43:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/radiance-targ-4b12g-36-4-burner-range-and-12-griddle-with-standard-oven"/>
+    <title>Radiance TARG-4B12G 36&quot; 4 Burner Range and 12&quot; Griddle with Standard Oven</title>
+    <s:type>Commercial Ranges</s:type>
+    <s:vendor>Radiance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/NDQ5MzNGNUNFOEEwRjAxNTI4OTI6MTljMGQ3NDNkYzVmNWI2MWE2NTFmOWVlNmNjYTg2OTQ6Ojo6OjA.jpg?v=1469657938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Radiance<br>
+        <strong>Type: </strong>Commercial Ranges<br>
+        <strong>Price: </strong>
+            3499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Radiance TARG-4B12G 36" 4 Burner Range and 12" Griddle with Standard Oven</strong></p>
+<ul>
+<li>Heavy gauge welded frame construction</li>
+<li>Stainless Steel front, sides, back riser lift-off high shelf</li>
+<li>Individual pilot for each lift off top open burner at 32,000 btu/hr</li>
+<li>6" stainless steel adjustable legs (Castors available as an option)</li>
+<li>12" x 12" sectioned heavy duty cast iron grates</li>
+<li>Full size pull out crumb tray</li>
+<li>Wrap around full stainless steel oven interior / 26.3" depth standard</li>
+<li>Fully adjustable oven thermostat providing temperatures from 250-550 degrees</li>
+<li>Pull off stainless steel door for easy cleaning</li>
+<li>Thermostatically controlled Griddle (Combo model)</li>
+<li>1 Stainless steel oven rack (Additional racks optional)</li>
+<li>Push button ignition to light a standing pilot for oven</li>
+<li>CSA certified for safety &amp; sanitation for U.S and Canada</li>
+<li>A full one year limited parts and labor warranty</li>
+<li>Dimensions: 36"L x 32"D x 56-1/2"H</li>
+<li>Oven Dimensions: (Interior): 26-1/2"L x 26-1/4"D x 13-1/2"H</li>
+<li>Number of Burners: 4 burners 12" griddle</li>
+<li><span><span>Natural Gas with LP convertible kit</span></span></li>
+<li><span><span>(Option of having griddle on right side or left side of burners when facing the front of the unit .Please call for availability)</span></span></li>
+<li>BTU: 178,000</li>
+<li><span>1 Year limited parts and labor</span></li>
+</ul>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>Number of Burners_4</s:tag>
+    <s:tag>Power Type_Gas</s:tag>
+    <s:tag>Product type_Commercial Ranges</s:tag>
+    <s:tag>Vendor_Turbo Air</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4173453380</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3499.00</s:price>
+      <s:sku>TARG-4B12G</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4173453316</id>
+    <published>2016-01-13T22:43:00-06:00</published>
+    <updated>2016-01-13T22:43:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/radiance-tar-36rb-36-radiant-broiler-top-with-standard-oven"/>
+    <title>Radiance TAR-36RB 36&quot; Radiant Broiler Top with Standard Oven</title>
+    <s:type>Commercial Ranges</s:type>
+    <s:vendor>Radiance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/tar-36rb_1_2.jpg?v=1453935506"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Radiance<br>
+        <strong>Type: </strong>Commercial Ranges<br>
+        <strong>Price: </strong>
+            3759.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Radiance TAR-36RB 36" Radiant Broiler Top with Standard Oven</strong></p>
+<ul>
+<li>Dimensions: 36"L x 31-7/8"D x 56-1/2"H</li>
+<li><span>Natural Gas with LP convertible kit</span></li>
+<li>12 x 12 sectioned heavy duty cast iron grate</li>
+<li>Heavy gauge welded frame construction.</li>
+<li>Stainless steel front, sides, back riser lift-off high shelf</li>
+<li>15,000 BTU/hr stainless steel straight burner for every 6” of broiler width</li>
+<li>6” stainless steel adjustable legs</li>
+<li>Reversible 3 cast-iron grate with grease runner</li>
+<li>Full size pull out crumb tray</li>
+<li>Wrap around full stainless steel oven interior / 26.3” depth standard.</li>
+<li>Fully adjustable oven thermostat providing temperatures from 250-550 degrees.</li>
+<li>Pull off stainless steel door for easy cleaning.</li>
+<li>1 stainless steel oven rack (Additional racks optional).</li>
+<li>CSA certified for safety &amp; sanitation for U.S. and Canada.</li>
+<li>1 year limited parts and labor warranty.</li>
+<li>Interior Dimensions: 26-3/8"L x 26-1/4"D x 13-5/8"H</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>Number of Burners_None</s:tag>
+    <s:tag>Power Type_Gas</s:tag>
+    <s:tag>Product type_Commercial Ranges</s:tag>
+    <s:tag>Vendor_Turbo Air</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4173453316</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3759.00</s:price>
+      <s:sku>TAR-36RB</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4173453252</id>
+    <published>2016-01-13T22:43:00-06:00</published>
+    <updated>2016-01-13T22:43:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/radiance-tar-36g-36-griddle-range-with-standard-oven"/>
+    <title>Radiance TAR-36G 36&quot; Heavy Duty Gas Range w/ Griddle</title>
+    <s:type>Commercial Ranges</s:type>
+    <s:vendor>Radiance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/tar-36g_1_2.jpg?v=1453935494"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Radiance<br>
+        <strong>Type: </strong>Commercial Ranges<br>
+        <strong>Price: </strong>
+            3709.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Radiance TAR-36G 36" Heavy Duty Gas Range w/ Griddle </strong></p>
+<ul>
+<li><span style="line-height: 1.5;">Heavy duty restaurant range</span></li>
+<li><span style="line-height: 1.5;">Natural Gas with LP convertible kit</span></li>
+<li><span style="line-height: 1.5;">Gas pressure: 5 W.C"</span></li>
+<li><span style="line-height: 1.5;">36" wide</span></li>
+<li><span style="line-height: 1.5;">Thermostatically controlled griddle</span></li>
+<li><span style="line-height: 1.5;">12" x 12" sectioned heavy duty cast iron grates</span></li>
+<li><span style="line-height: 1.5;">Stainless steel front, sides &amp; back riser lift-off high shelf</span></li>
+<li><span style="line-height: 1.5;">Stainless steel oven interior 26.3 D standard oven base</span></li>
+<li><span style="line-height: 1.5;">Crumb tray</span></li>
+<li><span style="line-height: 1.5;">Fully adjustable oven thermostat providing temperatures from 250F to 550F</span></li>
+<li><span style="line-height: 1.5;">94,000 BTU Total</span></li>
+<li><span style="line-height: 1.5;">6" stainless steel legs</span></li>
+<li><span style="line-height: 1.5;">CSA certified</span></li>
+<li><span style="line-height: 1.5;"><span>1 Year limited parts and labor</span></span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>Number of Burners_None</s:tag>
+    <s:tag>Power Type_Gas</s:tag>
+    <s:tag>Product type_Commercial Ranges</s:tag>
+    <s:tag>Vendor_Turbo Air</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4173453252</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3709.00</s:price>
+      <s:sku>TAR-36G</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4173453060</id>
+    <published>2016-01-13T22:43:00-06:00</published>
+    <updated>2016-01-13T22:43:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/radiance-tar-6-36-4-burner-range-with-standard-oven"/>
+    <title>Radiance TAR-6 36&quot; 6 Burner Range with Standard Oven</title>
+    <s:type>Commercial Ranges</s:type>
+    <s:vendor>Radiance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/md_n119599_9198c58c-242d-4b5d-8a57-ef10ae7ba1a7.jpeg?v=1453935526"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Radiance<br>
+        <strong>Type: </strong>Commercial Ranges<br>
+        <strong>Price: </strong>
+            1769.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>   Radiance TAR-6 36" 6 Burner Range with Standard Oven</strong></p>
+<ul>
+<li><span style="line-height: 1.5;">Radiance Heavy Duty Restaurant Range</span></li>
+<li><span style="line-height: 1.5;">56-1/2" (H) x 36" (W) x 32" (D)</span></li>
+<li><span style="line-height: 1.5;">250° to 550°F temperature range</span></li>
+<li><span style="line-height: 1.5;">Heavy gauge welded frame construction</span></li>
+<li><span style="line-height: 1.5;">Stainless steel front, sides, back riser and lift off shelf</span></li>
+<li><span style="line-height: 1.5;">Individual pilot for each lift off top open burner</span></li>
+<li><span style="line-height: 1.5;">(6) open burners</span></li>
+<li><span style="line-height: 1.5;">12" x 12" heavy duty cast iron grates</span></li>
+<li><span style="line-height: 1.5;">6 in stainless steel legs</span></li>
+<li><span style="line-height: 1.5;">227,000 total BTU</span></li>
+<li><span style="line-height: 1.5;">Full size pull out crumb tray</span></li>
+<li><span style="line-height: 1.5;">Stainless steel oven interior</span></li>
+<li><span style="line-height: 1.5;">(1) oven rack included</span></li>
+<li><span style="line-height: 1.5;">Push button ignition for standing pilot</span></li>
+<li><span style="line-height: 1.5;">3/4 in gas connection</span></li>
+<li><span style="line-height: 1.5;">CSA certified</span></li>
+<li><span style="line-height: 1.5;"><span> 1 Year limited parts &amp; labor warranty</span></span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>Number of Burners_6</s:tag>
+    <s:tag>Power Type_Gas</s:tag>
+    <s:tag>Product type_Commercial Ranges</s:tag>
+    <s:tag>Vendor_Turbo Air</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4173453060</id>
+      <title>Natural</title>
+      <s:price currency="USD">1769.00</s:price>
+      <s:sku>TAR-6-NAT</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4173453060</id>
+      <title>Propane/LP</title>
+      <s:price currency="USD">1769.00</s:price>
+      <s:sku>TAR-6_LP</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4173452996</id>
+    <published>2016-01-13T22:43:00-06:00</published>
+    <updated>2016-01-13T22:43:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/radiance-tar-24rb-24-radiant-broiler-top-with-standard-oven"/>
+    <title>Radiance TAR-24RB 24&quot; Radiant Broiler Top with Standard Oven</title>
+    <s:type>Commercial Ranges</s:type>
+    <s:vendor>Radiance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/md_n168490_8c5ee932-33e6-4319-b0e9-42f31dcf75d3.jpeg?v=1453935500"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Radiance<br>
+        <strong>Type: </strong>Commercial Ranges<br>
+        <strong>Price: </strong>
+            3619.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><strong>Radiance TAR-24RB 24" Radiant Broiler Top with Standard Oven</strong></div>
+<ul>
+<li><span>Natural Gas with LP convertible kit</span></li>
+<li><span style="line-height: 1.5;">24" wide</span></li>
+<li><span style="line-height: 1.5;">Heavy gauge welded frame construction</span></li>
+<li><span style="line-height: 1.5;">Stainless steel front, sides, back riser lift-off high shelf</span></li>
+<li><span style="line-height: 1.5;">Individual pilot for each lift off top open burner at 32,000 btu/hr</span></li>
+<li><span style="line-height: 1.5;">6" stainless steel adjustable legs</span></li>
+<li><span style="line-height: 1.5;">12" x 12" sectioned heavy duty cast iron grates</span></li>
+<li><span style="line-height: 1.5;">Full size pull out crumb tray</span></li>
+<li><span style="line-height: 1.5;">Wrap around full stainless steel oven interior / 26.3" depth standard</span></li>
+<li><span style="line-height: 1.5;">Fully adjustable oven thermostat providing temperatures from 250-550F degrees</span></li>
+<li><span style="line-height: 1.5;">Pull off stainless steel door for easy </span></li>
+<li><span style="line-height: 1.5;">cleaning</span></li>
+<li><span style="line-height: 1.5;">Thermostat controlled griddle</span></li>
+<li><span style="line-height: 1.5;">1 stainless steel oven rack standard</span></li>
+<li><span style="line-height: 1.5;">CSA certified</span></li>
+<li><span style="line-height: 1.5;"><span>1 Year limited parts and labor</span></span></li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>Number of Burners_None</s:tag>
+    <s:tag>Power Type_Gas</s:tag>
+    <s:tag>Product type_Commercial Ranges</s:tag>
+    <s:tag>Vendor_Turbo Air</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4173452996</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3619.00</s:price>
+      <s:sku>TAR-24RB</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4173452932</id>
+    <published>2016-01-13T22:43:00-06:00</published>
+    <updated>2016-01-13T22:43:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/radiance-tar-24g-24-griddle-range-with-standard-oven"/>
+    <title>Radiance TAR-24G 24&quot; Thermostatic Griddle Range with Standard Oven</title>
+    <s:type>Commercial Ranges</s:type>
+    <s:vendor>Radiance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/tur-tar-24g_0c4d9c9e-30ce-49d2-ab69-a21098243e59.jpeg?v=1453935487"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Radiance<br>
+        <strong>Type: </strong>Commercial Ranges<br>
+        <strong>Price: </strong>
+            3569.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Radiance TAR-24G 24" Thermostatic Griddle Range with Standard Oven</strong>
+<ul>
+<li>Heavy duty restaurant range</li>
+<li>Natural Gas with LP convertible kit</li>
+<li>24" wide</li>
+<li>Thermostatically controlled griddle</li>
+<li>Stainless steel front, sides &amp; back riser lift-off high shelf</li>
+<li>Stainless steel oven interior 26.3 D standard oven base</li>
+<li>Crumb tray</li>
+<li>Fully adjustable oven thermostat providing temperatures from 250F to 550F</li>
+<li>72,000 BTU Total</li>
+<li>6" stainless steel legs</li>
+<li>CSA certified</li>
+<li>
+<div class="detail-row">
+<label>Dimensions:</label> 24"W x 32"D x 56-1/2"H</div>
+<div class="detail-row"><label></label></div>
+</li>
+<li>Warranty:<span>1 Year parts and labor</span>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>Number of Burners_None</s:tag>
+    <s:tag>Power Type_Gas</s:tag>
+    <s:tag>Product type_Commercial Ranges</s:tag>
+    <s:tag>Vendor_Turbo Air</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4173452932</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3569.00</s:price>
+      <s:sku>TAR-24G</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4173452804</id>
+    <published>2016-01-13T22:43:00-06:00</published>
+    <updated>2016-01-13T22:43:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/radiance-tar-4-24-4-burner-range-with-standard-oven"/>
+    <title>Radiance TAR-4 24&quot; 4 Burner Range with Standard Oven</title>
+    <s:type>Commercial Ranges</s:type>
+    <s:vendor>Radiance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/083-tar4lp_large_d1e85370-1ce3-4424-910d-4af46f239c0e.jpeg?v=1453935497"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Radiance<br>
+        <strong>Type: </strong>Commercial Ranges<br>
+        <strong>Price: </strong>
+            1709.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4 class="detail-label">Radiance TAR-4 24" 4 Burner Range with Standard Oven</h4>
+<div>
+<ul>
+<li><span style="line-height: 1.5;">Radiance Heavy Duty Restaurant Range</span></li>
+<li><span style="line-height: 1.5;">56-1/2" (H) x 24" (W) x 32" (D) overall dimensions</span></li>
+<li><span style="line-height: 1.5;">20-1/8" (L) x 26-1/4" (D) x 13-5/8" (H) oven dimensions (standard depth)</span></li>
+<li><span style="line-height: 1.5;">250° to 550°F temperature range</span></li>
+<li><span style="line-height: 1.5;">Heavy gauge welded frame construction</span></li>
+<li><span style="line-height: 1.5;">Stainless steel front, sides, back riser and lift off shelf</span></li>
+<li><span style="line-height: 1.5;">Individual pilot for each lift off top open burner</span></li>
+<li><span style="line-height: 1.5;">(4) open burners</span></li>
+<li><span style="line-height: 1.5;">12" x 12" heavy duty cast iron grates</span></li>
+<li><span style="line-height: 1.5;">6" stainless steel legs</span></li>
+<li><span style="line-height: 1.5;">163,000 total BTU’s</span></li>
+<li><span style="line-height: 1.5;">Full size pull out crumb tray</span></li>
+<li><span style="line-height: 1.5;">Stainless steel oven interior</span></li>
+<li><span style="line-height: 1.5;">(1) oven rack included</span></li>
+<li><span style="line-height: 1.5;">Push button ignition for standing pilot</span></li>
+<li><span style="line-height: 1.5;">3/4" gas connection</span></li>
+<li><span style="line-height: 1.5;"><span>Natural Gas with LP convertible kit</span></span></li>
+<li><span style="line-height: 1.5;">CSA certified</span></li>
+<li><span style="line-height: 1.5;"><span>1 Year limited parts and labor</span></span></li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>Number of Burners_4</s:tag>
+    <s:tag>Power Type_Gas</s:tag>
+    <s:tag>Product type_Commercial Ranges</s:tag>
+    <s:tag>sales</s:tag>
+    <s:tag>Vendor_Turbo Air</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4173452804</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1709.00</s:price>
+      <s:sku>TAR-4</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+</feed>

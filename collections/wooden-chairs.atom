@@ -1,0 +1,872 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.champsrestaurantsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.champsrestaurantsupply.com/collections/wooden-chairs.atom"/>
+  <title>Champs Restaurant Supply</title>
+  <updated>2017-05-17T11:28:11-05:00</updated>
+  <author>
+    <name>Champs Restaurant Supply</name>
+  </author>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11419151631</id>
+    <published>2017-05-17T11:28:11-05:00</published>
+    <updated>2017-05-17T11:28:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/mkld-6854-cherry-finished-solid-back-wooden-restaurant-chair-with-black-vinyl-seat"/>
+    <title>MK6854 Cherry Finished Solid Back Wooden Restaurant Chair with Black Vinyl Seat</title>
+    <s:type>Wooden Chairs</s:type>
+    <s:vendor>MKLD Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/20130907062817759.jpg?v=1495042499"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MKLD Furniture<br>
+        <strong>Type: </strong>Wooden Chairs<br>
+        <strong>Price: </strong>
+            135.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>FEATURES</strong></p>
+<p>The wood chair will offer a classic,elegant look when furnishing your establishment. This stool is easy to clean,which is an important aspect when it comes to a business. This stool was designed to withstand the daily rigors in the hospitality industry,but will also provide a warm and inviting quality to your home. The thick,foam padded seat will keep users comfortable. The floor glides help protect your floors and ensure smooth gliding. This elegantly styled stool will highlight your home or business without disappointment. </p>
+<p> </p>
+<p>Width:18"</p>
+<p>Overall Height:34"</p>
+<p>Seat Height:18"</p>
+<p>Seat Depth:17"</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11419151631</id>
+      <title>Default Title</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku>6854</s:sku>
+      <s:grams>7257</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4754505156</id>
+    <published>2016-04-11T16:49:00-05:00</published>
+    <updated>2016-04-11T16:49:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/cwc-6236d-lattice-back-side-chair-with-dark-mahogany-finish"/>
+    <title>MK6236D Slotted Wooden Back Side Chair with Walnut Finish</title>
+    <s:type>Wooden Chairs</s:type>
+    <s:vendor>MKLD Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/20130907113916323.jpg?v=1460730305"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MKLD Furniture<br>
+        <strong>Type: </strong>Wooden Chairs<br>
+        <strong>Price: </strong>
+            135.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2><strong>FEATURES</strong></h2>
+<p>Create a first-rate dining experience by offering your patrons tasty food, great service and attractive furnishings. These wood chair will offer a classic, elegant look to your establishment.</p>
+<p>The thick, foam padded seat will provide comfortable seating while the durable frame is stabilized with reinforced brackets and solid construction.Each chair is equipped with four plastic foot glides to help protect your floors and ensure smooth gliding across all surfaces. This elegantly styled chair will be a great additional to your business.</p>
+<p><strong> <span mce-data-marked="1">Seat height: 20''H</span></strong></p>
+<p><strong><span mce-data-marked="1"> Width: 18''W</span></strong></p>
+<p><strong><span mce-data-marked="1"> Height: 34''H</span></strong></p>
+<p><strong><span mce-data-marked="1"> Depth: 21''D</span></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product type_Wooden Chairs</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4754505156</id>
+      <title>Default Title</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku>6236D</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4754500484</id>
+    <published>2016-04-11T16:47:00-05:00</published>
+    <updated>2016-04-11T16:47:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/cwc-6236c-lattice-back-side-chair-with-dark-mahogany-finish"/>
+    <title>MK6236C Slotted Wooden Back Side Chair with Dark Mahogany Finish</title>
+    <s:type>Wooden Chairs</s:type>
+    <s:vendor>MKLD Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/20130907042437694.jpg?v=1460730318"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MKLD Furniture<br>
+        <strong>Type: </strong>Wooden Chairs<br>
+        <strong>Price: </strong>
+            135.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2><strong>FEATURES</strong></h2>
+<p>Create a first-rate dining experience by offering your patrons tasty food, great service and attractive furnishings. These wood chair will offer a classic, elegant look to your establishment.</p>
+<p>The thick, foam padded seat will provide comfortable seating while the durable frame is stabilized with reinforced brackets and solid construction.Each chair is equipped with four plastic foot glides to help protect your floors and ensure smooth gliding across all surfaces. This elegantly styled chair will be a great additional to your business.</p>
+<p><strong> <span mce-data-marked="1">Seat height: 20''H</span></strong></p>
+<p><strong><span mce-data-marked="1"> Width: 18''W</span></strong></p>
+<p><strong><span mce-data-marked="1"> Height: 34''H</span></strong></p>
+<p><strong><span mce-data-marked="1"> Depth: 21''D</span></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product type_Wooden Chairs</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4754500484</id>
+      <title>Default Title</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku>6236C</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4754496964</id>
+    <published>2016-04-11T16:46:00-05:00</published>
+    <updated>2016-04-11T16:46:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/cwc-6236b-lattice-back-side-chair-with-dark-mahogany-finish"/>
+    <title>MK6236B Slotted Wooden Back Side Chair with Walnut Finish</title>
+    <s:type>Wooden Chairs</s:type>
+    <s:vendor>MKLD Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/20130907114134754.jpg?v=1460730320"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MKLD Furniture<br>
+        <strong>Type: </strong>Wooden Chairs<br>
+        <strong>Price: </strong>
+            110.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2><strong>FEATURES</strong></h2>
+<p>Create a first-rate dining experience by offering your patrons tasty food, great service and attractive furnishings. These wood chair will offer a classic, elegant look to your establishment.</p>
+<p>The thick, foam padded seat will provide comfortable seating while the durable frame is stabilized with reinforced brackets and solid construction.Each chair is equipped with four plastic foot glides to help protect your floors and ensure smooth gliding across all surfaces. This elegantly styled chair will be a great additional to your business.</p>
+<p><strong> <span mce-data-marked="1">Seat height: 20''H</span></strong></p>
+<p><strong><span mce-data-marked="1"> Width: 18''W</span></strong></p>
+<p><strong><span mce-data-marked="1"> Height: 34''H</span></strong></p>
+<p><strong><span mce-data-marked="1"> Depth: 21''D</span></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product type_Wooden Chairs</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4754496964</id>
+      <title>Default Title</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>6236B</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4754491012</id>
+    <published>2016-04-11T16:43:00-05:00</published>
+    <updated>2016-04-11T16:43:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/cwc-6332-lattice-back-side-chair-with-dark-mahogany-finish"/>
+    <title>MK6332 Slotted Wooden Back Side Chair with Dark Mahogany Finish</title>
+    <s:type>Wooden Chairs</s:type>
+    <s:vendor>MKLD Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/20130907063244750.jpg?v=1460730845"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MKLD Furniture<br>
+        <strong>Type: </strong>Wooden Chairs<br>
+        <strong>Price: </strong>
+            135.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2><strong>FEATURES</strong></h2>
+<p>Create a first-rate dining experience by offering your patrons tasty food, great service and attractive furnishings. These wood chair will offer a classic, elegant look to your establishment.</p>
+<p>The thick, foam padded seat will provide comfortable seating while the durable frame is stabilized with reinforced brackets and solid construction.Each chair is equipped with four plastic foot glides to help protect your floors and ensure smooth gliding across all surfaces. This elegantly styled chair will be a great additional to your business.</p>
+<p><strong> <span mce-data-marked="1">Seat height: 20''H</span></strong></p>
+<p><strong><span mce-data-marked="1"> Width: 18''W</span></strong></p>
+<p><strong><span mce-data-marked="1"> Height: 34''H</span></strong></p>
+<p><strong><span mce-data-marked="1"> Depth: 21''D</span></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product type_Wooden Chairs</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4754491012</id>
+      <title>Default Title</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku>6332</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4754483908</id>
+    <published>2016-04-11T16:36:00-05:00</published>
+    <updated>2016-04-11T16:36:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/cwc-6852-lattice-back-side-chair-with-dark-mahogany-finish"/>
+    <title>MK6852 Walnut Finished Solid Wooden Back Restaurant Chair</title>
+    <s:type>Wooden Chairs</s:type>
+    <s:vendor>MKLD Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/20130909084741523.jpg?v=1460730778"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MKLD Furniture<br>
+        <strong>Type: </strong>Wooden Chairs<br>
+        <strong>Price: </strong>
+            135.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2><strong>FEATURES</strong></h2>
+<p>Create a first-rate dining experience by offering your patrons tasty food, great service and attractive furnishings. These wood chair will offer a classic, elegant look to your establishment.</p>
+<p>The thick, foam padded seat will provide comfortable seating while the durable frame is stabilized with reinforced brackets and solid construction.Each chair is equipped with four plastic foot glides to help protect your floors and ensure smooth gliding across all surfaces. This elegantly styled chair will be a great additional to your business.</p>
+<p><strong> <span mce-data-marked="1">Seat height: 20''H</span></strong></p>
+<p><strong><span mce-data-marked="1"> Width: 18''W</span></strong></p>
+<p><strong><span mce-data-marked="1"> Height: 34''H</span></strong></p>
+<p><strong><span mce-data-marked="1"> Depth: 21''D</span></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product type_Wooden Chairs</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4754483908</id>
+      <title>Default Title</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku>6852</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4754477956</id>
+    <published>2016-04-11T16:29:00-05:00</published>
+    <updated>2016-04-11T16:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/cwc-6231-lattice-back-side-chair-with-dark-mahogany-finish"/>
+    <title>MK6231 Mahogany Finished Horizontal Slat Back Wooden Restaurant Chair with Black Vinyl Seat</title>
+    <s:type>Wooden Chairs</s:type>
+    <s:vendor>MKLD Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/20130907114758118_cdc5f132-0383-4b98-a7fd-7f8c93ab1ca1.jpg?v=1460730249"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MKLD Furniture<br>
+        <strong>Type: </strong>Wooden Chairs<br>
+        <strong>Price: </strong>
+            106.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>FEATURES</strong></p>
+<p>Create a first-rate dining experience by offering your patrons tasty food, great service and attractive furnishings. These wood chair will offer a classic, elegant look to your establishment. The thick, foam padded seat will provide comfortable seating while the durable frame is stabilized with reinforced brackets and solid construction.Each chair is equipped with four plastic foot glides to help protect your floors and ensure smooth gliding across all surfaces. This elegantly styled chair will be a great additional to your business.</p>
+<p><strong>Seat height: 20''H</strong></p>
+<p><strong> Width: 18''W</strong></p>
+<p><strong> Height: 34''H </strong></p>
+<p><strong>Depth: 21''D</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product type_Wooden Chairs</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4754477956</id>
+      <title>Default Title</title>
+      <s:price currency="USD">106.00</s:price>
+      <s:sku>6231</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4754465924</id>
+    <published>2016-04-11T16:27:00-05:00</published>
+    <updated>2016-04-11T16:27:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/cwc-6259-lattice-back-side-chair-with-dark-mahogany-finish"/>
+    <title>MK6259 Slotted Wooden Back Side Chair with Dark Mahogany Finish</title>
+    <s:type>Wooden Chairs</s:type>
+    <s:vendor>MKLD Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/20130907112736539.jpg?v=1460730879"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MKLD Furniture<br>
+        <strong>Type: </strong>Wooden Chairs<br>
+        <strong>Price: </strong>
+            129.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2><strong>FEATURES</strong></h2>
+<p>Create a first-rate dining experience by offering your patrons tasty food, great service and attractive furnishings. These wood chair will offer a classic, elegant look to your establishment. The thick, foam padded seat will provide comfortable seating while the durable frame is stabilized with reinforced brackets and solid construction.Each chair is equipped with four plastic foot glides to help protect your floors and ensure smooth gliding across all surfaces. This elegantly styled chair will be a great additional to your business.</p>
+<p><strong>Seat height: 20''H</strong></p>
+<p><strong>Width: 18''W</strong></p>
+<p><strong>Height: 34''H</strong></p>
+<p><strong>Depth: 21''D</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product type_Wooden Chairs</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4754465924</id>
+      <title>Default Title</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>6259</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4754455300</id>
+    <published>2016-04-11T16:25:00-05:00</published>
+    <updated>2016-04-11T16:25:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/cwc-6026-lattice-back-side-chair-with-dark-mahogany-finish"/>
+    <title>MK6026 Slotted Wooden Back Side Chair with Dark Walnut Finish</title>
+    <s:type>Wooden Chairs</s:type>
+    <s:vendor>MKLD Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/20130909083214378.jpg?v=1460729554"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MKLD Furniture<br>
+        <strong>Type: </strong>Wooden Chairs<br>
+        <strong>Price: </strong>
+            129.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2><strong>FEATURES</strong></h2>
+<p>Create a first-rate dining experience by offering your patrons tasty food, great service and attractive furnishings. These wood chair will offer a classic, elegant look to your establishment. The thick, foam padded seat will provide comfortable seating while the durable frame is stabilized with reinforced brackets and solid construction.Each chair is equipped with four plastic foot glides to help protect your floors and ensure smooth gliding across all surfaces. This elegantly styled chair will be a great additional to your business.</p>
+<p><strong>Seat height: 20''H</strong></p>
+<p><strong>Width: 18''W</strong></p>
+<p><strong>Height: 34''H</strong></p>
+<p><strong>Depth: 21''D</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product type_Wooden Chairs</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4754455300</id>
+      <title>Default Title</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>6026</s:sku>
+      <s:grams>7257</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4754449860</id>
+    <published>2016-04-11T16:19:00-05:00</published>
+    <updated>2016-04-11T16:19:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/cwc-6025-lattice-back-side-chair-with-dark-mahogany-finish"/>
+    <title>MK6025 Slotted Wooden Back Side Chair with Dark Walnut Finish</title>
+    <s:type>Wooden Chairs</s:type>
+    <s:vendor>MKLD Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/20130909083056560.jpg?v=1460729687"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MKLD Furniture<br>
+        <strong>Type: </strong>Wooden Chairs<br>
+        <strong>Price: </strong>
+            129.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2><strong>FEATURES</strong></h2>
+<p>Create a first-rate dining experience by offering your patrons tasty food, great service and attractive furnishings. These wood chair will offer a classic, elegant look to your establishment. The thick, foam padded seat will provide comfortable seating while the durable frame is stabilized with reinforced brackets and solid construction.Each chair is equipped with four plastic foot glides to help protect your floors and ensure smooth gliding across all surfaces. This elegantly styled chair will be a great additional to your business.</p>
+<p><strong>Seat height: 20''H </strong></p>
+<p><strong>Width: 18''W</strong></p>
+<p><strong> Height: 34''H</strong></p>
+<p><strong> Depth: 21''D</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product type_Wooden Chairs</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4754449860</id>
+      <title>Default Title</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>6025</s:sku>
+      <s:grams>7257</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4754440068</id>
+    <published>2016-04-11T16:13:00-05:00</published>
+    <updated>2016-04-11T16:13:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/cwc-6239-mahogany-finished-vertical-slat-back-wooden-restaurant-chair-with-black-vinyl-seat"/>
+    <title>MK6239 Mahogany Finished Vertical Slat Back Wooden Restaurant Chair</title>
+    <s:type>Wooden Chairs</s:type>
+    <s:vendor>MKLD Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/20130907113646153.jpg?v=1460730287"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MKLD Furniture<br>
+        <strong>Type: </strong>Wooden Chairs<br>
+        <strong>Price: </strong>
+            159.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Elegant Wood Chair Description: This Chair Is A Very Elegant Wood Chair With Details. It's The Top Option For Style And It Is Designed For Heavy Duty Commercial Usage. It Is Made Out Of Solid European Beech Wood. It Is Assembled With Solid Wood Corner Blocks, Secured By Two Wood Bolts And Four Wood Screws, Distribute Pressure Throughout Frame. All Joints Are Glued, Screwed, And Connected By Mortise And Tenon. Legs Are Secured To The Seat Pan Using Durable Wood Bolts. Critical Pressure Points Are Reinforced With Heavy Duty L Brackets. The Same Designed Barstools Are Available.</p>
+<p>Finish: Walnut, Mahogany, Cherry, Natural, Black, Wild Cherry, Red Cherry</p>
+<p>Seat: Wood Veneer, 1” Thick Solid Wood Or 2” Thick High Density Foam Upholstered With Standard Fabric, Vinyl Or COM</p>
+<p>COM Yardage: 0.5 Yds For The Seat,</p>
+<p>Glides: Plastic</p>
+<p>Counter-Height Stools Available</p>
+<p>Arms Available For Addon</p>
+<p><strong>Specifications</strong></p>
+<p>Width: 18”</p>
+<p>Overall Height: 34”</p>
+<p>Seat Height: 18"</p>
+<p>Seat Depth: 17"</p>
+<p>Shipping Weight: 20 Lbs Each</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product type_Wooden Chairs</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4754440068</id>
+      <title>Default Title</title>
+      <s:price currency="USD">159.00</s:price>
+      <s:sku>6239</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4754429636</id>
+    <published>2016-04-11T16:07:00-05:00</published>
+    <updated>2016-04-11T16:07:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/cwc-6246-walnut-finished-slat-back-wooden-restaurant-chair-with-burgundy-vinyl-seat"/>
+    <title>MK6246 Slotted Wooden Back Side Chair with Walnut Finish</title>
+    <s:type>Wooden Chairs</s:type>
+    <s:vendor>MKLD Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/20130909082642140.jpg?v=1460730392"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MKLD Furniture<br>
+        <strong>Type: </strong>Wooden Chairs<br>
+        <strong>Price: </strong>
+            119.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>FEATURES</strong></p>
+<p><span>Create a first-rate dining experience by offering your patrons tasty food, great service and attractive furnishings. These wood chair will offer a classic, elegant look to your establishment.</span></p>
+<p><span>The thick, foam padded seat will provide comfortable seating while the durable frame is stabilized with reinforced brackets and solid construction. Each chair is equipped with four plastic foot glides to help protect your floors and ensure smooth gliding across all surfaces. This elegantly styled chair will be a great additional to your business.</span></p>
+<p><strong>Seat height: 20''H</strong></p>
+<p><strong>Width: 18''W</strong></p>
+<p><strong>Height: 34''H</strong></p>
+<p><strong>Depth: 21''D</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product type_Wooden Chairs</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4754429636</id>
+      <title>Default Title</title>
+      <s:price currency="USD">119.00</s:price>
+      <s:sku>6246</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4754413060</id>
+    <published>2016-04-11T15:51:00-05:00</published>
+    <updated>2016-04-11T15:51:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/cwc-6790"/>
+    <title>MK6790 Walnut Finished Solid Wooden Back Wooden Restaurant Chair</title>
+    <s:type>Wooden Chairs</s:type>
+    <s:vendor>MKLD Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/20130907054821486.jpg?v=1460730816"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MKLD Furniture<br>
+        <strong>Type: </strong>Wooden Chairs<br>
+        <strong>Price: </strong>
+            159.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Unique Back Design Is An Ideal For Hospitality Setting. This Side Chair Is Designed For Heavy Duty Commercial Usage. It Is Made Out Of Solid European Beech Wood. It Is Assembled With Solid Wood Corner Blocks, Secured By Two Wood Bolts And Four Wood Screws, Distribute Pressure Throughout Frame. All Joints Are Glued, Screwed, And Connected By Mortise And Tenon. Legs Are Secured To The Seat Pan Using Durable Wood Bolts. Critical Pressure Points Are Reinforced With Heavy Duty L Brackets.</p>
+<p>Finish: Walnut, Mahogany, Cherry, Natural, Black, Wild Cherry, Red Cherry</p>
+<p>Seat: Wood Veneer, 1” Thick Solid Wood Or 2” Thick High Density Foam Upholstered With Standard Fabric, Vinyl Or COM</p>
+<p>COMYardage: 0.5 Yds For The Seat,</p>
+<p>Glides: Plastic</p>
+<p>Counter-Height Stools Available</p>
+<p>Arms Available For Addon</p>
+<p><strong>Specifications</strong></p>
+<p>Width: 18”</p>
+<p>Overall Height: 34”</p>
+<p>Seat Height: 18"</p>
+<p>Seat Depth: 17"</p>
+<p>Shipping<span style="line-height: 1.4;">Weight: 20 Lbs Each</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product type_Wooden Chairs</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4754413060</id>
+      <title>Default Title</title>
+      <s:price currency="USD">159.00</s:price>
+      <s:sku>6790</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4754345540</id>
+    <published>2016-04-11T15:35:00-05:00</published>
+    <updated>2016-04-11T15:35:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/cwc-6242-mahogany-finished-vertical-slat-back-wooden-restaurant-chair-with-black-vinyl-seat"/>
+    <title>MK6242 Cherry Finished Vertical Slat Back Wooden Restaurant Chair with Black Vinyl Seat</title>
+    <s:type>Wooden Chairs</s:type>
+    <s:vendor>MKLD Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/20130908091836861.jpg?v=1495033683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MKLD Furniture<br>
+        <strong>Type: </strong>Wooden Chairs<br>
+        <strong>Price: </strong>
+            99.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>FEATURES</strong></p>
+<p><span>Create a first-rate dining experience by offering your patrons tasty food, great service and attractive furnishings. These wood chair will offer a classic, elegant look to your establishment.</span></p>
+<p><span>The thick, foam padded seat will provide comfortable seating while the durable frame is stabilized with reinforced brackets and solid construction. Each chair is equipped with four plastic foot glides to help protect your floors and ensure smooth gliding across all surfaces. This elegantly styled chair will be a great additional to your business.</span></p>
+<p><strong> Seat width: 16.75''W</strong></p>
+<p><strong> Seat depth: 16.75''D </strong></p>
+<p><strong>Seat height: 19.25''H </strong></p>
+<p><strong>Seat thickness: 2.5''</strong></p>
+<p><strong> Width: 17.5''W </strong></p>
+<p><strong>Height: 34.5''H </strong></p>
+<p><strong>Depth: 20.75''D</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product type_Wooden Chairs</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4754345540</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku>6242</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4753761220</id>
+    <published>2016-04-11T12:27:00-05:00</published>
+    <updated>2016-04-11T12:27:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/cmc-6930-vertical-slat-chair-with-wild-cherry-finish"/>
+    <title>MK6930 Vertical Slat Wooden Chair with Wild Cherry Finish</title>
+    <s:type>Wooden Chairs</s:type>
+    <s:vendor>MKLD Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/20130914023342868.jpg?v=1495035047"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MKLD Furniture<br>
+        <strong>Type: </strong>Wooden Chairs<br>
+        <strong>Price: </strong>
+            119.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>FEATURES</strong></p>
+<p><span>Create a first-rate dining experience by offering your patrons tasty food, great service and attractive furnishings. These wood chair will offer a classic, elegant look to your establishment.</span></p>
+<p><span>The thick, foam padded seat will provide comfortable seating while the durable frame is stabilized with reinforced brackets and solid construction. Each chair is equipped with four plastic foot glides to help protect your floors and ensure smooth gliding across all surfaces. This elegantly styled chair will be a great additional to your business.</span></p>
+<p><strong>Seat height: 18''H</strong></p>
+<p><strong> Width: 17''W </strong></p>
+<p><strong>Height: 35''H </strong></p>
+<p><strong>Depth: 16''D </strong></p>
+<p><strong>Weight: 18 lbs.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product type_Wooden Chairs</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4753761220</id>
+      <title>Default Title</title>
+      <s:price currency="USD">119.00</s:price>
+      <s:sku>6930</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4753729476</id>
+    <published>2016-04-11T12:17:00-05:00</published>
+    <updated>2016-04-11T12:17:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/cwc-6290-mahogany-window-back-wood-chair"/>
+    <title>MK6290 Walnut Window Back Wooden Chair</title>
+    <s:type>Wooden Chairs</s:type>
+    <s:vendor>MKLD Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/20130907044058744.jpg?v=1495033934"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MKLD Furniture<br>
+        <strong>Type: </strong>Wooden Chairs<br>
+        <strong>Price: </strong>
+            106.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em><strong>FEATURES</strong></em></p>
+<p><span>Create a first-rate dining experience by offering your patrons tasty food, great service and attractive furnishings. These wood chair will offer a classic, elegant look to your establishment.</span></p>
+<p>The thick, foam padded seat will provide comfortable seating while the durable frame is stabilized with reinforced brackets and solid construction. Each chair is equipped with four plastic foot glides to help protect your floors and ensure smooth gliding across all surfaces. This elegantly styled chair will be a great additional to your business.</p>
+<p><strong>Seat height: 19''H</strong></p>
+<p><strong>Width: 17''W</strong></p>
+<p><strong>Height: 35''H</strong></p>
+<p><strong>Depth: 21''D</strong></p>
+<p><strong>Weight: 19 lbs.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product type_Wooden Chairs</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4753729476</id>
+      <title>Default Title</title>
+      <s:price currency="USD">106.00</s:price>
+      <s:sku>6290</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4753706820</id>
+    <published>2016-04-11T11:56:00-05:00</published>
+    <updated>2016-04-11T11:56:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/cwc-6230-lattice-back-side-chair-with-dark-mahogany-finish"/>
+    <title>MK6230 Lattice Back Side Wooden Chair with Dark Mahogany Finish</title>
+    <s:type>Wooden Chairs</s:type>
+    <s:vendor>MKLD Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/20130907114849104.jpg?v=1495032869"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MKLD Furniture<br>
+        <strong>Type: </strong>Wooden Chairs<br>
+        <strong>Price: </strong>
+            119.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2><strong>FEATURES</strong></h2>
+<p>Create a first-rate dining experience by offering your patrons tasty food, great service and attractive furnishings. These wood chair will offer a classic, elegant look to your establishment.</p>
+<p>The thick, foam padded seat will provide comfortable seating while the durable frame is stabilized with reinforced brackets and solid construction.Each chair is equipped with four plastic foot glides to help protect your floors and ensure smooth gliding across all surfaces. This elegantly styled chair will be a great additional to your business.</p>
+<p><strong> <span style="line-height: 1.5;" mce-data-marked="1">Seat height: 20''H </span></strong></p>
+<p><strong><span style="line-height: 1.5;" mce-data-marked="1"> Width: 18''W </span></strong></p>
+<p><strong><span style="line-height: 1.5;" mce-data-marked="1"> Height: 34''H </span></strong></p>
+<p><strong><span style="line-height: 1.5;" mce-data-marked="1"> Depth: 21''D</span></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product type_Wooden Chairs</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4753706820</id>
+      <title>Default Title</title>
+      <s:price currency="USD">119.00</s:price>
+      <s:sku>6230</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4188694340</id>
+    <published>2015-12-04T20:03:00-06:00</published>
+    <updated>2015-12-04T20:03:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/cwc-dgw0006-walnut-vertical-slat-back-wooden-chair-with-black-vinyl-seat"/>
+    <title>MK6235 Mahogany Vertical Slat Back Wooden Chair</title>
+    <s:type>Wooden Chairs</s:type>
+    <s:vendor>MKLD Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/1_748e29e6-0646-42a4-bc50-599139ca3270.jpg?v=1459135359"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MKLD Furniture<br>
+        <strong>Type: </strong>Wooden Chairs<br>
+        <strong>Price: </strong>
+            135.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Create a first-rate dining experience by offering your patrons tasty food, great service and attractive furnishings. These wood chair will offer a classic, elegant look to your establishment. </span></p>
+<p><span>The thick, foam padded seat will provide comfortable seating while the durable frame is stabilized with reinforced brackets and solid construction. Each chair is equipped with four plastic foot glides to help protect your floors and ensure smooth gliding across all surfaces. This elegantly styled chair will be a great additional to your business.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product type_Wooden Chairs</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4188694340</id>
+      <title>Default Title</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku>6235</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/3888988292</id>
+    <published>2015-12-04T20:03:00-06:00</published>
+    <updated>2015-12-04T20:03:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/mahogany-black-cushion-back-wooden-chair-with-black-vinyl-seat-6279"/>
+    <title>MK6279 Walnut  Back Wooden Chair with Black Vinyl Seat</title>
+    <s:type>Wooden Chairs</s:type>
+    <s:vendor>MKLD Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/20150421094614835_1024x1024_91e13a1e-b830-46da-8b4a-706a0e74ca55.jpg?v=1460730732"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MKLD Furniture<br>
+        <strong>Type: </strong>Wooden Chairs<br>
+        <strong>Price: </strong>
+            129.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Create a first-rate dining experience by offering your patrons tasty food, great service and attractive furnishings. These wood chair will offer a classic, elegant look to your establishment. </span></p>
+<p><span>The thick, foam padded seat will provide comfortable seating while the durable frame is stabilized with reinforced brackets and solid construction. Each chair is equipped with four plastic foot glides to help protect your floors and ensure smooth gliding across all surfaces. This elegantly styled chair will be a great additional to your business.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product type_Wooden Chairs</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/3888988292</id>
+      <title>Default Title</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>6279</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/3888816068</id>
+    <published>2015-12-04T20:03:00-06:00</published>
+    <updated>2015-12-04T20:03:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/mahagany-finished-ladder-back-wooden-chair-with-black-vinyl-seat-6241"/>
+    <title>MK6241 Mahogany Ladder Back Wooden Chair with Black Vinyl Seat</title>
+    <s:type>Wooden Chairs</s:type>
+    <s:vendor>MKLD Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/1.jpg?v=1460730711"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MKLD Furniture<br>
+        <strong>Type: </strong>Wooden Chairs<br>
+        <strong>Price: </strong>
+            99.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Create a first-rate dining experience by offering your patrons tasty food, great service and attractive furnishings. These wood chair will offer a classic, elegant look to your establishment. </span></p>
+<p><span>The thick, foam padded seat will provide comfortable seating while the durable frame is stabilized with reinforced brackets and solid construction. Each chair is equipped with four plastic foot glides to help protect your floors and ensure smooth gliding across all surfaces. This elegantly styled chair will be a great additional to your business.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product type_Wooden Chairs</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/3888816068</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku>6241</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+</feed>

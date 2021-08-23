@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.champsrestaurantsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.champsrestaurantsupply.com/collections/mop-sinks.atom"/>
+  <title>Champs Restaurant Supply</title>
+  <updated>2017-06-16T16:53:41-05:00</updated>
+  <author>
+    <name>Champs Restaurant Supply</name>
+  </author>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11615876239</id>
+    <published>2017-06-16T16:53:41-05:00</published>
+    <updated>2017-06-16T16:53:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bkms-1620-12-kit-stainless-steel-mop-sink"/>
+    <title>BK Resources BKMS-1620-12-KIT Stainless Steel Mop Sink</title>
+    <s:type>Mop Sinks</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/bkms16206b_1024x1024_1aa0d2d0-b860-4781-a255-84d132fa1e4a.jpg?v=1497650080"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Mop Sinks<br>
+        <strong>Price: </strong>
+            563.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>BK Resources BKMS-1620-12-KIT Stainless Steel Mop Sink</strong>
+<ul>
+<li>Mop sink</li>
+<li>Floor mount</li>
+<li>16" wide x 20" front-to-back x 12" deep</li>
+<li>18/304 stainless steel</li>
+<li>(1) 3-1/2" heavy duty brass basket drain</li>
+<li>(1) 48" service faucet hose (BK-SFH-48)</li>
+<li>(3) skirted sides</li>
+<li>(1) service faucet with vacuum breaker (BKSF-WB1)</li>
+<li>5-slot utility tool holder</li>
+<li>(6) plastic hooks (BK-UTH-5)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11615876239</id>
+      <title>Default Title</title>
+      <s:price currency="USD">563.34</s:price>
+      <s:sku>BKMS-1620-12-KIT</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11615871951</id>
+    <published>2017-06-16T16:48:28-05:00</published>
+    <updated>2017-06-16T16:48:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bkms-1620-12-stainless-steel-mop-sink"/>
+    <title>BK Resources BKMS-1620-12 Stainless Steel Mop Sink</title>
+    <s:type>Mop Sinks</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/bkms16206b_1024x1024_c4d794df-b076-4cf2-8acf-dad6efa45010.jpg?v=1497649936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Mop Sinks<br>
+        <strong>Price: </strong>
+            381.23
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>BK Resources BKMS-1620-12 Stainless Steel Mop Sink</strong>
+<ul>
+<li>Mop Sink</li>
+<li>Floor mount</li>
+<li>20" wide x 16" front-to-back x 12" deep bowl</li>
+<li>3-1/2" heavy duty brass basket drain (BKDR-HD4)</li>
+<li>(3) skirted sides</li>
+<li>18/304 stainless steel</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11615871951</id>
+      <title>Default Title</title>
+      <s:price currency="USD">381.23</s:price>
+      <s:sku>BKMS-1620-12</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11503422799</id>
+    <published>2017-05-25T13:34:58-05:00</published>
+    <updated>2017-05-25T13:34:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bkms-2424-12-24-x-24-floor-mount-mop-sink"/>
+    <title>BK Resources BKMS-2424-12 24&quot; x 24&quot; Floor Mount Mop Sink</title>
+    <s:type>Mop Sinks</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/bkms16206b_46d6b4a4-4525-448d-adde-41f98b0a8f0e.jpg?v=1495737831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Mop Sinks<br>
+        <strong>Price: </strong>
+            435.86
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>BK Resources BKMS-2424-12 24"W x 24"D Floor Mount Mop Sink</strong>
+<ul>
+<li>Mop sink</li>
+<li>Floor mount</li>
+<li>24" wide x 24" front-to-back x 12" deep</li>
+<li>18/304 stainless steel</li>
+<li>3-1/2" heavy duty brass basket drain (BKDR-HD4)</li>
+<li>(3) skirted sides</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11503422799</id>
+      <title>Default Title</title>
+      <s:price currency="USD">435.86</s:price>
+      <s:sku>BKMS-2424-12</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11503292431</id>
+    <published>2017-05-25T13:14:23-05:00</published>
+    <updated>2017-05-25T13:14:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bkms-2424-12-kit-floor-mount-stainless-steel-mop-sink"/>
+    <title>BK Resources BKMS-2424-12-KIT Floor Mount Stainless Steel Mop Sink</title>
+    <s:type>Mop Sinks</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/bkms16206b_e7284fc5-9795-4e20-b4ca-32fe3aaf61ca.jpg?v=1495736732"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Mop Sinks<br>
+        <strong>Price: </strong>
+            628.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>BK Resources BKMS-2424-12-KIT Floor Mount Stainless Steel Mop Sink</strong></p>
+<ul>
+<li>Mop Sink</li>
+<li>Floor mount</li>
+<li>24" wide x 24" front-to-back x 12" deep bowl</li>
+<li>(1) 3-1/2" heavy duty brass basket drain (BKDR-HD4)</li>
+<li>(1) 48" service faucet hose (BK-SFH-48)</li>
+<li>(3) skirted sides</li>
+<li>(1) service faucet with vacuum breaker (BKSF-WB1)</li>
+<li>5-slot utility tool holder &amp; (6) plastic hooks (BK-UTH-5)</li>
+<li>18/304 stainless steel</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11503292431</id>
+      <title>Default Title</title>
+      <s:price currency="USD">628.30</s:price>
+      <s:sku>BKMS-2424-12-KIT</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11503191695</id>
+    <published>2017-05-25T12:17:11-05:00</published>
+    <updated>2017-05-25T12:17:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bkms-1620-6-kit-24-1-2w-x-19-3-8d-x-17h-mop-sink"/>
+    <title>BK Resources BKMS-1620-6-KIT 24-1/2&quot;W x 19-3/8&quot;D x 17&quot;H Mop Sink</title>
+    <s:type>Mop Sinks</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/bkms16206b.jpg?v=1495735777"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Mop Sinks<br>
+        <strong>Price: </strong>
+            563.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>BK Resources BKMS-1620-6-KIT 24-1/2"W x 19-3/8"D x 17"H Mop Sink</strong>
+<ul>
+<li>Mop Sink, floor mount</li>
+<li>24-1/2"W x 19-3/8"D x 11"H with 20" wide x 16" front-to-back x 6" deep bowl</li>
+<li>(1) 3-1/2" heavy duty brass basket drain (BKDR-HD4)</li>
+<li>(1) 48" service faucet hose (BK-SFH-48)</li>
+<li>(3) skirted sides</li>
+<li>(1) service faucet with vacuum breaker (BKSF-WB1)</li>
+<li>5-slot utility tool holder &amp; (6) plastic hooks (BK-UTH-5)</li>
+<li>18/304 stainless steel</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11503191695</id>
+      <title>Default Title</title>
+      <s:price currency="USD">563.34</s:price>
+      <s:sku>BKMS-1620-6-KIT</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4070814660</id>
+    <published>2015-12-30T13:04:00-06:00</published>
+    <updated>2015-12-30T13:04:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bkms-1620-6-stainless-steel-mop-sink"/>
+    <title>BK Resources BKMS-1620-6 Stainless Steel Mop Sink</title>
+    <s:type>Mop Sinks</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/bkms16206b_cf58b4fb-7fce-4284-8e0b-37184f52e12c.jpg?v=1495737125"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Mop Sinks<br>
+        <strong>Price: </strong>
+            381.23
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>BK Resources BKMS-1620-6 Stainless Steel Mop Sink</strong></p>
+<ul>
+<li>Mop Sink</li>
+<li>Floor mount</li>
+<li>16" wide x 20" front-to-back x 6" deep</li>
+<li>18/304 stainless steel</li>
+<li>3-1/2" heavy duty brass basket drain (BKDR-HD4)</li>
+<li>(3) skirted sides</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-day</s:tag>
+    <s:tag>Product type_Mop Sinks</s:tag>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4070814660</id>
+      <title>Default Title</title>
+      <s:price currency="USD">381.23</s:price>
+      <s:sku>BKMS-1620-6</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+</feed>

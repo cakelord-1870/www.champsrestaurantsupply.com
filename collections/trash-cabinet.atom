@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.champsrestaurantsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.champsrestaurantsupply.com/collections/trash-cabinet.atom"/>
+  <title>Champs Restaurant Supply</title>
+  <updated>2016-10-12T15:49:00-05:00</updated>
+  <author>
+    <name>Champs Restaurant Supply</name>
+  </author>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/9192155396</id>
+    <published>2016-10-12T15:49:00-05:00</published>
+    <updated>2016-10-12T15:49:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/trash-cabinet-with-tray-top-mahogany"/>
+    <title>Trash Cabinet with Tray top - Mahogany</title>
+    <s:type>Trash Cabinets</s:type>
+    <s:vendor>Flash Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/20130914044347348.jpg?v=1476305765"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flash Furniture<br>
+        <strong>Type: </strong>Trash Cabinets<br>
+        <strong>Price: </strong>
+            269.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Features</strong><span></span>
+<ul class="discmain">
+<li class="discription">
+<a class="keylink" onclick="show_ajax(this)">Waste</a> <a class="keylink" onclick="show_ajax(this)">Receptacle</a>
+</li>
+<li class="discription">35 Gallon Capacity,</li>
+<li class="discription">Tray Top,</li>
+<li class="discription">Self Return Door,</li>
+<li class="discription">Stainless Steel Spill Guards</li>
+<li class="discription">Mahogany Laminated</li>
+<li class="discription">Thank You Sign</li>
+<li class="discription">Assemble Need.</li>
+<li class="discription">Available In Mahogany, Natural</li>
+<li class="discription"><span>44 in. L X 23-3/4 in. W X 23-1/2 in. D</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/9192155396</id>
+      <title>Default Title</title>
+      <s:price currency="USD">269.00</s:price>
+      <s:sku>MT-M8520-TRA-MAH-GG</s:sku>
+      <s:grams>20412</s:grams>
+    </s:variant>
+  </entry>
+</feed>

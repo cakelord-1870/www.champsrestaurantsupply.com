@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.champsrestaurantsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.champsrestaurantsupply.com/collections/drop-in-sinks.atom"/>
+  <title>Champs Restaurant Supply</title>
+  <updated>2017-07-14T23:02:40-05:00</updated>
+  <author>
+    <name>Champs Restaurant Supply</name>
+  </author>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11744551055</id>
+    <published>2017-07-14T23:02:40-05:00</published>
+    <updated>2017-07-14T23:02:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bk-dis-1515-p-g-drop-in-sink-with-faucet"/>
+    <title>BK Resources BK-DIS-1515-P-G Drop-In Sink with Faucet</title>
+    <s:type>Drop-In Sinks</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/bk-dis-1515-p-g_1.jpg?v=1500091530"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Drop-In Sinks<br>
+        <strong>Price: </strong>
+            146.91
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4 class="title" id="page-title" itemprop="name">BK Resources BK-DIS-1515-P-G Drop-In Sink with Faucet<span> </span>
+</h4>
+<ul>
+<li>Drop-In Sink</li>
+<li>One compartment</li>
+<li>12" wide x 10" front-to-back x 5-3/4" deep bowl</li>
+<li>4" O.C. deck mount faucet (BKD-3G-G)</li>
+<li>3-1/2" drain opening</li>
+<li>Includes basket drain with crumb cup (BKDR-4)</li>
+<li>304 stainless steel construction</li>
+<li>14-9/16" x 14-9/16" cutout required</li>
+<li>NSF</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11744551055</id>
+      <title>Default Title</title>
+      <s:price currency="USD">146.91</s:price>
+      <s:sku>BK-DIS-1515-P-G</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11744535951</id>
+    <published>2017-07-14T22:58:27-05:00</published>
+    <updated>2017-07-14T22:58:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bk-dis-1515-one-compartment-drop-in-sink"/>
+    <title>BK Resources BK-DIS-1515 One compartment Drop-In Sink</title>
+    <s:type>Drop-In Sinks</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/download_c17a6cb6-445c-4ccc-81ac-a47f2b1fe122.jpg?v=1500091153"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Drop-In Sinks<br>
+        <strong>Price: </strong>
+            95.91
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>BK Resources BK-DIS-1515 One compartment Drop-In Sink</strong></p>
+<ul>
+<li>Drop-In Sink</li>
+<li>One compartment</li>
+<li>12" wide x 10" front-to-back x 5-3/4" deep bowl</li>
+<li>4" O.C. deck mount faucet holes</li>
+<li>Includes basket drain with crumb cup (BKDR-4)</li>
+<li>304 stainless steel construction</li>
+<li>14-9/16" x 14-9/16" cutout required</li>
+<li>NSF</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11744535951</id>
+      <title>Default Title</title>
+      <s:price currency="USD">95.91</s:price>
+      <s:sku>BK-DIS-1515</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/3999968644</id>
+    <published>2015-12-19T13:26:00-06:00</published>
+    <updated>2015-12-19T13:26:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/hs-dsrog-drop-in-round-dipperwell-sink-w-no-lead-faucet"/>
+    <title>HS-DSROG Drop-In Round Dipperwell Sink w/ NO LEAD Faucet</title>
+    <s:type>Drop-In Sinks</s:type>
+    <s:vendor>Champs Restaurant Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/md_n110142_1.jpg?v=1453935398"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champs Restaurant Supply<br>
+        <strong>Type: </strong>Drop-In Sinks<br>
+        <strong>Price: </strong>
+            89.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong> HS-DSROG Drop-In Round Dipperwell Sink w/ NO LEAD Faucet</strong></p>
+<ul>
+<li>All stainless steel construction provides long life and easy maintenance</li>
+<li>Drop in round design</li>
+<li>Included chrome plate cast bronze body faucet.</li>
+<li>Drain pipe 3/4'-14 threads</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product type_Drop-In Sinks</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/3999968644</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.00</s:price>
+      <s:sku>HS-DSROG</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+</feed>

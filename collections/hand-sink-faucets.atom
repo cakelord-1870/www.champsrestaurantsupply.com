@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.champsrestaurantsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.champsrestaurantsupply.com/collections/hand-sink-faucets.atom"/>
+  <title>Champs Restaurant Supply</title>
+  <updated>2017-06-05T23:00:28-05:00</updated>
+  <author>
+    <name>Champs Restaurant Supply</name>
+  </author>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11564721487</id>
+    <published>2017-06-05T23:00:28-05:00</published>
+    <updated>2017-06-05T23:00:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/gsw-aa-410g-4-wall-mount-no-lead-faucet-w-3-1-2-swivel-gooseneck-spout"/>
+    <title>GSW AA-410G 4&quot; Wall Mount No Lead Faucet w/3-1/2&quot; Swivel Gooseneck Spout</title>
+    <s:type>Hand Sink Faucets</s:type>
+    <s:vendor>GSW</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/81iB1cr70RL._SL1500.jpg?v=1496722102"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GSW<br>
+        <strong>Type: </strong>Hand Sink Faucets<br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>GSW AA-410G 4" Wall Mount No Lead Faucet w/3-1/2" Swivel Gooseneck Spout </strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-none">
+<li><span class="a-list-item">Reinforced double O-Ring valves with hot and cold mark on stem</span></li>
+<li><span class="a-list-item">Compression nuts &amp; washers attached</span></li>
+<li><span class="a-list-item">Color coded red and blue handles with heavy duty double O-ring 3-1/2" swivel gooseneck spout</span></li>
+<li><span class="a-list-item">1/2" NPT male inlets. NSF approved</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11564721487</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>AA-410G</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11564696015</id>
+    <published>2017-06-05T22:53:00-05:00</published>
+    <updated>2017-06-05T22:53:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bkf-w-5g-g-splash-mount-faucet-with-5-gooseneck-spout-lead-free"/>
+    <title>BK Resources BKF-W-5G-G Splash Mount Faucet with 5” Gooseneck Spout- Lead Free</title>
+    <s:type>Hand Sink Faucets</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/bkf-w-5g-g_1.jpg?v=1496721585"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Hand Sink Faucets<br>
+        <strong>Price: </strong>
+            61.92
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>BK Resources BKF-W-5G-G Splash Mount Faucet with 5” Gooseneck Spout- Lead Free</strong></p>
+<ul class="pd_ul">
+<li class="pd_li_black">Conforms to 2014 lead free standards</li>
+<li class="pd_li_black">Standard Duty Faucet with 5" Gooseneck Spout.</li>
+<li class="pd_li_black">Splash/Wall Mount, 4" C/C.</li>
+<li class="pd_li_black">Compression Valve.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11564696015</id>
+      <title>Default Title</title>
+      <s:price currency="USD">61.92</s:price>
+      <s:sku>BKF-W-5G-G</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/6469588356</id>
+    <published>2016-09-12T15:50:00-05:00</published>
+    <updated>2016-09-12T15:50:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/gsw-aa-420g-4-deck-mount-no-lead-faucet-with-3-1-2-gooseneck-spout"/>
+    <title>GSW AA-420G 4&quot; Deck Mount NO LEAD Faucet with 3-1/2&quot; Gooseneck Spout</title>
+    <s:type>Hand Sink Faucets</s:type>
+    <s:vendor>GSW</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/deck-mount-1.jpg?v=1473713569"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GSW<br>
+        <strong>Type: </strong>Hand Sink Faucets<br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>GSW AA-420G 4" Deck Mount NO LEAD Faucet with 3-1/2" Gooseneck Spout</h1></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/6469588356</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>AA-420G</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/3994597636</id>
+    <published>2015-12-18T14:55:00-06:00</published>
+    <updated>2015-12-18T14:55:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/4-lead-free-faucet-w-5gspout"/>
+    <title>GSW AA-412G 4&quot; Backsplash Wall mount Faucet w/ 5&quot; Gooseneck Spout</title>
+    <s:type>Hand Sink Faucets</s:type>
+    <s:vendor>GSW</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/1223.jpg?v=1453935336"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GSW<br>
+        <strong>Type: </strong>Hand Sink Faucets<br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>WorkForce faucet</li>
+<li>Lead free</li>
+<li>Wall mount</li>
+<li>Standard duty</li>
+<li>5 in gooseneck spout</li>
+<li>4 in c/c splash mount</li>
+<li>1/4 turn ceramic valves</li>
+<li>Includes integral check valve</li>
+<li>Color coded hot and cold indicators</li>
+<li>NSF Certified</li>
+<li>1 year warranty against defect in workmanship and material</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-day</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/3994597636</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>AA-412G</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

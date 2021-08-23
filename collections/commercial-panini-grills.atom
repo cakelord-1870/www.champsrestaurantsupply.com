@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.champsrestaurantsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.champsrestaurantsupply.com/collections/commercial-panini-grills.atom"/>
+  <title>Champs Restaurant Supply</title>
+  <updated>2017-05-05T11:45:32-05:00</updated>
+  <author>
+    <name>Champs Restaurant Supply</name>
+  </author>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11306608847</id>
+    <published>2017-05-05T11:45:32-05:00</published>
+    <updated>2017-05-05T11:45:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/winco-esg-2-flat-split-top-countertop-double-electric-sandwich-grill"/>
+    <title>Winco ESG-2 Flat Split-Top Countertop Double Electric Sandwich Grill</title>
+    <s:type>Commercial Panini Grills</s:type>
+    <s:vendor>Winco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/Winco-ESG-2--Countertop-Double-Electric-Sandwich-Grill-261851_xlarge.jpg?v=1494003087"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Winco<br>
+        <strong>Type: </strong>Commercial Panini Grills<br>
+        <strong>Price: </strong>
+            469.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 class="product-title" itemprop="name"><strong>Winco ESG-2 Countertop Double Electric Sandwich Grill - 120V</strong></h3>
+<ul>
+<li>﻿Countertop Double Sandwich Grill</li>
+<li>Stainless steel construction</li>
+<li>Flat cast iron grill surface</li>
+<li>Hinged balanced top plate</li>
+<li>Removable crumb and grease tray</li>
+<li>Power and ready light(s)</li>
+<li>Adjustable thermostat to 600°F</li>
+<li>ETL listed for electrical safety, conforms to UL-197 and CSA C22.2</li>
+<li>ETL listed for sanitation, conforms to NSF-4</li>
+<li>Grill surface: 19" x 9"</li>
+<li>Overall dimensions: 22-1/2" x 12" x 8"</li>
+<li>120V, 1750W, 60 Hz, 15A</li>
+<li>NFS</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_Winco</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11306608847</id>
+      <title>Default Title</title>
+      <s:price currency="USD">469.00</s:price>
+      <s:sku>ESG-2</s:sku>
+      <s:grams>7257</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11306572943</id>
+    <published>2017-05-05T11:43:30-05:00</published>
+    <updated>2017-05-05T11:43:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/winco-esg-1-17-flat-full-top-countertop-sandwich-grill"/>
+    <title>Winco ESG-1 17&quot; Flat Full-Top Countertop Sandwich Grill</title>
+    <s:type>Commercial Panini Grills</s:type>
+    <s:vendor>Winco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/wcesg1.jpg?v=1494002706"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Winco<br>
+        <strong>Type: </strong>Commercial Panini Grills<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 class="page-title"><strong><span class="base" data-ui-id="page-title-wrapper" itemprop="name">Winco ESG-1 17" Flat Full-Top Countertop Sandwich Grill - 120V</span></strong></h3>
+<ul>
+<li>﻿Countertop Single Sandwich Grill</li>
+<li>Stainless steel construction</li>
+<li>Flat cast iron grill surface</li>
+<li>Hinged balanced top plate</li>
+<li>Removable crumb and grease tray</li>
+<li>Power and ready light(s)</li>
+<li>Adjustable thermostat to 600°F</li>
+<li>ETL listed for electrical safety, conforms to UL-197 and CSA C22.2</li>
+<li>ETL listed for sanitation, conforms to NSF-4</li>
+<li>Grill surface: 14" x 9"</li>
+<li>Overall dimensions: 17" x 12"</li>
+<li>NFS</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_Winco</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11306572943</id>
+      <title>Default Title</title>
+      <s:price currency="USD">299.00</s:price>
+      <s:sku>ESG-1</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11306556303</id>
+    <published>2017-05-05T11:38:52-05:00</published>
+    <updated>2017-05-05T11:38:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/winco-epg-2-electric-countertop-double-panini-grill-120v"/>
+    <title>Winco EPG-2 Electric Countertop Double Panini Grill-120V</title>
+    <s:type>Commercial Panini Grills</s:type>
+    <s:vendor>Winco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/519EHIbaXNL.jpg?v=1494002486"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Winco<br>
+        <strong>Type: </strong>Commercial Panini Grills<br>
+        <strong>Price: </strong>
+            469.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Winco EPG-2 Electric Countertop Double Panini Grill-120V</strong></p>
+<ul>
+<li>﻿19" x 9" ribbed cast iron grill surface</li>
+<li>Hinged top plate</li>
+<li>Power/ready lights</li>
+<li>Removable crumb/grease tray</li>
+<li>Adjustable thermostat to 600°F</li>
+<li>Stainless steel</li>
+<li>120V/60Hz/1Ph, (2) 1800 Watts, (2) 15A</li>
+<li>ETL</li>
+<li>NFS</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_Winco</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11306556303</id>
+      <title>Default Title</title>
+      <s:price currency="USD">469.00</s:price>
+      <s:sku>EPG-2</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11306543695</id>
+    <published>2017-05-05T11:35:54-05:00</published>
+    <updated>2017-05-05T11:35:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/winco-epg-1-electric-countertop-single-panini-grill-120v"/>
+    <title>Winco EPG-1 Electric Countertop Single Panini Grill -120V</title>
+    <s:type>Commercial Panini Grills</s:type>
+    <s:vendor>Winco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/5199nTrw31L.jpg?v=1494002324"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Winco<br>
+        <strong>Type: </strong>Commercial Panini Grills<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Winco EPG-1 Electric Countertop Single Panini Grill -120V</strong></p>
+<ul>
+<li>﻿Flat cast iron grill surface</li>
+<li>Hinged balanced top plate adjusts to food thickness</li>
+<li>Removable crumb and grease tray</li>
+<li>Power and ready light(s)</li>
+<li>Stainless steel construction</li>
+<li>Adjustable thermostat(s) to 600°F</li>
+<li>One year warranty</li>
+<li>ETL</li>
+<li>NSF</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_Winco</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11306543695</id>
+      <title>Default Title</title>
+      <s:price currency="USD">299.00</s:price>
+      <s:sku>EPG-1</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4432406084</id>
+    <published>2016-02-19T23:32:00-06:00</published>
+    <updated>2016-02-19T23:32:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/waring-wpg150-9-3-4-x-9-1-4-grooved-top-bottom-panini-sandwich-grill"/>
+    <title>Waring WPG150 9-3/4&quot; x 9-1/4&quot; Grooved Top &amp; Bottom Panini Sandwich Grill</title>
+    <s:type>Commercial Panini Grills</s:type>
+    <s:vendor>Waring</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/waring-wpg150-9-3-4-x-9-1-4-panini-perfetto-grooved-top-bottom-panini-sandwich-grill-120v.jpeg?v=1455987724"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waring<br>
+        <strong>Type: </strong>Commercial Panini Grills<br>
+        <strong>Price: </strong>
+            445.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Waring WPG150 9-3/4" x 9-1/4" Grooved Top &amp; Bottom Panini Sandwich Grill</strong></p>
+<ul>
+<li>Indicator lights show power and ready to cook</li>
+<li class="icon-check">9 3/4" x 9 1/4" grooved cast iron cooking plates</li>
+<li class="icon-check">120V</li>
+<li class="icon-check">Includes Waring CAC105 heavy duty grill brush</li>
+<li class="icon-check">Adjustable temperature up to 570 degrees Fahrenheit</li>
+<li class="icon-check">Indicator lights for power and preheat ensure smooth operation</li>
+<li class="icon-check">Auto-balancing top plate for even cooking</li>
+<li class="icon-check">Accommodates foods up to 3" thick</li>
+<li>﻿NFS</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>Product type_Panini Grills</s:tag>
+    <s:tag>Vendor_Waring</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4432406084</id>
+      <title>Default Title</title>
+      <s:price currency="USD">445.00</s:price>
+      <s:sku>WPG150</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+</feed>

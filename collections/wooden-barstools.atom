@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.champsrestaurantsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.champsrestaurantsupply.com/collections/wooden-barstools.atom"/>
+  <title>Champs Restaurant Supply</title>
+  <updated>2017-06-07T15:23:54-05:00</updated>
+  <author>
+    <name>Champs Restaurant Supply</name>
+  </author>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11575404239</id>
+    <published>2017-06-07T15:23:54-05:00</published>
+    <updated>2017-06-07T15:23:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/mk6230bs-lattice-back-side-wooden-barstool-with-dark-mahogany-finish"/>
+    <title>MK6230BS Lattice Back Side Wooden Barstool with Dark Mahogany Finish</title>
+    <s:type>Wooden Barstools</s:type>
+    <s:vendor>MKLD Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/20130908122315706.jpg?v=1496870587"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MKLD Furniture<br>
+        <strong>Type: </strong>Wooden Barstools<br>
+        <strong>Price: </strong>
+            155.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>MK6230BS Lattice Back Side Wooden Barstool with Dark Mahogany Finish</strong></p>
+<p>The wood barstool will offer a classic,elegant look when furnishing your establishment. This stool is easy to clean,which is an important aspect when it comes to a business. This stool was designed to withstand the daily rigors in the hospitality industry,but will also provide a warm and inviting quality to your home. The thick,foam padded seat will keep users comfortable. The durable Beechwood frame is stabilized using two support bars,which includes a footrest. The floor glides help protect your floors and ensure smooth gliding. This elegantly styled stool will highlight your home or business without disappointment.</p>
+<p><strong>Width: 18''W</strong></p>
+<p><strong>Height: 43''H</strong></p>
+<p><strong>Depth: 17''D</strong></p>
+<p><strong>Seat height: 31''H</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11575404239</id>
+      <title>Default Title</title>
+      <s:price currency="USD">155.00</s:price>
+      <s:sku>6230BS</s:sku>
+      <s:grams>20412</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11548233743</id>
+    <published>2017-06-01T12:32:10-05:00</published>
+    <updated>2017-06-01T12:32:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/mk6279bs-walnut-back-wooden-barstool-with-black-vinyl-seat"/>
+    <title>MK6279BS Walnut Back Wooden Barstool with Black Vinyl Seat</title>
+    <s:type>Wooden Barstools</s:type>
+    <s:vendor>Champs Restaurant Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/20130914022240457.jpg?v=1496338581"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champs Restaurant Supply<br>
+        <strong>Type: </strong>Wooden Barstools<br>
+        <strong>Price: </strong>
+            159.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>FEATURES</strong></p>
+<p>The wood barstool will offer a classic,elegant look when furnishing your establishment. This stool is easy to clean,which is an important aspect when it comes to a business. This stool was designed to withstand the daily rigors in the hospitality industry,but will also provide a warm and inviting quality to your home. The thick,foam padded seat will keep users comfortable. The durable Beechwood frame is stabilized using two support bars,which includes a footrest. The floor glides help protect your floors and ensure smooth gliding. This elegantly styled stool will highlight your home or business without disappointment.</p>
+<p><strong>Width: 18''W</strong></p>
+<p><strong>Height: 43''H</strong></p>
+<p><strong>Depth: 17''D</strong></p>
+<p><strong>Seat height: 31''H</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11548233743</id>
+      <title>Default Title</title>
+      <s:price currency="USD">159.00</s:price>
+      <s:sku>MK6279BS</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4757581380</id>
+    <published>2016-04-12T11:09:00-05:00</published>
+    <updated>2016-04-12T11:09:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/cwb-6072bs-mahogany-finished-school-house-back-wooden-restaurant-barstool"/>
+    <title>MK6072BS Mahogany Finished Solid Back Wooden Restaurant Barstool</title>
+    <s:type>Wooden Barstools</s:type>
+    <s:vendor>MKLD Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/1_7f56397f-8c77-4d5c-81ca-6820fc1b623e.jpg?v=1460772870"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MKLD Furniture<br>
+        <strong>Type: </strong>Wooden Barstools<br>
+        <strong>Price: </strong>
+            229.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>FEATURES</strong></p>
+<p>The wood barstool will offer a classic,elegant look when furnishing your establishment. This stool is easy to clean,which is an important aspect when it comes to a business. This stool was designed to withstand the daily rigors in the hospitality industry,but will also provide a warm and inviting quality to your home. The thick,foam padded seat will keep users comfortable. The durable Beechwood frame is stabilized using two support bars,which includes a footrest. The floor glides help protect your floors and ensure smooth gliding. This elegantly styled stool will highlight your home or business without disappointment.</p>
+<p><strong>Width: 18''W</strong></p>
+<p><strong>Height: 43''H</strong></p>
+<p><strong>Depth: 17''D</strong></p>
+<p><strong>Seat height: 31''H</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product type_Wooden Barstools</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4757581380</id>
+      <title>Default Title</title>
+      <s:price currency="USD">229.00</s:price>
+      <s:sku>6072BS</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4757581316</id>
+    <published>2016-04-12T11:09:00-05:00</published>
+    <updated>2016-04-12T11:09:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/cwb-6854bs-mahogany-finished-school-house-back-wooden-restaurant-barstool"/>
+    <title>MK6854BS Cherry Finished Solid Back Wooden Restaurant Barstool with Black Vinyl Seat</title>
+    <s:type>Wooden Barstools</s:type>
+    <s:vendor>MKLD Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/20130909090736747_249644e1-a6ef-4534-9cb2-27b08257e143.jpg?v=1460730157"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MKLD Furniture<br>
+        <strong>Type: </strong>Wooden Barstools<br>
+        <strong>Price: </strong>
+            169.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>FEATURES</strong></p>
+<p>The wood barstool will offer a classic,elegant look when furnishing your establishment. This stool is easy to clean,which is an important aspect when it comes to a business. This stool was designed to withstand the daily rigors in the hospitality industry,but will also provide a warm and inviting quality to your home. The thick,foam padded seat will keep users comfortable. The durable Beechwood frame is stabilized using two support bars,which includes a footrest. The floor glides help protect your floors and ensure smooth gliding. This elegantly styled stool will highlight your home or business without disappointment. </p>
+<p><strong>Width: 18''W</strong></p>
+<p><strong>Height: 43''H</strong></p>
+<p><strong>Depth: 17''D</strong></p>
+<p><strong>Seat height: 31''H</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product type_Wooden Barstools</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4757581316</id>
+      <title>Default Title</title>
+      <s:price currency="USD">169.00</s:price>
+      <s:sku>6854BS</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4757581252</id>
+    <published>2016-04-12T11:09:00-05:00</published>
+    <updated>2016-04-12T11:09:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/cwb-6236b-bs-mahogany-finished-school-house-back-wooden-restaurant-barstool"/>
+    <title>MK6236B-BS Walnut Finished Slotted Back Wooden Restaurant Barstool with Black Vinyl Seat</title>
+    <s:type>Wooden Barstools</s:type>
+    <s:vendor>MKLD Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/20130909090310614.jpg?v=1460729772"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MKLD Furniture<br>
+        <strong>Type: </strong>Wooden Barstools<br>
+        <strong>Price: </strong>
+            135.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>FEATURES</strong></p>
+<p>The wood barstool will offer a classic,elegant look when furnishing your establishment. This stool is easy to clean,which is an important aspect when it comes to a business. This stool was designed to withstand the daily rigors in the hospitality industry,but will also provide a warm and inviting quality to your home. The thick,foam padded seat will keep users comfortable. The durable Beechwood frame is stabilized using two support bars,which includes a footrest. The floor glides help protect your floors and ensure smooth gliding. This elegantly styled stool will highlight your home or business without disappointment.</p>
+<p><strong>Width: 18''W</strong></p>
+<p><strong>Height: 43''H</strong></p>
+<p><strong>Depth: 17''D</strong></p>
+<p><strong>Seat height: 31''H</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product type_Wooden Barstools</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4757581252</id>
+      <title>Default Title</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku>6236B-BS</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4757581060</id>
+    <published>2016-04-12T11:09:00-05:00</published>
+    <updated>2016-04-12T11:09:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/cwb-6332bs-mahogany-finished-school-house-back-wooden-restaurant-barstool"/>
+    <title>MK6332BS Walnut Finished Slotted Back Wooden Restaurant Barstool with Black Vinyl Seat</title>
+    <s:type>Wooden Barstools</s:type>
+    <s:vendor>MKLD Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/20130909084927824.jpg?v=1460730229"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MKLD Furniture<br>
+        <strong>Type: </strong>Wooden Barstools<br>
+        <strong>Price: </strong>
+            169.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>FEATURES</strong></p>
+<p>The wood barstool will offer a classic,elegant look when furnishing your establishment. This stool is easy to clean,which is an important aspect when it comes to a business. This stool was designed to withstand the daily rigors in the hospitality industry,but will also provide a warm and inviting quality to your home. The thick,foam padded seat will keep users comfortable. The durable Beechwood frame is stabilized using two support bars,which includes a footrest. The floor glides help protect your floors and ensure smooth gliding. This elegantly styled stool will highlight your home or business without disappointment.</p>
+<p><strong>Width: 18''W</strong></p>
+<p><strong>Height: 43''H</strong></p>
+<p><strong>Depth: 17''D</strong></p>
+<p><strong>Seat height: 31''H</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product type_Wooden Barstools</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4757581060</id>
+      <title>Default Title</title>
+      <s:price currency="USD">169.00</s:price>
+      <s:sku>CWB-6332BS</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4757580932</id>
+    <published>2016-04-12T11:09:00-05:00</published>
+    <updated>2016-04-12T11:09:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/cwb-6234bs-mahogany-finished-school-house-back-wooden-restaurant-barstool"/>
+    <title>MK6234BS Natural Wood Finished School House Back Wooden Restaurant Barstool</title>
+    <s:type>Wooden Barstools</s:type>
+    <s:vendor>MKLD Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/20130908122051467.jpg?v=1460730385"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MKLD Furniture<br>
+        <strong>Type: </strong>Wooden Barstools<br>
+        <strong>Price: </strong>
+            195.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>FEATURES</strong></p>
+<p>The wood barstool will offer a classic,elegant look when furnishing your establishment. This stool is easy to clean,which is an important aspect when it comes to a business. This stool was designed to withstand the daily rigors in the hospitality industry,but will also provide a warm and inviting quality to your home. The thick,foam padded seat will keep users comfortable. The durable Beechwood frame is stabilized using two support bars,which includes a footrest. The floor glides help protect your floors and ensure smooth gliding. This elegantly styled stool will highlight your home or business without disappointment.</p>
+<p><strong>Width: 18''W</strong></p>
+<p><strong>Height: 43''H</strong></p>
+<p><strong>Depth: 17''D</strong></p>
+<p><strong>Seat height: 31''H</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product type_Wooden Barstools</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4757580932</id>
+      <title>Default Title</title>
+      <s:price currency="USD">195.00</s:price>
+      <s:sku>6234BS</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4757580868</id>
+    <published>2016-04-12T11:09:00-05:00</published>
+    <updated>2016-04-12T11:09:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/cwb-6231bs-mahogany-finished-school-house-back-wooden-restaurant-barstool"/>
+    <title>MK6231BS Walnut Finished Ladder Back Wooden Restaurant Barstool</title>
+    <s:type>Wooden Barstools</s:type>
+    <s:vendor>MKLD Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/2_476a5480-728e-45d4-8dd4-c8cfa034f4bc.jpg?v=1460772936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MKLD Furniture<br>
+        <strong>Type: </strong>Wooden Barstools<br>
+        <strong>Price: </strong>
+            155.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>FEATURES</strong></p>
+<p>The wood barstool will offer a classic,elegant look when furnishing your establishment. This stool is easy to clean,which is an important aspect when it comes to a business. This stool was designed to withstand the daily rigors in the hospitality industry,but will also provide a warm and inviting quality to your home. The thick,foam padded seat will keep users comfortable. The durable Beechwood frame is stabilized using two support bars,which includes a footrest. The floor glides help protect your floors and ensure smooth gliding. This elegantly styled stool will highlight your home or business without disappointment.</p>
+<p><strong>Width: 18''W</strong></p>
+<p><strong>Height: 43''H</strong></p>
+<p><strong>Depth: 17''D</strong></p>
+<p><strong>Seat height: 31''H</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product type_Wooden Barstools</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4757580868</id>
+      <title>Default Title</title>
+      <s:price currency="USD">155.00</s:price>
+      <s:sku>6231BS</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4757580804</id>
+    <published>2016-04-12T11:09:00-05:00</published>
+    <updated>2016-04-12T11:09:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/cwb-6259bs-mahogany-finished-school-house-back-wooden-restaurant-barstool"/>
+    <title>MK6259BS Walnut Finished Slotted Back Wooden Restaurant Barstool with Black Vinyl Seat</title>
+    <s:type>Wooden Barstools</s:type>
+    <s:vendor>MKLD Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/20130909083523105.jpg?v=1460729721"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MKLD Furniture<br>
+        <strong>Type: </strong>Wooden Barstools<br>
+        <strong>Price: </strong>
+            169.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>FEATURES</strong></p>
+<p>The wood barstool will offer a classic,elegant look when furnishing your establishment. This stool is easy to clean,which is an important aspect when it comes to a business. This stool was designed to withstand the daily rigors in the hospitality industry,but will also provide a warm and inviting quality to your home. The thick,foam padded seat will keep users comfortable. The durable Beechwood frame is stabilized using two support bars,which includes a footrest. The floor glides help protect your floors and ensure smooth gliding. This elegantly styled stool will highlight your home or business without disappointment.</p>
+<p><strong>Width: 18''W</strong></p>
+<p><strong>Height: 43''H</strong></p>
+<p><strong>Depth: 17''D</strong></p>
+<p><strong>Seat height: 31''H</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product type_Wooden Barstools</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4757580804</id>
+      <title>Default Title</title>
+      <s:price currency="USD">169.00</s:price>
+      <s:sku>6259BS</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4757580676</id>
+    <published>2016-04-12T11:09:00-05:00</published>
+    <updated>2016-04-12T11:09:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/cwb-6026bs-mahogany-finished-school-house-back-wooden-restaurant-barstool"/>
+    <title>MK6026BS Walnut Finished Ladder Back Wooden Restaurant Barstool with Black Vinyl Seat</title>
+    <s:type>Wooden Barstools</s:type>
+    <s:vendor>MKLD Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/2_96b096d2-1c5c-42ca-82a4-7f55af0d702a.jpg?v=1496870537"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MKLD Furniture<br>
+        <strong>Type: </strong>Wooden Barstools<br>
+        <strong>Price: </strong>
+            160.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>FEATURES</strong></p>
+<p>The wood barstool will offer a classic,elegant look when furnishing your establishment. This stool is easy to clean,which is an important aspect when it comes to a business. This stool was designed to withstand the daily rigors in the hospitality industry,but will also provide a warm and inviting quality to your home. The thick,foam padded seat will keep users comfortable. The durable Beechwood frame is stabilized using two support bars,which includes a footrest. The floor glides help protect your floors and ensure smooth gliding. This elegantly styled stool will highlight your home or business without disappointment.</p>
+<p><strong>Width: 18''W</strong></p>
+<p><strong>Height: 43''H</strong></p>
+<p><strong>Depth: 17''D</strong></p>
+<p><strong>Seat height: 31''H</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product type_Wooden Barstools</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4757580676</id>
+      <title>Default Title</title>
+      <s:price currency="USD">160.00</s:price>
+      <s:sku>6026BS</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4757445636</id>
+    <published>2016-04-12T10:13:00-05:00</published>
+    <updated>2016-04-12T10:13:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/cwb-6025bs-mahogany-finished-school-house-back-wooden-restaurant-barstool"/>
+    <title>MK6025BS Walnut Finished Ladder Back Wooden Restaurant Barstool with Black Vinyl Seat</title>
+    <s:type>Wooden Barstools</s:type>
+    <s:vendor>MKLD Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/20130908122212521.jpg?v=1460729419"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MKLD Furniture<br>
+        <strong>Type: </strong>Wooden Barstools<br>
+        <strong>Price: </strong>
+            160.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>FEATURES</strong></p>
+<p>The wood barstool will offer a classic,elegant look when furnishing your establishment. This stool is easy to clean,which is an important aspect when it comes to a business. This stool was designed to withstand the daily rigors in the hospitality industry,but will also provide a warm and inviting quality to your home. The thick,foam padded seat will keep users comfortable. The durable Beechwood frame is stabilized using two support bars,which includes a footrest. The floor glides help protect your floors and ensure smooth gliding. This elegantly styled stool will highlight your home or business without disappointment.</p>
+<p><strong>Width: 18''W</strong></p>
+<p><strong>Height: 43''H</strong></p>
+<p><strong>Depth: 17''D</strong></p>
+<p><strong>Seat height: 31''H</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product type_Wooden Barstools</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4757445636</id>
+      <title>Default Title</title>
+      <s:price currency="USD">160.00</s:price>
+      <s:sku>6025BS</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4757445572</id>
+    <published>2016-04-12T10:13:00-05:00</published>
+    <updated>2016-04-12T10:13:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/cwb-6239bs-mahogany-finished-school-house-back-wooden-restaurant-barstool"/>
+    <title>MK6239BS Cherry Finished Vertical Slat Back Wooden Restaurant Barstool with Black Vinyl Seat</title>
+    <s:type>Wooden Barstools</s:type>
+    <s:vendor>MKLD Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/20130908121507629.jpg?v=1460729749"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MKLD Furniture<br>
+        <strong>Type: </strong>Wooden Barstools<br>
+        <strong>Price: </strong>
+            195.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>FEATURES</strong></p>
+<p>The wood barstool will offer a classic,elegant look when furnishing your establishment. This stool is easy to clean,which is an important aspect when it comes to a business. This stool was designed to withstand the daily rigors in the hospitality industry,but will also provide a warm and inviting quality to your home. The thick,foam padded seat will keep users comfortable. The durable Beechwood frame is stabilized using two support bars,which includes a footrest. The floor glides help protect your floors and ensure smooth gliding. This elegantly styled stool will highlight your home or business without disappointment.</p>
+<p><strong>Width: 18''W</strong></p>
+<p><strong>Height: 43''H</strong></p>
+<p><strong>Depth: 17''D</strong></p>
+<p><strong>Seat height: 31''H</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product type_Wooden Barstools</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4757445572</id>
+      <title>Default Title</title>
+      <s:price currency="USD">195.00</s:price>
+      <s:sku>6239BS</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4754083908</id>
+    <published>2016-04-11T14:10:00-05:00</published>
+    <updated>2016-04-11T14:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/cwb-6236bs-mahogany-finished-solid-back-wooden-restaurant-barstool-with-burgundy-vinyl-seat"/>
+    <title>MK6236BS Mahogany Finished Solid Back Wooden Restaurant Barstool with Black Vinyl Seat</title>
+    <s:type>Wooden Barstools</s:type>
+    <s:vendor>MKLD Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/20130914022801177.jpg?v=1495036975"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MKLD Furniture<br>
+        <strong>Type: </strong>Wooden Barstools<br>
+        <strong>Price: </strong>
+            155.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>FEATURES</strong></p>
+<p>The wood barstool will offer a classic,elegant look when furnishing your establishment. This stool is easy to clean,which is an important aspect when it comes to a business. This stool was designed to withstand the daily rigors in the hospitality industry,but will also provide a warm and inviting quality to your home. The thick,foam padded seat will keep users comfortable. The durable Beechwood frame is stabilized using two support bars,which includes a footrest. The floor glides help protect your floors and ensure smooth gliding. This elegantly styled stool will highlight your home or business without disappointment.</p>
+<p> </p>
+<p><strong>Width: 18''W</strong></p>
+<p><strong>Height: 43''H</strong></p>
+<p><strong>Depth: 20''D</strong></p>
+<p><strong>Seat height: 31''H</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product type_Wooden Barstools</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4754083908</id>
+      <title>Default Title</title>
+      <s:price currency="USD">155.00</s:price>
+      <s:sku>6236BS</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4754075972</id>
+    <published>2016-04-11T14:03:00-05:00</published>
+    <updated>2016-04-11T14:03:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/cwb-6242bs-cherry-finished-vertical-slat-back-wooden-restaurant-barstool-with-burgundy-vinyl-seat"/>
+    <title>MK6242BS Walnut Finished Vertical Slat Back Wooden Restaurant Barstool with Black Vinyl Seat</title>
+    <s:type>Wooden Barstools</s:type>
+    <s:vendor>MKLD Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/20130908122732355.jpg?v=1495037368"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MKLD Furniture<br>
+        <strong>Type: </strong>Wooden Barstools<br>
+        <strong>Price: </strong>
+            135.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>FEATURES </strong></p>
+<p>The wood barstool will offer a classic,elegant look when furnishing your establishment. This stool is easy to clean,which is an important aspect when it comes to a business. This stool was designed to withstand the daily rigors in the hospitality industry,but will also provide a warm and inviting quality to your home. The thick,foam padded seat will keep users comfortable. The durable Beechwood frame is stabilized using two support bars,which includes a footrest. The floor glides help protect your floors and ensure smooth gliding. This elegantly styled stool will highlight your home or business without disappointment.</p>
+<p><strong>Width: 18''W</strong></p>
+<p><strong> Height: 43''H</strong></p>
+<p><strong> Depth: 21''D </strong></p>
+<p><strong>Seat height: 31''H</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product type_Wooden Barstools</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4754075972</id>
+      <title>Default Title</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku>6242BS</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4754031556</id>
+    <published>2016-04-11T13:42:00-05:00</published>
+    <updated>2016-04-11T13:42:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/cmb-bs-mahogany-finished-school-house-back-wooden-restaurant-barstool"/>
+    <title>MK6235BS Mahogany Finished School House Back Wooden Restaurant Barstool</title>
+    <s:type>Wooden Barstools</s:type>
+    <s:vendor>MKLD Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/mahogany-finished-school-house-back-wooden-restaurant-bar-stool-bfdh-2332cchcs-bar-tdr-10_64cb06e9-c932-48ca-a171-869e43585846.jpg?v=1460403320"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MKLD Furniture<br>
+        <strong>Type: </strong>Wooden Barstools<br>
+        <strong>Price: </strong>
+            225.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>FEATURES </strong></p>
+<p>The wood barstool will offer a classic,elegant look when furnishing your establishment. This stool is easy to clean,which is an important aspect when it comes to a business. This stool was designed to withstand the daily rigors in the hospitality industry,but will also provide a warm and inviting quality to your home. The thick,foam padded seat will keep users comfortable. The durable Beechwood frame is stabilized using two support bars,which includes a footrest. The floor glides help protect your floors and ensure smooth gliding. This elegantly styled stool will highlight your home or business without disappointment.</p>
+<p><strong> Width: 18''W</strong></p>
+<p><strong> Height: 43''H</strong></p>
+<p><strong>Depth: 20''D </strong></p>
+<p><strong>Seat height: 29.5''H</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product type_Wooden Barstools</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4754031556</id>
+      <title>Default Title</title>
+      <s:price currency="USD">225.00</s:price>
+      <s:sku>6235BS</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4754016132</id>
+    <published>2016-04-11T13:31:00-05:00</published>
+    <updated>2016-04-11T13:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/cwb-6241bs-walnut-finished-ladder-back-wooden-restaurant-barstool-with-black-vinyl-seat"/>
+    <title>MK6241BS Walnut Finished Ladder Back Wooden Restaurant Barstool with Black Vinyl Seat</title>
+    <s:type>Wooden Barstools</s:type>
+    <s:vendor>MKLD Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/20130908122828709.jpg?v=1495037480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MKLD Furniture<br>
+        <strong>Type: </strong>Wooden Barstools<br>
+        <strong>Price: </strong>
+            135.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>FEATURES</strong></p>
+<p>The wood barstool will offer a classic,elegant look when furnishing your establishment. This stool is easy to clean,which is an important aspect when it comes to a business. This stool was designed to withstand the daily rigors in the hospitality industry,but will also provide a warm and inviting quality to your home. The thick,foam padded seat will keep users comfortable. The durable Beechwood frame is stabilized using two support bars,which includes a footrest. The floor glides help protect your floors and ensure smooth gliding. This elegantly styled stool will highlight your home or business without disappointment.</p>
+<p> </p>
+<p><strong>Width: 18''W </strong></p>
+<p><strong>Height: 43''H </strong></p>
+<p><strong>Depth: 17''D</strong></p>
+<p><strong>Seat height: 31''H</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product type_Wooden Barstools</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4754016132</id>
+      <title>Default Title</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku>6241BS</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+</feed>

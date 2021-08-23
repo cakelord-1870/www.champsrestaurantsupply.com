@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.champsrestaurantsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.champsrestaurantsupply.com/collections/dish-cabinets.atom"/>
+  <title>Champs Restaurant Supply</title>
+  <updated>2017-12-05T13:26:51-06:00</updated>
+  <author>
+    <name>Champs Restaurant Supply</name>
+  </author>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/139501764623</id>
+    <published>2017-12-05T13:26:51-06:00</published>
+    <updated>2017-12-05T13:26:51-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bkdc-1848-48-x-18-stainless-steel-dish-cabinet"/>
+    <title>BK Resources BKDC-1848 48&quot; x 18&quot; Stainless Steel Dish Cabinet</title>
+    <s:type>Dish Cabinets</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/bkresources-bkdc_1_1024x1024_grande_8815a2dd-22c6-4d9f-8491-2fc88457a2b1.png?v=1512502119"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Dish Cabinets<br>
+        <strong>Price: </strong>
+            946.39
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>BK Resources BKDC-1848 48" x 18" Stainless Steel Dish Cabinet</strong></p>
+<ul>
+<li>BKDC-1848 Dish Cabinet open front</li>
+<li>48" W x 18" D</li>
+<li>18304 stainless steel fixed position shelf</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/139501764623</id>
+      <title>Default Title</title>
+      <s:price currency="USD">946.39</s:price>
+      <s:sku>BKDC-1848</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11540800015</id>
+    <published>2017-05-30T21:55:39-05:00</published>
+    <updated>2017-05-30T21:55:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bkdc-1872-72-x-18-stainless-steel-dish-cabinet"/>
+    <title>BK Resources BKDC-1872 72&quot; x 18&quot; Stainless Steel Dish Cabinet</title>
+    <s:type>Dish Cabinets</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/bkresources-bkdc_1_1024x1024_e2ad0d26-eecb-4b2a-a9fb-a243b925ad69.png?v=1496199509"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Dish Cabinets<br>
+        <strong>Price: </strong>
+            1268.13
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>BK Resources BKDC-1872 72" x 18" Stainless Steel Dish Cabinet</strong></p>
+<ul>
+<li>Dish Cabinet</li>
+<li>Open front</li>
+<li>72"W x 18"D</li>
+<li>18/304 stainless steel</li>
+<li>Fixed position shelf</li>
+<li>6"H stainless steel legs with adjustable bullet feet</li>
+<li>NSF</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11540800015</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1268.13</s:price>
+      <s:sku>BKDC-1872</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11540793487</id>
+    <published>2017-05-30T21:51:11-05:00</published>
+    <updated>2017-05-30T21:51:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bkdc-1860-60-x-18-stainless-steel-dish-cabinet"/>
+    <title>BK Resources BKDC-1860 60&quot; x 18&quot; Stainless Steel Dish Cabinet</title>
+    <s:type>Dish Cabinets</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/bkresources-bkdc_1_1024x1024_626e9afe-98ae-44d6-8dca-ee4ee727b7ca.png?v=1496199230"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Dish Cabinets<br>
+        <strong>Price: </strong>
+            1106.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4 itemprop="name">BK Resources BKDC-1860 60" x 18" Stainless Steel Dish Cabinet</h4>
+<ul>
+<li>Dish Cabinet</li>
+<li>Open front</li>
+<li>60"W x 18"D</li>
+<li>18/304 stainless steel</li>
+<li>Fixed position shelf</li>
+<li>6"H stainless steel legs with adjustable bullet feet</li>
+<li>NSF</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11540793487</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1106.05</s:price>
+      <s:sku>BKDC-1860</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11540788879</id>
+    <published>2017-05-30T21:48:37-05:00</published>
+    <updated>2017-05-30T21:48:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bkdc-1836-36-x-18-stainless-steel-dish-cabinet"/>
+    <title>BK Resources BKDC-1836 36&quot; x 18&quot; Stainless Steel Dish Cabinet</title>
+    <s:type>Dish Cabinets</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/bkresources-bkdc_1_1024x1024_e4213e6c-7683-4fb7-bceb-5c3108671d08.png?v=1496199066"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Dish Cabinets<br>
+        <strong>Price: </strong>
+            786.74
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4 itemprop="name">BK Resources BKDC-1836 36" x 18" Stainless Steel Dish Cabinet</h4>
+<ul>
+<li>BKDC-1836 Dish Cabinet open front</li>
+<li>36" W x 18" D</li>
+<li>18304 stainless steel fixed position shelf</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11540788879</id>
+      <title>Default Title</title>
+      <s:price currency="USD">786.74</s:price>
+      <s:sku>BKDC-1836</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/3994887492</id>
+    <published>2015-12-18T15:50:00-06:00</published>
+    <updated>2015-12-18T15:50:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bkdc-1548-48-all-stainless-steel-dish-storage-table-dish-table"/>
+    <title>BK Resources BKDC-1548 48&apos;&apos; Stainless Steel Dish Cabinet</title>
+    <s:type>Dish Cabinets</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/bkresources-bkdc_1_16ca3203-c735-411b-87d6-5cbcc2fc8d4f.png?v=1453934781"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Dish Cabinets<br>
+        <strong>Price: </strong>
+            685.36
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>BK Resources BKDC-1548 48'' Stainless Steel Dish Cabinet</strong></p>
+<ul>
+<li>T-304 18 gauge stainless steel</li>
+<li>1-5/8" x 6" stainless steel legs</li>
+<li>Legs adjust 1" in height</li>
+<li>Fixed position shelf</li>
+<li>Adjustable plastic feet</li>
+<li>Dimensions: 34.75"H x 48"W x 15"D</li>
+<li>Weight: 96 lbs</li>
+<li><span>NSF </span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-day</s:tag>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/3994887492</id>
+      <title>Default Title</title>
+      <s:price currency="USD">685.36</s:price>
+      <s:sku>BKDC-1548</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/3994818628</id>
+    <published>2015-12-18T15:44:00-06:00</published>
+    <updated>2015-12-18T15:44:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bkdc-1572-72-all-stainless-steel-dish-storage-table-dish-table"/>
+    <title>BK Resources BKDC-1572 72&apos;&apos; Stainless Steel Dish Cabinet</title>
+    <s:type>Dish Cabinets</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/bkresources-bkdc_1.png?v=1453934780"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Dish Cabinets<br>
+        <strong>Price: </strong>
+            884.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>BK Resources BKDC-1572 72'' Stainless Steel Dish Cabinet</strong></p>
+<ul>
+<li>Dish Cabinet</li>
+<li>open front</li>
+<li>72"W x 15"D</li>
+<li>18/304 stainless steel</li>
+<li>fixed position shelf</li>
+<li>6"H stainless steel legs with adjustable bullet feet</li>
+<li>NSF</li>
+<li>Dimensions: 72"W x 33.75"H x 15"L</li>
+<li><span>134 lbs.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-day</s:tag>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/3994818628</id>
+      <title>Default Title</title>
+      <s:price currency="USD">884.47</s:price>
+      <s:sku>BKDC-1572</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/3994793924</id>
+    <published>2015-12-18T15:24:00-06:00</published>
+    <updated>2015-12-18T15:24:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bkdc-1560-60-all-stainless-steel-dish-storage-table-dish-table"/>
+    <title>BK Resources BKDC-1560 60&apos;&apos; Stainless Steel Dish Cabinet</title>
+    <s:type>Dish Cabinets</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/bkr-bkdc-1560_1.jpg?v=1453934778"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Dish Cabinets<br>
+        <strong>Price: </strong>
+            773.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>BK Resources BKDC-1560 60'' Stainless Steel Dish Cabinet</strong></p>
+<ul>
+<li> Dish Cabinet</li>
+<li>Open front</li>
+<li>18/304 stainless steel</li>
+<li>Fixed position shelf</li>
+<li>6"H stainless steel legs with adjustable bullet feet</li>
+<li>NSF</li>
+<li>Dimensions:60"W x 33.75"H x 15"L</li>
+<li>Weight:115 Lbs</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-day</s:tag>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/3994793924</id>
+      <title>Default Title</title>
+      <s:price currency="USD">773.99</s:price>
+      <s:sku>BKDC-1560</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+</feed>

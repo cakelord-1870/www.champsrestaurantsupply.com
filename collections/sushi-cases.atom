@@ -1,0 +1,1728 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.champsrestaurantsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.champsrestaurantsupply.com/collections/sushi-cases.atom"/>
+  <title>Champs Restaurant Supply</title>
+  <updated>2019-04-25T14:02:56-05:00</updated>
+  <author>
+    <name>Champs Restaurant Supply</name>
+  </author>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/2132200063038</id>
+    <published>2019-04-25T14:02:56-05:00</published>
+    <updated>2019-04-25T14:02:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/hoshizaki-hnc-120ba-r-sl-47-1-4-refrigerated-sushi-display-case"/>
+    <title>Hoshizaki HNC-120BA-R-SL 47-1/4&quot; Refrigerated Sushi Display Case</title>
+    <s:type>Sushi Cases</s:type>
+    <s:vendor>Hoshizaki</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/HNC150BARSL.png?v=1557945650"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hoshizaki<br>
+        <strong>Type: </strong>Sushi Cases<br>
+        <strong>Price: </strong>
+            2580.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_Hoshizaki</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/2132200063038</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2580.00</s:price>
+      <s:sku>HNC-120BA-R-SL</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/2132200030270</id>
+    <published>2019-04-25T14:02:56-05:00</published>
+    <updated>2019-04-25T14:02:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/hoshizaki-hnc-150ba-l-sl-59-1-8-refrigerated-sushi-display-case"/>
+    <title>Hoshizaki HNC-150BA-L-SL 59-1/8&quot; Refrigerated Sushi Display Case</title>
+    <s:type>Sushi Cases</s:type>
+    <s:vendor>Hoshizaki</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/444.jpg?v=1556225180"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hoshizaki<br>
+        <strong>Type: </strong>Sushi Cases<br>
+        <strong>Price: </strong>
+            2785.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_Hoshizaki</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/2132200030270</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2785.00</s:price>
+      <s:sku>HNC-150BA-L-SL</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/2132199964734</id>
+    <published>2019-04-25T14:02:55-05:00</published>
+    <updated>2019-04-25T14:02:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/hoshizaki-hnc-150ba-r-sl-59-1-8-refrigerated-sushi-display-case"/>
+    <title>Hoshizaki HNC-150BA-R-SL 59-1/8&quot; Refrigerated Sushi Display Case</title>
+    <s:type>Sushi Cases</s:type>
+    <s:vendor>Hoshizaki</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/HNC150BARSL_75ca6266-775b-40a6-830e-69a6d6312d19.png?v=1557945698"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hoshizaki<br>
+        <strong>Type: </strong>Sushi Cases<br>
+        <strong>Price: </strong>
+            2785.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_Hoshizaki</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/2132199964734</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2785.00</s:price>
+      <s:sku>HNC-150BA-R-SL</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/2132199931966</id>
+    <published>2019-04-25T14:02:55-05:00</published>
+    <updated>2019-04-25T14:02:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/hoshizaki-hnc-180ba-l-sl-70-7-8-refrigerated-sushi-display-case"/>
+    <title>Hoshizaki HNC-180BA-L-SL 70-7/8&quot; Refrigerated Sushi Display Case</title>
+    <s:type>Sushi Cases</s:type>
+    <s:vendor>Hoshizaki</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/47.jpg?v=1556225884"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hoshizaki<br>
+        <strong>Type: </strong>Sushi Cases<br>
+        <strong>Price: </strong>
+            3115.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_Hoshizaki</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/2132199931966</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3115.00</s:price>
+      <s:sku>HNC-180BA-L-SL</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/2132199899198</id>
+    <published>2019-04-25T14:02:55-05:00</published>
+    <updated>2019-04-25T14:02:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/hoshizaki-hnc-180ba-r-sl-70-7-8-refrigerated-sushi-display-case"/>
+    <title>Hoshizaki HNC-180BA-R-SL 70-7/8&quot; Refrigerated Sushi Display Case</title>
+    <s:type>Sushi Cases</s:type>
+    <s:vendor>Hoshizaki</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/HNC150BARSL_56475275-76de-41e6-a65f-eb981aab372b.png?v=1557945713"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hoshizaki<br>
+        <strong>Type: </strong>Sushi Cases<br>
+        <strong>Price: </strong>
+            3115.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_Hoshizaki</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/2132199899198</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3115.00</s:price>
+      <s:sku>HNC-180BA-R-SL</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/2132199866430</id>
+    <published>2019-04-25T14:02:54-05:00</published>
+    <updated>2019-04-25T14:02:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/hoshizaki-hnc-210ba-l-sl-82-3-4-refrigerated-sushi-display-case"/>
+    <title>Hoshizaki HNC-210BA-L-SL 82-3/4&quot; Refrigerated Sushi Display Case</title>
+    <s:type>Sushi Cases</s:type>
+    <s:vendor>Hoshizaki</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/HNC210BALSL.png?v=1557945765"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hoshizaki<br>
+        <strong>Type: </strong>Sushi Cases<br>
+        <strong>Price: </strong>
+            3445.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_Hoshizaki</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/2132199866430</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3445.00</s:price>
+      <s:sku>HNC-210BA-L-SL</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/2132199833662</id>
+    <published>2019-04-25T14:02:54-05:00</published>
+    <updated>2019-04-25T14:02:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/hoshizaki-hnc-210ba-r-sl-82-3-4-refrigerated-sushi-display-case"/>
+    <title>Hoshizaki HNC-210BA-R-SL 82-3/4&quot; Refrigerated Sushi Display Case</title>
+    <s:type>Sushi Cases</s:type>
+    <s:vendor>Hoshizaki</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/ll.jpg?v=1556227040"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hoshizaki<br>
+        <strong>Type: </strong>Sushi Cases<br>
+        <strong>Price: </strong>
+            3445.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_Hoshizaki</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/2132199833662</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3445.00</s:price>
+      <s:sku>HNC-210BA-R-SL</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11485098767</id>
+    <published>2017-05-23T22:33:44-05:00</published>
+    <updated>2017-05-23T22:33:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/turbo-air-sakura-70-r-72-sushi-case-right-compressor"/>
+    <title>Turbo Air SAK-70R-N 72&quot; Sushi Case - Right Compressor</title>
+    <s:type>Sushi Cases</s:type>
+    <s:vendor>Turbo Air</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/083-sakura70r_large_95bc16b4-e666-4893-ac1d-efb1065084b9.jpg?v=1495597048"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Turbo Air<br>
+        <strong>Type: </strong>Sushi Cases<br>
+        <strong>Price: </strong>
+            3145.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Turbo Air SAK-70R-N 72" Sushi Case - Right Compressor</strong></p>
+<ul>
+<li><b>Hydrocarbon refrigerants (R-290): With innovative and eco-friendly technology, Turbo Air brings you hydrocarbon refrigerators designed to meet the new standards of the EPA and DOE in 2017. Hydrocarbon refrigerants do not deplete the ozone layer and have very low contribution to global warming (ODP-0, GWP-3).</b></li>
+<li><b>Ambient temperature range 50°F ~ 80°F, saturation temperature 39°F</b></li>
+<li><b>Beautifully curved, angled down top front glass</b></li>
+<li><b>1” diameter drain hole with plastic cover</b></li>
+<li><b>Slightly inclined bottom for better drainage</b></li>
+<li><b>Larger interior for optimized display effect</b></li>
+<li><b>Stainless steel solid food plates</b></li>
+<li><b>Low-E coated, tempered glass doors with durable plastic door handles at chef side</b></li>
+<li><b>Exterior body is beautifully made from unique and stylish stainless steel material</b></li>
+<li><b>Side mount compressor makes it easy to be serviced without being moved</b></li>
+<li><b>Elegant contemporary Euro design enhances any store application</b></li>
+<li><b>Easy cleaning and excellent durability</b></li>
+<li>
+<b>Condenser located on right </b><b>from the front view</b>
+</li>
+<li><b>Drain hole located on right from the chef side</b></li>
+<li><b>Refrigerator maintains 35°F ~ 41°F for the best in food preservation</b></li>
+<li><b>Anti-corrosion coated evaporator</b></li>
+<li><b>Self-contained system</b></li>
+<li><b>No plumbing required</b></li>
+<li><b>Simple plug-in installation</b></li>
+<li><b>Recommended operating conditions: SAK models are designed to operate in environments where temperature &amp; humidity do not exceed 75°F and 55% relative humidity</b></li>
+<li><b><strong>Warranty: 2 Year Parts and Labor &amp; 5 Years on Compressor</strong></b></li>
+</ul>
+<table>
+<thead>
+<tr>
+<th class="toolbar" colspan="3" style="text-align: center;">Specification</th>
+</tr>
+</thead>
+<tbody id="tbSpecSheetRows">
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Model</td>
+<td class="tablespecs_title"></td>
+<td><strong>SAK-70R-N</strong></td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Width</td>
+<td class="tablespecs_title"></td>
+<td>71-1/4"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Depth</td>
+<td class="tablespecs_title"></td>
+<td>14-1/8"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Height</td>
+<td class="tablespecs_title"></td>
+<td>11-1/2"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Capacity (Cu.Ft)</td>
+<td></td>
+<td>2.1</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td># of Doors</td>
+<td></td>
+<td>4</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td># of  Bottom Shelves</td>
+<td></td>
+<td>5</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Compressor Location</td>
+<td></td>
+<td>Right</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Door Style</td>
+<td></td>
+<td>Slidding</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Compressor</td>
+<td></td>
+<td>1/6 HP</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Temperature Range</td>
+<td></td>
+<td>35°F ~ 41°F</td>
+</tr>
+</tbody>
+</table>
+<b><br></b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>freeship</s:tag>
+    <s:tag>Product type_Sushi Cases</s:tag>
+    <s:tag>Sushi Cases</s:tag>
+    <s:tag>Vendor_Turbo Air</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11485098767</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3145.18</s:price>
+      <s:sku>SAK-70R-N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11485045391</id>
+    <published>2017-05-23T22:27:01-05:00</published>
+    <updated>2017-05-23T22:27:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/turbo-air-sakura-60-r-60-sushi-case-right-compressor"/>
+    <title>Turbo Air SAK-60R-N 60&quot; Sushi Case - Right Compressor</title>
+    <s:type>Sushi Cases</s:type>
+    <s:vendor>Turbo Air</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/SAK-60R-N-2.jpg?v=1521910751"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Turbo Air<br>
+        <strong>Type: </strong>Sushi Cases<br>
+        <strong>Price: </strong>
+            2876.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Turbo Air SAK-60R-N 60" Sushi Case - Right Compressor</strong></p>
+<ul>
+<li>
+<b>Hydrocarbon refrigerants (R-290):<span> </span></b><strong>With innovative and eco-friendly technology, Turbo Air brings you hydrocarbon refrigerators designed to meet the new standards of the EPA and DOE in 2017. Hydrocarbon refrigerants do not deplete the ozone layer and have very low contribution to global warming (ODP-0, GWP-3).</strong>
+</li>
+<li><b>Ambient temperature range 50°F ~ 80°F, saturation temperature 39°F</b></li>
+<li><b>Beautifully curved, angled down top front glass</b></li>
+<li><b>1” diameter drain hole with plastic cover</b></li>
+<li><b>Slightly inclined bottom for better drainage</b></li>
+<li><b>Larger interior for optimized display effect</b></li>
+<li><b>Stainless steel solid food plates</b></li>
+<li><b>Low-E coated, tempered glass doors with durable plastic door handles at chef side</b></li>
+<li><b>Exterior body is beautifully made from unique and stylish stainless steel material</b></li>
+<li><b>Side mount compressor makes it easy to be serviced without being moved</b></li>
+<li><b>Elegant contemporary Euro design enhances any store application</b></li>
+<li><b>Easy cleaning and excellent durability</b></li>
+<li><b>Condenser located on right from the front view</b></li>
+<li><b>Drain hole located on left from the chef side</b></li>
+<li><b>Refrigerator maintains 35°F ~ 41°F for the best in food preservation</b></li>
+<li><b>Anti-corrosion coated evaporator</b></li>
+<li><b>Self-contained system</b></li>
+<li><b>No plumbing required</b></li>
+<li><b>Simple plug-in installation</b></li>
+<li>
+<b>Recommended operating conditions: </b><strong>SAK models are designed to operate in environments where temperature &amp; humidity do not exceed 75°F and 55% relative humidity</strong>
+</li>
+<li><strong>Warranty: 2 Year Parts and Labor &amp; 5 Years on Compressor</strong></li>
+</ul>
+<table>
+<thead>
+<tr>
+<th class="toolbar" colspan="3" style="text-align: center;">Specification</th>
+</tr>
+</thead>
+<tbody id="tbSpecSheetRows">
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Model</td>
+<td class="tablespecs_title"></td>
+<td><strong>SAK-60R-N</strong></td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Width</td>
+<td class="tablespecs_title"></td>
+<td>59-3/4"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Depth</td>
+<td class="tablespecs_title"></td>
+<td>14-1/8"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Height</td>
+<td class="tablespecs_title"></td>
+<td>11-1/2"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Capacity (Cu.Ft)</td>
+<td></td>
+<td>1.7</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td># of Doors</td>
+<td></td>
+<td>4</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td># of  Bottom Shelves</td>
+<td></td>
+<td>5</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Compressor Location</td>
+<td></td>
+<td>Right</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Door Style</td>
+<td></td>
+<td>Slidding</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Compressor</td>
+<td></td>
+<td>1/6 HP</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Temperature Range</td>
+<td></td>
+<td>35°F ~ 41°F</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>freeship</s:tag>
+    <s:tag>Product type_Sushi Cases</s:tag>
+    <s:tag>Sushi Cases</s:tag>
+    <s:tag>Vendor_Turbo Air</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11485045391</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2876.30</s:price>
+      <s:sku>SAK-60R-N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11484994639</id>
+    <published>2017-05-23T22:20:07-05:00</published>
+    <updated>2017-05-23T22:20:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/turbo-air-sakura-50-r-49-sushi-case-right-compressor"/>
+    <title>Turbo Air SAK-50R-N 49&quot; Sushi Case - Right Compressor</title>
+    <s:type>Sushi Cases</s:type>
+    <s:vendor>Turbo Air</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/SAK-50R-N-2.jpg?v=1521909156"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Turbo Air<br>
+        <strong>Type: </strong>Sushi Cases<br>
+        <strong>Price: </strong>
+            2597.36
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Turbo Air SAK-50R-N 49" Sushi Case - Right Compressor</strong></p>
+<ul>
+<li><b>Hydrocarbon refrigerants (R-290): With innovative and eco-friendly technology, Turbo Air brings you hydrocarbon refrigerators designed to meet the new standards of the EPA and DOE in 2017. Hydrocarbon refrigerants do not deplete the ozone layer and have very low contribution to global warming (ODP-0, GWP-3)</b></li>
+<li><b><strong>Ambient temperature range 50°F ~ 80°F, saturation temperature 39°F</strong></b></li>
+<li><b><strong>Beautifully curved, angled down top front glass</strong></b></li>
+<li><b><strong>1” diameter drain hole with plastic cover</strong></b></li>
+<li><b><strong>Slightly inclined bottom for better drainage</strong></b></li>
+<li><b><strong>Larger interior for optimized display effect</strong></b></li>
+<li><b><strong>Stainless steel solid food plates</strong></b></li>
+<li><b><strong>Low-E coated, tempered glass doors with durable plastic door handles at chef sid</strong></b></li>
+<li><b><strong> Exterior body is beautifully made from unique and stylish stainless steel material</strong></b></li>
+<li><b><strong>Side mount compressor makes it easy to be serviced without being moved</strong></b></li>
+<li><b><strong>Elegant contemporary Euro design enhances any store application</strong></b></li>
+<li><b><strong>Easy cleaning and excellent durability</strong></b></li>
+<li><b><strong>Condenser located on right from the front view</strong></b></li>
+<li><b><strong>Drain hole located on left from the chef side</strong></b></li>
+<li><b><strong>Refrigerator maintains 35°F ~ 41°F for the best in food preservation</strong></b></li>
+<li><b><strong>Anti-corrosion coated evaporator</strong></b></li>
+<li><b><strong>Self-contained system</strong></b></li>
+<li><b><strong>No plumbing required</strong></b></li>
+<li><b><strong>Simple plug-in installation</strong></b></li>
+<li><b><strong>Recommended operating conditions: SAK models are designed to operate in environments where temperature &amp; humidity do not exceed 75°F and 55% relative humidity.</strong></b></li>
+<li><b><strong>Warranty: 2 Year Parts and Labor &amp; 5 Years on Compressor</strong></b></li>
+</ul>
+<table>
+<thead>
+<tr>
+<th class="toolbar" colspan="3" style="text-align: center;">Specification</th>
+</tr>
+</thead>
+<tbody id="tbSpecSheetRows">
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Model</td>
+<td class="tablespecs_title"></td>
+<td><strong>SAK-50R-N</strong></td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Width</td>
+<td class="tablespecs_title"></td>
+<td>48-1/4"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Depth</td>
+<td class="tablespecs_title"></td>
+<td>14-1/8"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Height</td>
+<td class="tablespecs_title"></td>
+<td>11-1/2"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Capacity (Cu.Ft)</td>
+<td></td>
+<td>1.3</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td># of Doors</td>
+<td></td>
+<td>2</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td># of  Bottom Shelves</td>
+<td></td>
+<td>3</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Compressor Location</td>
+<td></td>
+<td>Right</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Door Style</td>
+<td></td>
+<td>Slidding</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Compressor</td>
+<td></td>
+<td>1/6 HP</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Temperature Range</td>
+<td></td>
+<td>35°F ~ 41°F</td>
+</tr>
+</tbody>
+</table>
+<div>
+<ul></ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>freeship</s:tag>
+    <s:tag>Product type_Sushi Cases</s:tag>
+    <s:tag>Sushi Cases</s:tag>
+    <s:tag>Vendor_Turbo Air</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11484994639</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2597.36</s:price>
+      <s:sku>SAK-50R-N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/10469209807</id>
+    <published>2017-03-08T15:08:00-06:00</published>
+    <updated>2017-03-08T15:08:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/everest-esc83r-82-3-4-right-compressor-curved-glass-refrigerated-sushi-case"/>
+    <title>Everest ESC83R 82-5/8&quot; Right Compressor Curved Glass Refrigerated Sushi Case</title>
+    <s:type>Sushi Cases</s:type>
+    <s:vendor>Everest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/esc83r_everest-refrigeration-1.jpg?v=1489007338"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Everest<br>
+        <strong>Type: </strong>Sushi Cases<br>
+        <strong>Price: </strong>
+            3010.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Everest ESC83R 82-5/8" Right Compressor Curved Glass Refrigerated Sushi Case</strong></p>
+<ul>
+<li>Factory preset temperature, 38°F at ambient temperature 80°F (no control equipped)</li>
+<li>Large single piece, clear, curved glass display window offering wide viewing area from top to bottom</li>
+<li>ABS plastic front, top, bottom and sides of exterior, stainless steel interior floor</li>
+<li>Foamed-in-place polyurethane insulation cabinet construction</li>
+<li>Right (or left) condenser design to suit installation preference</li>
+<li>Rear condenser airfow intake and side louver exhaust</li>
+<li>Removable condenser air filter</li>
+<li>Triple loops of nickel plated copper tube evaporator, and lower copper tube evaporator located in inner layer of stainless steel floor to cool down floor temperature</li>
+<li>6 3/4" high removable glass doors</li>
+<li>Plastic sanitary trays</li>
+<li>3 Year Parts and Labor Warranty / 5 Year Compressor Warranty</li>
+<li>Dimensions: 82-5/8"L X 14"D X 11-1/8"H</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_Everest Refrigeration</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/10469209807</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3010.00</s:price>
+      <s:sku>ESC83R</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/10469209679</id>
+    <published>2017-03-08T15:08:00-06:00</published>
+    <updated>2017-03-08T15:08:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/everest-esc83l-left-compressor-curved-glass-refrigerated-sushi-case"/>
+    <title>Everest  ESC83L  Left Compressor Curved Glass Refrigerated Sushi Case</title>
+    <s:type>Sushi Cases</s:type>
+    <s:vendor>Everest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/esc83l_everest-refrigeration-1.jpg?v=1489007337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Everest<br>
+        <strong>Type: </strong>Sushi Cases<br>
+        <strong>Price: </strong>
+            3010.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Everest  ESC83L  Left Compressor Curved Glass Refrigerated Sushi Case</strong></p>
+<ul>
+<li>Factory preset temperature, 38°F at ambient temperature 80°F (no control equipped)</li>
+<li>Large single piece, clear, curved glass display window offering wide viewing area from top to bottom</li>
+<li>ABS plastic front, top, bottom and sides of exterior, stainless steel interior floor</li>
+<li>Foamed-in-place polyurethane insulation cabinet construction</li>
+<li>Right (or left) condenser design to suit installation preference</li>
+<li>Rear condenser airfow intake and side louver exhaust</li>
+<li>Removable condenser air filter</li>
+<li>Triple loops of nickel plated copper tube evaporator, and lower copper tube evaporator located in inner layer of stainless steel floor to cool down floor temperature</li>
+<li>6 3/4" high removable glass doors</li>
+<li>Plastic sanitary trays</li>
+<li>3 Year Parts and Labor Warranty / 5 Year Compressor Warranty</li>
+<li>Dimensions: 82-5/8"L X 14"D X 11-1/8"H</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_Everest Refrigeration</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/10469209679</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3010.00</s:price>
+      <s:sku>ESC83L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/10469209487</id>
+    <published>2017-03-08T15:08:00-06:00</published>
+    <updated>2017-03-08T15:08:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/everest-esc71r-71-right-compressor-curved-glass-refrigerated-sushi-case"/>
+    <title>Everest ESC71R 71&quot; Right Compressor Curved Glass Refrigerated Sushi Case</title>
+    <s:type>Sushi Cases</s:type>
+    <s:vendor>Everest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/esc71r_everest-refrigeration-1.jpg?v=1489007336"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Everest<br>
+        <strong>Type: </strong>Sushi Cases<br>
+        <strong>Price: </strong>
+            2526.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Everest ESC71R 71" Right Compressor Curved Glass Refrigerated Sushi Case</strong></p>
+<ul>
+<li>Factory preset temperature, 38°F at ambient temperature 80°F (no control equipped)</li>
+<li>Large single piece, clear, curved glass display window offering wide viewing area from top to bottom</li>
+<li>ABS plastic front, top, bottom and sides of exterior, stainless steel interior floor</li>
+<li>Foamed-in-place polyurethane insulation cabinet construction</li>
+<li>Right (or left) condenser design to suit installation preference</li>
+<li>Rear condenser airfow intake and side louver exhaust</li>
+<li>Removable condenser air filter</li>
+<li>Triple loops of nickel plated copper tube evaporator, and lower copper tube evaporator located in inner layer of stainless steel floor to cool down floor temperature</li>
+<li>6 3/4" high removable glass doors</li>
+<li>Plastic sanitary trays</li>
+<li>3 Year Parts and Labor Warranty / 5 Year Compressor Warranty</li>
+<li>Dimensions: 71"L X 14"D X 11-1/8"H</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_Everest Refrigeration</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/10469209487</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2526.00</s:price>
+      <s:sku>ESC71R</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/10469209423</id>
+    <published>2017-03-08T15:08:00-06:00</published>
+    <updated>2017-03-08T15:08:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/everest-esc71l-71-left-compressor-curved-glass-refrigerated-sushi-case"/>
+    <title>Everest ESC71L 71&quot; Left Compressor Curved Glass Refrigerated Sushi Case</title>
+    <s:type>Sushi Cases</s:type>
+    <s:vendor>Everest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/esc71l_everest-refrigeration-1.jpg?v=1489007335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Everest<br>
+        <strong>Type: </strong>Sushi Cases<br>
+        <strong>Price: </strong>
+            2526.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Everest ESC71L 71" Left Compressor Curved Glass Refrigerated Sushi Case</strong></p>
+<ul>
+<li>Factory preset temperature, 38°F at ambient temperature 80°F (no control equipped)</li>
+<li>Large single piece, clear, curved glass display window offering wide viewing area from top to bottom</li>
+<li>ABS plastic front, top, bottom and sides of exterior, stainless steel interior floor</li>
+<li>Foamed-in-place polyurethane insulation cabinet construction</li>
+<li>Right (or left) condenser design to suit installation preference</li>
+<li>Rear condenser airfow intake and side louver exhaust</li>
+<li>Removable condenser air filter</li>
+<li>Triple loops of nickel plated copper tube evaporator, and lower copper tube evaporator located in inner layer of stainless steel floor to cool down floor temperature</li>
+<li>6 3/4" high removable glass doors</li>
+<li>Plastic sanitary trays</li>
+<li>3 Year Parts and Labor Warranty / 5 Year Compressor Warranty</li>
+<li>Dimensions: 71"L X 14"D X 11-1/8H</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_Everest Refrigeration</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/10469209423</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2526.00</s:price>
+      <s:sku>ESC71L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/10469209295</id>
+    <published>2017-03-08T15:08:00-06:00</published>
+    <updated>2017-03-08T15:08:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/everest-esc59r-59-right-compressor-curved-glass-refrigerated-sushi-case"/>
+    <title>Everest  ESC59R 59&quot; Right Compressor Curved Glass Refrigerated Sushi Case</title>
+    <s:type>Sushi Cases</s:type>
+    <s:vendor>Everest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/esc59r_everest-refrigeration-1.jpg?v=1489007334"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Everest<br>
+        <strong>Type: </strong>Sushi Cases<br>
+        <strong>Price: </strong>
+            2303.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Everest  ESC59R 59" Right Compressor Curved Glass Refrigerated Sushi Case</strong></p>
+<ul>
+<li>Factory preset temperature, 38°F at ambient temperature 80°F (no control equipped)</li>
+<li>Large single piece, clear, curved glass display window offering wide viewing area from top to bottom</li>
+<li>ABS plastic front, top, bottom and sides of exterior, stainless steel interior floor</li>
+<li>Foamed-in-place polyurethane insulation cabinet construction</li>
+<li>Right (or left) condenser design to suit installation preference</li>
+<li>Rear condenser airfow intake and side louver exhaust</li>
+<li>Removable condenser air filter</li>
+<li>Triple loops of nickel plated copper tube evaporator, and lower copper tube evaporator located in inner layer of stainless steel floor to cool down floor temperature</li>
+<li>6 3/4" high removable glass doors</li>
+<li>Plastic sanitary trays</li>
+<li>3 Year Parts and Labor Warranty / 5 Year Compressor Warranty</li>
+<li>Dimensions: 59"L X 14"D X 11-1/8"H</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_Everest Refrigeration</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/10469209295</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2303.00</s:price>
+      <s:sku>ESC59R</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/10469209231</id>
+    <published>2017-03-08T15:08:00-06:00</published>
+    <updated>2017-03-08T15:08:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/everest-esc59l-59-left-compressor-curved-glass-refrigerated-sushi-case"/>
+    <title>Everest ESC59L 59&quot; Left Compressor Curved Glass Refrigerated Sushi Case</title>
+    <s:type>Sushi Cases</s:type>
+    <s:vendor>Everest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/esc59l_everest-refrigeration-1.jpg?v=1489007333"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Everest<br>
+        <strong>Type: </strong>Sushi Cases<br>
+        <strong>Price: </strong>
+            2303.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Everest ESC59L 59" Left Compressor Curved Glass Refrigerated Sushi Case</strong></p>
+<ul>
+<li>Factory preset temperature, 38°F at ambient temperature 80°F (no control equipped)</li>
+<li>Large single piece, clear, curved glass display window offering wide viewing area from top to bottom</li>
+<li>ABS plastic front, top, bottom and sides of exterior, stainless steel interior floor</li>
+<li>Foamed-in-place polyurethane insulation cabinet construction</li>
+<li>Right (or left) condenser design to suit installation preference</li>
+<li>Rear condenser airfow intake and side louver exhaust</li>
+<li>Removable condenser air filter</li>
+<li>Triple loops of nickel plated copper tube evaporator, and lower copper tube evaporator located in inner layer of stainless steel floor to cool down floor temperature</li>
+<li>6 3/4" high removable glass doors</li>
+<li>Plastic sanitary trays</li>
+<li>3 Year Parts and Labor Warranty / 5 Year Compressor Warranty</li>
+<li>Dimensions: 59"L X 14"D X 11-1/8"H</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_Everest Refrigeration</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/10469209231</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2303.00</s:price>
+      <s:sku>ESC59L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/10469209103</id>
+    <published>2017-03-08T15:08:00-06:00</published>
+    <updated>2017-03-08T15:08:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/everest-esc47r-47-25-right-compressor-curved-glass-refrigerated-sushi-case"/>
+    <title>Everest ESC47R 47-1/4&quot; Right Compressor Curved Glass Refrigerated Sushi Case </title>
+    <s:type>Sushi Cases</s:type>
+    <s:vendor>Everest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/esc47r_everest-refrigeration-1.jpg?v=1489007332"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Everest<br>
+        <strong>Type: </strong>Sushi Cases<br>
+        <strong>Price: </strong>
+            2057.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Everest ESC47R 47-1/4" Right Compressor Curved Glass Refrigerated Sushi Case </strong></p>
+<ul>
+<li>Factory preset temperature, 38°F at ambient temperature 80°F (no control equipped)</li>
+<li>Large single piece, clear, curved glass display window offering wide viewing area from top to bottom</li>
+<li>ABS plastic front, top, bottom and sides of exterior, stainless steel interior floor</li>
+<li>Foamed-in-place polyurethane insulation cabinet construction</li>
+<li>Right (or left) condenser design to suit installation preference</li>
+<li>Rear condenser airfow intake and side louver exhaust</li>
+<li>Removable condenser air filter</li>
+<li>Triple loops of nickel plated copper tube evaporator, and lower copper tube evaporator located in inner layer of stainless steel floor to cool down floor temperature</li>
+<li>6 3/4" high removable glass doors</li>
+<li>Plastic sanitary trays</li>
+<li>3 Year Parts and Labor Warranty / 5 Year Compressor Warrant</li>
+<li>Dimensions: 47-1/4"L X 14"D X 11-1/8"H</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_Everest Refrigeration</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/10469209103</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2057.00</s:price>
+      <s:sku>ESC47R</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/10469209039</id>
+    <published>2017-03-08T15:08:00-06:00</published>
+    <updated>2017-03-08T15:08:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/everest-esc47l-47-25-left-compressor-curved-glass-refrigerated-sushi-case"/>
+    <title>Everest ESC47L 47-1/4&quot; Left Compressor Curved Glass Refrigerated Sushi Case</title>
+    <s:type>Sushi Cases</s:type>
+    <s:vendor>Everest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/esc47l_everest-refrigeration-1_1.jpg?v=1489007332"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Everest<br>
+        <strong>Type: </strong>Sushi Cases<br>
+        <strong>Price: </strong>
+            2057.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Everest ESC47L 47-1/4" Left Compressor Curved Glass Refrigerated Sushi Case</strong></p>
+<ul>
+<li>Factory preset temperature, 38°F at ambient temperature 80°F (no control equipped)</li>
+<li>Large single piece, clear, curved glass display window offering wide viewing area from top to bottom</li>
+<li>ABS plastic front, top, bottom and sides of exterior, stainless steel interior floor</li>
+<li>Foamed-in-place polyurethane insulation cabinet construction</li>
+<li>Right (or left) condenser design to suit installation preference</li>
+<li>Rear condenser airfow intake and side louver exhaust</li>
+<li>Removable condenser air filter</li>
+<li>Triple loops of nickel plated copper tube evaporator, and lower copper tube evaporator located in inner layer of stainless steel floor to cool down floor temperature</li>
+<li>6 3/4" high removable glass doors</li>
+<li>Plastic sanitary trays</li>
+<li>3 Year Parts and Labor Warranty / 5 Year Compressor Warranty</li>
+<li>Dimensions: 47-1/4"L X 14"D X 11-1/8"H</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_Everest Refrigeration</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/10469209039</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2057.00</s:price>
+      <s:sku>ESC47L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/1366166468</id>
+    <published>2015-05-02T16:00:00-05:00</published>
+    <updated>2015-05-02T16:00:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/turbo-air-tssc-6-sushi-case"/>
+    <title>Turbo Air TSSC-6 72&quot; Sushi Case</title>
+    <s:type>Sushi Cases</s:type>
+    <s:vendor>Turbo Air</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/1_35148f84-292f-46cd-b9ed-f936d76ff593.jpeg?v=1453936773"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Turbo Air<br>
+        <strong>Type: </strong>Sushi Cases<br>
+        <strong>Price: </strong>
+            3192.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Turbo Air TSSC-6  72" Sushi Case</strong></p>
+<ul>
+<li><b>All models supplied with removable tempered glass back-doors (ANSI standard approved)</b></li>
+<li><b>Sliding glass rear access doors</b></li>
+<li><b>304 stainless steel mirror finished look Designed for easy cleaning with drain hole<br></b></li>
+<li><b>NSF listed under standard No.7</b></li>
+<li><b>All units prepped and ready for remote refrigeration hook-up</b></li>
+<li><b>Condensing units sold separately</b></li>
+</ul>
+<table>
+<thead>
+<tr>
+<th class="toolbar" colspan="2" style="text-align: center;">Specification</th>
+</tr>
+</thead>
+<tbody id="tbSpecSheetRows">
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Model</td>
+<td><strong>TSSC-6</strong></td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Width</td>
+<td>72"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Depth</td>
+<td>11-1/2"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Height</td>
+<td>11"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td><span>Glass Style</span></td>
+<td>
+<table width="100%">
+<tbody>
+<tr>
+<td><span>Angled</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>
+<span> </span><span>Power</span><span> Type</span>
+</td>
+<td><span>Electric</span></td>
+</tr>
+<tr class="trSpecSheetRow">
+<td> Gauge</td>
+<td>18</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>freeship</s:tag>
+    <s:tag>Product type_Sushi Cases</s:tag>
+    <s:tag>Vendor_Turbo Air</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/1366166468</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3192.65</s:price>
+      <s:sku>TSSC-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/1366157188</id>
+    <published>2015-05-02T16:00:00-05:00</published>
+    <updated>2015-05-02T16:00:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/turbo-air-tssc-5-sushi-case"/>
+    <title>Turbo Air TSSC-5 60&quot; Sushi Case</title>
+    <s:type>Sushi Cases</s:type>
+    <s:vendor>Turbo Air</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/1_7fa38346-adf9-411d-a7df-b39fff395f45.jpeg?v=1453936767"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Turbo Air<br>
+        <strong>Type: </strong>Sushi Cases<br>
+        <strong>Price: </strong>
+            2919.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Turbo Air TSSC-5 60" Sushi Case</strong></p>
+<ul>
+<li><b>All models supplied with removable tempered glass back-doors (ANSI standard approved)</b></li>
+<li><b>Sliding glass rear access doors</b></li>
+<li><b>304 stainless steel mirror finished look Designed for easy cleaning with drain hole<br></b></li>
+<li><b>NSF listed under standard No.7</b></li>
+<li><b>All units prepped and ready for remote refrigeration hook-up</b></li>
+<li><b>Condensing units sold separately</b></li>
+</ul>
+<table>
+<thead>
+<tr>
+<th class="toolbar" colspan="2" style="text-align: center;">Specification</th>
+</tr>
+</thead>
+<tbody id="tbSpecSheetRows">
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Model</td>
+<td><strong>TSSC-5</strong></td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Width</td>
+<td>60"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Depth</td>
+<td>11-1/2"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Height</td>
+<td>11"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td><span>Glass Style</span></td>
+<td>
+<table width="100%">
+<tbody>
+<tr>
+<td><span>Angled</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>
+<span> </span><span>Power</span><span> Type</span>
+</td>
+<td><span>Electric</span></td>
+</tr>
+<tr class="trSpecSheetRow">
+<td> Gauge</td>
+<td>18</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>freeship</s:tag>
+    <s:tag>Product type_Sushi Cases</s:tag>
+    <s:tag>Sushi Cases</s:tag>
+    <s:tag>Vendor_Turbo Air</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/1366157188</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2919.96</s:price>
+      <s:sku>TSSC-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/1366149444</id>
+    <published>2015-05-02T16:00:00-05:00</published>
+    <updated>2015-05-02T16:00:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/turbo-air-tssc-4-sushi-case"/>
+    <title>Turbo Air TSSC-4 48&quot; Sushi Case</title>
+    <s:type>Sushi Cases</s:type>
+    <s:vendor>Turbo Air</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/1_b652e4f4-2da7-4202-9880-134057d0ca4f.jpeg?v=1453936771"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Turbo Air<br>
+        <strong>Type: </strong>Sushi Cases<br>
+        <strong>Price: </strong>
+            2637.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Turbo Air TSSC-4 48" Sushi Case</strong></p>
+<ul>
+<li><b>All models supplied with removable tempered glass back-doors (ANSI standard approved)</b></li>
+<li><b> Sliding glass rear access doors </b></li>
+<li><b>304 stainless steel mirror finished look Designed for easy cleaning with drain hole<br></b></li>
+<li><b>NSF listed under standard No.7 </b></li>
+<li><b>All units prepped and ready for remote refrigeration hook-up</b></li>
+<li><b> Condensing units sold separately</b></li>
+</ul>
+<table>
+<thead>
+<tr>
+<th class="toolbar" colspan="2" style="text-align: center;">Specification</th>
+</tr>
+</thead>
+<tbody id="tbSpecSheetRows">
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Model</td>
+<td><strong>TSSC-4</strong></td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Width</td>
+<td>48"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Depth</td>
+<td>11-1/2"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Height</td>
+<td>11"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td><span>Glass Style</span></td>
+<td>
+<table width="100%">
+<tbody>
+<tr>
+<td><span>Angled</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>
+<span> </span><span>Power</span><span> Type</span>
+</td>
+<td><span>Electric</span></td>
+</tr>
+<tr class="trSpecSheetRow">
+<td> Gauge</td>
+<td>18</td>
+</tr>
+</tbody>
+</table>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>freeship</s:tag>
+    <s:tag>Product type_Sushi Cases</s:tag>
+    <s:tag>Sushi Cases</s:tag>
+    <s:tag>Vendor_Turbo Air</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/1366149444</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2637.90</s:price>
+      <s:sku>TSSC-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/1366138820</id>
+    <published>2015-05-02T16:00:00-05:00</published>
+    <updated>2015-05-02T16:00:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/turbo-air-sakura-70-sushi-case"/>
+    <title>Turbo Air SAK-70L-N 72&quot; Sushi Case - Left Compressor</title>
+    <s:type>Sushi Cases</s:type>
+    <s:vendor>Turbo Air</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/SAK-70L-N-2.jpg?v=1521911734"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Turbo Air<br>
+        <strong>Type: </strong>Sushi Cases<br>
+        <strong>Price: </strong>
+            3145.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Turbo Air SAK-70L-N 72" Sushi Case - Left Compressor</strong></p>
+<ul>
+<li><b>Hydrocarbon refrigerants (R-290): With innovative and eco-friendly technology, Turbo Air brings you hydrocarbon refrigerators designed to meet the new standards of the EPA and DOE in 2017. Hydrocarbon refrigerants do not deplete the ozone layer and have very low contribution to global warming (ODP-0, GWP-3). </b></li>
+<li><b>Ambient temperature range 50°F ~ 80°F, saturation temperature 39°F </b></li>
+<li><b>Beautifully curved, angled down top front glass </b></li>
+<li><b>1” diameter drain hole with plastic cover </b></li>
+<li><b>Slightly inclined bottom for better drainage </b></li>
+<li><b>Larger interior for optimized display effect </b></li>
+<li><b>Stainless steel solid food plates </b></li>
+<li><b>Low-E coated, tempered glass doors with durable plastic door handles at chef side </b></li>
+<li><b>Exterior body is beautifully made from unique and stylish stainless steel material </b></li>
+<li><b>Side mount compressor makes it easy to be serviced without being moved </b></li>
+<li><b>Elegant contemporary Euro design enhances any store application </b></li>
+<li><b>Easy cleaning and excellent durability </b></li>
+<li>
+<b>Condenser located on left </b><b>from the front view </b>
+</li>
+<li><b>Drain hole located on left from the chef side </b></li>
+<li><b>Refrigerator maintains 35°F ~ 41°F for the best in food preservation</b></li>
+<li><b>Anti-corrosion coated evaporator</b></li>
+<li><b>Self-contained system</b></li>
+<li><b>No plumbing required </b></li>
+<li><b>Simple plug-in installation </b></li>
+<li><b>Recommended operating conditions: SAK models are designed to operate in environments where temperature &amp; humidity do not exceed 75°F and 55% relative humidity</b></li>
+<li><b><strong>Warranty: 2 Year Parts and Labor &amp; 5 Years on Compressor</strong></b></li>
+</ul>
+<table>
+<thead>
+<tr>
+<th class="toolbar" colspan="3" style="text-align: center;">Specification</th>
+</tr>
+</thead>
+<tbody id="tbSpecSheetRows">
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Model</td>
+<td class="tablespecs_title"></td>
+<td><strong>SAK-70L-N</strong></td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Width</td>
+<td class="tablespecs_title"></td>
+<td>71-1/4"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Depth</td>
+<td class="tablespecs_title"></td>
+<td>14-1/8"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Height</td>
+<td class="tablespecs_title"></td>
+<td>11-1/2"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Capacity (Cu.Ft)</td>
+<td></td>
+<td>2.1</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td># of Doors</td>
+<td></td>
+<td>4</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td># of  Bottom Shelves</td>
+<td></td>
+<td>5</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Compressor Location</td>
+<td></td>
+<td>Left</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Door Style</td>
+<td></td>
+<td>Slidding</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Compressor</td>
+<td></td>
+<td>1/6 HP</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Temperature Range</td>
+<td></td>
+<td>35°F ~ 41°F</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>freeship</s:tag>
+    <s:tag>Product type_Sushi Cases</s:tag>
+    <s:tag>Sushi Cases</s:tag>
+    <s:tag>Vendor_Turbo Air</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/1366138820</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3145.18</s:price>
+      <s:sku>SAK-70L-N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/1366126596</id>
+    <published>2015-05-02T16:00:00-05:00</published>
+    <updated>2015-05-02T16:00:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/turbo-air-sakura-60-sushi-case"/>
+    <title>Turbo Air SAK-60L-N 60&quot; Sushi Case - Left Compressor</title>
+    <s:type>Sushi Cases</s:type>
+    <s:vendor>Turbo Air</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/SAK-60L-N-2.jpg?v=1521909444"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Turbo Air<br>
+        <strong>Type: </strong>Sushi Cases<br>
+        <strong>Price: </strong>
+            2876.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Turbo Air SAK-60L-N 60" Sushi Case - Left Compressor</strong></p>
+<ul>
+<li>
+<b>Hydrocarbon refrigerants (R-290): </b><strong>With innovative and eco-friendly technology, Turbo Air brings you hydrocarbon refrigerators designed to meet the new standards of the EPA and DOE in 2017. Hydrocarbon refrigerants do not deplete the ozone layer and have very low contribution to global warming (ODP-0, GWP-3). </strong>
+</li>
+<li><b>Ambient temperature range 50°F ~ 80°F, saturation temperature 39°F </b></li>
+<li><b>Beautifully curved, angled down top front glass </b></li>
+<li><b>1” diameter drain hole with plastic cover </b></li>
+<li><b>Slightly inclined bottom for better drainage </b></li>
+<li><b>Larger interior for optimized display effect </b></li>
+<li><b>Stainless steel solid food plates </b></li>
+<li><b>Low-E coated, tempered glass doors with durable plastic door handles at chef side </b></li>
+<li><b>Exterior body is beautifully made from unique and stylish stainless steel material </b></li>
+<li><b>Side mount compressor makes it easy to be serviced without being moved </b></li>
+<li><b>Elegant contemporary Euro design enhances any store application </b></li>
+<li><b>Easy cleaning and excellent durability </b></li>
+<li><b>Condenser located on left from the front view </b></li>
+<li><b>Drain hole located on left from the chef side </b></li>
+<li><b>Refrigerator maintains 35°F ~ 41°F for the best in food preservation</b></li>
+<li><b>Anti-corrosion coated evaporator </b></li>
+<li><b>Self-contained system </b></li>
+<li><b>No plumbing required </b></li>
+<li><b>Simple plug-in installation </b></li>
+<li>
+<b>Recommended operating conditions: </b><strong>SAK models are designed to operate in environments where temperature &amp; humidity do not exceed 75°F and 55% relative humidity</strong>
+</li>
+<li><strong>Warranty: 2 Year Parts and Labor &amp; 5 Years on Compressor</strong></li>
+</ul>
+<table>
+<thead>
+<tr>
+<th class="toolbar" colspan="3" style="text-align: center;">Specification</th>
+</tr>
+</thead>
+<tbody id="tbSpecSheetRows">
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Model</td>
+<td class="tablespecs_title"></td>
+<td><strong>SAK-60L-N</strong></td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Width</td>
+<td class="tablespecs_title"></td>
+<td>59-3/4"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Depth</td>
+<td class="tablespecs_title"></td>
+<td>14-1/8"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Height</td>
+<td class="tablespecs_title"></td>
+<td>11-1/2"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Capacity (Cu.Ft)</td>
+<td></td>
+<td>1.7</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td># of Doors</td>
+<td></td>
+<td>4</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td># of  Bottom Shelves</td>
+<td></td>
+<td>5</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Compressor Location</td>
+<td></td>
+<td>Left</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Door Style</td>
+<td></td>
+<td>Slidding</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Compressor</td>
+<td></td>
+<td>1/6 HP</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Temperature Range</td>
+<td></td>
+<td>35°F ~ 41°F</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>freeship</s:tag>
+    <s:tag>Product type_Sushi Cases</s:tag>
+    <s:tag>Sushi Cases</s:tag>
+    <s:tag>Vendor_Turbo Air</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/1366126596</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2876.30</s:price>
+      <s:sku>SAK-60L-N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/1366116100</id>
+    <published>2015-05-02T16:00:00-05:00</published>
+    <updated>2015-05-02T16:00:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/turbo-air-sakura-50-sushi-case"/>
+    <title>Turbo Air SAK-50L-N 49&quot; Sushi Case - Left Compressor</title>
+    <s:type>Sushi Cases</s:type>
+    <s:vendor>Turbo Air</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/SAK-50L-N-2.jpg?v=1521908416"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Turbo Air<br>
+        <strong>Type: </strong>Sushi Cases<br>
+        <strong>Price: </strong>
+            2597.36
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Turbo Air SAK-50L-N 49" Sushi Case - Left Compressor</strong></p>
+<span style="font-weight: bold;">• </span><span style="font-weight: bold;">Hydrocarbon refrigerants (R-290):</span><span style="font-weight: bold;"> </span><span style="font-weight: bold;">With innovative and eco-friendly technology, Turbo Air brings you hydrocarbon refrigerators designed to meet the new standards of the EPA and DOE in 2017. Hydrocarbon refrigerants do not deplete the ozone layer and have very low contribution to global warming (ODP-0, GWP-3)</span><br style="font-weight: bold;">• <strong>Ambient temperature range 50°F ~ 80°F, saturation temperature 39°F</strong><br><strong>• Beautifully curved, angled down top front glass</strong><br><strong>• 1” diameter drain hole with plastic cover</strong><br><strong>• Slightly inclined bottom for better drainage</strong><br><strong>• Larger interior for optimized display effect</strong><br><strong>• Stainless steel solid food plates</strong><br><strong>• Low-E coated, tempered glass doors with durable plastic door handles at chef side</strong><br><strong>• Exterior body is beautifully made from unique and stylish stainless steel material</strong><br><strong>• Side mount compressor makes it easy to be serviced without being moved</strong><br><strong>• Elegant contemporary Euro design enhances any store application</strong><br><strong>• Easy cleaning and excellent durability</strong><br><strong>• Condenser located on left from the front view</strong><br><strong>• Drain hole located on left from the chef side</strong><br><strong>• Refrigerator maintains 35°F ~ 41°F for the best in food preservation</strong><br><strong>• Anti-corrosion coated evaporator</strong><br><strong>• Self-contained system</strong><br><strong>• No plumbing required</strong><br><strong>• Simple plug-in installation</strong><br><strong>• Recommended operating conditions: SAK models are designed to operate in environments where temperature &amp; humidity do not exceed 75°F and 55% relative humidity.</strong><br><strong>• Warranty: 2 Year Parts and Labor &amp; 5 Years on Compressor</strong><br><strong> </strong>
+<ul></ul>
+<table>
+<thead>
+<tr>
+<th class="toolbar" colspan="3" style="text-align: center;">Specification</th>
+</tr>
+</thead>
+<tbody id="tbSpecSheetRows">
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Model</td>
+<td class="tablespecs_title"></td>
+<td><strong>SAK-50L-N</strong></td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Width</td>
+<td class="tablespecs_title"></td>
+<td>48-1/4"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Depth</td>
+<td class="tablespecs_title"></td>
+<td>14-1/8"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Height</td>
+<td class="tablespecs_title"></td>
+<td>11-1/2"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Capacity (Cu.Ft)</td>
+<td></td>
+<td>1.3</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td># of Doors</td>
+<td></td>
+<td>2</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td># of  Bottom Shelves</td>
+<td></td>
+<td>3</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Compressor Location</td>
+<td></td>
+<td>Left</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Door Style</td>
+<td></td>
+<td>Slidding</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Compressor</td>
+<td></td>
+<td>1/6 HP</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Temperature Range</td>
+<td></td>
+<td>35°F ~ 41°F</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>freeship</s:tag>
+    <s:tag>Product type_Sushi Cases</s:tag>
+    <s:tag>Sushi Cases</s:tag>
+    <s:tag>Vendor_Turbo Air</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/1366116100</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2597.36</s:price>
+      <s:sku>SAK-50L-N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

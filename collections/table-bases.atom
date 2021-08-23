@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.champsrestaurantsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.champsrestaurantsupply.com/collections/table-bases.atom"/>
+  <title>Champs Restaurant Supply</title>
+  <updated>2017-06-06T11:30:12-05:00</updated>
+  <author>
+    <name>Champs Restaurant Supply</name>
+  </author>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11568132239</id>
+    <published>2017-06-06T11:30:12-05:00</published>
+    <updated>2017-06-06T11:30:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/b18r-18-dia-cast-iron-with-powder-coat-finish-table-base"/>
+    <title>B18R 18&quot; dia. Cast Iron with Powder Coat Finish Table Base</title>
+    <s:type>Table Bases</s:type>
+    <s:vendor>Klinger&apos;s Trading</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/b18r_f6bbdb19-b33f-4130-9799-c7eb6b6fe1b8.jpg?v=1496766931"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Klinger&#39;s Trading<br>
+        <strong>Type: </strong>Table Bases<br>
+        <strong>Price: </strong>
+            85.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Table Base, 18" dia., 4" column, cast iron with powder coat finish</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Style_Dining Height</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11568132239</id>
+      <title>Default Title</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>B18R</s:sku>
+      <s:grams>11340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11568102991</id>
+    <published>2017-06-06T11:13:46-05:00</published>
+    <updated>2017-06-06T11:13:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/b30r-30-dia-cast-iron-with-powder-coat-finish-table-base"/>
+    <title>B30R 30&quot; Dia Cast Iron with Powder Coat Finish Table Base</title>
+    <s:type>Table Bases</s:type>
+    <s:vendor>Klinger&apos;s Trading</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/b18r.jpg?v=1496766603"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Klinger&#39;s Trading<br>
+        <strong>Type: </strong>Table Bases<br>
+        <strong>Price: </strong>
+            145.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>B30R 30" Dia Cast Iron with Powder Coat Finish Table Base</strong>
+<ul>
+<li>Table Base</li>
+<li>30" dia.</li>
+<li>4" column</li>
+<li>Cast iron with powder coat finish</li>
+<li>Maximum table top size 60" x 60"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Style_Dining Height</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11568102991</id>
+      <title>Default Title</title>
+      <s:price currency="USD">145.00</s:price>
+      <s:sku>B30R</s:sku>
+      <s:grams>11340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11545245903</id>
+    <published>2017-05-31T21:42:12-05:00</published>
+    <updated>2017-05-31T21:42:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/iron-dinning-bar-table-base-24-x-30-x-40"/>
+    <title>Iron Dinning Bar Table Base 24&quot; X 30&quot; x 40&quot;</title>
+    <s:type>Table Bases</s:type>
+    <s:vendor>Champs Restaurant Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/2430_1024x1024_9d627a36-53be-417e-9812-b4f3d7e4cdc5.gif?v=1496285102"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champs Restaurant Supply<br>
+        <strong>Type: </strong>Table Bases<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Iron Dinning Bar Table Base 24" X 30" x 40"</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Style_Bar Height</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11545245903</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>BBS2430</s:sku>
+      <s:grams>11340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11545236623</id>
+    <published>2017-05-31T21:39:54-05:00</published>
+    <updated>2017-05-31T21:39:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/iron-dinning-bar-table-base-5-x-22-x-40"/>
+    <title>Iron Dinning Bar Table Base 5&quot; X 22&quot; X 40&quot;</title>
+    <s:type>Table Bases</s:type>
+    <s:vendor>Champs Restaurant Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/2205_1024x1024_526ffabe-3c0d-4e2f-ab4b-e1863fe5d7b5.jpg?v=1496284924"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champs Restaurant Supply<br>
+        <strong>Type: </strong>Table Bases<br>
+        <strong>Price: </strong>
+            68.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Iron Dinning Bar Table Base 5" X 22" X 40"</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Style_Bar Height</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11545236623</id>
+      <title>Default Title</title>
+      <s:price currency="USD">68.99</s:price>
+      <s:sku>BBS2205</s:sku>
+      <s:grams>11340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11544254479</id>
+    <published>2017-05-31T17:25:24-05:00</published>
+    <updated>2017-05-31T17:25:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/iron-dinning-bar-table-base-22-x-22-x-40"/>
+    <title>Iron Dinning Bar Table Base 22&quot; X 22&quot; X 40&quot;</title>
+    <s:type>Table Bases</s:type>
+    <s:vendor>Champs Restaurant Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/3030_grande_ac802031-7470-4f8f-a5bc-5c116ef1552f.gif?v=1496269600"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champs Restaurant Supply<br>
+        <strong>Type: </strong>Table Bases<br>
+        <strong>Price: </strong>
+            72.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Iron Dinning Bar Table Base 22" X 22" X 40"</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Style_Bar Height</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11544254479</id>
+      <title>Default Title</title>
+      <s:price currency="USD">72.99</s:price>
+      <s:sku>BBS2222</s:sku>
+      <s:grams>11340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11544240847</id>
+    <published>2017-05-31T17:17:04-05:00</published>
+    <updated>2017-05-31T17:17:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/iron-dinning-table-base-30-x-30-x-29"/>
+    <title>Iron Dinning Table Base 30&quot; X 30&quot; X 29&quot;</title>
+    <s:type>Table Bases</s:type>
+    <s:vendor>Champs Restaurant Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/3030_grande_e206b23a-3ff3-48b2-8889-c1ce31b6fd31.gif?v=1496269238"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champs Restaurant Supply<br>
+        <strong>Type: </strong>Table Bases<br>
+        <strong>Price: </strong>
+            65.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Iron Dinning Table Base 30" X 30" X 29"</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Style_Dining Height</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11544240847</id>
+      <title>Default Title</title>
+      <s:price currency="USD">65.99</s:price>
+      <s:sku>TBS3030</s:sku>
+      <s:grams>11340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4851064580</id>
+    <published>2016-05-02T09:53:00-05:00</published>
+    <updated>2016-05-02T09:53:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/new-style-iron-dinning-table-base-5-x-22-table-base"/>
+    <title>Iron Dinning Table Base 5&quot; X 22&quot; X 29&quot;</title>
+    <s:type>Table Bases</s:type>
+    <s:vendor>Champs Restaurant Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/2205.jpg?v=1464387285"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champs Restaurant Supply<br>
+        <strong>Type: </strong>Table Bases<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">New Style Iron Dinning Table Base 5" X 22" Table Base</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product type_Table Bases</s:tag>
+    <s:tag>Style_Dining Height</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4851064580</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>TBS2205</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4851033604</id>
+    <published>2016-05-02T09:42:00-05:00</published>
+    <updated>2016-05-02T09:42:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/iron-dinning-table-base-22-x-22-table-base"/>
+    <title>Iron Dinning Table Base 22&quot; X 22&quot; X 29&quot;</title>
+    <s:type>Table Bases</s:type>
+    <s:vendor>Champs Restaurant Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/2222_020f631e-8f3c-4844-9a5b-890f0f86de34.gif?v=1464387285"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champs Restaurant Supply<br>
+        <strong>Type: </strong>Table Bases<br>
+        <strong>Price: </strong>
+            54.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Iron Dinning Table Base 22" X 22" Table Base</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product type_Table Bases</s:tag>
+    <s:tag>Style_Dining Height</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4851033604</id>
+      <title>Default Title</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku>TBS2222</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4850997252</id>
+    <published>2016-05-02T09:40:00-05:00</published>
+    <updated>2016-05-02T09:40:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/iron-dinning-bar-table-base-30-x-30-x-42-h"/>
+    <title>Iron Dinning Bar Table Base 30&quot; X 30&quot; X 40&quot;</title>
+    <s:type>Table Bases</s:type>
+    <s:vendor>Champs Restaurant Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/3030.gif?v=1464387284"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champs Restaurant Supply<br>
+        <strong>Type: </strong>Table Bases<br>
+        <strong>Price: </strong>
+            82.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Iron Dinning Bar Table Base 30" X 30" X 40" H</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product type_Table Bases</s:tag>
+    <s:tag>Style_Bar Height</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4850997252</id>
+      <title>Default Title</title>
+      <s:price currency="USD">82.99</s:price>
+      <s:sku>BBS3030</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4850984900</id>
+    <published>2016-05-02T09:35:00-05:00</published>
+    <updated>2016-05-02T09:35:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/iron-dinning-table-base-22-x-30-x-42h"/>
+    <title>Iron Dinning Table Base 24&quot; X 30&quot; X 29&quot;</title>
+    <s:type>Table Bases</s:type>
+    <s:vendor>Champs Restaurant Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/2430_f7f242da-439e-42da-8792-a7db8dd5afa4.gif?v=1464387283"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champs Restaurant Supply<br>
+        <strong>Type: </strong>Table Bases<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Iron Dinning Table Base 24" X 30"</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product type_Table Bases</s:tag>
+    <s:tag>Style_Dining Height</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4850984900</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>TBS2230</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+</feed>

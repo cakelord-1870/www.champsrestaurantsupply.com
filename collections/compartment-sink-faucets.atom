@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.champsrestaurantsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.champsrestaurantsupply.com/collections/compartment-sink-faucets.atom"/>
+  <title>Champs Restaurant Supply</title>
+  <updated>2018-01-11T17:08:23-06:00</updated>
+  <author>
+    <name>Champs Restaurant Supply</name>
+  </author>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/199689928719</id>
+    <published>2018-01-11T17:08:23-06:00</published>
+    <updated>2018-01-11T17:08:23-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/gsw-aa-712g-wall-mount-commercial-duty-no-lead-faucet-w-12-swivel-spout"/>
+    <title>GSW AA-712G Wall Mount Commercial Duty No Lead Faucet w/12&quot; Swivel Spout</title>
+    <s:type>Compartment Sink Faucets</s:type>
+    <s:vendor>GSW</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/61ssHAhZ_fL._SX463.jpg?v=1515712342"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GSW<br>
+        <strong>Type: </strong>Compartment Sink Faucets<br>
+        <strong>Price: </strong>
+            78.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>GSW AA-712G Wall Mount Commercial Duty No Lead Faucet w/12" Swivel Spout</strong></p>
+<ul>
+<li>Commercial Duty Faucet</li>
+<li>8" wall mount</li>
+<li>12'' swivel spout</li>
+<li>1/2" NPT female inlets</li>
+<li>Reinforced double O-Ring valves with hot &amp; cold mark on stem</li>
+<li>Color coded Red &amp; Blue handles</li>
+<li>Brass construction &amp; polished chrome body, no lead</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/199689928719</id>
+      <title>Default Title</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku>AA-712G</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11564607375</id>
+    <published>2017-06-05T22:40:21-05:00</published>
+    <updated>2017-06-05T22:40:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/krowne-14-814l-royal-series-low-lead-wall-mount-faucet-w-14-swing-spout"/>
+    <title>Krowne 14-814L Royal Series Low Lead Wall Mount Faucet w/ 14&quot; Swing Spout</title>
+    <s:type>Compartment Sink Faucets</s:type>
+    <s:vendor>KROWNE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/399-d-011-14.jpg?v=1496720710"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KROWNE<br>
+        <strong>Type: </strong>Compartment Sink Faucets<br>
+        <strong>Price: </strong>
+            128.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Krowne 14-814L Royal Series Low Lead Wall Mount Faucet w/ 14" Swing Spout</strong></p>
+<ul>
+<li>Low Lead Royal Series Faucet</li>
+<li>Splash-mounted</li>
+<li>8" centers</li>
+<li>Swing nozzle</li>
+<li>14" Swing spout</li>
+<li>Removable cartridge valve assembly</li>
+<li>NSF</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11564607375</id>
+      <title>Default Title</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>14-814L</s:sku>
+      <s:grams>10886</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/3964054212</id>
+    <published>2015-12-14T12:12:00-06:00</published>
+    <updated>2015-12-14T12:12:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/12-812-restaurant-kitchen-faucet-8-center-12-spout-wall-mount"/>
+    <title>Krowne 12-812L Splash Mount 8&quot; Center Faucet with 12&quot; Spout</title>
+    <s:type>Compartment Sink Faucets</s:type>
+    <s:vendor>KROWNE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/619a11aJG7L._SX522__1_grande_1c7d56e7-e97c-4fe8-9117-c61bdd1533cf.jpg?v=1464380033"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KROWNE<br>
+        <strong>Type: </strong>Compartment Sink Faucets<br>
+        <strong>Price: </strong>
+            57.13
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Krowne 12-812L Splash Mount 8" Center Faucet with 12" Spout</strong></p>
+<ul>
+<li>Heavy-Duty spout with double O-Ring construction and welded shoulder for durability</li>
+<li>High precision machining and polished nickel chromium finish </li>
+<li>Color-coded handles</li>
+<li>Optional wrist blade handles available</li>
+<li>Full replacement parts available  </li>
+</ul>
+<p>This heavy duty wall-mounted faucet features a 12" long swivel spout, perfect for use with any commercial compartment sink! Its convenient swing nozzle effortlessly moves from one sink compartment to the next. This wall-mounted faucet requires 8" center for proper installation. </p>
+<p>This faucet can be used with most commercial prep sink, 2 compartment sinks, or 3 compartment sinks with 8" center</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product type_Compartment Sink Faucets</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/3964054212</id>
+      <title>Default Title</title>
+      <s:price currency="USD">57.13</s:price>
+      <s:sku>12-812L</s:sku>
+      <s:grams>10886</s:grams>
+    </s:variant>
+  </entry>
+</feed>

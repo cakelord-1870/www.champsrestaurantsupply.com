@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.champsrestaurantsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.champsrestaurantsupply.com/collections/commercial-microwaves.atom"/>
+  <title>Champs Restaurant Supply</title>
+  <updated>2015-12-21T12:39:00-06:00</updated>
+  <author>
+    <name>Champs Restaurant Supply</name>
+  </author>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4013257476</id>
+    <published>2015-12-21T12:39:00-06:00</published>
+    <updated>2015-12-21T12:39:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/radiance-tmw-1100m-commercial-microwave-oven-1100w"/>
+    <title>Radiance TMW-1100M Dial Control Medium Duty Microwave Oven - 1,000 Watts</title>
+    <s:type>Commercial Microwaves</s:type>
+    <s:vendor>RADIANCE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/tmw-1100nm.jpg?v=1574886907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RADIANCE<br>
+        <strong>Type: </strong>Commercial Microwaves<br>
+        <strong>Price: </strong>
+            309.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Radiance TMW-1100M Dial Control Medium Duty Microwave Oven - 1,000 Watts</strong></p>
+<ul>
+<li>Commercial Durability</li>
+<li>Euro Styling</li>
+<li>Capacity: 1.2 Cu.Ft</li>
+<li>1,000 Watts</li>
+<li>Dimensions: 22"W x 19"D x 13.5"H</li>
+<li>Easy-To-Clean Flat Bottom </li>
+<li>Up To 10 Minutes Of Cook Time</li>
+<li>Cooking Complete Alarm</li>
+<li>Time Defrost</li>
+<li>Multi power setting for cooking versatility </li>
+<li>All stainless steel interior and exterior for easy cleaning &amp; durability </li>
+<li><span>Power Selection: 5 Levels (Low, Defrost, Medium, Medium-High and High).</span></li>
+<li>Dimensions: 22"W x 19"D x 13.5"H</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>Product type_Commercial Microwaves</s:tag>
+    <s:tag>Vendor_Radiance</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4013257476</id>
+      <title>Default Title</title>
+      <s:price currency="USD">309.00</s:price>
+      <s:sku>TMW-1100M</s:sku>
+      <s:grams>18144</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4013152388</id>
+    <published>2015-12-21T12:24:00-06:00</published>
+    <updated>2015-12-21T12:24:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/radiance-tmw-1100e-commercial-microwave-grade-oven-1100-watt"/>
+    <title>Radiance TMW-1100E Touchpad Control Medium Duty Microwave - 1,000 Watts</title>
+    <s:type>Commercial Microwaves</s:type>
+    <s:vendor>RADIANCE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/Capture.png?v=1574888677"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RADIANCE<br>
+        <strong>Type: </strong>Commercial Microwaves<br>
+        <strong>Price: </strong>
+            359.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><strong>Radiance TMW-1100E Touchpad Control Medium Duty Microwave - 1,000 Watts</strong></div>
+<div></div>
+<div></div>
+<br>
+<ul>
+<li>Commercial Durability</li>
+<li>Euro Styling</li>
+<li>Capacity: 1.2 Cu.Ft</li>
+<li>1,000 Watts</li>
+<li>Dimensions: 22"W x 19"D x 13.5"H</li>
+<li>Programmable Touch Control</li>
+<li>Easy-To-Clean Flat Bottom </li>
+<li>Multi Power Setting For Cooking Versatility</li>
+<li>Up To 60 Minutes Of Cook Time</li>
+<li>Easy-To-Read Vfd Display</li>
+<li>Double Quantity Pad (*2)</li>
+<li>Time &amp; Weight Defrost</li>
+<li>Child Safety Lock </li>
+<li>Variable Beep Tone (Mute Mode Available)</li>
+<li>Easy Cook Function : The Most Simplified One Touch Cook From 30 Sec. To 5 Min</li>
+<li>Energy Save Function</li>
+<li>Cooking Complete Alarm</li>
+<li>Stainless Steel Interior &amp; Exterior For Easy Cleaning &amp; Durability </li>
+<li>Program List Review: Allows Users To Review All Current Programs </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>Product type_Commercial Microwaves</s:tag>
+    <s:tag>Vendor_Radiance</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4013152388</id>
+      <title>Default Title</title>
+      <s:price currency="USD">359.00</s:price>
+      <s:sku>TMW-1100E</s:sku>
+      <s:grams>18144</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/3947455812</id>
+    <published>2015-12-11T15:57:00-06:00</published>
+    <updated>2015-12-11T15:57:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/sharp-r21lcf-commercial-microwave"/>
+    <title>Sharp R21LCF Dial Control Medium Duty Commercial Microwave - 1000 Watts</title>
+    <s:type>Commercial Microwaves</s:type>
+    <s:vendor>SHARP</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/6T392_AS01.jpg?v=1453935535"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SHARP<br>
+        <strong>Type: </strong>Commercial Microwaves<br>
+        <strong>Price: </strong>
+            270.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Sharp R21LCF Dial Control Medium Duty Commercial Microwave - 1000 Watts</strong></p>
+<ul>
+<li>Medium-duty Commercial Microwave with 1000 watts</li>
+<li>1.0 cu. ft. oven holds 1/2 pan either direction</li>
+<li>Painted Grey exterior, Stainless Steel interior</li>
+<li>120-v., 60 Hz.</li>
+<li>Highly polished ceramic bottom shelf with rubber seal</li>
+<li>Lighted 6-minute dial timer</li>
+<li>1-stage cooking, 100% power only</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product type_Commercial Microwaves</s:tag>
+    <s:tag>Vendor_Sharp</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/3947455812</id>
+      <title>Default Title</title>
+      <s:price currency="USD">270.00</s:price>
+      <s:sku>R21LCF</s:sku>
+      <s:grams>20412</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/3947438468</id>
+    <published>2015-12-11T15:52:00-06:00</published>
+    <updated>2015-12-11T15:52:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/sharp-r21lvf-commercial-microwave"/>
+    <title>Sharp R21LVF Touchpad Control Medium Duty Commercial  Microwave - 1000 Watts</title>
+    <s:type>Commercial Microwaves</s:type>
+    <s:vendor>Sharp</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/1_R21LVF-HO-hires.jpg?v=1464379532"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sharp<br>
+        <strong>Type: </strong>Commercial Microwaves<br>
+        <strong>Price: </strong>
+            335.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Perfect for smaller kitchens that do not require volume cooking, Sharp medium-duty microwave ovens feature a generous 1.0 cubic-foot capacity and a convenient 1,000-watt power output. They’re ideal for defrosting, heating up or cooking small food items, and bring a new dimension of dependability to break rooms, hospitals, convenience stores, gas stations, and countless other settings. An array of easy-to-use features and one-touch controls add versatility—without added costs of using a high-powered microwave or oven. Featuring stainless steel interior and exterior doors, these durable units stand up well to day-to-day use and are built to last. Strong, specially designed latch handles reduce door failure, one of the most frequent problems on units of lesser quality.</span>
+<ol>
+<li>
+<strong><em>Computerized Touch Controls</em></strong> – provides 10 programmable memories with one-second increment timing;built-in safeguards prevent unauthorized changes.</li>
+<li>
+<strong><em>Double Quantity Pad</em></strong> – automatically provides optimum heating times for two portions for excellent results.</li>
+<li>
+<strong><em>Express Defrost™</em></strong> – automatically divides total defrosting time into 3 stages with 3 power levels.</li>
+<li>
+<strong><em>Memory Check</em></strong> – lets the user confirm the time setting and power level for each memory pad.</li>
+</ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product type_Commercial Microwaves</s:tag>
+    <s:tag>Vendor_Sharp</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/3947438468</id>
+      <title>Default Title</title>
+      <s:price currency="USD">335.00</s:price>
+      <s:sku>R21LVF</s:sku>
+      <s:grams>20412</s:grams>
+    </s:variant>
+  </entry>
+</feed>

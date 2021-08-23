@@ -1,0 +1,1171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.champsrestaurantsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.champsrestaurantsupply.com/collections/dish-and-soiled-tables.atom"/>
+  <title>Champs Restaurant Supply</title>
+  <updated>2016-01-12T22:24:00-06:00</updated>
+  <author>
+    <name>Champs Restaurant Supply</name>
+  </author>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4164040196</id>
+    <published>2016-01-12T22:24:00-06:00</published>
+    <updated>2016-01-12T22:24:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bkcdt-72-l-72-left-stainless-steel-clean-dish-table-with-galvanized-legs"/>
+    <title>BK Resources BKCDT-72-L 72&quot; Left Stainless Steel Clean Dish Table with Galvanized Legs</title>
+    <s:type>Dish and Soiled Tables</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/BKRE-BKCDT-26-L-SS-2T_grande_ca0f8d93-884a-4d62-99ea-09f8ea173822.jpg?v=1499920783"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Dish and Soiled Tables<br>
+        <strong>Price: </strong>
+            612.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>BK Resources BKCDT-72-L 72" Left Stainless Steel Clean Dish Table with Galvanized Legs</strong></p>
+<ul>
+<li>Clean Dishtable</li>
+<li>Straight design</li>
+<li>72"W x 30-7/8"D x 46-1/4"H</li>
+<li>
+<span>Right-to-left </span>operation</li>
+<li>18/304 stainless steel top</li>
+<li>10"H backsplash</li>
+<li>Raised rolled edge on front &amp; side</li>
+<li>Galvanized legs &amp; side bracing</li>
+<li>High impact corrosion resistant adjustable bullet feet</li>
+<li>NSF</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Length_72 Inches</s:tag>
+    <s:tag>Product Type_Clean Table</s:tag>
+    <s:tag>Product type_Dish and Soiled Tables</s:tag>
+    <s:tag>Table Side_Left Side</s:tag>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4164040196</id>
+      <title>Default Title</title>
+      <s:price currency="USD">612.51</s:price>
+      <s:sku>BKCDT-72-L</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4164040132</id>
+    <published>2016-01-12T22:24:00-06:00</published>
+    <updated>2016-01-12T22:24:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bkcdt-60-l-60-left-stainless-steel-clean-dish-table-with-galvanized-legs"/>
+    <title>BK Resources BKCDT-60-L 60&quot; Left Stainless Steel Clean Dish Table with Galvanized Legs</title>
+    <s:type>Dish and Soiled Tables</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/bk-resources-bkcdt-60-l-ss-dishtable-clean-straight-a36.png?v=1453934772"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Dish and Soiled Tables<br>
+        <strong>Price: </strong>
+            519.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>BK Resources BKCDT-60-L 60" Left Stainless Steel Clean Dish Table with Galvanized Legs</strong></p>
+<ul>
+<li>Clean Dishtable</li>
+<li>Straight design</li>
+<li>60"W x 30-7/8"D x 46-1/4"H</li>
+<li>Right-to-left operation</li>
+<li>18/304 stainless steel top</li>
+<li>10"H backsplash</li>
+<li>Raised rolled edge on front &amp; side</li>
+<li>Galvanized legs &amp; side bracing</li>
+<li>High impact corrosion resistant adjustable bullet feet</li>
+<li>NSF</li>
+</ul>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-day</s:tag>
+    <s:tag>Length_60 Inches</s:tag>
+    <s:tag>Product Type_Clean Table</s:tag>
+    <s:tag>Product type_Dish and Soiled Tables</s:tag>
+    <s:tag>Table Side_Left Side</s:tag>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4164040132</id>
+      <title>Default Title</title>
+      <s:price currency="USD">519.63</s:price>
+      <s:sku>BKCDT-60-L</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4164040068</id>
+    <published>2016-01-12T22:24:00-06:00</published>
+    <updated>2016-01-12T22:24:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bkcdt-48-l-48-left-stainless-steel-clean-dish-table-with-galvanized-legs"/>
+    <title>BK Resources BKCDT-48-L 48&quot; Left Stainless Steel Clean Dish Table with Galvanized Legs</title>
+    <s:type>Dish and Soiled Tables</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/BKRE-BKCDT-26-L-SS-2T_grande_cfccb1eb-50a1-479d-a19a-47b9ab8edc02.jpg?v=1499920305"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Dish and Soiled Tables<br>
+        <strong>Price: </strong>
+            429.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>BK Resources BKCDT-48-L 48" Left Stainless Steel Clean Dish Table with Galvanized Legs</strong></p>
+<ul>
+<li>Clean Dishtable</li>
+<li>Straight design</li>
+<li>48"W x 30-7/8"D x 46-1/4"H</li>
+<li>Right-to-left operation</li>
+<li>18/304 stainless steel top</li>
+<li>10"H backsplash</li>
+<li>Raised rolled edge on front &amp; side</li>
+<li>Galvanized legs &amp; side bracing</li>
+<li>High impact corrosion resistant adjustable bullet feet</li>
+<li>NSF</li>
+</ul>
+<p> </p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-day</s:tag>
+    <s:tag>Length_48 Inches</s:tag>
+    <s:tag>Product Type_Clean Table</s:tag>
+    <s:tag>Product type_Dish and Soiled Tables</s:tag>
+    <s:tag>Table Side_Left Side</s:tag>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4164040068</id>
+      <title>Default Title</title>
+      <s:price currency="USD">429.79</s:price>
+      <s:sku>BKCDT-48-L</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4164040004</id>
+    <published>2016-01-12T22:24:00-06:00</published>
+    <updated>2016-01-12T22:24:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bkcdt-36-l-36-left-stainless-steel-clean-dish-table-with-galvanized-legs"/>
+    <title>BK Resources BKCDT-36-L 36&quot; Left Stainless Steel Clean Dish Table with Galvanized Legs</title>
+    <s:type>Dish and Soiled Tables</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/BKRE-BKCDT-26-L-SS-2T_grande_e22bdf37-6bac-4a8a-96de-86b23ac1853c.jpg?v=1499919991"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Dish and Soiled Tables<br>
+        <strong>Price: </strong>
+            360.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>BK Resources BKCDT-36-L 36" Left Stainless Steel Clean Dish Table with Galvanized Legs</strong></p>
+<ul>
+<li>Clean Dishtable</li>
+<li>Straight design</li>
+<li>36"W x 30-7/8"D x 46-1/4"H</li>
+<li>Right-to-left operation</li>
+<li>18/304 stainless steel top</li>
+<li>10"H backsplash</li>
+<li>Raised rolled edge on front &amp; side</li>
+<li>Galvanized legs &amp; side bracing</li>
+<li>High impact corrosion resistant adjustable bullet feet</li>
+<li>NSF</li>
+</ul>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-day</s:tag>
+    <s:tag>Length_36 Inches</s:tag>
+    <s:tag>Product Type_Clean Table</s:tag>
+    <s:tag>Product type_Dish and Soiled Tables</s:tag>
+    <s:tag>Table Side_Left Side</s:tag>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4164040004</id>
+      <title>Default Title</title>
+      <s:price currency="USD">360.59</s:price>
+      <s:sku>BKCDT-36-L</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4164039940</id>
+    <published>2016-01-12T22:24:00-06:00</published>
+    <updated>2016-01-12T22:24:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bkcdt-26-l-26-left-stainless-steel-clean-dish-table-with-galvanized-legs"/>
+    <title>BK Resources BKCDT-26-L 26&quot; Left Stainless Steel Clean Dish Table with Galvanized Legs</title>
+    <s:type>Dish and Soiled Tables</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/BKRE-BKCDT-26-L-SS-2T_grande_0bfdc450-e565-47a0-be64-21744cb81c3e.jpg?v=1499919707"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Dish and Soiled Tables<br>
+        <strong>Price: </strong>
+            303.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>BK Resources BKCDT-26-L 26" Left Stainless Steel Clean Dish Table with Galvanized Legs</strong></p>
+<ul>
+<li>Clean Dishtable</li>
+<li>Straight design</li>
+<li>26"W x 30-7/8"D x 46-1/4"H</li>
+<li>Right-to-left operation</li>
+<li>18/304 stainless steel top</li>
+<li>10"H backsplash</li>
+<li>Raised rolled edge on front &amp; side</li>
+<li>Galvanized legs &amp; side bracing</li>
+<li>High impact corrosion resistant adjustable bullet feet</li>
+<li>NSF</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-day</s:tag>
+    <s:tag>Length_26 Inches</s:tag>
+    <s:tag>Product Type_Clean Table</s:tag>
+    <s:tag>Product type_Dish and Soiled Tables</s:tag>
+    <s:tag>Table Side_Left Side</s:tag>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4164039940</id>
+      <title>Default Title</title>
+      <s:price currency="USD">303.53</s:price>
+      <s:sku>BKCDT-26-L</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4164039876</id>
+    <published>2016-01-12T22:24:00-06:00</published>
+    <updated>2016-01-12T22:24:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bkcdt-72-r-72-right-stainless-steel-clean-dish-table-with-galvanized-legs"/>
+    <title>BK Resources BKCDT-72-R 72&quot; Right Stainless Steel Clean Dish Table with Galvanized Legs</title>
+    <s:type>Dish and Soiled Tables</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/md_n170295.jpeg?v=1453934777"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Dish and Soiled Tables<br>
+        <strong>Price: </strong>
+            612.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>BK Resources BKCDT-72-R 72" Right Stainless Steel Clean Dish Table with Galvanized Legs</strong></p>
+<ul>
+<li>Clean Dishtable</li>
+<li>Straight design</li>
+<li>72"W x 30-7/8"D x 46-1/4"H</li>
+<li>
+<span>Left-to-right  </span><span>operation</span>
+</li>
+<li>18/304 stainless steel top</li>
+<li>10"H backsplash</li>
+<li>Raised rolled edge on front &amp; side</li>
+<li>Galvanized legs &amp; side bracing</li>
+<li>High impact corrosion resistant adjustable bullet feet</li>
+<li>NSF</li>
+</ul>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-day</s:tag>
+    <s:tag>Length_72 Inches</s:tag>
+    <s:tag>Product Type_Clean Table</s:tag>
+    <s:tag>Product type_Dish and Soiled Tables</s:tag>
+    <s:tag>Table Side_Right Side</s:tag>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4164039876</id>
+      <title>Default Title</title>
+      <s:price currency="USD">612.51</s:price>
+      <s:sku>BKCDT-72-R</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4164039812</id>
+    <published>2016-01-12T22:24:00-06:00</published>
+    <updated>2016-01-12T22:24:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bkcdt-60-r-60-right-stainless-steel-clean-dish-table-with-galvanized-legs"/>
+    <title>BK Resources BKCDT-60-R 60&quot; Right Stainless Steel Clean Dish Table with Galvanized Legs</title>
+    <s:type>Dish and Soiled Tables</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/md_n170294.jpeg?v=1453934775"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Dish and Soiled Tables<br>
+        <strong>Price: </strong>
+            519.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>BK Resources BKCDT-60-R 60" Right Stainless Steel Clean Dish Table with Galvanized Legs</strong></p>
+<ul>
+<li>Clean Dishtable</li>
+<li>Straight design</li>
+<li>60"W x 30-7/8"D x 46-1/4"H</li>
+<li>Left-to-right<span> </span>operation</li>
+<li>18/304 stainless steel top</li>
+<li>10"H backsplash</li>
+<li>Raised rolled edge on front &amp; side</li>
+<li>Galvanized legs &amp; side bracing</li>
+<li>High impact corrosion resistant adjustable bullet feet</li>
+<li>NSF</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-day</s:tag>
+    <s:tag>Length_60 Inches</s:tag>
+    <s:tag>Product Type_Clean Table</s:tag>
+    <s:tag>Product type_Dish and Soiled Tables</s:tag>
+    <s:tag>Table Side_Right Side</s:tag>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4164039812</id>
+      <title>Default Title</title>
+      <s:price currency="USD">519.63</s:price>
+      <s:sku>BKCDT-60-R</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4164039748</id>
+    <published>2016-01-12T22:24:00-06:00</published>
+    <updated>2016-01-12T22:24:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bkcdt-48-r-48-right-stainless-steel-clean-dish-table-with-galvanized-legs"/>
+    <title>BK Resources BKCDT-48-R 48&quot; Right Stainless Steel Clean Dish Table with Galvanized Legs</title>
+    <s:type>Dish and Soiled Tables</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/md_n172285.jpeg?v=1453934771"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Dish and Soiled Tables<br>
+        <strong>Price: </strong>
+            429.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>BK Resources BKCDT-48-R 48" Right Stainless Steel Clean Dish Table with Galvanized Legs</strong></p>
+<ul>
+<li>Clean Dishtable</li>
+<li>Straight design</li>
+<li>48"W x 30-7/8"D x 46-1/4"H</li>
+<li>Left-to-right  operation</li>
+<li>18/304 stainless steel top</li>
+<li>10"H backsplash</li>
+<li>Raised rolled edge on front &amp; side</li>
+<li>Galvanized legs &amp; side bracing</li>
+<li>High impact corrosion resistant adjustable bullet feet</li>
+<li>NSF</li>
+</ul>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-day</s:tag>
+    <s:tag>Length_48 Inches</s:tag>
+    <s:tag>Product Type_Clean Table</s:tag>
+    <s:tag>Product type_Dish and Soiled Tables</s:tag>
+    <s:tag>Table Side_Right Side</s:tag>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4164039748</id>
+      <title>Default Title</title>
+      <s:price currency="USD">429.79</s:price>
+      <s:sku>BKCDT-48-R</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4164039620</id>
+    <published>2016-01-12T22:24:00-06:00</published>
+    <updated>2016-01-12T22:24:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bkcdt-36-r-36-right-stainless-steel-clean-dish-table-with-galvanized-legs"/>
+    <title>BK Resources BKCDT-36-R 36&quot; Right Stainless Steel Clean Dish Table with Galvanized Legs</title>
+    <s:type>Dish and Soiled Tables</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/r.jpg?v=1499920088"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Dish and Soiled Tables<br>
+        <strong>Price: </strong>
+            360.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>BK Resources BKCDT-36-R 36" Right Stainless Steel Clean Dish Table with Galvanized Legs</strong></p>
+<ul>
+<li>Clean Dishtable</li>
+<li>Straight design</li>
+<li>36"W x 30-7/8"D x 46-1/4"H</li>
+<li>Left-to-right operation</li>
+<li>18/304 stainless steel top</li>
+<li>10"H backsplash</li>
+<li>Raised rolled edge on front &amp; side</li>
+<li>Galvanized legs &amp; side bracing</li>
+<li>High impact corrosion resistant adjustable bullet feet</li>
+<li>NSF</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-day</s:tag>
+    <s:tag>Length_36 Inches</s:tag>
+    <s:tag>Product Type_Clean Table</s:tag>
+    <s:tag>Product type_Dish and Soiled Tables</s:tag>
+    <s:tag>Table Side_Right Side</s:tag>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4164039620</id>
+      <title>Default Title</title>
+      <s:price currency="USD">360.59</s:price>
+      <s:sku>BKCDT-36-R</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4164039556</id>
+    <published>2016-01-12T22:24:00-06:00</published>
+    <updated>2016-01-12T22:24:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bkcdt-26-r-26-right-stainless-steel-clean-dish-table-with-galvanized-legs"/>
+    <title>BK Resources BKCDT-26-R 26&quot; Right Stainless Steel Clean Dish Table with Galvanized Legs</title>
+    <s:type>Dish and Soiled Tables</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/BKRE-BKCDT-26-R-2T.jpeg?v=1453934769"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Dish and Soiled Tables<br>
+        <strong>Price: </strong>
+            303.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>BK Resources BKCDT-26-R 26" Right Stainless Steel Clean Dish Table with Galvanized Legs</strong></p>
+<ul>
+<li>Clean Dishtable</li>
+<li>Straight design</li>
+<li>26"W x 30-7/8"D x 46-1/4"H</li>
+<li>Left-to-right operation</li>
+<li>18/304 stainless steel top</li>
+<li>10"H backsplash</li>
+<li>Raised rolled edge on front &amp; side</li>
+<li>Galvanized legs &amp; side bracing</li>
+<li>High impact corrosion resistant adjustable bullet feet</li>
+<li>NSF</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-day</s:tag>
+    <s:tag>Length_26 Inches</s:tag>
+    <s:tag>Product Type_Clean Table</s:tag>
+    <s:tag>Product type_Dish and Soiled Tables</s:tag>
+    <s:tag>Table Side_Right Side</s:tag>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4164039556</id>
+      <title>Default Title</title>
+      <s:price currency="USD">303.53</s:price>
+      <s:sku>BKCDT-26-R</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4164039492</id>
+    <published>2016-01-12T22:24:00-06:00</published>
+    <updated>2016-01-12T22:24:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bksdt-72-l-72-left-stainless-steel-soiled-dish-table-with-galvanized-legs"/>
+    <title>BK Resources BKSDT-72-L 72&quot; Left Stainless Steel Soiled Dish Table with Galvanized Legs</title>
+    <s:type>Dish and Soiled Tables</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/BKBKSDTL.png?v=1468259056"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Dish and Soiled Tables<br>
+        <strong>Price: </strong>
+            733.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>BK Resources BKSDT-72-L 72" Left Stainless Steel Soiled Dish Table with Galvanized Legs</strong></p>
+<ul>
+<li>Soiled Dishtable</li>
+<li>Straight design</li>
+<li>72"W x 30-3/8"D x 46-1/4"H</li>
+<li>Left-to-right operation</li>
+<li>18/304 stainless steel top</li>
+<li>10"H backsplash</li>
+<li>20" x 20" x 8" deep pre-rinse sink</li>
+<li>8" O.C. splash mount faucet holes</li>
+<li>Raised rolled edges on front &amp; side</li>
+<li>Includes basket drain (BKDR-4)</li>
+<li>Galvanized steel legs &amp; side bracing</li>
+<li>High impact corrosion resistant adjustable bullet feet</li>
+<li>NSF</li>
+</ul>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-day</s:tag>
+    <s:tag>Length_72 Inches</s:tag>
+    <s:tag>Product type_Dish and Soiled Tables</s:tag>
+    <s:tag>Product Type_Soiled Table</s:tag>
+    <s:tag>Table Side_Left Side</s:tag>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4164039492</id>
+      <title>Default Title</title>
+      <s:price currency="USD">733.32</s:price>
+      <s:sku>BKSDT-72-L</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4164039428</id>
+    <published>2016-01-12T22:24:00-06:00</published>
+    <updated>2016-01-12T22:24:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bksdt-60-l-60-left-stainless-steel-soiled-dish-table-with-galvanized-legs"/>
+    <title>BK Resources BKSDT-60-L 60&quot; Left Stainless Steel Soiled Dish Table with Galvanized Legs</title>
+    <s:type>Dish and Soiled Tables</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/BKBKSDTL_a885e82e-c7d5-4c56-b8a7-39765d9ffe14.png?v=1468264962"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Dish and Soiled Tables<br>
+        <strong>Price: </strong>
+            622.83
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>BK Resources BKSDT-60-L 60" Left Stainless Steel Soiled Dish Table with Galvanized Legs</strong></p>
+<ul>
+<li>Soiled Dishtable</li>
+<li>Straight design</li>
+<li>60"W x 30-3/8"D x 46-1/4"H</li>
+<li>Left-to-right operation</li>
+<li>18/304 stainless steel top</li>
+<li>10"H backsplash</li>
+<li>20" x 20" x 8" deep pre-rinse sink</li>
+<li>8" O.C. splash mount faucet holes</li>
+<li>Raised rolled edges on front &amp; side</li>
+<li>Includes basket drain (BKDR-4)</li>
+<li>Galvanized steel legs &amp; side bracing</li>
+<li>High impact corrosion resistant adjustable bullet feet</li>
+<li>NSF</li>
+</ul>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-day</s:tag>
+    <s:tag>Length_60 Inches</s:tag>
+    <s:tag>Product type_Dish and Soiled Tables</s:tag>
+    <s:tag>Product Type_Soiled Table</s:tag>
+    <s:tag>Table Side_Left Side</s:tag>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4164039428</id>
+      <title>Default Title</title>
+      <s:price currency="USD">622.83</s:price>
+      <s:sku>BKSDT-60-L</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4164039364</id>
+    <published>2016-01-12T22:24:00-06:00</published>
+    <updated>2016-01-12T22:24:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bksdt-48-l-48-left-stainless-steel-soiled-dish-table-with-galvanized-legs"/>
+    <title>BK Resources BKSDT-48-L 48&quot; Left Stainless Steel Soiled Dish Table with Galvanized Legs</title>
+    <s:type>Dish and Soiled Tables</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/BKBKSDTL_e806da1b-f449-4645-97ea-54ad0acdee58.png?v=1468264933"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Dish and Soiled Tables<br>
+        <strong>Price: </strong>
+            563.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>BK Resources BKSDT-48-L 48" Left Stainless Steel Soiled Dish Table with Galvanized Legs</strong></p>
+<ul>
+<li>Soiled Dishtable</li>
+<li>Straight design</li>
+<li>48"W x 30-3/8"D x 46-1/4"H</li>
+<li>Left-to-right  operation</li>
+<li>18/304 stainless steel top</li>
+<li>10"H backsplash</li>
+<li>20" x 20" x 8" deep pre-rinse sink</li>
+<li>8" O.C. splash mount faucet holes</li>
+<li>Raised rolled edges on front &amp; side</li>
+<li>Includes basket drain (BKDR-4)</li>
+<li>Galvanized steel legs &amp; side bracing</li>
+<li>High impact corrosion resistant adjustable bullet feet</li>
+<li>NSF</li>
+</ul>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-day</s:tag>
+    <s:tag>Length_48 Inches</s:tag>
+    <s:tag>Product type_Dish and Soiled Tables</s:tag>
+    <s:tag>Product Type_Soiled Table</s:tag>
+    <s:tag>Table Side_Left Side</s:tag>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4164039364</id>
+      <title>Default Title</title>
+      <s:price currency="USD">563.34</s:price>
+      <s:sku>BKSDT-48-L</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4164039300</id>
+    <published>2016-01-12T22:24:00-06:00</published>
+    <updated>2016-01-12T22:24:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bksdt-36-l-36-left-stainless-steel-soiled-dish-table-with-galvanized-legs"/>
+    <title>BK Resources BKSDT-36-L 36&quot; Left Stainless Steel Soiled Dish Table with Galvanized Legs</title>
+    <s:type>Dish and Soiled Tables</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/BKRE-BKSDT-36-L-2T.jpeg?v=1453934786"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Dish and Soiled Tables<br>
+        <strong>Price: </strong>
+            492.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>BK Resources BKSDT-36-L 36" Left Stainless Steel Soiled Dish Table with Galvanized Legs</strong></p>
+<ul>
+<li>Soiled Dishtable</li>
+<li>Straight design</li>
+<li>36"W x 30-3/8"D x 46-1/4"H</li>
+<li>Left-to-right  operation</li>
+<li>18/304 stainless steel top</li>
+<li>10"H backsplash</li>
+<li>20" x 20" x 8" deep pre-rinse sink</li>
+<li>8" O.C. splash mount faucet holes</li>
+<li>Raised rolled edges on front &amp; side</li>
+<li>Includes basket drain (BKDR-4)</li>
+<li>Galvanized steel legs &amp; side bracing</li>
+<li>High impact corrosion resistant adjustable bullet feet</li>
+<li>NSF</li>
+</ul>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-day</s:tag>
+    <s:tag>Length_36 Inches</s:tag>
+    <s:tag>Product type_Dish and Soiled Tables</s:tag>
+    <s:tag>Product Type_Soiled Table</s:tag>
+    <s:tag>Table Side_Left Side</s:tag>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4164039300</id>
+      <title>Default Title</title>
+      <s:price currency="USD">492.32</s:price>
+      <s:sku>BKSDT-36-L</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4164039236</id>
+    <published>2016-01-12T22:24:00-06:00</published>
+    <updated>2016-01-12T22:24:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bksdt-26-l-26-left-stainless-steel-soiled-dish-table-with-galvanized-legs"/>
+    <title>BK Resources BKSDT-26-L 26&quot; Left Stainless Steel Soiled Dish Table with Galvanized Legs</title>
+    <s:type>Dish and Soiled Tables</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/BKBKSDTL_9fcd3008-59a8-4149-a4a2-af296f9d5baa.png?v=1468264900"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Dish and Soiled Tables<br>
+        <strong>Price: </strong>
+            462.57
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>BK Resources BKSDT-26-L 26" Left Stainless Steel Soiled Dish Table with Galvanized Legs</strong></p>
+<ul>
+<li>Soiled Dishtable</li>
+<li>Straight design</li>
+<li>26"W x 30-3/8"D x 46-1/4"H</li>
+<li>Left-to-right operation</li>
+<li>18/304 stainless steel top</li>
+<li>10"H backsplash</li>
+<li>20" x 20" x 8" deep pre-rinse sink</li>
+<li>8" O.C. splash mount faucet holes</li>
+<li>Raised rolled edges on front &amp; side</li>
+<li>Includes basket drain (BKDR-4)</li>
+<li>Galvanized steel legs &amp; side bracing</li>
+<li>High impact corrosion resistant adjustable bullet feet</li>
+<li>NSF</li>
+</ul>
+<p> </p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-day</s:tag>
+    <s:tag>Length_26 Inches</s:tag>
+    <s:tag>Product type_Dish and Soiled Tables</s:tag>
+    <s:tag>Product Type_Soiled Table</s:tag>
+    <s:tag>Table Side_Left Side</s:tag>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4164039236</id>
+      <title>Default Title</title>
+      <s:price currency="USD">462.57</s:price>
+      <s:sku>BKSDT-26-L</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4164039172</id>
+    <published>2016-01-12T22:24:00-06:00</published>
+    <updated>2016-01-12T22:24:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bksdt-72-r-72-right-stainless-steel-soiled-dish-table-with-galvanized-legs"/>
+    <title>BK Resources BKSDT-72-R 72&quot; Right Stainless Steel Soiled Dish Table with Galvanized Legs</title>
+    <s:type>Dish and Soiled Tables</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/BKRE-BKSDT-72-R-2.jpeg?v=1459131771"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Dish and Soiled Tables<br>
+        <strong>Price: </strong>
+            733.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>BK Resources BKSDT-72-R 72" Right Stainless Steel Soiled Dish Table with Galvanized Legs</strong></p>
+<ul>
+<li>Soiled Dishtable</li>
+<li>Straight design</li>
+<li>72"W x 30-3/8"D x 46-1/4"H</li>
+<li>Right-to-left operation</li>
+<li>18/304 stainless steel top</li>
+<li>10"H backsplash</li>
+<li>20" x 20" x 8" deep pre-rinse sink</li>
+<li>8" O.C. splash mount faucet holes</li>
+<li>Raised rolled edges on front &amp; side</li>
+<li>Includes basket drain (BKDR-4)</li>
+<li>Galvanized steel legs &amp; side bracing</li>
+<li>High impact corrosion resistant adjustable bullet feet</li>
+<li>NSF</li>
+</ul>
+<p> </p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-day</s:tag>
+    <s:tag>Length_72 Inches</s:tag>
+    <s:tag>Product type_Dish and Soiled Tables</s:tag>
+    <s:tag>Product Type_Soiled Table</s:tag>
+    <s:tag>Table Side_Right Side</s:tag>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4164039172</id>
+      <title>Default Title</title>
+      <s:price currency="USD">733.32</s:price>
+      <s:sku>BKSDT-72-R</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4164039108</id>
+    <published>2016-01-12T22:24:00-06:00</published>
+    <updated>2016-01-12T22:24:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bksdt-60-r-60-right-stainless-steel-soiled-dish-table-with-galvanized-legs"/>
+    <title>BK Resources BKSDT-60-R 60&quot; Right Stainless Steel Soiled Dish Table with Galvanized Legs</title>
+    <s:type>Dish and Soiled Tables</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/BKRE-BKSDT-72-R-2_42c2f313-25b2-4070-a7d8-3e1f4717116e.jpg?v=1468264966"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Dish and Soiled Tables<br>
+        <strong>Price: </strong>
+            622.83
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>BK Resources BKSDT-60-R 60" Right Stainless Steel Soiled Dish Table with Galvanized Legs</strong></p>
+<ul>
+<li>Soiled Dishtable</li>
+<li>Straight design</li>
+<li>60"W x 30-3/8"D x 46-1/4"H</li>
+<li>Right-to-left operation</li>
+<li>18/304 stainless steel top</li>
+<li>10"H backsplash</li>
+<li>20" x 20" x 8" deep pre-rinse sink</li>
+<li>8" O.C. splash mount faucet holes</li>
+<li>Raised rolled edges on front &amp; side</li>
+<li>Includes basket drain (BKDR-4)</li>
+<li>Galvanized steel legs &amp; side bracing</li>
+<li>High impact corrosion resistant adjustable bullet feet</li>
+<li>NSF</li>
+</ul>
+<p> </p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-day</s:tag>
+    <s:tag>Length_60 Inches</s:tag>
+    <s:tag>Product type_Dish and Soiled Tables</s:tag>
+    <s:tag>Product Type_Soiled Table</s:tag>
+    <s:tag>Table Side_Right Side</s:tag>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4164039108</id>
+      <title>Default Title</title>
+      <s:price currency="USD">622.83</s:price>
+      <s:sku>BKSDT-60-R</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4164039044</id>
+    <published>2016-01-12T22:24:00-06:00</published>
+    <updated>2016-01-12T22:24:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bksdt-48-r-48-right-stainless-steel-soiled-dish-table-with-galvanized-legs"/>
+    <title>BK Resources BKSDT-48-R 48&quot; Right Stainless Steel Soiled Dish Table with Galvanized Legs</title>
+    <s:type>Dish and Soiled Tables</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/BKRE-BKSDT-72-R-2_2d2fa9b0-3a43-47e7-bf4d-ed2ecd7b3c2f.jpg?v=1468264945"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Dish and Soiled Tables<br>
+        <strong>Price: </strong>
+            563.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>BK Resources BKSDT-48-R 48" Right Stainless Steel Soiled Dish Table with Galvanized Legs</strong></p>
+<ul>
+<li>Soiled Dishtable</li>
+<li>Straight design</li>
+<li>48"W x 30-3/8"D x 46-1/4"H</li>
+<li>Right-to-left operation</li>
+<li>18/304 stainless steel top</li>
+<li>10"H backsplash</li>
+<li>20" x 20" x 8" deep pre-rinse sink</li>
+<li>8" O.C. splash mount faucet holes</li>
+<li>Raised rolled edges on front &amp; side</li>
+<li>Includes basket drain (BKDR-4)</li>
+<li>Galvanized steel legs &amp; side bracing</li>
+<li>High impact corrosion resistant adjustable bullet feet</li>
+<li>NSF</li>
+</ul>
+<p> </p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-day</s:tag>
+    <s:tag>Length_48 Inches</s:tag>
+    <s:tag>Product type_Dish and Soiled Tables</s:tag>
+    <s:tag>Product Type_Soiled Table</s:tag>
+    <s:tag>Table Side_Right Side</s:tag>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4164039044</id>
+      <title>Default Title</title>
+      <s:price currency="USD">563.34</s:price>
+      <s:sku>BKSDT-48-R</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4164038916</id>
+    <published>2016-01-12T22:24:00-06:00</published>
+    <updated>2016-01-12T22:24:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bksdt-36-r-36-right-stainless-steel-soiled-dish-table-with-galvanized-legs"/>
+    <title>BK Resources BKSDT-36-R 36&quot; Right Stainless Steel Soiled Dish Table with Galvanized Legs</title>
+    <s:type>Dish and Soiled Tables</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/BKRE-BKSDT-36-R-2.jpeg?v=1453934782"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Dish and Soiled Tables<br>
+        <strong>Price: </strong>
+            492.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>BK Resources BKSDT-36-R 36" Right Stainless Steel Soiled Dish Table with Galvanized Legs</strong></p>
+<ul>
+<li>Soiled Dishtable</li>
+<li>Straight design</li>
+<li>36"W x 30-3/8"D x 46-1/4"H</li>
+<li>Right-to-left operation</li>
+<li>18/304 stainless steel top</li>
+<li>10"H backsplash</li>
+<li>20" x 20" x 8" deep pre-rinse sink</li>
+<li>8" O.C. splash mount faucet holes</li>
+<li>Raised rolled edges on front &amp; side</li>
+<li>Includes basket drain (BKDR-4)</li>
+<li>Galvanized steel legs &amp; side bracing</li>
+<li>High impact corrosion resistant adjustable bullet feet</li>
+<li>NSF</li>
+</ul>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-day</s:tag>
+    <s:tag>Length_36 Inches</s:tag>
+    <s:tag>Product type_Dish and Soiled Tables</s:tag>
+    <s:tag>Product Type_Soiled Table</s:tag>
+    <s:tag>Table Side_Right Side</s:tag>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4164038916</id>
+      <title>Default Title</title>
+      <s:price currency="USD">492.32</s:price>
+      <s:sku>BKSDT-36-R</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4164038852</id>
+    <published>2016-01-12T22:24:00-06:00</published>
+    <updated>2016-01-12T22:24:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bksdt-26-r-26-right-stainless-steel-soiled-dish-table-with-galvanized-legs"/>
+    <title>BK Resources BKSDT-26-R 26&quot; Right Stainless Steel Soiled Dish Table with Galvanized Legs</title>
+    <s:type>Dish and Soiled Tables</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/BKRE-BKSDT-72-R-2.jpg?v=1468264897"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Dish and Soiled Tables<br>
+        <strong>Price: </strong>
+            462.57
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>BK Resources BKSDT-26-R 26" Right Stainless Steel Soiled Dish Table with Galvanized Legs</strong></p>
+<ul>
+<li>Soiled Dishtable</li>
+<li>Straight design</li>
+<li>26"W x 30-3/8"D x 46-1/4"H</li>
+<li>Right-to-left operation</li>
+<li>18/304 stainless steel top</li>
+<li>10"H backsplash</li>
+<li>20" x 20" x 8" deep pre-rinse sink</li>
+<li>8" O.C. splash mount faucet holes</li>
+<li>Raised rolled edges on front &amp; side</li>
+<li>Includes basket drain (BKDR-4)</li>
+<li>Galvanized steel legs &amp; side bracing</li>
+<li>High impact corrosion resistant adjustable bullet feet</li>
+<li>NSF</li>
+</ul>
+<p> </p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-day</s:tag>
+    <s:tag>Length_26 Inches</s:tag>
+    <s:tag>Product type_Dish and Soiled Tables</s:tag>
+    <s:tag>Product Type_Soiled Table</s:tag>
+    <s:tag>Table Side_Right Side</s:tag>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4164038852</id>
+      <title>Default Title</title>
+      <s:price currency="USD">462.57</s:price>
+      <s:sku>BKSDT-26-R</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+</feed>

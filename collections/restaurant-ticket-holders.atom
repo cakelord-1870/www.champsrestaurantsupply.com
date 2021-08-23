@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.champsrestaurantsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.champsrestaurantsupply.com/collections/restaurant-ticket-holders.atom"/>
+  <title>Champs Restaurant Supply</title>
+  <updated>2016-08-23T13:42:00-05:00</updated>
+  <author>
+    <name>Champs Restaurant Supply</name>
+  </author>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/6422865284</id>
+    <published>2016-08-23T13:42:00-05:00</published>
+    <updated>2016-08-23T13:42:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/winco-cs-3-3dia-brass-plated-check-caddy"/>
+    <title>WINCO CS-3 3&quot;DIA BRASS-PLATED CHECK CADDY</title>
+    <s:type>Restaurant Ticket Holders</s:type>
+    <s:vendor>Winco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/s-l400_3ca11e8e-ec57-416f-b4ea-79576d4665bf.jpg?v=1471977871"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Winco<br>
+        <strong>Type: </strong>Restaurant Ticket Holders<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">WINCO CS-3 3"DIA BRASS-PLATED CHECK CADDY</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_Winco</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/6422865284</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>CS-3</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4817645444</id>
+    <published>2016-04-26T11:08:11-05:00</published>
+    <updated>2016-04-26T11:08:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/san-jamar-ck6530a-slide-check-rack-30"/>
+    <title>San Jamar CK6530A Slide Check Rack - 30&quot;</title>
+    <s:type>Restaurant Ticket Holders</s:type>
+    <s:vendor>San Jamar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/623-d-039_a045bc41-4700-4868-bf4c-72f952a2a38b.jpeg?v=1464386088"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>San Jamar<br>
+        <strong>Type: </strong>Restaurant Ticket Holders<br>
+        <strong>Price: </strong>
+            23.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>San Jamar CK6530A Slide Check Rack - 30"</p>
+<p>Slide Check Rack, 30"L x 3/4"W x 2"H, glass marbles for smooth sliding, anodized aluminum (bagged with header card)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_San Jamar</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4817645444</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.69</s:price>
+      <s:sku>CK6530A</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4817645316</id>
+    <published>2016-04-26T11:08:09-05:00</published>
+    <updated>2016-04-26T11:08:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/san-jamar-ck6524a-slide-check-rack-24"/>
+    <title>San Jamar CK6524A Slide Check Rack - 24&quot;</title>
+    <s:type>Restaurant Ticket Holders</s:type>
+    <s:vendor>San Jamar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/623-d-039_78307175-b335-4666-a3f2-2e68b1d834ac.jpeg?v=1464386087"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>San Jamar<br>
+        <strong>Type: </strong>Restaurant Ticket Holders<br>
+        <strong>Price: </strong>
+            19.39
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>San Jamar CK6524A Slide Check Rack - 24"</p>
+<p>Slide Check Rack, 24"L x 3/4"W x 2"H, glass marbles for smooth sliding, anodized aluminum (bagged with header card)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_San Jamar</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4817645316</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.39</s:price>
+      <s:sku>CK6524A</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4817645124</id>
+    <published>2016-04-26T11:08:08-05:00</published>
+    <updated>2016-04-26T11:08:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/san-jamar-ck6518a-slide-check-rack-18"/>
+    <title>San Jamar CK6518A Slide Check Rack - 18&quot;</title>
+    <s:type>Restaurant Ticket Holders</s:type>
+    <s:vendor>San Jamar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/623-d-039_664104ec-8d67-4749-8c74-f0249d7a5ab4.jpeg?v=1464386086"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>San Jamar<br>
+        <strong>Type: </strong>Restaurant Ticket Holders<br>
+        <strong>Price: </strong>
+            15.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>San Jamar CK6518A Slide Check Rack - 18"</p>
+<p>Slide Check Rack, 18"L x 3/4"W x 2"H, glass marbles for smooth sliding, anodized aluminum (bagged with header card)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_San Jamar</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4817645124</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.49</s:price>
+      <s:sku>CK6518A</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4515537476</id>
+    <published>2016-03-03T23:29:00-06:00</published>
+    <updated>2016-03-03T23:29:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/thunder-group-sltwch044-44-no-clip-check-holder"/>
+    <title>Thunder Group SLTWCH044 44&quot; Stainless Steel No Clip Check Holder</title>
+    <s:type>Restaurant Ticket Holders</s:type>
+    <s:vendor>Thunder Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/CAR38240A_2ffb6ceb-08a5-4d6c-bb69-5ace5a1463eb.jpeg?v=1457543392"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Thunder Group<br>
+        <strong>Type: </strong>Restaurant Ticket Holders<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Thunder Group SLTWCH044 44" No Clip Check Holder</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_Thunder Group</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4515537476</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>SLTWCH044</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4515537412</id>
+    <published>2016-03-03T23:29:00-06:00</published>
+    <updated>2016-03-03T23:29:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/thunder-group-sltwch036-36-no-clip-check-holder"/>
+    <title>Thunder Group SLTWCH036 36&quot; Stainless Steel No Clip Check Holder</title>
+    <s:type>Restaurant Ticket Holders</s:type>
+    <s:vendor>Thunder Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/CAR38240A_a169b896-78ef-4d54-a0e7-0798c0dd6426.jpeg?v=1457543384"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Thunder Group<br>
+        <strong>Type: </strong>Restaurant Ticket Holders<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Thunder Group SLTWCH036 36" No Clip Check Holder</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_Thunder Group</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4515537412</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>SLTWCH036</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4515537284</id>
+    <published>2016-03-03T23:29:00-06:00</published>
+    <updated>2016-03-03T23:29:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/thunder-group-sltwch024-24-no-clip-check-holder"/>
+    <title>Thunder Group SLTWCH024 24&quot; Stainless Steel No Clip Check Holder</title>
+    <s:type>Restaurant Ticket Holders</s:type>
+    <s:vendor>Thunder Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/CAR38240A.jpeg?v=1457543353"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Thunder Group<br>
+        <strong>Type: </strong>Restaurant Ticket Holders<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Thunder Group SLTWCH024 24" No Clip Check Holder</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_Thunder Group</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4515537284</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SLTWCH024</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4515536196</id>
+    <published>2016-03-03T23:29:00-06:00</published>
+    <updated>2016-03-03T23:29:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/thunder-group-slspin001-check-spindle"/>
+    <title>Thunder Group SLSPIN001 Gold Finished Check Spindle with Tripod Stand</title>
+    <s:type>Restaurant Ticket Holders</s:type>
+    <s:vendor>Thunder Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/31b9AEA2beL._SX425.jpg?v=1464383795"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Thunder Group<br>
+        <strong>Type: </strong>Restaurant Ticket Holders<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Thunder Group SLSPIN001 Check Spindle</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_Thunder Group</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4515536196</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>SLSPIN001</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

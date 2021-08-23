@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.champsrestaurantsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.champsrestaurantsupply.com/collections/metal-barstools.atom"/>
+  <title>Champs Restaurant Supply</title>
+  <updated>2017-06-07T16:41:09-05:00</updated>
+  <author>
+    <name>Champs Restaurant Supply</name>
+  </author>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11575529551</id>
+    <published>2017-06-07T16:41:09-05:00</published>
+    <updated>2017-06-07T16:41:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/mkm843bs-back-metal-barstools-with-black-vinyl-seat"/>
+    <title>MKM843BS Back Metal Barstools with Black Vinyl Seat</title>
+    <s:type>Metal Barstools</s:type>
+    <s:vendor>MKLD Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/20120918101755136.jpg?v=1496871825"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MKLD Furniture<br>
+        <strong>Type: </strong>Metal Barstools<br>
+        <strong>Price: </strong>
+            89.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>MKM843BS Back Metal Barstools with Black Vinyl Seat</strong></p>
+<ul>
+<li>Heavy Duty Restaurant Bar Stool   </li>
+<li>Black Vinyl Upholstered Seat   </li>
+<li>2.5'' Thick 1.4 Density Foam Padded Seat   </li>
+<li>16 Gauge Steel Frame   </li>
+<li>Full Welded   </li>
+<li>Two Curved Support Bars   </li>
+<li>Black Powder Coated Frame Finish   </li>
+<li>Plastic Floor Glides</li>
+<li>
+<b>Width:</b><span>17.25"</span>
+</li>
+<li>
+<b>Depth: </b><span>19"</span>
+</li>
+<li>
+<b>Height:</b><span> 42"</span>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11575529551</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.00</s:price>
+      <s:sku>M843BS</s:sku>
+      <s:grams>20412</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11548363727</id>
+    <published>2017-06-01T12:56:10-05:00</published>
+    <updated>2017-06-01T12:56:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/commercial-bar-stool-with-black-swivel-round-seat"/>
+    <title>Commercial Bar Stool with Black Swivel Round Seat</title>
+    <s:type>Metal Barstools</s:type>
+    <s:vendor>Klinger&apos;s Trading</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/black-round-cushion-for-sr-1-and-sr-2.jpg?v=1496340010"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Klinger&#39;s Trading<br>
+        <strong>Type: </strong>Metal Barstools<br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Swivel Bar Stool, backless, round upholstered seat with flat swivel, black frame with chrome foot rest</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11548363727</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>SR-1</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11548329423</id>
+    <published>2017-06-01T12:50:29-05:00</published>
+    <updated>2017-06-01T12:50:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/commercial-double-ring-bar-stool-with-black-swivel-round-seat"/>
+    <title>Commercial Double Ring Bar Stool with Black Swivel Round Seat</title>
+    <s:type>Metal Barstools</s:type>
+    <s:vendor>Klinger&apos;s Trading</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/chair-bar-stool-sr-2.jpg?v=1496339680"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Klinger&#39;s Trading<br>
+        <strong>Type: </strong>Metal Barstools<br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Commercial Double Ring Bar Stool with black swivel round seat</strong><br>
+<ul>
+<li>Very Nice Heavy Duty Chrome Frame</li>
+<li>Cushion is 4-1/2" thick</li>
+<li>14" diameter</li>
+<li>Black vinyl</li>
+<li>Seat is 30" high</li>
+<li>Rubber glides on each leg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11548329423</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>SR-2</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11548295375</id>
+    <published>2017-06-01T12:46:01-05:00</published>
+    <updated>2017-06-01T12:46:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/black-frame-swivel-bar-stool-w-black-vinyl"/>
+    <title>Black Frame Swivel Bar Stool w/ Black Vinyl</title>
+    <s:type>Metal Barstools</s:type>
+    <s:vendor>Klinger&apos;s Trading</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/20120918103817270.jpg?v=1496339264"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Klinger&#39;s Trading<br>
+        <strong>Type: </strong>Metal Barstools<br>
+        <strong>Price: </strong>
+            79.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Swivel Bar Stool, upholstered bucket seat, cross-over base, black frame with chrome footrest, black vinyl</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11548295375</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>SR-6</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11548272143</id>
+    <published>2017-06-01T12:37:13-05:00</published>
+    <updated>2017-06-01T12:37:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/chrome-plated-round-steel-tubing-swivel-bar-stool-w-black-vinyl"/>
+    <title>Chrome Plated Round Steel Tubing Swivel Bar Stool w/ Black Vinyl</title>
+    <s:type>Metal Barstools</s:type>
+    <s:vendor>Klinger&apos;s Trading</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/20120918103738565.jpg?v=1496338986"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Klinger&#39;s Trading<br>
+        <strong>Type: </strong>Metal Barstools<br>
+        <strong>Price: </strong>
+            79.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Swivel Bar Stool, upholstered bucket seat, double ring base, chrome plated round steel tubing, black vinyl</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11548272143</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>SR-5</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4757800388</id>
+    <published>2016-04-12T12:27:00-05:00</published>
+    <updated>2016-04-12T12:27:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/cmb-m841bs-d-black-ladder-back-metal-restaurant-barstool-with-burgundy-vinyl-seat"/>
+    <title>MKM836BS-D Black Metal  Ladder Back  Restaurant Barstool</title>
+    <s:type>Metal Barstools</s:type>
+    <s:vendor>MKLD Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/20120918103318468.jpg?v=1460484295"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MKLD Furniture<br>
+        <strong>Type: </strong>Metal Barstools<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>FEATURES</strong></p>
+<p>These attractive black metal chairs are built to last! Offered at a very competitive price, these metal chairs also feature a <span>18 gauge fully welded steel frame and a </span>streamlined, contemporary design to match your business. The wooden back and seat offers a modern style while provides durability.</p>
+<p>Create a first-rate dining experience by offering your patrons tasty food, great service and attractive furnishings. These metal chair will offer a classic, elegant look to your establishment.</p>
+<p><strong>Width: 18''W</strong></p>
+<p><strong>Height: 42''H</strong></p>
+<p><strong>Depth: 20''D</strong></p>
+<p><strong>Seat height: 32''H</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product type_Metal Barstools</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4757800388</id>
+      <title>Default Title</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>M36BS-D</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4757800324</id>
+    <published>2016-04-12T12:27:00-05:00</published>
+    <updated>2016-04-12T12:27:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/cmb-m836bs-c-black-ladder-back-metal-restaurant-barstool-with-burgundy-vinyl-seat"/>
+    <title>MKM836BS-C Black Ladder Back Metal Restaurant Barstool</title>
+    <s:type>Metal Barstools</s:type>
+    <s:vendor>MKLD Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/20120918103402407.jpg?v=1460483468"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MKLD Furniture<br>
+        <strong>Type: </strong>Metal Barstools<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>FEATURES</strong></p>
+<p>These attractive black metal chairs are built to last! Offered at a very competitive price, these metal chairs also feature a <span>18 gauge fully welded steel frame and a </span>streamlined, contemporary design to match your business. The wooden back and seat offers a modern style while provides durability.</p>
+<p>Create a first-rate dining experience by offering your patrons tasty food, great service and attractive furnishings. These metal chair will offer a classic, elegant look to your establishment.</p>
+<p><strong>Width: 18''W</strong></p>
+<p><strong>Height: 42''H</strong></p>
+<p><strong>Depth: 20''D</strong></p>
+<p><strong>Seat height: 32''H</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product type_Metal Barstools</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4757800324</id>
+      <title>Default Title</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>M836BS-C</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4757800260</id>
+    <published>2016-04-12T12:27:00-05:00</published>
+    <updated>2016-04-12T12:27:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/cmb-m836bs-b-black-ladder-back-metal-restaurant-barstool-with-burgundy-vinyl-seat"/>
+    <title>MKM836BS-B Slotted Wooden Back Metal Chair  with Wooden Seat</title>
+    <s:type>Metal Barstools</s:type>
+    <s:vendor>MKLD Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/20120918103142552.jpg?v=1460482666"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MKLD Furniture<br>
+        <strong>Type: </strong>Metal Barstools<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>FEATURES</strong></p>
+<p>These attractive black metal chairs are built to last! Offered at a very competitive price, these metal chairs also feature a <span>18 gauge fully welded steel frame and a </span>streamlined, contemporary design to match your business. The wooden back and seat offers a modern style while provides durability.</p>
+<p>Create a first-rate dining experience by offering your patrons tasty food, great service and attractive furnishings. These metal chair will offer a classic, elegant look to your establishment.</p>
+<p><strong>Width: 18''W</strong></p>
+<p><strong>Height: 42''H</strong></p>
+<p><strong>Depth: 20''D</strong></p>
+<p><strong>Seat height: 32''H</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product type_Metal Barstools</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4757800260</id>
+      <title>Default Title</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>M836BS-B</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4757800196</id>
+    <published>2016-04-12T12:27:00-05:00</published>
+    <updated>2016-04-12T12:27:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/cmb-m836bs-a-black-ladder-back-metal-restaurant-barstool-with-burgundy-vinyl-seat"/>
+    <title>MKM836BS-A Slotted Wooden Back Metal Chair  with Wooden Seat</title>
+    <s:type>Metal Barstools</s:type>
+    <s:vendor>MKLD Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/20120918103215159.jpg?v=1460482503"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MKLD Furniture<br>
+        <strong>Type: </strong>Metal Barstools<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>FEATURES</strong></p>
+<p>These attractive black metal chairs are built to last! Offered at a very competitive price, these metal chairs also feature a <span>18 gauge fully welded steel frame and a </span>streamlined, contemporary design to match your business. The wooden back and seat offers a modern style while provides durability.</p>
+<p>Create a first-rate dining experience by offering your patrons tasty food, great service and attractive furnishings. These metal chair will offer a classic, elegant look to your establishment.</p>
+<p> </p>
+<p><strong>Width: 18''W</strong></p>
+<p><strong>Height: 42''H</strong></p>
+<p><strong>Depth: 20''D</strong></p>
+<p><strong>Seat height: 32''H</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product type_Metal Barstools</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4757800196</id>
+      <title>Default Title</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>M836BS-A</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4757800004</id>
+    <published>2016-04-12T12:27:00-05:00</published>
+    <updated>2016-04-12T12:27:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/cmb-m839bs-black-ladder-back-metal-restaurant-barstool-with-burgundy-vinyl-seat"/>
+    <title>MKM839BS Black Vertical Back Metal Restaurant Bar Stool</title>
+    <s:type>Metal Barstools</s:type>
+    <s:vendor>MKLD Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/20120918101840511.jpg?v=1460484240"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MKLD Furniture<br>
+        <strong>Type: </strong>Metal Barstools<br>
+        <strong>Price: </strong>
+            125.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<p><strong>FEATURES</strong></p>
+<p>These attractive black metal chairs are built to last! Offered at a very competitive price, these metal chairs also feature a <span>18 gauge fully welded steel frame and a </span>streamlined, contemporary design to match your business. The wooden back and seat offers a modern style while provides durability.</p>
+<p>Create a first-rate dining experience by offering your patrons tasty food, great service and attractive furnishings. These metal chair will offer a classic, elegant look to your establishment.</p>
+<p><strong>Width: 18''W</strong></p>
+<p><strong>Height: 42''H</strong></p>
+<p><strong>Depth: 20''D</strong></p>
+<p><strong>Seat height: 32''H</strong></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product type_Metal Barstools</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4757800004</id>
+      <title>Default Title</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku>M839BS</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4754228100</id>
+    <published>2016-04-11T14:52:00-05:00</published>
+    <updated>2016-04-11T14:52:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/cmb-m842bs-black-vertical-back-metal-restaurant-bar-stool-with-custom-upholstered-seat"/>
+    <title>MKM842BS Black Vertical Back Metal Restaurant Bar Stool with Custom Upholstered Seat</title>
+    <s:type>Metal Barstools</s:type>
+    <s:vendor>MKLD Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/black-vertical-back-metal-restaurant-bar-stool-with-custom-upholstered-seat-bfdh-88398bartrv-unp-tdr-2.jpg?v=1460404569"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MKLD Furniture<br>
+        <strong>Type: </strong>Metal Barstools<br>
+        <strong>Price: </strong>
+            109.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>FEATURES</strong></p>
+<p>These attractive black metal chairs are built to last! Offered at a very competitive price, these metal chairs also feature a <span>18 gauge fully welded steel frame and a </span>streamlined, contemporary design to match your business. The wooden back and seat offers a modern style while provides durability.</p>
+<p>Create a first-rate dining experience by offering your patrons tasty food, great service and attractive furnishings. These metal chair will offer a classic, elegant look to your establishment.</p>
+<p><strong>Width: 18''W </strong></p>
+<p><strong>Height: 43''H</strong></p>
+<p><strong> Depth: 17''D </strong></p>
+<p><strong>Seat height: 30''H</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product type_Metal Barstools</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4754228100</id>
+      <title>Default Title</title>
+      <s:price currency="USD">109.00</s:price>
+      <s:sku>M842BS</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4754213828</id>
+    <published>2016-04-11T14:47:00-05:00</published>
+    <updated>2016-04-11T14:47:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/cmb-m841bs-black-ladder-back-metal-restaurant-barstool-with-burgundy-vinyl-seat"/>
+    <title>MKM841BS Black Ladder Back Metal Restaurant Barstool with Burgundy Vinyl Seat</title>
+    <s:type>Metal Barstools</s:type>
+    <s:vendor>MKLD Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/black-ladder-back-metal-restaurant-bar-stool-with-burgundy-vinyl-seat-bfdh-6147byladbar-tdr-10.jpg?v=1460404329"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MKLD Furniture<br>
+        <strong>Type: </strong>Metal Barstools<br>
+        <strong>Price: </strong>
+            89.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>FEATURES</p>
+<p>These attractive black metal chairs are built to last! Offered at a very competitive price, these metal chairs also feature a <span>18 gauge fully welded steel frame and a </span>streamlined, contemporary design to match your business. The wooden back and seat offers a modern style while provides durability.</p>
+<p>Create a first-rate dining experience by offering your patrons tasty food, great service and attractive furnishings. These metal chair will offer a classic, elegant look to your establishment.</p>
+<p><br><br>Width: 18''W<br><br>Height: 42''H<br><br>Depth: 20''D<br><br>Seat height: 31''H</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product type_Metal Barstools</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4754213828</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.00</s:price>
+      <s:sku>M841BS</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4754171780</id>
+    <published>2016-04-11T14:35:00-05:00</published>
+    <updated>2016-04-11T14:35:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/cmb-m890bs-black-window-back-metal-restaurant-barstool-with-mahogany-wood-seat"/>
+    <title>MKM890BS Black Window Back Metal Restaurant Barstool with Mahogany Wood Seat</title>
+    <s:type>Metal Barstools</s:type>
+    <s:vendor>MKLD Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/black-window-back-metal-restaurant-bar-stool-with-mahogany-wood-seat-bfdh-85mwbarniw-tdr-10.jpg?v=1460403656"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MKLD Furniture<br>
+        <strong>Type: </strong>Metal Barstools<br>
+        <strong>Price: </strong>
+            129.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>FEATURES</strong></p>
+<p>The wood barstool will offer a classic,elegant look when furnishing your establishment. This stool is easy to clean,which is an important aspect when it comes to a business. This stool was designed to withstand the daily rigors in the hospitality industry,but will also provide a warm and inviting quality to your home.</p>
+<p>The thick,foam padded seat will keep users comfortable. The durable Beechwood frame is stabilized using two support bars,which includes a footrest. The floor glides help protect your floors and ensure smooth gliding. This elegantly styled stool will highlight your home or business without disappointment.</p>
+<p> </p>
+<p><strong>Width: 18''W</strong></p>
+<p><strong>Height: 42''H</strong></p>
+<p><strong>Depth: 20''D</strong></p>
+<p><strong>Seat height: 29''H</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product type_Metal Barstools</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4754171780</id>
+      <title>Default Title</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>M890BS</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+</feed>

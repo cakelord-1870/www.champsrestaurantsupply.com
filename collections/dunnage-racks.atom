@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.champsrestaurantsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.champsrestaurantsupply.com/collections/dunnage-racks.atom"/>
+  <title>Champs Restaurant Supply</title>
+  <updated>2016-02-05T10:05:41-06:00</updated>
+  <author>
+    <name>Champs Restaurant Supply</name>
+  </author>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4340034244</id>
+    <published>2016-02-05T10:05:41-06:00</published>
+    <updated>2016-02-05T10:05:41-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/winco-asdr-2060-aluminum-dunnage-rack-20-x-60-x-8"/>
+    <title>20&apos;&apos; X 60&apos;&apos; X 8&apos;&apos; Aluminum Dunnage Rack</title>
+    <s:type>Dunnage Racks</s:type>
+    <s:vendor>Champs Restaurant Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/222_23c157b0-a2c3-477c-97d3-06df90905d5e.jpg?v=1454701845"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champs Restaurant Supply<br>
+        <strong>Type: </strong>Dunnage Racks<br>
+        <strong>Price: </strong>
+            88.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>20'' X 60'' X 8'' Aluminum Dunnage Rack</strong></p>
+<ul>
+<li>Dunnage Rack, 20" x 60" x 8"</li>
+<li>holds up to 1200 lbs</li>
+<li>tubular</li>
+<li>welded structure</li>
+<li>aluminum</li>
+<li>NSF</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-day</s:tag>
+    <s:tag>Height_8 Inches</s:tag>
+    <s:tag>Length_60 Inches</s:tag>
+    <s:tag>Product type_Dunnage Racks</s:tag>
+    <s:tag>Width_20 Inches</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4340034244</id>
+      <title>Default Title</title>
+      <s:price currency="USD">88.99</s:price>
+      <s:sku>DUNN20608</s:sku>
+      <s:grams>13608</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4340034180</id>
+    <published>2016-02-05T10:05:41-06:00</published>
+    <updated>2016-02-05T10:05:41-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/winco-asdr-2048-aluminum-dunnage-rack-20-x-48-x-8"/>
+    <title>20&apos;&apos; X 48&apos;&apos; X 8&apos;&apos; Aluminum Dunnage Rack</title>
+    <s:type>Dunnage Racks</s:type>
+    <s:vendor>Champs Restaurant Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/221.jpg?v=1454701832"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champs Restaurant Supply<br>
+        <strong>Type: </strong>Dunnage Racks<br>
+        <strong>Price: </strong>
+            72.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>20'' X 48'' X 8'' Aluminum Dunnage Rack</strong></p>
+<ul>
+<li>Dunnage Rack</li>
+<li>20" x 48" x 8"</li>
+<li>capacity 1200 lbs.</li>
+<li>heavy-duty</li>
+<li>square tubing</li>
+<li>welded</li>
+<li>aluminum</li>
+<li>NSF</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-day</s:tag>
+    <s:tag>Height_8 Inches</s:tag>
+    <s:tag>Length_48 Inches</s:tag>
+    <s:tag>Product type_Dunnage Racks</s:tag>
+    <s:tag>Width_20 Inches</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4340034180</id>
+      <title>Default Title</title>
+      <s:price currency="USD">72.99</s:price>
+      <s:sku>DUNN20488</s:sku>
+      <s:grams>13608</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4340034052</id>
+    <published>2016-02-05T10:05:41-06:00</published>
+    <updated>2016-02-05T10:05:41-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/winco-asdr-2036-aluminum-dunnage-rack-20-x-36-x-8"/>
+    <title>20&apos;&apos; X 36&apos;&apos; X 8&apos;&apos; Aluminum Dunnage Rack</title>
+    <s:type>Dunnage Racks</s:type>
+    <s:vendor>Champs Restaurant Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/56.jpg?v=1454701194"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champs Restaurant Supply<br>
+        <strong>Type: </strong>Dunnage Racks<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>20'' X 36'' X 8'' Aluminum Dunnage Rack</strong></p>
+<ul>
+<li>Dunnage Rack</li>
+<li>20" x 36" x 8"</li>
+<li>capacity 1200 lbs.</li>
+<li>heavy-duty</li>
+<li>square tubing</li>
+<li>welded</li>
+<li>aluminum</li>
+<li>NSF</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-day</s:tag>
+    <s:tag>Height_8 Inches</s:tag>
+    <s:tag>Length_36 Inches</s:tag>
+    <s:tag>Product type_Dunnage Racks</s:tag>
+    <s:tag>Width_20 Inches</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4340034052</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>DUNN20368</s:sku>
+      <s:grams>13608</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4340033988</id>
+    <published>2016-02-05T10:05:00-06:00</published>
+    <updated>2016-02-05T10:05:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/winco-adrk-2060-aluminum-dunnage-rack-20-x-60-x-12"/>
+    <title>20&apos;&apos; X 60&apos;&apos; X 12&apos;&apos; Aluminum Dunnage Rack</title>
+    <s:type>Dunnage Racks</s:type>
+    <s:vendor>Champs Restaurant Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/227.jpg?v=1454694734"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champs Restaurant Supply<br>
+        <strong>Type: </strong>Dunnage Racks<br>
+        <strong>Price: </strong>
+            109.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><strong> 20'' X 60'' X 12'' Aluminum Dunnage Rack</strong></h3>
+<ul>
+<li>Dunnage Rack, 20" x 60" x 12"</li>
+<li>holds up to 1200 lbs</li>
+<li>tubular</li>
+<li>welded structure</li>
+<li>aluminum</li>
+<li>NSF</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-day</s:tag>
+    <s:tag>Height_12 Inches</s:tag>
+    <s:tag>Length_60 Inches</s:tag>
+    <s:tag>Product type_Dunnage Racks</s:tag>
+    <s:tag>Width_20 Inches</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4340033988</id>
+      <title>Default Title</title>
+      <s:price currency="USD">109.00</s:price>
+      <s:sku>DUNN206012</s:sku>
+      <s:grams>13608</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4340033924</id>
+    <published>2016-02-05T10:05:00-06:00</published>
+    <updated>2016-02-05T10:05:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/winco-adrk-2048-aluminum-dunnage-rack-20-x-48-x-12"/>
+    <title>20&apos;&apos; X 48&apos;&apos; X 12&apos;&apos; Aluminum Dunnage Rack</title>
+    <s:type>Dunnage Racks</s:type>
+    <s:vendor>Champs Restaurant Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/226.jpg?v=1462202501"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champs Restaurant Supply<br>
+        <strong>Type: </strong>Dunnage Racks<br>
+        <strong>Price: </strong>
+            72.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><strong> 20'' X 48'' X 12'' Aluminum Dunnage Rack</strong></h3>
+<ul>
+<li>Dunnage Rack, 20" x 48" x 12"</li>
+<li>holds up to 1500 lbs</li>
+<li>tubular</li>
+<li>welded structure</li>
+<li>aluminum</li>
+<li>NSF</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-day</s:tag>
+    <s:tag>Height_12 Inches</s:tag>
+    <s:tag>Length_48 Inches</s:tag>
+    <s:tag>Product type_Dunnage Racks</s:tag>
+    <s:tag>Width_20 Inches</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4340033924</id>
+      <title>Default Title</title>
+      <s:price currency="USD">72.99</s:price>
+      <s:sku>DUNN204812</s:sku>
+      <s:grams>13608</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4340033860</id>
+    <published>2016-02-05T10:05:00-06:00</published>
+    <updated>2016-02-05T10:05:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/winco-adrk-2036-aluminum-dunnage-rack-20-x-36-x-12"/>
+    <title>20&apos;&apos; X 36&apos;&apos; X 12&apos;&apos; Aluminum Dunnage Rack</title>
+    <s:type>Dunnage Racks</s:type>
+    <s:vendor>Champs Restaurant Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/225.jpg?v=1454694732"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champs Restaurant Supply<br>
+        <strong>Type: </strong>Dunnage Racks<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><strong> 20'' X 36'' X 12'' Aluminum Dunnage Rack</strong></h3>
+<ul>
+<li>Dunnage Rack, 20" x 36" x 12"</li>
+<li>holds up to 1800 lbs</li>
+<li>tubular</li>
+<li>welded structure</li>
+<li>aluminum</li>
+<li>NSF</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-day</s:tag>
+    <s:tag>Height_12 Inches</s:tag>
+    <s:tag>Length_36 Inches</s:tag>
+    <s:tag>Product type_Dunnage Racks</s:tag>
+    <s:tag>Width_20 Inches</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4340033860</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>DUNN203612</s:sku>
+      <s:grams>11340</s:grams>
+    </s:variant>
+  </entry>
+</feed>

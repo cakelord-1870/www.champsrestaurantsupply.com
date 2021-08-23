@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.champsrestaurantsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.champsrestaurantsupply.com/collections/stock-pot-burners.atom"/>
+  <title>Champs Restaurant Supply</title>
+  <updated>2017-09-13T15:11:33-05:00</updated>
+  <author>
+    <name>Champs Restaurant Supply</name>
+  </author>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11969792527</id>
+    <published>2017-09-13T15:11:33-05:00</published>
+    <updated>2017-09-13T15:11:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/atosa-atsp-18-2l-18-double-natural-gas-stock-pot-stove"/>
+    <title>Atosa ATSP-18-2L 20&quot;H Double Natural Gas Stock Pot Stove</title>
+    <s:type>Stock Pot Burners</s:type>
+    <s:vendor>Atosa Refrigeration</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/ATSP18-2L_stockpot_1400.jpg?v=1505333586"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Atosa Refrigeration<br>
+        <strong>Type: </strong>Stock Pot Burners<br>
+        <strong>Price: </strong>
+            941.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Atosa ATSP-18-2L 20"H Double Natural Gas Stock Pot Stove</strong></p>
+<ul>
+<li>NEW full width, removable stainless steel drip pan for easy cleanup</li>
+<li>Compact, heavy duty chassis for a long life span</li>
+<li>Stainless steel sides and front valve cover</li>
+<li>Stainless steel tubing for pilots</li>
+<li>Heavy, cast iron three- ring burner, rated at a total of 80,000 BTU/hr</li>
+<li>Burner is equipped with two continuous pilots strategically placed for instant ignitions of each section</li>
+<li>Two manual controls to operate the inner and outer rings independently, for maximum flexibility of usage</li>
+<li>Heavy duty cast iron top grate</li>
+<li>1 Yr Parts and Labor Warranty</li>
+<li>Dimensions:20-7/8'' W  x 45-3/4"D x 20"H</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Number of Burners_2</s:tag>
+    <s:tag>Vendor_Atosa</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11969792527</id>
+      <title>Default Title</title>
+      <s:price currency="USD">941.00</s:price>
+      <s:sku>ATSP-18-2L</s:sku>
+      <s:grams>31751</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11969791439</id>
+    <published>2017-09-13T15:08:47-05:00</published>
+    <updated>2017-09-13T15:08:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/atosa-atsp-18-1l-18-natural-gas-single-stock-pot-stove"/>
+    <title>Atosa ATSP-18-1L 20&quot;H Natural Gas Single  Stock Pot Stove</title>
+    <s:type>Stock Pot Burners</s:type>
+    <s:vendor>Atosa Refrigeration</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/ATSP18.jpg?v=1505333490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Atosa Refrigeration<br>
+        <strong>Type: </strong>Stock Pot Burners<br>
+        <strong>Price: </strong>
+            512.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Atosa ATSP-18-1L 20"H Natural Gas Single  Stock Pot Stove </strong></p>
+<ul>
+<li>NEW full width, removable stainless steel drip pan for easy cleanup</li>
+<li>Compact, heavy duty chassis for a long life span</li>
+<li>Stainless steel sides and front valve cover</li>
+<li>Stainless steel tubing for pilots</li>
+<li>Heavy, cast iron three- ring burner, rated at a total of 80,000 BTU/hr</li>
+<li>Burner is equipped with two continuous pilots strategically placed for instant ignitions of each section</li>
+<li>Two manual controls to operate the inner and outer rings independently, for maximum flexibility of usage</li>
+<li>Heavy duty cast iron top grate</li>
+<li>1 Yr Parts and Labor Warranty</li>
+<li>Dimensions:20-7/8''W x 24-7/8"D x 20"H</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Number of Burners_1</s:tag>
+    <s:tag>Vendor_Atosa</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11969791439</id>
+      <title>Default Title</title>
+      <s:price currency="USD">512.00</s:price>
+      <s:sku>ATSP-18-1L</s:sku>
+      <s:grams>31751</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/5038231236</id>
+    <published>2016-06-06T10:37:17-05:00</published>
+    <updated>2016-06-06T10:37:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/turbo-air-tasp-18s-d-2-burner-stock-pot-range"/>
+    <title>Radiance TASP-18S-D 2 Burner Stock Pot Range Natural Gas</title>
+    <s:type>Stock Pot Burners</s:type>
+    <s:vendor>Turbo Air</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/71jDu-V8q0L._SL1500.jpeg?v=1465238012"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Turbo Air<br>
+        <strong>Type: </strong>Stock Pot Burners<br>
+        <strong>Price: </strong>
+            1179.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Turbo Air TASP-18S-D 2 Burner Stock Pot Range</p>
+<p><span>- Radiance Stock Pot Range, </span></p>
+<p><span>- 18"W x 41-1/2"D x 24"H,</span></p>
+<p><span>- (2) 3-ring burners, manual controls, </span></p>
+<p><span>- Removable 21"x18" heavy cast iron top grates, </span></p>
+<p><span>- R</span><span>emovable full width grease pan, storage base,</span></p>
+<p><span>- 6" legs, regulator included, </span></p>
+<p><span>- 158,000 BTU, CSA, CSA-Sanitation</span></p>
+<p>- 1 Year Parts and Labor Warranty</p>
+<p><span>- 18"W x 41-1/2"D x 18"H</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Number of Burners_2</s:tag>
+    <s:tag>Vendor_Turbo Air</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/5038231236</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1179.00</s:price>
+      <s:sku>TASP-18S-D</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/5038231108</id>
+    <published>2016-06-06T10:37:16-05:00</published>
+    <updated>2016-06-06T10:37:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/turbo-air-tasp-18-d-commercial-kitchen-gas-double-stock-pot-range"/>
+    <title>Radiance TASP-18-D Commercial Natural Gas Double Stock Pot Range</title>
+    <s:type>Stock Pot Burners</s:type>
+    <s:vendor>Turbo Air</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/ta-tasp-18-d_grande_6c4b594e-3dcf-498d-b4ed-4536f4318a9d.jpeg?v=1465629124"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Turbo Air<br>
+        <strong>Type: </strong>Stock Pot Burners<br>
+        <strong>Price: </strong>
+            1179.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Turbo Air TASP-18-D Commercial Kitchen Gas Double Stock Pot Range</strong></p>
+<p> </p>
+<ul>
+<li>- Radiance Stock Pot Range</li>
+<li>- 18"W x 41.5"D x 24"H</li>
+<li>- (2) 3-ring burners, manual controls</li>
+<li>- Removable 21"x18" heavy cast iron top grates</li>
+<li>- Removable full width grease pan, storage base</li>
+<li>- 6" legs, regulator included</li>
+<li>- Total 158,000 BTU, CSA, CSA-Sanitation</li>
+<li>- 1 Year Parts and Labor Warranty</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Number of Burners_2</s:tag>
+    <s:tag>Vendor_Turbo Air</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/5038231108</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1179.00</s:price>
+      <s:sku>TASP-18-D</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/5038231044</id>
+    <published>2016-06-06T10:37:14-05:00</published>
+    <updated>2016-06-06T10:37:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/turbo-air-radiance-tasp-18s-stock-pot-ranges"/>
+    <title>Radiance TASP-18S Stock Pot Ranges-Natural Gas</title>
+    <s:type>Stock Pot Burners</s:type>
+    <s:vendor>Turbo Air</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/083-tasp18sng_large_grande_22fa4f45-c7eb-42e5-81df-f72de2decc07.jpeg?v=1465629122"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Turbo Air<br>
+        <strong>Type: </strong>Stock Pot Burners<br>
+        <strong>Price: </strong>
+            519.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Turbo Air Radiance TASP-18S Stock Pot Ranges-Natural Gas</strong></p>
+<ul>
+<li>
+<p><strong>High quality stainless steel front and sides</strong></p>
+</li>
+<li>
+<p><strong></strong><strong>Cast-iron 3 ring burner with 2 control knobs</strong></p>
+</li>
+<li>
+<p><strong></strong><strong>High performance 79,000 BTU/hr per burner</strong></p>
+</li>
+<li>
+<p><strong></strong><strong>Removable 21” x 18” heavy cast-iron top grates</strong></p>
+</li>
+<li>
+<p><strong></strong><strong>Removable full width grease pan</strong></p>
+</li>
+<li>
+<p><strong></strong><strong>6” stainless steel legs included</strong></p>
+</li>
+<li>
+<p><strong></strong><strong>Ergonomically designed heat resistant PPS (Poly Phenylene Sulfide) On-Off knob</strong></p>
+</li>
+<li>
+<p><strong></strong><strong>Adjustable standing pilot for each burner</strong></p>
+</li>
+<li>
+<p><strong></strong><strong>¾” rear gas connection and gas pressure regulator</strong></p>
+</li>
+<li><strong><span>18"W x 21"D x 18"H</span></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Number of Burners_1</s:tag>
+    <s:tag>Vendor_Turbo Air</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/5038231044</id>
+      <title>Default Title</title>
+      <s:price currency="USD">519.00</s:price>
+      <s:sku>TASP-18S</s:sku>
+      <s:grams>36287</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/5038230788</id>
+    <published>2016-06-06T10:37:13-05:00</published>
+    <updated>2016-06-06T10:37:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/turbo-air-tasp-18-ng-1-burner-stock-pot-range"/>
+    <title>Radiance TASP-18 24&quot;High 1-Burner Stock Pot Range Natural Gas</title>
+    <s:type>Stock Pot Burners</s:type>
+    <s:vendor>Turbo Air</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/083-turtasp-18_large_grande_50cbb252-8a69-4991-9a72-9bd3b7bbf139.jpg?v=1499096338"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Turbo Air<br>
+        <strong>Type: </strong>Stock Pot Burners<br>
+        <strong>Price: </strong>
+            519.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Turbo Air TASP-18 24"High 1-Burner Stock Pot Range Natural Gas</strong></p>
+<ul>
+<li>- Radiance Stock Pot Range</li>
+<li>- 18"W x 21"D x 24"H</li>
+<li>- (1) 3-ring burner, Manual controls</li>
+<li>- Removable crumb tray, Storage base</li>
+<li>- Stainless steel, 6" legs, Regulator included</li>
+<li>- 79,000 BTU</li>
+<li>- 1 Year Parts and Labor Warranty</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Number of Burners_1</s:tag>
+    <s:tag>Vendor_Turbo Air</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/5038230788</id>
+      <title>Default Title</title>
+      <s:price currency="USD">519.00</s:price>
+      <s:sku>TASP-18</s:sku>
+      <s:grams>36287</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4915848132</id>
+    <published>2016-05-11T12:05:00-05:00</published>
+    <updated>2016-05-11T12:05:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/atosa-atsp-18-2-gas-stock-pot-range"/>
+    <title>Atosa ATSP-18-2 Natural Gas Stock Pot Range Natural Gas</title>
+    <s:type>Stock Pot Burners</s:type>
+    <s:vendor>Atosa Refrigeration</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/ATSP-18-2.png?v=1462989553"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Atosa Refrigeration<br>
+        <strong>Type: </strong>Stock Pot Burners<br>
+        <strong>Price: </strong>
+            941.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><strong>Atosa ATSP-18-2 Natural Gas Stock Pot Range</strong></h3>
+<ul>
+<li>Durable Stainless steel structure, Corrosion – resistant and easy to clean.</li>
+<li>Simple and reasonable structure , easy to manipulate and maintain.</li>
+<li>Highly efficient Cast Iron burner, standby pilot</li>
+<li>Heavy duty Cast iron grate for a strong bearing performance</li>
+<li>Independent manual controls to save the energy.</li>
+<li>Adjustable stainless steel legs</li>
+<li>Total power output of 160,000 BTU’s</li>
+<li>Independent Manual Controls</li>
+<li>Four continuous pilots</li>
+<li>cETLus, ETL Listed</li>
+<li><span>Dimensions: 20-7/8"W x 45-3/4"D x 25"H </span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Number of Burners_2</s:tag>
+    <s:tag>Product type_Stock Pot Burners</s:tag>
+    <s:tag>Vendor_Atosa</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4915848132</id>
+      <title>Default Title</title>
+      <s:price currency="USD">941.00</s:price>
+      <s:sku>ATSP-18-2</s:sku>
+      <s:grams>31751</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4915838468</id>
+    <published>2016-05-11T12:00:00-05:00</published>
+    <updated>2016-05-11T12:00:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/atosa-single-stock-pot-stove-propane-atsp-18-1"/>
+    <title>Atosa ATSP-18-1 Single Stock Pot Stove Natural Gas</title>
+    <s:type>Stock Pot Burners</s:type>
+    <s:vendor>Atosa Refrigeration</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/ATSP_18_1_1__09759.1458860417.1280.1280.png?v=1487104374"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Atosa Refrigeration<br>
+        <strong>Type: </strong>Stock Pot Burners<br>
+        <strong>Price: </strong>
+            512.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Atosa ATSP-18-1 Single Stock Pot Stove </h3>
+<p><span>Stock Pot Stove, natural gas, (1) three-ring cast iron burner, full width removable stainless steel drip pan, two manual controls operate inner &amp; outer rings independently, stainless steel sides and front valve cover, 80,000 BTU, cETLus, ETL</span></p>
+<p><span> - 1 Year Parts and Labor Warranty</span></p>
+<p> - Dimensions:  20-7/8"W x 24-3/4"D x 25"H </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Number of Burners_1</s:tag>
+    <s:tag>Product type_Stock Pot Burners</s:tag>
+    <s:tag>Vendor_Atosa</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4915838468</id>
+      <title>Default Title</title>
+      <s:price currency="USD">512.00</s:price>
+      <s:sku>ATSP-18-1</s:sku>
+      <s:grams>31751</s:grams>
+    </s:variant>
+  </entry>
+</feed>

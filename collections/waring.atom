@@ -1,0 +1,1251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.champsrestaurantsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.champsrestaurantsupply.com/collections/waring.atom"/>
+  <title>Champs Restaurant Supply</title>
+  <updated>2017-06-05T23:21:57-05:00</updated>
+  <author>
+    <name>Champs Restaurant Supply</name>
+  </author>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11564785935</id>
+    <published>2017-06-05T23:21:57-05:00</published>
+    <updated>2017-06-05T23:21:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/waring-dmc201dca-2-speed-triple-head-drink-mixer"/>
+    <title>Waring DMC201DCA 2 Speed Triple Head Drink Mixer</title>
+    <s:type>Drink Mixers</s:type>
+    <s:vendor>Waring</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/616gIvXtPcL._SY450.jpg?v=1496723109"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waring<br>
+        <strong>Type: </strong>Drink Mixers<br>
+        <strong>Price: </strong>
+            615.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4 class="page-header" itemprop="Name" data-gotowebstore="929DMC201C">Waring DMC201DCA 2 Speed Triple Head Drink Mixer</h4>
+<ul class="list">
+<li>2-speed commercial motor</li>
+<li>Durable die-cast metal motor housing that operates quietly and is cool to the touch</li>
+<li>Simple High/Low speed controls</li>
+<li>Automatic start/stop for hands-free operation</li>
+<li>Ball bearings are lubed for life</li>
+<li>Die-cast motor frame</li>
+<li>Stainless steel splash panel</li>
+<li>120 V/60 Hz/1-ph</li>
+<li>Dimensions: 14-1/2" W x 8" D x 20" H</li>
+<li>cETLus Listed; NSF Certified</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_Waring</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11564785935</id>
+      <title>Default Title</title>
+      <s:price currency="USD">615.00</s:price>
+      <s:sku>DMC201DCA</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4432406340</id>
+    <published>2016-02-19T23:32:55-06:00</published>
+    <updated>2016-02-19T23:32:55-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/waring-wwcm180-commercial-single-waffle-cone-maker"/>
+    <title>Waring WWCM180 Commercial Single Waffle Cone Maker</title>
+    <s:type>Blenders</s:type>
+    <s:vendor>Waring</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/wwcm180.jpeg?v=1455987955"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waring<br>
+        <strong>Type: </strong>Blenders<br>
+        <strong>Price: </strong>
+            419.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Waring WWCM180 Commercial Single Waffle Cone Maker</strong></p>
+<ul>
+<li>﻿<span>Bake time control knob allows you to achieve the perfect consistency for any recipe</span>
+</li>
+<li>Heavy-Duty Die-Cast Housing</li>
+<li><span>Includes waffle cone rolling and forming tools</span></li>
+<li>Non-Stick Plates</li>
+<li><span>Dishwasher safe drip tray and triple-coated non-stick grids make cleanup a breeze</span></li>
+<li>Makes Up to 60 Waffle Cones Per Hour</li>
+<li>120V, 1,200W, 60 Hz</li>
+<li>NFS</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>Product type_Blenders</s:tag>
+    <s:tag>Vendor_Waring</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4432406340</id>
+      <title>Default Title</title>
+      <s:price currency="USD">419.00</s:price>
+      <s:sku>WWCM180</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4432406276</id>
+    <published>2016-02-19T23:32:55-06:00</published>
+    <updated>2016-02-19T23:32:55-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/waring-ww250-commercial-double-belgian-waffle-maker"/>
+    <title>Waring WW250X Commercial Double Belgian Waffle Maker</title>
+    <s:type>Blenders</s:type>
+    <s:vendor>Waring</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/71LF2Sm4-_2BL._SX522.jpeg?v=1455987928"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waring<br>
+        <strong>Type: </strong>Blenders<br>
+        <strong>Price: </strong>
+            739.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Waring WW250 Commercial Double Belgian Waffle Maker</strong></p>
+<ul>
+<li>Dual-grid Belgian waffle maker</li>
+<li class="icon-check">Makes up to (60) 7 1/2" waffles per hour</li>
+<li class="icon-check">Rotary feature for even baking / browning</li>
+<li class="icon-check">Non-stick plates for easy removal</li>
+<li class="icon-check">Embedded heating elements for precise temperature control</li>
+<li class="icon-check">Audible beep when waffle is done</li>
+<li>Die-cast exterior housing is durable for long life</li>
+<li class="icon-check">
+<span>Dimensions: 18</span><sup>1</sup><span>⁄</span><sub>4</sub><span>-in. W x 20</span><sup>1</sup><span>⁄</span><sub>2</sub><span>-in. D x 8-in. H</span>
+</li>
+<li class="icon-check">120V</li>
+<li>﻿NFS</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>Product type_Blenders</s:tag>
+    <s:tag>Vendor_Waring</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4432406276</id>
+      <title>Default Title</title>
+      <s:price currency="USD">739.00</s:price>
+      <s:sku>WW250X</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4432406212</id>
+    <published>2016-02-19T23:32:54-06:00</published>
+    <updated>2016-02-19T23:32:54-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/waring-wsb33x-7-2-speed-standard-duty-immersion-blender"/>
+    <title>Waring WSB33X 7&quot; 2 Speed Standard-Duty Immersion Blender</title>
+    <s:type>Immersion Blenders</s:type>
+    <s:vendor>Waring</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/waring-wsb33x_1024x1024_5269ac90-92ef-4653-8c68-2dfb131e0fdc.jpeg?v=1497457031"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waring<br>
+        <strong>Type: </strong>Immersion Blenders<br>
+        <strong>Price: </strong>
+            92.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Waring WSB33X 7" 2 Speed Standard-Duty Immersion Blender</strong></p>
+<ul>
+<li>﻿2 speed high-efficiency motor</li>
+<li class="icon-check">Can mix up to 3 gallons</li>
+<li class="icon-check">Lightweight and ergonomic for incredibly simple operation</li>
+<li class="icon-check">7" fixed shaft</li>
+<li class="icon-check">Aggressive stainless steel blade</li>
+<li class="icon-check">120V</li>
+<li>ETLus and cULus Listed; NSF Certified</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>Product type_Immersion Blenders</s:tag>
+    <s:tag>Vendor_Waring</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4432406212</id>
+      <title>Default Title</title>
+      <s:price currency="USD">92.00</s:price>
+      <s:sku>WSB33X</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4432405956</id>
+    <published>2016-02-19T23:32:54-06:00</published>
+    <updated>2016-02-19T23:32:54-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/waring-mx1300xtx-3-5-hp-commercial-blender-with-programmable-keypad-adjustable-speeds-and-64-oz-container"/>
+    <title>Waring MX1300XTX 3.5 HP Commercial Blender with Programmable Keypad, Adjustable Speeds, and 64 oz Container</title>
+    <s:type>Commercial Blenders</s:type>
+    <s:vendor>Waring</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/waring-mx1300xtx-3-5-hp-commercial-blender-with-programmable-keypad-adjustable-speeds-lcd-screen-and-64-oz-copolyester-container.jpeg?v=1455987425"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waring<br>
+        <strong>Type: </strong>Commercial Blenders<br>
+        <strong>Price: </strong>
+            670.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Waring MX1300XTX 3.5 HP Commercial Blender with Programmable Keypad, Adjustable Speeds, and 64 oz Container</strong></p>
+<ul>
+<li class="icon-check">64 oz. "Raptor" copolyester container</li>
+<li class="icon-check">Powerful 3.5 hp motor with 30,000 RPM</li>
+<li class="icon-check">Easy-to-clean electronic membrane keypad with backlit LCD screen</li>
+<li class="icon-check">Great for smoothies, bar drinks, soups, salsas, desserts, and more</li>
+<li class="icon-check">120V</li>
+<li>NFS</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>Product type_Commercial Blenders</s:tag>
+    <s:tag>Vendor_Waring</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4432405956</id>
+      <title>Default Title</title>
+      <s:price currency="USD">670.00</s:price>
+      <s:sku>MX1300XTX</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4432405892</id>
+    <published>2016-02-19T23:32:54-06:00</published>
+    <updated>2016-02-19T23:32:54-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/waring-mx1100xtx-3-5-hp-commercial-blender-with-electronic-keypad-and-64-oz-container"/>
+    <title>Waring MX1100XTX 3.5 HP Commercial Blender with Electronic Keypad and 64 oz Container</title>
+    <s:type>Commercial Blenders</s:type>
+    <s:vendor>Waring</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/waring-mx1100xtx-xtreme-3-5-hp-commercial-blender-with-electronic-keypad-and-30-second-count-down-timer-64-oz-copolyester-container.jpeg?v=1455987361"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waring<br>
+        <strong>Type: </strong>Commercial Blenders<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Waring MX1100XTX 3.5 HP Commercial Blender with Electronic Keypad and 64 oz Container</strong></p>
+<ul>
+<li>﻿Heavy-duty 3.5 HP Motor 45,000+ bare motor RPM's</li>
+<li><span face="Tahoma" style="font-family: Tahoma;">Great for soups, salsas, sauces, desserts, dressings and beverages</span></li>
+<li><span face="Tahoma" style="font-family: Tahoma;">Easy to clean electric membrane keypad with simple On/Off, High, Low, Stop and Pulse controls</span></li>
+<li><span face="Tahoma" style="font-family: Tahoma;">30 Second Electronic Countdown Timer</span></li>
+<li><span face="Tahoma" style="font-family: Tahoma;">One piece dishwasher-safe removable jar pad</span></li>
+<li><span face="Tahoma" style="font-family: Tahoma;">New "The Raptor" 64 oz. stackable BPA-Free copolyester Blender Jar container</span></li>
+<li>120 VAC, 60 Hz</li>
+<li><span face="Tahoma" style="font-family: Tahoma;">NSF, cETLus</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>Product type_Commercial Blenders</s:tag>
+    <s:tag>Vendor_Waring</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4432405892</id>
+      <title>Default Title</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>MX1100XTX</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4432405828</id>
+    <published>2016-02-19T23:32:54-06:00</published>
+    <updated>2016-02-19T23:32:54-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/waring-mx1050xtx-3-5-hp-commercial-blender-with-electronic-keypad-and-64-oz-container"/>
+    <title>Waring MX1050XTX 3.5 HP Commercial Blender with Electronic Keypad and 64 oz Container</title>
+    <s:type>Commercial Blenders</s:type>
+    <s:vendor>Waring</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/61IjllNyWgL._SY355_grande_42a756d5-d226-4485-9f84-be7d471fed84.jpeg?v=1464380779"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waring<br>
+        <strong>Type: </strong>Commercial Blenders<br>
+        <strong>Price: </strong>
+            365.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Waring MX1050XTX 3.5 HP Commercial Blender with Electronic Keypad and 64 oz Container</strong></p>
+<ul>
+<li>Heavy duty</li>
+<li>Electronic membrane keypad</li>
+<li>Removable jar pad</li>
+<li class="icon-check">64 oz. "Raptor" copolyester container</li>
+<li class="icon-check">Powerful 3.5 hp motor with 30,000 RPM</li>
+<li class="icon-check">Easy-to-clean electronic keypad with high, low, and pulse functions</li>
+<li class="icon-check">Great for smoothies, bar drinks, soups, salsas, desserts, and more</li>
+<li class="icon-check">120V</li>
+<li>﻿NFS</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>Product type_Commercial Blenders</s:tag>
+    <s:tag>Vendor_Waring</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4432405828</id>
+      <title>Default Title</title>
+      <s:price currency="USD">365.00</s:price>
+      <s:sku>MX1050XTX</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4432405764</id>
+    <published>2016-02-19T23:32:54-06:00</published>
+    <updated>2016-02-19T23:32:54-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/waring-mx1000xtx-3-5-hp-commercial-blender-with-paddle-controls-and-64-oz-container"/>
+    <title>Waring MX1000XTX 3.5 HP Commercial Blender with Paddle Controls and 64 oz Container</title>
+    <s:type>Commercial Blenders</s:type>
+    <s:vendor>Waring</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/61PB4B9iUQL._SY355_grande_bb6dcb5a-32df-47b3-9e60-01453ed3f074.jpeg?v=1464380778"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waring<br>
+        <strong>Type: </strong>Commercial Blenders<br>
+        <strong>Price: </strong>
+            365.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Waring MX1000XTX 3.5 HP Commercial Blender with Paddle Controls and 64 oz Container</strong></p>
+<ul>
+<li>Heavy-Duty 3.5HP motor</li>
+<li>Removable, one-piece dishwasher safe pad</li>
+<li><span>High, low, and pulse control</span></li>
+<li>3-option toggle switch and pulse option</li>
+<li>64 oz Polycarbonate container</li>
+<li>﻿<span>Great for smoothies, bar drinks, soups, salsas, desserts, and more</span>
+</li>
+<li><span>120V</span></li>
+<li><span>NFS</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>Product type_Commercial Blenders</s:tag>
+    <s:tag>Vendor_Waring</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4432405764</id>
+      <title>Default Title</title>
+      <s:price currency="USD">365.00</s:price>
+      <s:sku>MX1000XTX</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4432405700</id>
+    <published>2016-02-19T23:32:53-06:00</published>
+    <updated>2016-02-19T23:32:53-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/waring-mx1200xts-3-5-hp-commercial-blender-with-adjustable-speed-paddle-switches-and-64-oz-stainless-steel-and-copolyester-containers"/>
+    <title>Waring MX1200XTS 3.5 HP Commercial Blender with Adjustable Speed / Paddle Switches and 64 oz. Stainless Steel and Copolyester Containers</title>
+    <s:type>Commercial Blenders</s:type>
+    <s:vendor>Waring</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/waring-mx1200xts-x-prep-3-5-hp-commercial-blender-with-adjustable-speed-amp-paddle-switches-and-64-oz-stainless-steel-and-copolyester-containers.jpeg?v=1455987385"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waring<br>
+        <strong>Type: </strong>Commercial Blenders<br>
+        <strong>Price: </strong>
+            585.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Waring MX1200XTS 3.5 HP Commercial Blender with Adjustable Speed / Paddle Switches and 64 oz. Stainless Steel and Copolyester Containers</strong></p>
+<ul>
+<li>﻿64 oz. stainless steel container</li>
+<li class="icon-check">Powerful 3.5 hp motor with 20,000 RPM</li>
+<li class="icon-check">Variable speed controls</li>
+<li class="icon-check">Easy to-use-paddle controls</li>
+<li class="icon-check">Great for smoothies, bar drinks, soups, salsas, desserts, and more</li>
+<li class="icon-check">120V</li>
+<li>NSF</li>
+<li>CUL &amp; UL listed</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>Product type_Commercial Blenders</s:tag>
+    <s:tag>Vendor_Waring</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4432405700</id>
+      <title>Default Title</title>
+      <s:price currency="USD">585.00</s:price>
+      <s:sku>MX1200XTS</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4432405636</id>
+    <published>2016-02-19T23:32:53-06:00</published>
+    <updated>2016-02-19T23:32:53-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/waring-mx1200xtx-64-oz-high-power-blender-with-adjustable-speed"/>
+    <title>Waring MX1200XTX 64 oz. High-Power Blender with Adjustable Speed</title>
+    <s:type>Commercial Blenders</s:type>
+    <s:vendor>Waring</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/181418.jpeg?v=1456086622"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waring<br>
+        <strong>Type: </strong>Commercial Blenders<br>
+        <strong>Price: </strong>
+            445.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Waring MX1200XTX 64 oz. High-Power Blender with Adjustable Speed</strong></p>
+<ul>
+<li class="icon-check">New 64 oz. "The `Raptor" copolyester container</li>
+<li class="icon-check">Powerful 3.5 hp motor with 20,000 RPM</li>
+<li class="icon-check">Removable one-piece jar pad</li>
+<li>﻿<span>Dishwasher safe </span>
+</li>
+<li>Greater blending versatility with variable speed control</li>
+<li>Dimensions: 18"(h) x 8.5"(w) x 8.25"(d)</li>
+<li>NFS</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>Product type_Commercial Blenders</s:tag>
+    <s:tag>Vendor_Waring</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4432405636</id>
+      <title>Default Title</title>
+      <s:price currency="USD">445.00</s:price>
+      <s:sku>MX1200XTX</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4432405572</id>
+    <published>2016-02-19T23:32:53-06:00</published>
+    <updated>2016-02-19T23:32:53-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/waring-wfp14sc-3-5-qt-combination-continuous-feed-batch-bowl-food-processor-1-hp"/>
+    <title>Waring WFP14SC 3.5 Qt. Combination Continuous Feed / Batch Bowl Food Processor - 1 HP</title>
+    <s:type>Commercial Food Processors</s:type>
+    <s:vendor>Waring</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/m000226105_sc7_splssku.jpeg?v=1455987638"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waring<br>
+        <strong>Type: </strong>Commercial Food Processors<br>
+        <strong>Price: </strong>
+            665.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Waring WFP14SC 3.5 Qt. Combination Continuous Feed / Batch Bowl Food Processor - 1 HP</strong></p>
+<ul>
+<li class="icon-check">3.5 qt. batch bowl</li>
+<li class="icon-check">Comes with four blade accessories for a variety of processing options</li>
+<li class="icon-check">Safety interlock system and reset switch to promote safe operation</li>
+<li class="icon-check">1 hp motor</li>
+<li>On and off pulse buttons control product texture</li>
+<li>Thermal protection helps prevent overheating and protects motor from damage</li>
+<li class="icon-check">LiquiLock seal system to prevent liquid from escaping the bowl</li>
+<li class="icon-check">120V</li>
+<li>﻿NFS</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>Product type_Commercial Food Processors</s:tag>
+    <s:tag>Vendor_Waring</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4432405572</id>
+      <title>Default Title</title>
+      <s:price currency="USD">665.00</s:price>
+      <s:sku>WFP14SC</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4432405508</id>
+    <published>2016-02-19T23:32:53-06:00</published>
+    <updated>2016-02-19T23:32:53-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/waring-wfp14sw-3-5-qt-batch-bowl-food-processor-1-hp"/>
+    <title>Waring WFP14SW 3.5 Qt. Batch Bowl Food Processor - 1 HP</title>
+    <s:type>Commercial Food Processors</s:type>
+    <s:vendor>Waring</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/waring-wfp14sw-3-5-qt-batch-bowl-food-processor-120v.jpeg?v=1455987666"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waring<br>
+        <strong>Type: </strong>Commercial Food Processors<br>
+        <strong>Price: </strong>
+            569.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Waring WFP14SW 3.5 Qt. Batch Bowl Food Processor - 1 HP</strong></p>
+<ul>
+<li class="icon-check">3.5 qt. batch bowl</li>
+<li class="icon-check">Comes with different blade accessories for a variety of processing options</li>
+<li class="icon-check">Safety interlock system and reset switch to promote safe operation</li>
+<li class="icon-check">Sealed, clear-view bowl</li>
+<li class="icon-check">1 hp motor</li>
+<li class="icon-check">LiquiLock seal system to prevent liquid from escaping the bowl</li>
+<li class="icon-check">120V</li>
+<li>﻿NFS</li>
+<li>ETL Sanitation</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>Product type_Commercial Food Processors</s:tag>
+    <s:tag>Vendor_Waring</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4432405508</id>
+      <title>Default Title</title>
+      <s:price currency="USD">569.00</s:price>
+      <s:sku>WFP14SW</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4432405444</id>
+    <published>2016-02-19T23:32:53-06:00</published>
+    <updated>2016-02-19T23:32:53-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/waring-wdm120t-single-spindle-three-speed-drink-mixer-with-timer"/>
+    <title>Waring WDM120T Single Spindle Three Speed Drink Mixer with Timer</title>
+    <s:type>Drink Mixers</s:type>
+    <s:vendor>Waring</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/61uvlEgcCRL._AC_SX522.jpg?v=1580150060"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waring<br>
+        <strong>Type: </strong>Drink Mixers<br>
+        <strong>Price: </strong>
+            335.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Waring WDM120T Single Spindle Three Speed Drink Mixer with Timer</strong></p>
+<ul>
+<li>﻿Integrated timer controls the start and stop functions</li>
+<li class="icon-check">Includes 1 malt cup, butterfly agitator, and propeller agitator for hard ice cream</li>
+<li class="icon-check">High-performance 1 hp motor</li>
+<li class="icon-check">Indent in base allows eliminates need to tip cup</li>
+<li class="icon-check">Heavy-duty die-cast housing for optimal durability, cleanability, and appearance</li>
+<li class="icon-check">Ideal for creating "old-fashioned," authentic milkshakes</li>
+<li class="icon-check">120V</li>
+<li>NFS</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>Product type_Drink Mixers</s:tag>
+    <s:tag>Vendor_Waring</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4432405444</id>
+      <title>Default Title</title>
+      <s:price currency="USD">335.00</s:price>
+      <s:sku>WDM120T</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4432405380</id>
+    <published>2016-02-19T23:32:53-06:00</published>
+    <updated>2016-02-19T23:32:53-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/waring-wdm240t-double-spindle-three-speed-drink-mixer-with-timer"/>
+    <title>Waring WDM240T Double Spindle Three Speed Drink Mixer with Timer</title>
+    <s:type>Drink Mixers</s:type>
+    <s:vendor>Waring</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/Image.jpg?v=1580150206"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waring<br>
+        <strong>Type: </strong>Drink Mixers<br>
+        <strong>Price: </strong>
+            620.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Waring WDM240T Double Spindle Three Speed Drink Mixer with Timer</strong></p>
+<ul>
+<li>12"W x 13-1/2"D x 21-1/2"H</li>
+<li>﻿Double spindle design for increased efficiency</li>
+<li class="icon-check">Includes 2 malt cups, butterfly agitators, and propeller agitators for hard ice cream</li>
+<li class="icon-check">Independent, high-performance 1 hp motors</li>
+<li>Pulse switch pulses on selected speed</li>
+<li class="icon-check">Indent in base allows eliminates need to tip cup</li>
+<li class="icon-check">Heavy-duty die-cast housing for optimal durability, cleanability, and appearance</li>
+<li class="icon-check">120V</li>
+<li>NFS</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>Product type_Drink Mixers</s:tag>
+    <s:tag>Vendor_Waring</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4432405380</id>
+      <title>Default Title</title>
+      <s:price currency="USD">620.00</s:price>
+      <s:sku>WDM240T</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4432405316</id>
+    <published>2016-02-19T23:32:53-06:00</published>
+    <updated>2016-02-19T23:32:53-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/waring-wdm360t-triple-spindle-three-speed-drink-mixer-with-timer"/>
+    <title>Waring WDM360T Triple   Spindle Three Speed Drink Mixer with Timer</title>
+    <s:type>Drink Mixers</s:type>
+    <s:vendor>Waring</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/141-wdm360tx.jpg?v=1580149969"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waring<br>
+        <strong>Type: </strong>Drink Mixers<br>
+        <strong>Price: </strong>
+            799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Waring WDM360T Triple Spindle Three Speed Drink Mixer with Timer</strong></p>
+<ul>
+<li>Three high-performance 1 peak HP motors</li>
+<li>3 speeds: 16,000, 22,000, 25,000 RPM, and Pulse</li>
+<li>Pulse switch pulses on selected speed</li>
+<li>No-tilt feature – Insert cup under spindle without the need to tilt</li>
+<li>Fully automatic START/STOP operation</li>
+<li>Heavy-duty die-cast housing</li>
+<li>Easily replaceable commercial motors</li>
+<li>120 VAC, 60 Hz</li>
+<li>﻿NFS</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>Product type_Drink Mixers</s:tag>
+    <s:tag>Vendor_Waring</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4432405316</id>
+      <title>Default Title</title>
+      <s:price currency="USD">799.00</s:price>
+      <s:sku>WDM360T</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4432405124</id>
+    <published>2016-02-19T23:32:52-06:00</published>
+    <updated>2016-02-19T23:32:52-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/waring-dmc180dca-wall-mount-drink-mixer"/>
+    <title>Waring DMC180DCA Wall Mount Drink Mixer</title>
+    <s:type>Drink Mixers</s:type>
+    <s:vendor>Waring</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/waring-dmc180dca-wall-mount-drink-mixer.jpeg?v=1455987289"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waring<br>
+        <strong>Type: </strong>Drink Mixers<br>
+        <strong>Price: </strong>
+            275.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Waring DMC180DCA Wall Mount Drink Mixer</strong></p>
+<ul>
+<li class="icon-check">Two-speed, 1 hp motor</li>
+<li class="icon-check">Easy to use controls</li>
+<li>Wall-mounted design</li>
+<li class="icon-check">Automatic start/stop feature</li>
+<li class="icon-check">Permanently-lubricated ball bearings keep maintenance to a minimum</li>
+<li class="icon-check">Durable die-cast metal construction</li>
+<li>4-1/2 in. W x 8-3/4 in. D x 14-3/4 in. H</li>
+<li class="icon-check">120V</li>
+<li class="icon-check">NFS</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>Product type_Drink Mixers</s:tag>
+    <s:tag>Vendor_Waring</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4432405124</id>
+      <title>Default Title</title>
+      <s:price currency="USD">275.00</s:price>
+      <s:sku>DMC180DCA</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4432405060</id>
+    <published>2016-02-19T23:32:52-06:00</published>
+    <updated>2016-02-19T23:32:52-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/waring-wct800-heavy-duty-4-slice-commercial-toaster"/>
+    <title>Waring WCT800 Heavy Duty 4 Slice Commercial Toaster</title>
+    <s:type>Unknown</s:type>
+    <s:vendor>Waring</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/71utHkf-C3L._SX425.jpeg?v=1455987466"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waring<br>
+        <strong>Type: </strong>Unknown<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Waring WCT800 Heavy Duty 4 Slice Commercial Toaster</strong></p>
+<ul>
+<li>﻿Heavy-duty</li>
+<li>Great for bread, Texas toast, and waffles</li>
+<li class="icon-check">Simple electronic controls</li>
+<li>Removable, dishwasher-safe crumb tray</li>
+<li class="icon-check">120V, 2200W</li>
+<li class="icon-check">Makes up to 300 slices per hour</li>
+<li class="icon-check">Rugged stainless steel housing</li>
+<li class="icon-check">Adjustable browning level</li>
+<li>cETLus Listed; NSF Certified</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>Product type_Blenders</s:tag>
+    <s:tag>Vendor_Waring</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4432405060</id>
+      <title>Default Title</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>WCT800</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4432404996</id>
+    <published>2016-02-19T23:32:52-06:00</published>
+    <updated>2016-02-19T23:32:52-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/waring-wct708-standard-duty-4-slice-commercial-toaster"/>
+    <title>Waring WCT708 Standard Duty 4 Slice Commercial Toaster</title>
+    <s:type>Unknown</s:type>
+    <s:vendor>Waring</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/71kdVsPQPEL._SX450.jpeg?v=1455987445"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waring<br>
+        <strong>Type: </strong>Unknown<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Waring WCT708 Standard Duty 4 Slice Commercial Toaster</strong></p>
+<ul>
+<li>﻿4-slot toaster with 1<sup>3</sup>⁄<sub>8</sub> in. wide slots</li>
+<li>Can toast up to 225 slices per hour</li>
+<li>Brushed-chrome steel exterior is easy to keep clean</li>
+<li>Electronic browning control knob for each pair of slots</li>
+<li>Crumb tray is removable for easy emptying and washing</li>
+<li>Bread toasting racks are self-centering to provide even toasting across the surface of each item</li>
+<li>120 V/60 Hz/1-ph, 1800W, 15A, 6-ft cord and plug included</li>
+<li>UL Listed and NSF Certified</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>Product type_Blenders</s:tag>
+    <s:tag>Vendor_Waring</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4432404996</id>
+      <title>Default Title</title>
+      <s:price currency="USD">199.00</s:price>
+      <s:sku>WCT708</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4432404932</id>
+    <published>2016-02-19T23:32:52-06:00</published>
+    <updated>2016-02-19T23:32:52-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/waring-wsb70-21-variable-speed-heavy-duty-immersion-blender"/>
+    <title>Waring WSB70 21&quot; Variable Speed Heavy-Duty Immersion Blender</title>
+    <s:type>Immersion Blenders</s:type>
+    <s:vendor>Waring</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/344838.jpeg?v=1455987906"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waring<br>
+        <strong>Type: </strong>Immersion Blenders<br>
+        <strong>Price: </strong>
+            759.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Waring WSB70 21" Variable Speed Heavy-Duty Immersion Blender</strong></p>
+<ul>
+<li>﻿50-gal./200-qt. capacity</li>
+<li>Rubber comfort gripping for safe handling</li>
+<li>High-performance, durable 1 HP motor</li>
+<li>Dishwasher safe removable shaft and blade</li>
+<li>21-inch shaft for blending deepest of pots</li>
+<li>120 V/50 - 60 Hz/1-ph; 750W; 6.25 A</li>
+<li>Dimensions: 5-in. W x 5-1/2 in. D x 36-in. H</li>
+<li>NFS</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>Product type_Immersion Blenders</s:tag>
+    <s:tag>Vendor_Waring</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4432404932</id>
+      <title>Default Title</title>
+      <s:price currency="USD">759.00</s:price>
+      <s:sku>WSB70</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4432404868</id>
+    <published>2016-02-19T23:32:52-06:00</published>
+    <updated>2016-02-19T23:32:52-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/waring-wsb60-16-variable-speed-heavy-duty-immersion-blender"/>
+    <title>Waring WSB60 16&quot; Variable Speed Heavy-Duty Immersion Blender</title>
+    <s:type>Immersion Blenders</s:type>
+    <s:vendor>Waring</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/WAR-WSB60-2.jpeg?v=1455987881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waring<br>
+        <strong>Type: </strong>Immersion Blenders<br>
+        <strong>Price: </strong>
+            559.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Waring WSB60 16" Variable Speed Heavy-Duty Immersion Blender</strong></p>
+<ul>
+<li>﻿1 HP heavy-duty motor</li>
+<li>750W vaiable-speed motor</li>
+<li>Shaft is removable and dishwasher safe</li>
+<li>Can blend batches as large as 25 gal</li>
+<li>Continuous ON features</li>
+<li> <span>Dimensions: 5-in. W x 5</span><sup>1</sup><span>⁄</span><sub>2</sub><span>-in. D x 31-in. H</span>
+</li>
+<li>NFS</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>Product type_Immersion Blenders</s:tag>
+    <s:tag>Vendor_Waring</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4432404868</id>
+      <title>Default Title</title>
+      <s:price currency="USD">559.00</s:price>
+      <s:sku>WSB60</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4432404804</id>
+    <published>2016-02-19T23:32:52-06:00</published>
+    <updated>2016-02-19T23:32:52-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/waring-wsb55-14-variable-speed-heavy-duty-immersion-blender"/>
+    <title>Waring WSB55 14&quot; Variable Speed Heavy-Duty Immersion Blender</title>
+    <s:type>Immersion Blenders</s:type>
+    <s:vendor>Waring</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/mKroO0NX_hI9w8P0KQwXbzg.jpeg?v=1464380777"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waring<br>
+        <strong>Type: </strong>Immersion Blenders<br>
+        <strong>Price: </strong>
+            475.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Waring WSB55 14" Variable Speed Heavy-Duty Immersion Blender</strong></p>
+<ul>
+<li>Big Stix Immersion Blender</li>
+<li>﻿14" removable and dishwasher safe shaft</li>
+<li class="icon-check">High-efficiency 1 hp motor</li>
+<li class="icon-check">Lightweight and ergonomic rubberized comfort grip</li>
+<li class="icon-check">Continuous "on" operation</li>
+<li class="icon-check">Capable of hands-free and non-stop operation</li>
+<li class="icon-check">Can mix and puree up to 50 gallons</li>
+<li class="icon-check">120V</li>
+<li>ETL</li>
+<li>NFS</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>Product type_Immersion Blenders</s:tag>
+    <s:tag>Vendor_Waring</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4432404804</id>
+      <title>Default Title</title>
+      <s:price currency="USD">475.00</s:price>
+      <s:sku>WSB55</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4432404676</id>
+    <published>2016-02-19T23:32:52-06:00</published>
+    <updated>2016-02-19T23:32:52-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/waring-wsb50-12-variable-speed-heavy-duty-immersion-blender"/>
+    <title>Waring WSB50 12&quot; Variable Speed Heavy-Duty Immersion Blender</title>
+    <s:type>Immersion Blenders</s:type>
+    <s:vendor>Waring</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/waring_wsb50.jpeg?v=1455987826"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waring<br>
+        <strong>Type: </strong>Immersion Blenders<br>
+        <strong>Price: </strong>
+            395.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Waring WSB50 12" Variable Speed Heavy-Duty Immersion Blender</strong></p>
+<ul>
+<li>12'' stainless steel shaft is easy to remove and dishwasher safe</li>
+<li>50-gal. capacity</li>
+<li>Rubberized comfort grip with second handle improves safety and control</li>
+<li>Provides full control and consistency, from light mixing to puréeing and emulsifying</li>
+<li>Variable speed motor adjusts up to 18,000 RPMs</li>
+<li>Continuous ON feature allows for hands-free operation</li>
+<li>1 HP motor</li>
+<li>120 V/50 - 60 Hz/1-ph; 6.25 A; 750W</li>
+<li>Total dimensions: 5-in. W x 5-1/2 in. D x 27-in. H</li>
+<li>ETL Listed; NSF Certified﻿</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>Product type_Immersion Blenders</s:tag>
+    <s:tag>Vendor_Waring</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4432404676</id>
+      <title>Default Title</title>
+      <s:price currency="USD">395.00</s:price>
+      <s:sku>WSB50</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4432406404</id>
+    <published>2016-02-19T23:32:00-06:00</published>
+    <updated>2016-02-19T23:32:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/waring-cts1000-commercial-conveyor-toaster-with-2-opening"/>
+    <title>Waring CTS1000 Commercial Conveyor Toaster with 2&quot; Opening</title>
+    <s:type>Blenders</s:type>
+    <s:vendor>Waring</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/waring-cts1000b-commercial-conveyor-toaster-208v-2700w.jpeg?v=1455987264"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waring<br>
+        <strong>Type: </strong>Blenders<br>
+        <strong>Price: </strong>
+            635.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Waring CTS1000 Commercial Conveyor Toaster with 2" Opening</strong></p>
+<ul>
+<li class="icon-check">Toasts up to 450 bagel halves or bread slices per hour</li>
+<li class="icon-check">Ultra-fast 5-minute heat-up time</li>
+<li class="icon-check">Large 2'' opening</li>
+<li class="icon-check">Thermo-insulated carrying handles</li>
+<li class="icon-check">Speed control and energy-saving standby functions</li>
+<li class="icon-check">Heavy-duty brushed stainless steel construction</li>
+<li class="icon-check">120V, 1800W</li>
+<li>﻿NFS</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>Product type_Blenders</s:tag>
+    <s:tag>Vendor_Waring</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4432406404</id>
+      <title>Default Title</title>
+      <s:price currency="USD">635.00</s:price>
+      <s:sku>CTS1000</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4432406084</id>
+    <published>2016-02-19T23:32:00-06:00</published>
+    <updated>2016-02-19T23:32:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/waring-wpg150-9-3-4-x-9-1-4-grooved-top-bottom-panini-sandwich-grill"/>
+    <title>Waring WPG150 9-3/4&quot; x 9-1/4&quot; Grooved Top &amp; Bottom Panini Sandwich Grill</title>
+    <s:type>Commercial Panini Grills</s:type>
+    <s:vendor>Waring</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/waring-wpg150-9-3-4-x-9-1-4-panini-perfetto-grooved-top-bottom-panini-sandwich-grill-120v.jpeg?v=1455987724"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waring<br>
+        <strong>Type: </strong>Commercial Panini Grills<br>
+        <strong>Price: </strong>
+            445.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Waring WPG150 9-3/4" x 9-1/4" Grooved Top &amp; Bottom Panini Sandwich Grill</strong></p>
+<ul>
+<li>Indicator lights show power and ready to cook</li>
+<li class="icon-check">9 3/4" x 9 1/4" grooved cast iron cooking plates</li>
+<li class="icon-check">120V</li>
+<li class="icon-check">Includes Waring CAC105 heavy duty grill brush</li>
+<li class="icon-check">Adjustable temperature up to 570 degrees Fahrenheit</li>
+<li class="icon-check">Indicator lights for power and preheat ensure smooth operation</li>
+<li class="icon-check">Auto-balancing top plate for even cooking</li>
+<li class="icon-check">Accommodates foods up to 3" thick</li>
+<li>﻿NFS</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>Product type_Panini Grills</s:tag>
+    <s:tag>Vendor_Waring</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4432406084</id>
+      <title>Default Title</title>
+      <s:price currency="USD">445.00</s:price>
+      <s:sku>WPG150</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4432406020</id>
+    <published>2016-02-19T23:32:00-06:00</published>
+    <updated>2016-02-19T23:32:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/waring-cb15-1-gallon-commercial-stainless-steel-food-blender"/>
+    <title>Waring CB15 1 Gallon Commercial Stainless Steel Food Blender</title>
+    <s:type>Commercial Blenders</s:type>
+    <s:vendor>Waring</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/95106-2.jpeg?v=1455987242"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waring<br>
+        <strong>Type: </strong>Commercial Blenders<br>
+        <strong>Price: </strong>
+            1375.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Waring CB15 1 Gallon Commercial Stainless Steel Food Blender</strong></p>
+<ul>
+<li class="icon-check">1 gallon stainless steel container with vinyl lid and two handles</li>
+<li class="icon-check">Heavy duty 3 3/4 hp, three speed motor<span> high, medium, low, and pulse</span>
+</li>
+<li class="icon-check">Simple touchpad controls</li>
+<li class="icon-check">120V</li>
+<li>Slow Start blending mechanism ensures that all of your product will be blended to perfection</li>
+<li>Dimensions: 22-1/4-in. H x 14-7/8-in. W x 15-in. D</li>
+<li>NSF and UL listed</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>Product type_Commercial Blenders</s:tag>
+    <s:tag>Vendor_Waring</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4432406020</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1375.00</s:price>
+      <s:sku>CB15</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+</feed>

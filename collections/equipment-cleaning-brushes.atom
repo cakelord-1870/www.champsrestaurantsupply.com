@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.champsrestaurantsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.champsrestaurantsupply.com/collections/equipment-cleaning-brushes.atom"/>
+  <title>Champs Restaurant Supply</title>
+  <updated>2016-03-03T23:28:58-06:00</updated>
+  <author>
+    <name>Champs Restaurant Supply</name>
+  </author>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4515506500</id>
+    <published>2016-03-03T23:28:58-06:00</published>
+    <updated>2016-03-03T23:28:58-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/thunder-group-wdwb012-12-palmyra-bristles-wok-brush-with-wood-handle"/>
+    <title>Thunder Group WDWB012 12&quot; Palmyra Bristles Wok Brush With Wood Handle</title>
+    <s:type>Equipment Cleaning Brushes</s:type>
+    <s:vendor>Thunder Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/WDWB012-s.jpeg?v=1457107914"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Thunder Group<br>
+        <strong>Type: </strong>Equipment Cleaning Brushes<br>
+        <strong>Price: </strong>
+            3.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Thunder Group WDWB012 12" Palmyra Bristles Wok Brush With Wood Handle</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_Thunder Group</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4515506500</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.59</s:price>
+      <s:sku>WDWB012</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4515506436</id>
+    <published>2016-03-03T23:28:58-06:00</published>
+    <updated>2016-03-03T23:28:58-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/thunder-group-wdwb008-8-palmyra-bristles-wok-brush-with-wood-handle"/>
+    <title>Thunder Group WDWB008 8&quot; Palmyra Bristles Wok Brush With Wood Handle</title>
+    <s:type>Equipment Cleaning Brushes</s:type>
+    <s:vendor>Thunder Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/WDWB008-s.jpeg?v=1457107942"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Thunder Group<br>
+        <strong>Type: </strong>Equipment Cleaning Brushes<br>
+        <strong>Price: </strong>
+            3.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Thunder Group WDWB008 8" Palmyra Bristles Wok Brush With Wood Handle</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_Thunder Group</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4515506436</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.59</s:price>
+      <s:sku>WDWB008</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4515506244</id>
+    <published>2016-03-03T23:28:58-06:00</published>
+    <updated>2016-03-03T23:28:58-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/thunder-group-wdbs020h-20-heavy-duty-wire-brush-with-scrapper"/>
+    <title>Thunder Group WDBS020H 20&quot; Heavy Duty Wire Brush With Scrapper</title>
+    <s:type>Equipment Cleaning Brushes</s:type>
+    <s:vendor>Thunder Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/WDBS020H-s.jpeg?v=1457108448"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Thunder Group<br>
+        <strong>Type: </strong>Equipment Cleaning Brushes<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Thunder Group WDBS020H 20" Heavy Duty Wire Brush With Scrapper</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_Thunder Group</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4515506244</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>WDBS020H</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4515506180</id>
+    <published>2016-03-03T23:28:58-06:00</published>
+    <updated>2016-03-03T23:28:58-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/thunder-group-wdbs014-14-wire-brush-with-scraper"/>
+    <title>Thunder Group WDBS014 14&quot; Wire Brush With Scraper</title>
+    <s:type>Equipment Cleaning Brushes</s:type>
+    <s:vendor>Thunder Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/WDBS014-s.jpeg?v=1457108513"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Thunder Group<br>
+        <strong>Type: </strong>Equipment Cleaning Brushes<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Thunder Group WDBS014 14" Wire Brush With Scraper</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_Thunder Group</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4515506180</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>WDBS014</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4340045380</id>
+    <published>2016-02-05T10:06:10-06:00</published>
+    <updated>2016-02-05T10:06:10-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/winco-brn-8p-8-plastic-brush-with-nylon-bristles"/>
+    <title>Winco BRN-8P 8&quot; Plastic Brush with Nylon Bristles</title>
+    <s:type>Equipment Cleaning Brushes</s:type>
+    <s:vendor>Winco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/13_fb80d50e-2aad-4e4a-9fc4-429083646000.jpg?v=1454707582"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Winco<br>
+        <strong>Type: </strong>Equipment Cleaning Brushes<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>8¡° Plastic Brush with Nylon Bristles</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-day</s:tag>
+    <s:tag>Vendor_Winco</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4340045380</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.49</s:price>
+      <s:sku>BRN-8P</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4340045316</id>
+    <published>2016-02-05T10:06:10-06:00</published>
+    <updated>2016-02-05T10:06:10-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/winco-brn-20p-20-plastic-brush-with-nylon-bristles"/>
+    <title>Winco BRN-20P 20&quot; Plastic Brush with Nylon Bristles</title>
+    <s:type>Equipment Cleaning Brushes</s:type>
+    <s:vendor>Winco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/21.png?v=1454707517"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Winco<br>
+        <strong>Type: </strong>Equipment Cleaning Brushes<br>
+        <strong>Price: </strong>
+            6.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>20" Plastic Brush with Nylon Bristles</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-day</s:tag>
+    <s:tag>Vendor_Winco</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4340045316</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.29</s:price>
+      <s:sku>BRN-20P</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4340045060</id>
+    <published>2016-02-05T10:06:09-06:00</published>
+    <updated>2016-02-05T10:06:09-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/winco-br-500-20-heavy-duty-steel-wire-brush"/>
+    <title>Winco BR-500 20&quot; Heavy Duty Steel Wire Brush</title>
+    <s:type>Equipment Cleaning Brushes</s:type>
+    <s:vendor>Winco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/3_a6da0a92-ad91-4c33-b369-dc74067ad4f4.jpg?v=1454707247"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Winco<br>
+        <strong>Type: </strong>Equipment Cleaning Brushes<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>20" Heavy Duty Steel Wire Brush</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-day</s:tag>
+    <s:tag>Vendor_Winco</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4340045060</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>BR-500</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4340044996</id>
+    <published>2016-02-05T10:06:09-06:00</published>
+    <updated>2016-02-05T10:06:09-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/winco-br-319-3-x-19-row-of-wire-brush-with-14-wooden-handle"/>
+    <title>Winco BR-319 3 X 19 Row Of Wire Brush with 14&quot; Wooden Handle</title>
+    <s:type>Equipment Cleaning Brushes</s:type>
+    <s:vendor>Winco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/89.jpg?v=1454707212"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Winco<br>
+        <strong>Type: </strong>Equipment Cleaning Brushes<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>3 X 19 Row Of Wire Brush with 14" Wooden Handle</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-day</s:tag>
+    <s:tag>Vendor_Winco</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4340044996</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>BR-319</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4340044868</id>
+    <published>2016-02-05T10:06:09-06:00</published>
+    <updated>2016-02-05T10:06:09-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/winco-br-31-heavy-duty-broiler-brush-with-handle"/>
+    <title>Winco BR-31 Heavy Duty Broiler Brush with Handle</title>
+    <s:type>Equipment Cleaning Brushes</s:type>
+    <s:vendor>Winco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/1_a0a1bed4-3dd3-44a5-87b3-294c0b741110.jpg?v=1454707164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Winco<br>
+        <strong>Type: </strong>Equipment Cleaning Brushes<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Heavy Duty Broiler Brush with Handle</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-day</s:tag>
+    <s:tag>Vendor_Winco</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4340044868</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>BR-31</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4340044804</id>
+    <published>2016-02-05T10:06:09-06:00</published>
+    <updated>2016-02-05T10:06:09-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/winco-br-30-30-wire-brush-with-stainless-steel-bristle"/>
+    <title>Winco BR-30 30&quot; Wire Brush with Stainless Steel Bristle</title>
+    <s:type>Equipment Cleaning Brushes</s:type>
+    <s:vendor>Winco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/33_3db4f2b5-d6eb-4616-b465-a39330fdd9ab.jpg?v=1454707094"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Winco<br>
+        <strong>Type: </strong>Equipment Cleaning Brushes<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>30¡° Wire Brush with Stainless Steel Bristle</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-day</s:tag>
+    <s:tag>Vendor_Winco</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4340044804</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>BR-30</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4340044740</id>
+    <published>2016-02-05T10:06:09-06:00</published>
+    <updated>2016-02-05T10:06:09-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/winco-br-28-28-1-4-kettle-valve-brush"/>
+    <title>Winco BR-28 28-1/4&quot; Kettle Valve Brush</title>
+    <s:type>Equipment Cleaning Brushes</s:type>
+    <s:vendor>Winco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/22_626c15a8-16b6-47c5-95e1-aa37c62348a1.jpg?v=1454707038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Winco<br>
+        <strong>Type: </strong>Equipment Cleaning Brushes<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>28-1/4" Kettle Valve Brush</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-day</s:tag>
+    <s:tag>Vendor_Winco</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4340044740</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>BR-28</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4340044676</id>
+    <published>2016-02-05T10:06:08-06:00</published>
+    <updated>2016-02-05T10:06:08-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/winco-br-27-27-wood-handle-wire-brush-with-scraper"/>
+    <title>Winco BR-27 27&quot; Wood Handle Wire Brush with Scraper</title>
+    <s:type>Equipment Cleaning Brushes</s:type>
+    <s:vendor>Winco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/78.png?v=1454706943"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Winco<br>
+        <strong>Type: </strong>Equipment Cleaning Brushes<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>27¡° Wood Handle Wire Brush with Scraper</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-day</s:tag>
+    <s:tag>Vendor_Winco</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4340044676</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>BR-27</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4340044612</id>
+    <published>2016-02-05T10:06:08-06:00</published>
+    <updated>2016-02-05T10:06:08-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/winco-br-25-25-urn-brush-with-bristle"/>
+    <title>Winco BR-25 25&quot; Urn Brush with  Bristle</title>
+    <s:type>Equipment Cleaning Brushes</s:type>
+    <s:vendor>Winco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/19_54999f02-f2a4-4cee-b6d7-1a563ad386dd.jpg?v=1454706860"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Winco<br>
+        <strong>Type: </strong>Equipment Cleaning Brushes<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>25" Urn Brush with  Bristle</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-day</s:tag>
+    <s:tag>Vendor_Winco</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4340044612</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>BR-25</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4340044548</id>
+    <published>2016-02-05T10:06:08-06:00</published>
+    <updated>2016-02-05T10:06:08-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/winco-br-24-24-1-2-l-shaped-fryer-brush"/>
+    <title>Winco BR-24 24-1/2&quot; L-Shaped Fryer Brush</title>
+    <s:type>Equipment Cleaning Brushes</s:type>
+    <s:vendor>Winco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/16_3c577aa2-ba63-4611-9314-5bdd801b9d79.jpg?v=1454706806"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Winco<br>
+        <strong>Type: </strong>Equipment Cleaning Brushes<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>24-1/2" L-Shaped Fryer Brush</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-day</s:tag>
+    <s:tag>Vendor_Winco</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4340044548</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>BR-24</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4340044484</id>
+    <published>2016-02-05T10:06:08-06:00</published>
+    <updated>2016-02-05T10:06:08-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/winco-br-21-heavy-duty-dual-headed-bristle-and-steel-wire-grill-brush"/>
+    <title>Winco BR-21 Heavy Duty Dual Headed Bristle and Steel Wire Grill Brush</title>
+    <s:type>Equipment Cleaning Brushes</s:type>
+    <s:vendor>Winco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/15_dc9ca897-9570-405f-a353-a677e13e0505.jpg?v=1454706764"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Winco<br>
+        <strong>Type: </strong>Equipment Cleaning Brushes<br>
+        <strong>Price: </strong>
+            46.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Heavy Duty Dual Headed Bristle and Steel Wire Grill Brush</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-day</s:tag>
+    <s:tag>Vendor_Winco</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4340044484</id>
+      <title>Default Title</title>
+      <s:price currency="USD">46.99</s:price>
+      <s:sku>BR-21</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

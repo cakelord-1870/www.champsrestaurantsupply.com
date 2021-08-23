@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.champsrestaurantsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.champsrestaurantsupply.com/collections/hand-sinks.atom"/>
+  <title>Champs Restaurant Supply</title>
+  <updated>2015-12-19T11:41:00-06:00</updated>
+  <author>
+    <name>Champs Restaurant Supply</name>
+  </author>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/3999589892</id>
+    <published>2015-12-19T11:41:00-06:00</published>
+    <updated>2015-12-19T11:41:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/hs-1416dg-hand-sink-w-deck-mount-with-no-lead-faucet-strainer-14-1-2-w-16-1-2h-1"/>
+    <title>Stainless Steel Wall Mount Hand Sink with 4&quot; Faucet</title>
+    <s:type>Hand Sinks</s:type>
+    <s:vendor>Champs Restaurant Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/a1_grande_7e91dc05-e4a2-4b8d-9149-3c6941ffbc2b.jpg?v=1495082322"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champs Restaurant Supply<br>
+        <strong>Type: </strong>Hand Sinks<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This 16" economy hand sink with 4" splash mounted gooseneck faucet provides an affordable priced hand washing station for any commercial kitchen. It features a single deep drawn 10" x 14" x 5" sink bowl. A 1-1/2" stainless steel basket drain with strainer plate and faucet is included with the sink.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sales</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/3999589892</id>
+      <title>Default Title</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>WHS-01</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/3999577604</id>
+    <published>2015-12-19T11:24:00-06:00</published>
+    <updated>2015-12-19T11:24:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/hs-1416dg-hand-sink-w-deck-mount-with-no-lead-faucet-strainer-14-1-2-w-16-1-2h"/>
+    <title>Stainless Steel Wall Mount Hand Sink with 4&quot; Faucet and Double Splash Guards</title>
+    <s:type>Hand Sinks</s:type>
+    <s:vendor>Champs Restaurant Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/a1_grande_59292d75-bbb7-4a65-b685-ea091a88db05.jpg?v=1495082377"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champs Restaurant Supply<br>
+        <strong>Type: </strong>Hand Sinks<br>
+        <strong>Price: </strong>
+            175.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This 16" economy hand sink with 4" splash mounted gooseneck faucet provides an affordable priced hand washing station for any commercial kitchen. It features a single deep drawn 10" x 14" x 5" sink bowl and a 7 3/4" high back and side splashes. A 1-1/2" stainless steel basket drain with strainer plate and faucet is included with the sink.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/3999577604</id>
+      <title>Default Title</title>
+      <s:price currency="USD">175.00</s:price>
+      <s:sku>WHS-01-2</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+</feed>

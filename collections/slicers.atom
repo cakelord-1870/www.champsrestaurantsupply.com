@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.champsrestaurantsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.champsrestaurantsupply.com/collections/slicers.atom"/>
+  <title>Champs Restaurant Supply</title>
+  <updated>2016-01-19T00:18:00-06:00</updated>
+  <author>
+    <name>Champs Restaurant Supply</name>
+  </author>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4213708676</id>
+    <published>2016-01-19T00:18:00-06:00</published>
+    <updated>2016-01-19T00:18:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/globe-g14-g-series-14-medium-duty-manual-slicer"/>
+    <title>Globe G14 G Series 14&quot; Medium Duty Manual Slicer</title>
+    <s:type>Slicers</s:type>
+    <s:vendor>Globe</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/690553.jpeg?v=1453935283"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Globe<br>
+        <strong>Type: </strong>Slicers<br>
+        <strong>Price: </strong>
+            2034.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>      FEATURES</strong></p>
+<ul>
+<li><span style="line-height: 1.5;">Globe Slicer Hard chromed, special alloy hollow ground blade 14"</span></li>
+<li><span style="line-height: 1.5;">Powerful knife motor ½ HP, 115-60-1, 3 amps</span></li>
+<li><span style="line-height: 1.5;">Globe Meat Slicer Improved gravity feed chute glides with ease for perfect slicing</span></li>
+<li><span style="line-height: 1.5;">Slices through numerous applications including cheese</span></li>
+<li><span style="line-height: 1.5;">Globe Slicer Motor overload protection with manual reset</span></li>
+<li><span style="line-height: 1.5;">Top mounted all metal knife sharpener</span></li>
+<li><span style="line-height: 1.5;">Globe Meat Slicer Popular, durable, European design with sleek, modern, rounded corners that are easy-to-clean</span></li>
+<li><span style="line-height: 1.5;">Globe Slicer Dual purpose endweight handle with ergonomic design allows for easier operation</span></li>
+<li><span style="line-height: 1.5;">Improved product grip and slicing performance</span></li>
+<li><span style="line-height: 1.5;">Globe Meat Slicer 0 to 9/16" slice thickness</span></li>
+<li><span style="line-height: 1.5;">Globe Meat Slicer Anodized aluminum construction with seamless edges and radius corners</span></li>
+<li><span style="line-height: 1.5;">Oversized positive traction grooved belt drive</span></li>
+<li><span style="line-height: 1.5;">Globe Slicer Knife cover interlock disables the slicer when the knife cover is removed</span></li>
+<li><span style="line-height: 1.5;">Globe Meat Slicer Large product receiving area</span></li>
+<li><span style="line-height: 1.5;">Smooth Stainless steel ball bearing chute slide</span></li>
+<li><span style="line-height: 1.5;">Globe Slicer 35° angled food chute</span></li>
+<li><span style="line-height: 1.5;">Dual purpose handle with improved ergonomic design</span></li>
+<li><span style="line-height: 1.5;">Large table adjustment and chute removal knobs for improved grip and better indexing control</span></li>
+<li><span style="line-height: 1.5;">Power indicator light</span></li>
+<li><span style="line-height: 1.5;">No-volt release relay prevents inadvertent activation of the slicer</span></li>
+<li><span style="line-height: 1.5;">Globe Meat Slicer Removable, easy-to-clean chute, slice deflector, knife cover and sharpener</span></li>
+<li><span style="line-height: 1.5;">Metal bottom enclosure</span></li>
+<li><span style="line-height: 1.5;">Globe Slicer Permanently attached knife ring guard</span></li>
+<li><span style="line-height: 1.5;">No voltage release relay system</span></li>
+<li>This Globe Meat Slicer is ETL and NSF listed</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-day</s:tag>
+    <s:tag>Product type_Commercial Slicers</s:tag>
+    <s:tag>Product type_Slicers</s:tag>
+    <s:tag>Vendor_Globe</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4213708676</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2034.00</s:price>
+      <s:sku>G14</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4213708612</id>
+    <published>2016-01-19T00:18:00-06:00</published>
+    <updated>2016-01-19T00:18:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/globe-g12a-g-series-12-medium-duty-belt-driven-auto-manual-slicer"/>
+    <title>Globe G12A G Series 12&quot; Medium Duty, Belt-Driven, Auto/Manual Slicer</title>
+    <s:type>Slicers</s:type>
+    <s:vendor>Globe</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/507-050.jpeg?v=1453935285"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Globe<br>
+        <strong>Type: </strong>Slicers<br>
+        <strong>Price: </strong>
+            3769.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>     FEATURES </strong></p>
+<ul>
+<li><span style="line-height: 1.5;">Medium Duty Automatic Slicer</span></li>
+<li><span style="line-height: 1.5;">24 1/2 in (L) x 23 in (W) x 20 1/4 in (H)</span></li>
+<li><span style="line-height: 1.5;">12 in hollow ground and hard chromed knife</span></li>
+<li><span style="line-height: 1.5;">Slices up to 9/16 in thick</span></li>
+<li><span style="line-height: 1.5;">Anodized aluminum with seamless edges and radius corners</span></li>
+<li><span style="line-height: 1.5;">Ball bearing chute slide</span></li>
+<li><span style="line-height: 1.5;">Permanently attached knife ring guard</span></li>
+<li><span style="line-height: 1.5;">Top mounted all metal sharpener</span></li>
+<li><span style="line-height: 1.5;">Knife cover interlock</span></li>
+<li><span style="line-height: 1.5;">Motor overload protection with manual reset</span></li>
+<li><span style="line-height: 1.5;">Belt driven knife system</span></li>
+<li><span style="line-height: 1.5;">Metal bottom enclosure</span></li>
+<li><span style="line-height: 1.5;">Motor 1/2 HP</span></li>
+<li><span style="line-height: 1.5;">Includes 6 ft power cable with NEMA 5-15P</span></li>
+<li><span style="line-height: 1.5;">115V/60Hz/6A/1-Ph</span></li>
+<li><span style="line-height: 1.5;">cETLus listed</span></li>
+<li><span style="line-height: 1.5;">NSF certified</span></li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-day</s:tag>
+    <s:tag>Product type_Commercial Slicers</s:tag>
+    <s:tag>Product type_Slicers</s:tag>
+    <s:tag>Vendor_Globe</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4213708612</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3769.00</s:price>
+      <s:sku>G12A</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/3951940484</id>
+    <published>2015-12-12T14:03:00-06:00</published>
+    <updated>2015-12-12T14:03:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/german-knife-gs-12m-meat-slicer"/>
+    <title>German Knife GS-12M 12&quot; Heavy Duty Gravity Feed Manual Slicer - 1/2 HP</title>
+    <s:type>Slicers</s:type>
+    <s:vendor>German Knife</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/german-knife-by-turbo-air-gs-12m-heavy-duty-manual-meat-slicer.jpg?v=1453935254"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>German Knife<br>
+        <strong>Type: </strong>Slicers<br>
+        <strong>Price: </strong>
+            2899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>German Knife GS-12M 12" Heavy Duty Gravity Feed Manual Slicer - 1/2 HP</strong></p>
+<ul>
+<li>Built-in knife sharpener for one-step sharpening</li>
+<li>Gravity feed</li>
+<li>12 inch stainless steel knife</li>
+<li>Slices thickness from tissue thin to 1 inch thick</li>
+<li>Stainless steel receiving plate and food contact zone won’t chip or peel and are easy to clean</li>
+<li>Reliable gear-driven knife motor prevents downtime for maintenance as there are no broken or slipping belts to deal with</li>
+<li>Ergonomic chute handle affords a firm grip for easy and steady operation</li>
+<li>German-made knife blade requires less frequent sharpenings, resists corrosion, and creates more precise and more consistent cuts</li>
+<li>﻿</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Product type_Slicers</s:tag>
+    <s:tag>Vendor_German Knife</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/3951940484</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2899.00</s:price>
+      <s:sku>GS-12M</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/3951691140</id>
+    <published>2015-12-12T13:06:00-06:00</published>
+    <updated>2015-12-12T13:06:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/turbo-air-gs-12ld-meat-slicer"/>
+    <title>Globe Chefmate G12 12&quot; Manual Gravity Feed Slicer - 1/2 HP</title>
+    <s:type>Slicers</s:type>
+    <s:vendor>Globe</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/71g_2BpGSrenL._SX355.jpeg?v=1459135279"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Globe<br>
+        <strong>Type: </strong>Slicers<br>
+        <strong>Price: </strong>
+            1409.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>        FEATURES</strong></p>
+<ul>
+<li>Aluminum body construction</li>
+<li>Designed for light duty commercial use</li>
+<li>Belt driven</li>
+<li>Manual</li>
+<li>12" Blade</li>
+<li>Cut thickness: Up to 7/16"</li>
+<li>Chute handle for glide operation</li>
+<li>Top mounted knife sharpener</li>
+<li>Knife cover for safety</li>
+<li>Fan cooled motor</li>
+<li>Motor: 1/2 HP</li>
+<li>Electrical: 115v/60hz/1ph</li>
+<li>Shipping weight: 60 lbs</li>
+<li>ETL approved</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-day</s:tag>
+    <s:tag>3-day</s:tag>
+    <s:tag>Product type_Commercial Slicers</s:tag>
+    <s:tag>Product type_Slicers</s:tag>
+    <s:tag>Vendor_Globe</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/3951691140</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1409.00</s:price>
+      <s:sku>G12</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+</feed>

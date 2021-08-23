@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.champsrestaurantsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.champsrestaurantsupply.com/collections/wok-ranges.atom"/>
+  <title>Champs Restaurant Supply</title>
+  <updated>2017-06-02T12:49:07-05:00</updated>
+  <author>
+    <name>Champs Restaurant Supply</name>
+  </author>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11552527823</id>
+    <published>2017-06-02T12:49:07-05:00</published>
+    <updated>2017-06-02T12:49:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/gsw-aewr-23j30ng-natural-gas-heavy-duty-wok-range"/>
+    <title>GSW AEWR-23J30NG Natural Gas Heavy Duty Wok Range</title>
+    <s:type>Wok Ranges</s:type>
+    <s:vendor>GSW</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/33719-01.jpg?v=1496425921"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GSW<br>
+        <strong>Type: </strong>Wok Ranges<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4 class="page-title"><span class="base" data-ui-id="page-title-wrapper" itemprop="name">GSW AEWR-23J30NG Natural Gas Heavy Duty Wok Range</span></h4>
+<p><span class="base" data-ui-id="page-title-wrapper" itemprop="name"><span>Cook and prepare your delicious stir fry in your wok using the GSW AEWR-23J30NG heavy duty wok rage. </span></span></p>
+<p><span class="base" data-ui-id="page-title-wrapper" itemprop="name"><span>This natural gas range features a 13" rim, with a 23-tip jet burner that emits 125,000 BTU. </span></span></p>
+<p><span class="base" data-ui-id="page-title-wrapper" itemprop="name"><span>This powerful wok range measures 30 inches high, 18 inches wide and 21 inches deep.</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_GSW</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11552527823</id>
+      <title>Default Title</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku>AEWR-23J30NG</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/5038231876</id>
+    <published>2016-06-06T10:37:00-05:00</published>
+    <updated>2016-06-06T10:37:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/turbo-air-radiance-tawr-16-jb-gas-wok-range-16-opening"/>
+    <title>Radiance TAWR-16-JB Natural Gas Wok Range, 16&quot; Opening</title>
+    <s:type>Wok Ranges</s:type>
+    <s:vendor>Turbo Air</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/894-400.jpeg?v=1465238021"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Turbo Air<br>
+        <strong>Type: </strong>Wok Ranges<br>
+        <strong>Price: </strong>
+            1179.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Turbo Air Radiance TAWR-16-JB Gas Wok Range, 16" Opening</strong></p>
+<ul>
+<li>﻿<strong>High quality stainless steel front and sides</strong>
+</li>
+<li><strong>Stainless steel welded wok top</strong></li>
+<li><strong>Anti-clogging jet burner 125,000 btu/hr</strong></li>
+<li><strong>¾” rear gas connection</strong></li>
+<li><strong>Available in 13” and 16” opening wok top</strong></li>
+<li><strong>Continuous pilot for instant ignition</strong></li>
+<li><strong>12” heavy duty legs included</strong></li>
+<li><strong>Gradual slope design to reduce spill overs</strong></li>
+<li><strong>Galvanized legs</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_Turbo Air</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/5038231876</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1179.00</s:price>
+      <s:sku>TAWR-16-JB</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/5038231748</id>
+    <published>2016-06-06T10:37:00-05:00</published>
+    <updated>2016-06-06T10:37:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/turbo-airtawr-16-radiance-wok-range"/>
+    <title>Radiance TAWR-16  Natural Gas Wok Range w/ Duck Burners</title>
+    <s:type>Wok Ranges</s:type>
+    <s:vendor>Turbo Air</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/TAWR-16_grande_fada3e9d-5767-4dfa-9ed8-508239997dea.jpeg?v=1465238019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Turbo Air<br>
+        <strong>Type: </strong>Wok Ranges<br>
+        <strong>Price: </strong>
+            1209.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Turbo Air TAWR-16 Radiance Wok Range</strong></p>
+<ul>
+<li>High quality stainless steel front and sides</li>
+<li>Stainless steel welded wok top</li>
+<li>Anti-clogging jet burner 125,000 btu/hr</li>
+<li>¾” rear gas connection</li>
+<li>Available in 13” and 16” opening wok top</li>
+<li>Continuous pilot for instant ignition</li>
+<li>12” heavy duty legs included</li>
+<li>Gradual slope design to reduce spill overs</li>
+<li>Galvanized legs</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_Turbo Air</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/5038231748</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1209.00</s:price>
+      <s:sku>TAWR-16</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/5038231684</id>
+    <published>2016-06-06T10:37:00-05:00</published>
+    <updated>2016-06-06T10:37:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/turbo-air-tawr-13-jb-stainless-steel-radiance-wok-gas-range"/>
+    <title>Radiance TAWR-13-JB Stainless Steel Wok Natural Gas Range</title>
+    <s:type>Wok Ranges</s:type>
+    <s:vendor>Turbo Air</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/498-TAWR-13-JB-1_wid_320_hei_320.jpeg?v=1465238017"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Turbo Air<br>
+        <strong>Type: </strong>Wok Ranges<br>
+        <strong>Price: </strong>
+            1139.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Turbo Air TAWR-13-JB Stainless Steel Radiance Wok Gas Range</strong></p>
+﻿
+<ul>
+<li><strong>High quality stainless steel front and sides</strong></li>
+<li><strong>Stainless steel welded wok top</strong></li>
+<li><strong>Anti-clogging jet burner 125,000 btu/hr</strong></li>
+<li><strong>¾” rear gas connection</strong></li>
+<li><strong>Available in 13” and 16” opening wok top</strong></li>
+<li><strong>Continuous pilot for instant ignition</strong></li>
+<li><strong>12” heavy duty legs included</strong></li>
+<li><strong>Gradual slope design to reduce spill overs</strong></li>
+<li><strong>Galvanized legs</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_Turbo Air</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/5038231684</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1139.00</s:price>
+      <s:sku>TAWR-13-JB</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/5038231428</id>
+    <published>2016-06-06T10:37:00-05:00</published>
+    <updated>2016-06-06T10:37:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/turbo-air-tawr-13-radiance-13-wok-range-w-duck-burners"/>
+    <title>Radiance TAWR-13 13&quot; Natural Gas Wok Range w/ Duck Burners</title>
+    <s:type>Wok Ranges</s:type>
+    <s:vendor>Turbo Air</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/41RSkgz2O-L._SY355.jpeg?v=1465238015"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Turbo Air<br>
+        <strong>Type: </strong>Wok Ranges<br>
+        <strong>Price: </strong>
+            1159.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Turbo Air TAWR-13 Radiance 13" Wok Range w/ Duck Burners</strong></p>
+﻿
+<ul>
+<li><strong>High quality stainless steel front and sides</strong></li>
+<li><strong>Stainless steel welded wok top</strong></li>
+<li><strong>Anti-clogging jet burner 125,000 btu/hr</strong></li>
+<li><strong>¾” rear gas connection</strong></li>
+<li><strong>Available in 13” and 16” opening wok top</strong></li>
+<li><strong>Continuous pilot for instant ignition</strong></li>
+<li><strong>12” heavy duty legs included</strong></li>
+<li><strong>Gradual slope design to reduce spill overs</strong></li>
+<li><strong>Galvanized legs</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vendor_Turbo Air</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/5038231428</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1159.00</s:price>
+      <s:sku>TAWR-13</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+</feed>

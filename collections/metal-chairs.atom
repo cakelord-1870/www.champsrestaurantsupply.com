@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.champsrestaurantsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.champsrestaurantsupply.com/collections/metal-chairs.atom"/>
+  <title>Champs Restaurant Supply</title>
+  <updated>2017-06-07T13:32:41-05:00</updated>
+  <author>
+    <name>Champs Restaurant Supply</name>
+  </author>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11574437327</id>
+    <published>2017-06-07T13:32:41-05:00</published>
+    <updated>2017-06-07T13:32:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/fladg6q6b1lad-black-ladder-back-metal-restaurant-chair-w-black-vinyl-seat"/>
+    <title>FLADG6Q6B1LAD Black Ladder Back Metal Restaurant Chair w/ Black Vinyl Seat</title>
+    <s:type>Metal Chairs</s:type>
+    <s:vendor>Champs Restaurant Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/Capture_daaf3cdf-c25b-4e8a-adc3-c7b4726a1bd3.JPG?v=1496863397"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champs Restaurant Supply<br>
+        <strong>Type: </strong>Metal Chairs<br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>FLADG6Q6B1LAD Black Ladder Back Metal Restaurant Chair w/ Black Vinyl Seat</strong>
+<ul>
+<li>18 gauge black powder coated steel frame</li>
+<li>Black vinyl upholstered sea</li>
+<li>2-1/2" thick 1.4 density foam padded seat</li>
+<li>Welded joint assembly</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11574437327</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>FLADG6Q6B1LAD</s:sku>
+      <s:grams>7257</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/11569888143</id>
+    <published>2017-06-06T16:18:14-05:00</published>
+    <updated>2017-06-06T16:18:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/fla60099-black-coffee-back-metal-restaurant-chair-black-vinyl-seat"/>
+    <title>FLA60099 Black Coffee Back Metal Restaurant Chair - Black Vinyl Seat</title>
+    <s:type>Metal Chairs</s:type>
+    <s:vendor>Champs Restaurant Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/Capture.JPG?v=1496784819"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champs Restaurant Supply<br>
+        <strong>Type: </strong>Metal Chairs<br>
+        <strong>Price: </strong>
+            79.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>FLA60099 Black Coffee Back Metal Restaurant Chair - Black Vinyl Seat</strong></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/11569888143</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>FLA60099</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/9191886660</id>
+    <published>2016-10-12T15:26:00-05:00</published>
+    <updated>2016-10-12T15:26:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/m836h-slotted-wood-back-metal-chair-with-wodden-seat"/>
+    <title>MKM836H Slotted Wood Back Metal Chair with Wodden Seat</title>
+    <s:type>Metal Chairs</s:type>
+    <s:vendor>MKLD Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/20120918105049261.jpg?v=1476304229"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MKLD Furniture<br>
+        <strong>Type: </strong>Metal Chairs<br>
+        <strong>Price: </strong>
+            109.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Features</strong></p>
+<ul id="itDesc">
+<li>
+<div>Coffee Cup <a class="keylink" onclick="show_ajax(this)">Metal</a> Chair</div>
+</li>
+<li>16-Gauge Steel Frame</li>
+<li>Poly Non-Marring Glides</li>
+<li>Quad Braced Frame</li>
+<li>Constructed For Commercial/Restaurant Usage</li>
+<li>Goes Well With Our Ladderback Barstool</li>
+</ul>
+<p> </p>
+<p><strong>Dimensions:</strong> Width:17-1/2"     Depth: 19"     Height: 34"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/9191886660</id>
+      <title>Default Title</title>
+      <s:price currency="USD">109.00</s:price>
+      <s:sku>M836H</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/9191759684</id>
+    <published>2016-10-12T15:10:00-05:00</published>
+    <updated>2016-10-12T15:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/mkld-m836f-sliod-wooden-back-metal-chair-with-natural-wooden-seat"/>
+    <title>MKM836F Solid Wood Back Metal Chair with Natural Wood Seat</title>
+    <s:type>Metal Chairs</s:type>
+    <s:vendor>MKLD Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/20150718104012995.jpg?v=1476303610"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MKLD Furniture<br>
+        <strong>Type: </strong>Metal Chairs<br>
+        <strong>Price: </strong>
+            109.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Features:</strong></p>
+<ul id="itDesc">
+<li>Three Line Wood Back Design Metal Frme Chair</li>
+<li>16-Gauge Steel Frame</li>
+<li>Poly Non-Marring Glides</li>
+<li>Quad Braced Frame</li>
+<li>Constructed For Commercial/Restaurant Usage</li>
+</ul>
+<p><b>Dimensions:</b></p>
+<p><b>Width:</b><span>17.5"</span><br><b>Depth: </b><span>19"</span><br><b>Height:</b><span> 34"</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/9191759684</id>
+      <title>Default Title</title>
+      <s:price currency="USD">109.00</s:price>
+      <s:sku>M836F</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/9191586308</id>
+    <published>2016-10-12T15:00:00-05:00</published>
+    <updated>2016-10-12T15:00:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/mkld-m836b-slotted-wooden-back-metal-chair-with-wooden-seat-burgundy"/>
+    <title>MKM836B Slotted Wooden Back Metal Chair with Wooden Seat - Burgundy</title>
+    <s:type>Metal Chairs</s:type>
+    <s:vendor>MKLD Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/20120918104843895.jpg?v=1476302722"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MKLD Furniture<br>
+        <strong>Type: </strong>Metal Chairs<br>
+        <strong>Price: </strong>
+            109.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Features</strong></p>
+<p>- Wood Back Design <a class="keylink" onclick="show_ajax(this)">Metal</a> <a class="keylink" onclick="show_ajax(this)">Frame</a> <a class="keylink" onclick="show_ajax(this)">Chair</a></p>
+<p>- 16-Gauge Steel Frame</p>
+<p>- Poly Non-Marring Glides</p>
+<p>- Quad Braced Frame</p>
+<p>- Constructed For Commercial/Restaurant Usage</p>
+<p><strong>Dimensions:</strong></p>
+<p><b>Width:</b><span>17-1/2"</span></p>
+<p><b>Depth: </b><span>19"</span><br><b></b></p>
+<p><b>Height:</b><span> 34"</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/9191586308</id>
+      <title>Default Title</title>
+      <s:price currency="USD">109.00</s:price>
+      <s:sku>M836B</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/9191503300</id>
+    <published>2016-10-12T14:53:00-05:00</published>
+    <updated>2016-10-12T14:53:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/mkld-m836a-slotted-wooden-back-metal-chair-with-wooden-seat"/>
+    <title>MKM836A Slotted Wooden Back Metal Chair with Wooden Seat</title>
+    <s:type>Metal Chairs</s:type>
+    <s:vendor>MKLD Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/20120918104901629.jpg?v=1476302234"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MKLD Furniture<br>
+        <strong>Type: </strong>Metal Chairs<br>
+        <strong>Price: </strong>
+            109.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Features</strong></p>
+<li>Circle Wood Back Metal Frame Chair</li>
+<li>16-Gauge Steel Frame</li>
+<li>Poly Non-Marring Glides</li>
+<li>Quad Braced Frame</li>
+<li>Constructed For Commercial/Restaurant Usage</li>
+<li>Goes Well With Our Ladderback Barstool</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/9191503300</id>
+      <title>Default Title</title>
+      <s:price currency="USD">109.00</s:price>
+      <s:sku>M836A</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/9191080388</id>
+    <published>2016-10-12T14:18:00-05:00</published>
+    <updated>2016-10-12T14:18:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/mkld-m842-heavy-duty-metal-chair-with-black-vinyl-upholstered-seat"/>
+    <title>MKM842 Heavy Duty Metal Chair With Wooden Seat</title>
+    <s:type>Metal Chairs</s:type>
+    <s:vendor>MKLD Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/20120918100658101.jpg?v=1476300388"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MKLD Furniture<br>
+        <strong>Type: </strong>Metal Chairs<br>
+        <strong>Price: </strong>
+            99.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>FEATURES:</strong><br><span>- Heavy Duty </span><a class="keylink" onclick="show_ajax(this)">Metal</a><span> Restaurant Chair</span><br><span>- Constructed Of Full Welded</span><br><span>- Welded Joint Assembly</span><br><span>- Curved Support Bar</span><br><span>- Black Powder Coated </span><a class="keylink" onclick="show_ajax(this)">Frame</a><span> Finish</span><br><span>- Plastic Floor Glides</span><br><span>- Designed For Commercial Use; Suitable For Home Use</span></p>
+<p><strong>DIMENSIONS:</strong></p>
+<p><span><b>Width:</b><span>17"</span><br><b>Depth: </b><span>19-3/4"</span><br><b>Height:</b><span> 33"</span><br><br></span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/9191080388</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku>M842</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4188431492</id>
+    <published>2016-01-12T21:30:00-06:00</published>
+    <updated>2016-01-12T21:30:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/cmc-dg60289-mesh-back-metal-chair-with-black-vinyl-seat"/>
+    <title>FLA60115 MESH Back Metal Chair with Black Vinyl Seat</title>
+    <s:type>Metal Chairs</s:type>
+    <s:vendor>Champs Restaurant Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/hercules-series-black-grid-back-metal-restaurant-chair-black-vinyl-seat-xu-dg-60115-grd-blkv-gg-zone-1-pricing-4.jpg?v=1459135187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champs Restaurant Supply<br>
+        <strong>Type: </strong>Metal Chairs<br>
+        <strong>Price: </strong>
+            79.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These attractive black metal chairs are built to last! Offered at a very competitive price, these black metal mesh back restaurant chairs also feature a granular frame texture with mesh back design and a streamlined, contemporary look to match your business.</span></p>
+<p><span>Create a first-rate dining experience by offering your patrons tasty food, great service and attractive furnishings. These metal chair will offer a classic, elegant look to your establishment.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-day</s:tag>
+    <s:tag>Product type_Metal Chairs</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4188431492</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>FLA60115</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4163884292</id>
+    <published>2016-01-12T21:30:00-06:00</published>
+    <updated>2016-01-12T21:30:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/m836-slotted-wood-back-metal-chair-with-black-vinyl-seat"/>
+    <title>MKM836A Slotted Wood Back Metal Chair with Black Vinyl Seat</title>
+    <s:type>Metal Chairs</s:type>
+    <s:vendor>MKLD Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/yhst-54034216466120_2270_480146989.jpg?v=1459135190"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MKLD Furniture<br>
+        <strong>Type: </strong>Metal Chairs<br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These attractive black metal chairs are built to last! Offered at a very competitive price, these metal chairs also feature a <span>18 gauge fully welded steel frame and a stained wooden back </span>to match your business.</p>
+<p>Create a first-rate dining experience by offering your patrons tasty food, great service and attractive furnishings. These metal chair will offer a classic, elegant look to your establishment.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-day</s:tag>
+    <s:tag>Product type_Metal Chairs</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4163884292</id>
+      <title>Default Title</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>M836A</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4163884228</id>
+    <published>2016-01-12T21:30:00-06:00</published>
+    <updated>2016-01-12T21:30:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/m839-elongated-vertical-slat-metal-chair-with-black-vinyl-seat"/>
+    <title>MKM839 Elongated Vertical Slat Metal Chair with Black Vinyl Seat</title>
+    <s:type>Metal Chairs</s:type>
+    <s:vendor>MKLD Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/1_1024x1024_1423bec3-6941-42a5-97c1-f4671ec612ad.jpg?v=1459311593"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MKLD Furniture<br>
+        <strong>Type: </strong>Metal Chairs<br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These attractive black metal chairs are built to last! Offered at a very competitive price, these metal chairs also feature a <span>18 guage fully welded steel frame and a </span>streamlined, contemporary design to match your business.</p>
+<p>Create a first-rate dining experience by offering your patrons tasty food, great service and attractive furnishings. These metal chair will offer a classic, elegant look to your establishment.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-day</s:tag>
+    <s:tag>Product type_Metal Chairs</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4163884228</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>M839</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4163884164</id>
+    <published>2016-01-12T21:30:00-06:00</published>
+    <updated>2016-01-12T21:30:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/m890-window-back-metal-chair-with-black-vinyl-seat"/>
+    <title>MKM890 Window Back Metal Chair with Black Vinyl Seat</title>
+    <s:type>Metal Chairs</s:type>
+    <s:vendor>MKLD Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/yhst-54034216466120_2270_511654451.jpg?v=1459135191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MKLD Furniture<br>
+        <strong>Type: </strong>Metal Chairs<br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These attractive black metal chairs are built to last! Offered at a very competitive price, these black metal window back restaurant chairs also feature a granular frame texture with a window frame design and a streamlined, contemporary look to match your business.</span></p>
+<p><span>Create a first-rate dining experience by offering your patrons tasty food, great service and attractive furnishings. These metal chair will offer a classic, elegant look to your establishment.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-day</s:tag>
+    <s:tag>Product type_Metal Chairs</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4163884164</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>M890</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4163884100</id>
+    <published>2016-01-12T21:30:00-06:00</published>
+    <updated>2016-01-12T21:30:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/m843-x-back-metal-chair-with-black-vinyl-seat"/>
+    <title>MKM843 Back Metal Chair with Black Vinyl Seat</title>
+    <s:type>Metal Chairs</s:type>
+    <s:vendor>MKLD Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/yhst-54034216466120_2270_148304892.jpg?v=1459135188"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MKLD Furniture<br>
+        <strong>Type: </strong>Metal Chairs<br>
+        <strong>Price: </strong>
+            62.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These attractive black metal chairs are built to last! Offered at a very competitive price, these black metal X back restaurant chairs also feature a granular frame texture with a X back design and a streamlined, contemporary look to match your business.</span></p>
+<p><span>Create a first-rate dining experience by offering your patrons tasty food, great service and attractive furnishings. These metal chair will offer a classic, elegant look to your establishment.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-day</s:tag>
+    <s:tag>Product type_Metal Chairs</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4163884100</id>
+      <title>Default Title</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>M843</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/3889041220</id>
+    <published>2015-12-04T20:03:00-06:00</published>
+    <updated>2015-12-04T20:03:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/ladder-back-metal-chair-with-black-vinyl-seat-m841"/>
+    <title>MKM841 Ladder Back Metal Chair with Black Vinyl Seat</title>
+    <s:type>Metal Chairs</s:type>
+    <s:vendor>MKLD Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/hercules-series-black-ladder-back-metal-restaurant-chair-black-vinyl-seat-xu-dg694blad-blkv-gg-6.jpg?v=1459135189"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MKLD Furniture<br>
+        <strong>Type: </strong>Metal Chairs<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These attractive black metal chairs are built to last! Offered at a very competitive price, these black metal ladder back restaurant chairs also feature a granular frame texture with a 4 rung, ladder back design and a streamlined, contemporary look to match your business.</span></p>
+<p><span>Create a first-rate dining experience by offering your patrons tasty food, great service and attractive furnishings. These metal chair will offer a classic, elegant look to your establishment.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-day</s:tag>
+    <s:tag>Product type_Metal Chairs</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/3889041220</id>
+      <title>Default Title</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>M841</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+</feed>

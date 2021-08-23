@@ -1,0 +1,1715 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.champsrestaurantsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.champsrestaurantsupply.com/collections/bar-sinks.atom"/>
+  <title>Champs Restaurant Supply</title>
+  <updated>2016-04-29T14:31:10-05:00</updated>
+  <author>
+    <name>Champs Restaurant Supply</name>
+  </author>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4833741124</id>
+    <published>2016-04-29T14:31:10-05:00</published>
+    <updated>2016-04-29T14:31:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bkubw-336s-two-compartment-36-slim-line-underbar-sink"/>
+    <title>BK Resources UB4-18-336S Three Compartment 36&quot; Slim-Line Underbar Sink</title>
+    <s:type>Bar Sinks</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/bk-bkubw-336s.jpeg?v=1461958470"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Bar Sinks<br>
+        <strong>Price: </strong>
+            696.56
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Slim-Line Underbar Sink, three compartment, 36”W x 18-1/4"D x 32-1/2"H, 18/304 stainless steel construction, 10" wide x 14" front-to-back x 10" deep compartments, 4-1/2"H backsplash, 4" O.C. splash mount lead-free faucet (BKF-W2-10-G), stainless steel apron on front &amp; sides, includes basket drains (BKDR-2) &amp; removable overflow standpipes (BK-OT-15075), stainless steel legs &amp; adjustable side bracing, adjustable high-impact corrosion-resistant feet, NSF</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag># of Compartments_3</s:tag>
+    <s:tag>Product type_Bar Sinks</s:tag>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4833741124</id>
+      <title>Default Title</title>
+      <s:price currency="USD">696.56</s:price>
+      <s:sku>UB4-18-336S</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4833743620</id>
+    <published>2016-04-29T14:31:00-05:00</published>
+    <updated>2016-04-29T14:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bkubw-496ts-four-compartment-96-slim-line-underbar-sink-with-two-drainboards"/>
+    <title>BK Resources UB4-18-496TS Four Compartment 96&quot; Slim-Line Underbar Sink with Two Drainboards</title>
+    <s:type>Bar Sinks</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/bk-bkubw-496ts.jpeg?v=1461958534"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Bar Sinks<br>
+        <strong>Price: </strong>
+            1183.27
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Slim-Line Underbar Sink, four compartment, 96”W x 18-1/4"D x 32-1/2"H, 18/304 stainless steel construction, 10" wide x 14" front-to-back x 10" deep compartments, 25” stamped drainboards on left &amp; right, 4-1/2"H backsplash, (2) 4" O.C. splash mount lead-free faucets (BKF-W2-10-G), stainless steel apron on front &amp; sides, includes basket drains (BKDR-2) &amp; removable overflow standpipes (BK-OT-15075), stainless steel legs &amp; adjustable side bracing, adjustable high-impact corrosion-resistant feet, NSF</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag># of Compartments_4</s:tag>
+    <s:tag>Drainboard_Two Drainboard</s:tag>
+    <s:tag>Product type_Bar Sinks</s:tag>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4833743620</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1183.27</s:price>
+      <s:sku>UB4-18-496TS</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4833743428</id>
+    <published>2016-04-29T14:31:00-05:00</published>
+    <updated>2016-04-29T14:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bkubw-484ts-four-compartment-84-slim-line-underbar-sink-with-two-drainboards"/>
+    <title>BK Resources UB4-18-484TS Four Compartment 84&quot; Slim-Line Underbar Sink with Two Drainboards</title>
+    <s:type>Bar Sinks</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/bk-bkubw-484ts_grande_d94f2740-0369-4dd0-bfc0-52c1d86d7806.jpeg?v=1464387248"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Bar Sinks<br>
+        <strong>Price: </strong>
+            1113.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Slim-Line Underbar Sink, four compartment, 84”W x 18-1/4"D x 32-1/2"H, 18/304 stainless steel construction, 10" wide x 14" front-to-back x 10" deep compartments, 31” stamped drainboards on left &amp; right, 4-1/2"H backsplash, (2) 4" O.C. splash mount lead-free faucets (BKF-W2-10-G), stainless steel apron on front &amp; sides, includes basket drains (BKDR-2) &amp; removable overflow standpipes (BK-OT-15075), stainless steel legs &amp; adjustable side bracing, adjustable high-impact corrosion-resistant feet, NSF</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag># of Compartments_4</s:tag>
+    <s:tag>Drainboard_Two Drainboard</s:tag>
+    <s:tag>Product type_Bar Sinks</s:tag>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4833743428</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1113.90</s:price>
+      <s:sku>UB4-18-484TS</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4833743300</id>
+    <published>2016-04-29T14:31:00-05:00</published>
+    <updated>2016-04-29T14:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bkubw-472ts-four-compartment-72-slim-line-underbar-sink-with-two-drainboards"/>
+    <title>BK Resources UB4-18-472TS Four Compartment 72&quot; Slim-Line Underbar Sink with Two Drainboards</title>
+    <s:type>Bar Sinks</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/bk-bkubw-484ts_grande_286f1151-f6b7-4a2c-af44-f87f9f6fe6f3.jpeg?v=1464387248"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Bar Sinks<br>
+        <strong>Price: </strong>
+            995.17
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Slim-Line Underbar Sink, four compartment, 72”W x 18-1/4"D x 32-1/2"H, 18/304 stainless steel construction, 10" wide x 14" front-to-back x 10" deep compartments, 13-3/4” stamped drainboards on left &amp; right, 4-1/2"H backsplash, (2) 4" O.C. splash mount lead-free faucets (BKF-W2-10-G), stainless steel apron on front &amp; sides, includes basket drains (BKDR-2) &amp; removable overflow standpipes (BK-OT-15075), stainless steel legs &amp; adjustable side bracing, adjustable high-impact corrosion-resistant feet, NSF</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag># of Compartments_4</s:tag>
+    <s:tag>Drainboard_Two Drainboard</s:tag>
+    <s:tag>Product type_Bar Sinks</s:tag>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4833743300</id>
+      <title>Default Title</title>
+      <s:price currency="USD">995.17</s:price>
+      <s:sku>UB4-18-472TS</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4833743044</id>
+    <published>2016-04-29T14:31:00-05:00</published>
+    <updated>2016-04-29T14:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bkubw-384ts-three-compartment-84-slim-line-underbar-sink-with-two-drainboards"/>
+    <title>BK Resources UB4-18-384TS Three Compartment 84&quot; Slim-Line Underbar Sink with Two Drainboards</title>
+    <s:type>Bar Sinks</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/bk-bkubw-384ts.jpeg?v=1461958519"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Bar Sinks<br>
+        <strong>Price: </strong>
+            1065.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Slim-Line Underbar Sink, three compartment, 84”W x 18-1/4"D x 32-1/2"H, 18/304 stainless steel construction, 10" wide x 14" front-to-back x 10" deep compartments, 13-3/4” stamped drainboards on left &amp; right, 4-1/2"H backsplash, 4" O.C. splash mount lead-free faucet (BKF-W2-10-G), stainless steel apron on front &amp; sides, includes basket drains (BKDR-2) &amp; removable overflow standpipes (BK-OT-15075), stainless steel legs &amp; adjustable side bracing, adjustable high-impact corrosion-resistant feet, NSF</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag># of Compartments_3</s:tag>
+    <s:tag>Drainboard_Two Drainboard</s:tag>
+    <s:tag>Product type_Bar Sinks</s:tag>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4833743044</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1065.70</s:price>
+      <s:sku>UB4-18-384TS</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4833742916</id>
+    <published>2016-04-29T14:31:00-05:00</published>
+    <updated>2016-04-29T14:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bkubw-372ts-three-compartment-72-slim-line-underbar-sink-with-two-drainboards"/>
+    <title>BK Resources UB4-18-372TS Three Compartment 72&quot; Slim-Line Underbar Sink with Two Drainboards</title>
+    <s:type>Bar Sinks</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/bk-bkubw-372ts.jpeg?v=1461958516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Bar Sinks<br>
+        <strong>Price: </strong>
+            924.04
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Slim-Line Underbar Sink, three compartment, 72”W x 18-1/4"D x 32-1/2"H, 18/304 stainless steel construction, 10" wide x 14" front-to-back x 10" deep compartments, 19” stamped drainboards on left &amp; right, 4-1/2"H backsplash, 4" O.C. splash mount lead-free faucet (BKF-W2-10-G), stainless steel apron on front &amp; sides, includes basket drains (BKDR-2) &amp; removable overflow standpipes (BK-OT-15075), stainless steel legs &amp; adjustable side bracing, adjustable high-impact corrosion-resistant feet, NSF</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag># of Compartments_3</s:tag>
+    <s:tag>Drainboard_Two Drainboard</s:tag>
+    <s:tag>Product type_Bar Sinks</s:tag>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4833742916</id>
+      <title>Default Title</title>
+      <s:price currency="USD">924.04</s:price>
+      <s:sku>UB4-18-372TS</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4833742724</id>
+    <published>2016-04-29T14:31:00-05:00</published>
+    <updated>2016-04-29T14:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bkubw-360ts-three-compartment-60-slim-line-underbar-sink-with-two-drainboards"/>
+    <title>BK Resources UB4-18-360TS Three Compartment 60&quot; Slim-Line Underbar Sink with Two Drainboards</title>
+    <s:type>Bar Sinks</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/bk-bkubw-360ts.jpeg?v=1461958511"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Bar Sinks<br>
+        <strong>Price: </strong>
+            816.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Slim-Line Underbar Sink, three compartment, 60”W x 18-1/4"D x 32-1/2"H, 18/304 stainless steel construction, 10" wide x 14" front-to-back x 10" deep compartments, 13-1/2” stamped drainboards on left &amp; right, 4-1/2"H backsplash, 4" O.C. splash mount lead-free faucet (BKF-W2-10-G), stainless steel apron on front &amp; sides, includes basket drains (BKDR-2) &amp; removable overflow standpipes (BK-OT-15075), stainless steel legs &amp; adjustable side bracing, adjustable high-impact corrosion-resistant feet, NSF</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag># of Compartments_3</s:tag>
+    <s:tag>Drainboard_Two Drainboard</s:tag>
+    <s:tag>Product type_Bar Sinks</s:tag>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4833742724</id>
+      <title>Default Title</title>
+      <s:price currency="USD">816.47</s:price>
+      <s:sku>UB4-18-360TS</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4833742276</id>
+    <published>2016-04-29T14:31:00-05:00</published>
+    <updated>2016-04-29T14:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bkubw-348rs-three-compartment-48-slim-line-underbar-sink-with-right-drainboard"/>
+    <title>BK Resources UB4-18-348RS Three Compartment 48&quot; Slim-Line Underbar Sink with Right Drainboard</title>
+    <s:type>Bar Sinks</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/bk-bkubw-348rs.jpeg?v=1461958501"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Bar Sinks<br>
+        <strong>Price: </strong>
+            782.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Slim-Line Underbar Sink, three compartment, 48”W x 18-1/4"D x 32-1/2"H, 18/304 stainless steel construction, 10" wide x 14" front-to-back x 10" deep compartments, 13-5/8” stamped drainboard on right, 4-1/2"H backsplash, 4" O.C. splash mount lead-free faucet (BKF-W2-10-G), stainless steel apron on front &amp; sides, includes basket drains (BKDR-2) &amp; removable overflow standpipes (BK-OT-15075), stainless steel legs &amp; adjustable side bracing, adjustable high-impact corrosion-resistant feet, NSF</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag># of Compartments_3</s:tag>
+    <s:tag>Drainboard_Right Drainboard</s:tag>
+    <s:tag>Product type_Bar Sinks</s:tag>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4833742276</id>
+      <title>Default Title</title>
+      <s:price currency="USD">782.97</s:price>
+      <s:sku>UB4-18-348RS</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4833742148</id>
+    <published>2016-04-29T14:31:00-05:00</published>
+    <updated>2016-04-29T14:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bkubw-348ls-three-compartment-48-slim-line-underbar-sink-with-left-drainboard"/>
+    <title>BK Resources UB4-18-348LS Three Compartment 48&quot; Slim-Line Underbar Sink with Left Drainboard</title>
+    <s:type>Bar Sinks</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/bk-bkubw-348ls.jpeg?v=1461958498"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Bar Sinks<br>
+        <strong>Price: </strong>
+            782.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Slim-Line Underbar Sink, three compartment, 48”W x 18-1/4"D x 32-1/2"H, 18/304 stainless steel construction, 10" wide x 14" front-to-back x 10" deep compartments, 13-5/8” stamped drainboard on left, 4-1/2"H backsplash, 4" O.C. splash mount lead-free faucet (BKF-W2-10-G), stainless steel apron on front &amp; sides, includes basket drains (BKDR-2) &amp; removable overflow standpipes (BK-OT-15075), stainless steel legs &amp; adjustable side bracing, adjustable high-impact corrosion-resistant feet, NSF</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag># of Compartments_3</s:tag>
+    <s:tag>Drainboard_Left Drainboard</s:tag>
+    <s:tag>Product type_Bar Sinks</s:tag>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4833742148</id>
+      <title>Default Title</title>
+      <s:price currency="USD">782.97</s:price>
+      <s:sku>UB4-18-348LS</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4833741892</id>
+    <published>2016-04-29T14:31:00-05:00</published>
+    <updated>2016-04-29T14:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bkubw-248ts-two-compartment-48-slim-line-underbar-sink-with-two-drainboards"/>
+    <title>BK Resources UB4-18-248TS Two Compartment 48&quot; Slim-Line Underbar Sink with Two Drainboards</title>
+    <s:type>Bar Sinks</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/bk-bkubw-248ts.jpeg?v=1461958494"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Bar Sinks<br>
+        <strong>Price: </strong>
+            711.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Slim-Line Underbar Sink, two compartment, 48”W x 18-1/4"D x 32-1/2"H, 18/304 stainless steel construction, 10" wide x 14" front-to-back x 10" deep compartments, 13-3/16" stamped drainboards on left &amp; right, 4-1/2"H backsplash, 4" O.C. splash mount lead-free faucet (BKF-W2-10-G), stainless steel apron on front &amp; sides, includes basket drains (BKDR-2) &amp; removable overflow standpipes (BK-OT-15075), stainless steel legs &amp; adjustable side bracing, adjustable high-impact corrosion-resistant feet, NSF</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag># of Compartments_2</s:tag>
+    <s:tag>Product type_Bar Sinks</s:tag>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4833741892</id>
+      <title>Default Title</title>
+      <s:price currency="USD">711.25</s:price>
+      <s:sku>UB4-18-248TS</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4833741572</id>
+    <published>2016-04-29T14:31:00-05:00</published>
+    <updated>2016-04-29T14:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bkubw-236rs-two-compartment-36-slim-line-underbar-sink-with-right-drainboard"/>
+    <title>BK Resources UB4-18-236RS Two Compartment 36&quot; Slim-Line Underbar Sink with Right Drainboard</title>
+    <s:type>Bar Sinks</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/bk-bkubw-236rs.jpeg?v=1461958482"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Bar Sinks<br>
+        <strong>Price: </strong>
+            640.13
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Slim-Line Underbar Sink, two compartment, 36”W x 18-1/4"D x 32-1/2"H, 18/304 stainless steel construction, 10" wide x 14" front-to-back x 10" deep compartments, 12-3/4” stamped drainboard on right, 4-1/2"H backsplash, 4" O.C. splash mount lead-free faucet (BKF-W2-10-G), stainless steel apron on front &amp; sides, includes basket drains (BKDR-2) &amp; removable overflow standpipes (BK-OT-15075), stainless steel legs &amp; adjustable side bracing, adjustable high-impact corrosion-resistant feet, NSF</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag># of Compartments_2</s:tag>
+    <s:tag>Drainboard_Right Drainboard</s:tag>
+    <s:tag>Product type_Bar Sinks</s:tag>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4833741572</id>
+      <title>Default Title</title>
+      <s:price currency="USD">640.13</s:price>
+      <s:sku>UB4-18-236RS</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4833741508</id>
+    <published>2016-04-29T14:31:00-05:00</published>
+    <updated>2016-04-29T14:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bkubw-236ls-two-compartment-36-slim-line-underbar-sink-with-left-drainboard"/>
+    <title>BK Resources UB4-18-236LS Two Compartment 36&quot; Slim-Line Underbar Sink with Left Drainboard</title>
+    <s:type>Bar Sinks</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/bk-bkubw-236ls.jpeg?v=1461958479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Bar Sinks<br>
+        <strong>Price: </strong>
+            640.13
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Slim-Line Underbar Sink, two compartment, 36”W x 18-1/4"D x 32-1/2"H, 18/304 stainless steel construction, 10" wide x 14" front-to-back x 10" deep compartments, 12-3/4” stamped drainboard on left, 4-1/2"H backsplash, 4" O.C. splash mount lead-free faucet (BKF-W2-10-G), stainless steel apron on front &amp; sides, includes basket drains (BKDR-2) &amp; removable overflow standpipes (BK-OT-15075), stainless steel legs &amp; adjustable side bracing, adjustable high-impact corrosion-resistant feet, NSF</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag># of Compartments_2</s:tag>
+    <s:tag>Drainboard_Left Drainboard</s:tag>
+    <s:tag>Product type_Bar Sinks</s:tag>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4833741508</id>
+      <title>Default Title</title>
+      <s:price currency="USD">640.13</s:price>
+      <s:sku>UB4-18-236LS</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4164009988</id>
+    <published>2016-01-12T22:10:00-06:00</published>
+    <updated>2016-01-12T22:10:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bkubs-496ts-96-underbar-sink-with-4-bowls-and-2-faucets-with-two-drainboard"/>
+    <title>BK Resources UB4-21-496TS 96&quot; Underbar Sink with 4 Bowls and 2 Faucets with Two Drainboard</title>
+    <s:type>Bar Sinks</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/BKRE-BKUBS-496T-2T.jpeg?v=1453934923"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Bar Sinks<br>
+        <strong>Price: </strong>
+            1452.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-description.rte one-half">
+<p>BK Resources underbar sink is constructed using 304 stainless steel for added durability. The integrally welded bowls measure 10" length by 14" widht and 10" deep. This sink comes complete with faucet, basket drain and 7" overflow tubs.</p>
+<p><strong><span style="text-decoration: underline;">Includes:</span></strong></p>
+<li>2x Faucet </li>
+<li>4x Drain basket</li>
+<li>4x 7" Overflow Tube</li>
+</div>
+<div class="tablespecs">
+<table>
+<thead>
+<tr>
+<th class="toolbar" colspan="2">Specification</th>
+</tr>
+</thead>
+<tbody id="tbSpecSheetRows">
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Gauge</td>
+<td>T-304 18 Gauge</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Material</td>
+<td>Stainless Steel</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Leg Construction</td>
+<td><span>Stainless Steel</span></td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Length</td>
+<td>96"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Depth</td>
+<td>21"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Height</td>
+<td>37"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Bowl Size</td>
+<td>10" Width x 14" Length x 10" Deep</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Faucet Type</td>
+<td>4" Center Faucet</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td># of Compartment</td>
+<td>4</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td># of Faucets</td>
+<td>2</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td># of Drainboards</td>
+<td>Both</td>
+</tr>
+</tbody>
+</table>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag># of Compartments_4</s:tag>
+    <s:tag>3-day</s:tag>
+    <s:tag>Drainboard_Two Drainboard</s:tag>
+    <s:tag>Product type_Bar Sinks</s:tag>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4164009988</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1452.48</s:price>
+      <s:sku>UB4-21-496TS</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4164009924</id>
+    <published>2016-01-12T22:10:00-06:00</published>
+    <updated>2016-01-12T22:10:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bkubs-396ts-96-underbar-sink-with-3-bowls-and-1-faucet-with-two-drainboard"/>
+    <title>BK Resources UB4-21-396TS 96&quot; Underbar Sink with 3 Bowls and 1 Faucet with Two Drainboard</title>
+    <s:type>Bar Sinks</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/bk-resources-bkubs-396ts-underbar-sink-units-097_grande_103d2cb8-33d8-4997-a644-65e9967bd7e0.png?v=1464380060"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Bar Sinks<br>
+        <strong>Price: </strong>
+            1258.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-description.rte one-half">
+<p>BK Resources underbar sink is constructed using 304 stainless steel for added durability. The integrally welded bowls measure 10" length by 14" widht and 10" deep. This sink comes complete with faucet, basket drain and 7" overflow tubs.</p>
+<p><strong><span style="text-decoration: underline;">Includes:</span></strong></p>
+<li>1x Faucet </li>
+<li>3x Drain basket</li>
+<li>3x 7" Overflow Tube</li>
+</div>
+<div class="tablespecs">
+<table>
+<thead>
+<tr>
+<th class="toolbar" colspan="2">Specification</th>
+</tr>
+</thead>
+<tbody id="tbSpecSheetRows">
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Gauge</td>
+<td>T-304 18 Gauge</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Material</td>
+<td>Stainless Steel</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Leg Construction</td>
+<td><span>Stainless Steel</span></td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Length</td>
+<td>96"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Depth</td>
+<td>21"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Height</td>
+<td>37"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Bowl Size</td>
+<td>10" Width x 14" Length x 10" Deep</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Faucet Type</td>
+<td>4" Center Faucet</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td># of Compartment</td>
+<td>3</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td># of Faucets</td>
+<td>1</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td># of Drainboards</td>
+<td>Both</td>
+</tr>
+</tbody>
+</table>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag># of Compartments_3</s:tag>
+    <s:tag>3-day</s:tag>
+    <s:tag>Drainboard_Two Drainboard</s:tag>
+    <s:tag>Product type_Bar Sinks</s:tag>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4164009924</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1258.51</s:price>
+      <s:sku>UB4-21-396TS</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4164009860</id>
+    <published>2016-01-12T22:10:00-06:00</published>
+    <updated>2016-01-12T22:10:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bkubs-484ts-84-underbar-sink-with-4-bowls-and-2-faucets-with-two-drainboard"/>
+    <title>BK Resources UB4-21-484TS 84&quot; Underbar Sink with 4 Bowls and 2 Faucets with Two Drainboard</title>
+    <s:type>Bar Sinks</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/BKRE-BKUBW-484T-2T.jpeg?v=1453934922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Bar Sinks<br>
+        <strong>Price: </strong>
+            1278.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-description.rte one-half">
+<p>BK Resources underbar sink is constructed using 304 stainless steel for added durability. The integrally welded bowls measure 10" length by 14" widht and 10" deep. This sink comes complete with faucet, basket drain and 7" overflow tubs.</p>
+<p><strong><span style="text-decoration: underline;">Includes:</span></strong></p>
+<li>2x Faucet </li>
+<li>4x Drain basket</li>
+<li>4x 7" Overflow Tube</li>
+</div>
+<div class="tablespecs">
+<table>
+<thead>
+<tr>
+<th class="toolbar" colspan="2">Specification</th>
+</tr>
+</thead>
+<tbody id="tbSpecSheetRows">
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Gauge</td>
+<td>T-304 18 Gauge</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Material</td>
+<td>Stainless Steel</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Leg Construction</td>
+<td><span>Stainless Steel</span></td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Length</td>
+<td>84"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Depth</td>
+<td>21"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Height</td>
+<td>37"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Bowl Size</td>
+<td>10" Width x 14" Length x 10" Deep</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Faucet Type</td>
+<td>4" Center Faucet</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td># of Compartment</td>
+<td>4</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td># of Faucets</td>
+<td>2</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td># of Drainboards</td>
+<td>Both</td>
+</tr>
+</tbody>
+</table>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag># of Compartments_4</s:tag>
+    <s:tag>3-day</s:tag>
+    <s:tag>Drainboard_Two Drainboard</s:tag>
+    <s:tag>Product type_Bar Sinks</s:tag>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4164009860</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1278.49</s:price>
+      <s:sku>UB4-21-484TS</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4164009796</id>
+    <published>2016-01-12T22:10:00-06:00</published>
+    <updated>2016-01-12T22:10:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bkubs-384ts-84-underbar-sink-with-3-bowls-and-1-faucet-with-two-drainboard"/>
+    <title>BK Resources UB4-21-384TS 84&quot; Underbar Sink with 3 Bowls and 1 Faucet with Two Drainboard</title>
+    <s:type>Bar Sinks</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/bk-resources-bkubs-396ts-underbar-sink-units-097_grande_9570bb1d-240a-4311-8309-07896ed9a575.png?v=1464380059"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Bar Sinks<br>
+        <strong>Price: </strong>
+            1056.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-description.rte one-half">
+<p>BK Resources underbar sink is constructed using 304 stainless steel for added durability. The integrally welded bowls measure 10" length by 14" widht and 10" deep. This sink comes complete with faucet, basket drain and 7" overflow tubs.</p>
+<p><strong><span style="text-decoration: underline;">Includes:</span></strong></p>
+<li>2x Faucet </li>
+<li>3x Drain basket</li>
+<li>3x 7" Overflow Tube</li>
+</div>
+<div class="tablespecs">
+<table>
+<thead>
+<tr>
+<th class="toolbar" colspan="2">Specification</th>
+</tr>
+</thead>
+<tbody id="tbSpecSheetRows">
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Gauge</td>
+<td>T-304 18 Gauge</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Material</td>
+<td>Stainless Steel</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Leg Construction</td>
+<td><span>Stainless Steel</span></td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Length</td>
+<td>84"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Depth</td>
+<td>21"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Height</td>
+<td>37"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Bowl Size</td>
+<td>10" Width x 14" Length x 10" Deep</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Faucet Type</td>
+<td>4" Center Faucet</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td># of Compartment</td>
+<td>3</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td># of Faucets</td>
+<td>2</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td># of Drainboards</td>
+<td>None</td>
+</tr>
+</tbody>
+</table>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag># of Compartments_3</s:tag>
+    <s:tag>3-day</s:tag>
+    <s:tag>Drainboard_Two Drainboard</s:tag>
+    <s:tag>Product type_Bar Sinks</s:tag>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4164009796</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1056.89</s:price>
+      <s:sku>UB4-21-384TS</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4164009732</id>
+    <published>2016-01-12T22:10:00-06:00</published>
+    <updated>2016-01-12T22:10:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bkubs-472ts-72-underbar-sink-with-4-bowls-and-2-faucets-with-two-drainboard"/>
+    <title>BK Resources UB4-21-472TS 72&quot; Underbar Sink with 4 Bowls and 2 Faucets with Two Drainboard</title>
+    <s:type>Bar Sinks</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/BKRE-BKUBW-472T-2T.jpeg?v=1453934915"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Bar Sinks<br>
+        <strong>Price: </strong>
+            1056.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-description.rte one-half">
+<p>BK Resources underbar sink is constructed using 304 stainless steel for added durability. The integrally welded bowls measure 10" length by 14" widht and 10" deep. This sink comes complete with faucet, basket drain and 7" overflow tubs.</p>
+<p><strong><span style="text-decoration: underline;">Includes:</span></strong></p>
+<li>2x Faucet </li>
+<li>4x Drain basket</li>
+<li>4x 7" Overflow Tube</li>
+</div>
+<div class="tablespecs">
+<table>
+<thead>
+<tr>
+<th class="toolbar" colspan="2">Specification</th>
+</tr>
+</thead>
+<tbody id="tbSpecSheetRows">
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Gauge</td>
+<td>T-304 18 Gauge</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Material</td>
+<td>Stainless Steel</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Leg Construction</td>
+<td><span>Stainless Steel</span></td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Length</td>
+<td>72"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Depth</td>
+<td>21"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Height</td>
+<td>37"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Bowl Size</td>
+<td>10" Width x 14" Length x 10" Deep</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Faucet Type</td>
+<td>4" Center Faucet</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td># of Compartment</td>
+<td>4</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td># of Faucets</td>
+<td>2</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td># of Drainboards</td>
+<td>Both</td>
+</tr>
+</tbody>
+</table>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag># of Compartments_4</s:tag>
+    <s:tag>3-day</s:tag>
+    <s:tag>Drainboard_Two Drainboard</s:tag>
+    <s:tag>Product type_Bar Sinks</s:tag>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4164009732</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1056.89</s:price>
+      <s:sku>UB4-21-472TS</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4164009604</id>
+    <published>2016-01-12T22:10:00-06:00</published>
+    <updated>2016-01-12T22:10:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bkubs-372ts-72-underbar-sink-with-3-bowls-and-1-faucet-with-two-drainboard"/>
+    <title>BK Resources UB4-21-372TS 72&quot; Underbar Sink with 3 Bowls and 1 Faucet with Two Drainboard</title>
+    <s:type>Bar Sinks</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/3.jpeg?v=1453934916"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Bar Sinks<br>
+        <strong>Price: </strong>
+            951.08
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-description.rte one-half">
+<p>BK Resources underbar sink is constructed using 304 stainless steel for added durability. The integrally welded bowls measure 10" length by 14" widht and 10" deep. This sink comes complete with faucet, basket drain and 7" overflow tubs.</p>
+<p><strong><span style="text-decoration: underline;">Includes:</span></strong></p>
+<li>1x Faucet </li>
+<li>3x Drain basket</li>
+<li>3x 7" Overflow Tube</li>
+</div>
+<div class="tablespecs">
+<table>
+<thead>
+<tr>
+<th class="toolbar" colspan="2">Specification</th>
+</tr>
+</thead>
+<tbody id="tbSpecSheetRows">
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Gauge</td>
+<td>T-304 18 Gauge</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Material</td>
+<td>Stainless Steel</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Leg Construction</td>
+<td><span>Stainless Steel</span></td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Length</td>
+<td>72"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Depth</td>
+<td>21"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Height</td>
+<td>37"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Bowl Size</td>
+<td>10" Width x 14" Length x 10" Deep</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Faucet Type</td>
+<td>4" Center Faucet</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td># of Compartment</td>
+<td>3</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td># of Faucets</td>
+<td>1</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td># of Drainboards</td>
+<td>Both</td>
+</tr>
+</tbody>
+</table>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag># of Compartments_3</s:tag>
+    <s:tag>3-day</s:tag>
+    <s:tag>Drainboard_Two Drainboard</s:tag>
+    <s:tag>Product type_Bar Sinks</s:tag>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4164009604</id>
+      <title>Default Title</title>
+      <s:price currency="USD">951.08</s:price>
+      <s:sku>UB4-21-372TS</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4164009540</id>
+    <published>2016-01-12T22:10:00-06:00</published>
+    <updated>2016-01-12T22:10:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bkubs-360ts-60-underbar-sink-with-3-bowls-and-1-faucet-with-two-drainboard"/>
+    <title>BK Resources UB4-21-360TS 60&quot; Underbar Sink with 3 Bowls and 1 Faucet with Two Drainboard</title>
+    <s:type>Bar Sinks</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/BKBKUBS236L.jpg_maxx_0_maxy_370.jpeg?v=1453934910"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Bar Sinks<br>
+        <strong>Price: </strong>
+            892.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-description.rte one-half">
+<p>BK Resources underbar sink is constructed using 304 stainless steel for added durability. The integrally welded bowls measure 10" length by 14" widht and 10" deep. This sink comes complete with faucet, basket drain and 7" overflow tubs.</p>
+<p><strong><span style="text-decoration: underline;">Includes:</span></strong></p>
+<li>1x Faucet </li>
+<li>3x Drain basket</li>
+<li>3x 7" Overflow Tube</li>
+</div>
+<div class="tablespecs">
+<table>
+<thead>
+<tr>
+<th class="toolbar" colspan="2">Specification</th>
+</tr>
+</thead>
+<tbody id="tbSpecSheetRows">
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Gauge</td>
+<td>T-304 18 Gauge</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Material</td>
+<td>Stainless Steel</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Leg Construction</td>
+<td><span>Stainless Steel</span></td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Length</td>
+<td>60"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Depth</td>
+<td>21"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Height</td>
+<td>37"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Bowl Size</td>
+<td>10" Width x 14" Length x 10" Deep</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Faucet Type</td>
+<td>4" Center Faucet</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td># of Compartment</td>
+<td>3</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td># of Faucets</td>
+<td>1</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td># of Drainboards</td>
+<td>Both</td>
+</tr>
+</tbody>
+</table>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag># of Compartments_3</s:tag>
+    <s:tag>3-day</s:tag>
+    <s:tag>Drainboard_Two Drainboard</s:tag>
+    <s:tag>Product type_Bar Sinks</s:tag>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4164009540</id>
+      <title>Default Title</title>
+      <s:price currency="USD">892.30</s:price>
+      <s:sku>UB4-21-360TS</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4164009284</id>
+    <published>2016-01-12T22:10:00-06:00</published>
+    <updated>2016-01-12T22:10:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bkubs-348rs-48-underbar-sink-with-3-bowls-and-1-faucet-with-right-drainboard"/>
+    <title>BK Resources UB4-21-348RS 48&quot; Underbar Sink with 3 Bowls and 1 Faucet with Right Drainboard</title>
+    <s:type>Bar Sinks</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/n175999_681bab84-144d-4630-a6b1-0cc9b2cd8fc0.jpg?v=1468256921"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Bar Sinks<br>
+        <strong>Price: </strong>
+            782.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-description.rte one-half">
+<p>BK Resources underbar sink is constructed using 304 stainless steel for added durability. The integrally welded bowls measure 10" length by 14" widht and 10" deep. This sink comes complete with faucet, basket drain and 7" overflow tubs.</p>
+<p><strong><span style="text-decoration: underline;">Includes:</span></strong></p>
+<li>1x Faucet </li>
+<li>3x Drain basket</li>
+<li>3x 7" Overflow Tube</li>
+</div>
+<div class="tablespecs">
+<table>
+<thead>
+<tr>
+<th class="toolbar" colspan="2">Specification</th>
+</tr>
+</thead>
+<tbody id="tbSpecSheetRows">
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Gauge</td>
+<td>T-304 18 Gauge</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Material</td>
+<td>Stainless Steel</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Leg Construction</td>
+<td><span>Stainless Steel</span></td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Length</td>
+<td>48"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Depth</td>
+<td>21"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Height</td>
+<td>37"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Bowl Size</td>
+<td>10" Width x 14" Length x 10" Deep</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Faucet Type</td>
+<td>4" Center Faucet</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td># of Compartment</td>
+<td>3</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td># of Faucets</td>
+<td>1</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td># of Drainboards</td>
+<td>Right</td>
+</tr>
+</tbody>
+</table>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag># of Compartments_3</s:tag>
+    <s:tag>3-day</s:tag>
+    <s:tag>Drainboard_Right Drainboard</s:tag>
+    <s:tag>Product type_Bar Sinks</s:tag>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4164009284</id>
+      <title>Default Title</title>
+      <s:price currency="USD">782.38</s:price>
+      <s:sku>UB4-21-348RS</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4164009220</id>
+    <published>2016-01-12T22:10:00-06:00</published>
+    <updated>2016-01-12T22:10:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bkubs-348ls-48-underbar-sink-with-3-bowls-and-1-faucet-with-left-drainboard"/>
+    <title>BK Resources UB4-21-348LS 48&quot; Underbar Sink with 3 Bowls and 1 Faucet with Left Drainboard</title>
+    <s:type>Bar Sinks</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/n175998_7c37a5f8-e945-4524-9cfd-df09444dc133.jpg?v=1468256916"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Bar Sinks<br>
+        <strong>Price: </strong>
+            782.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-description.rte one-half">
+<p>BK Resources underbar sink is constructed using 304 stainless steel for added durability. The integrally welded bowls measure 10" length by 14" widht and 10" deep. This sink comes complete with faucet, basket drain and 7" overflow tubs.</p>
+<p><strong><span style="text-decoration: underline;">Includes:</span></strong></p>
+<li>1x Faucet </li>
+<li>3x Drain basket</li>
+<li>3x 7" Overflow Tube</li>
+</div>
+<div class="tablespecs">
+<table>
+<thead>
+<tr>
+<th class="toolbar" colspan="2">Specification</th>
+</tr>
+</thead>
+<tbody id="tbSpecSheetRows">
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Gauge</td>
+<td>T-304 18 Gauge</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Material</td>
+<td>Stainless Steel</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Leg Construction</td>
+<td><span>Stainless Steel</span></td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Length</td>
+<td>48"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Depth</td>
+<td>21"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Height</td>
+<td>37"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Bowl Size</td>
+<td>10" Width x 14" Length x 10" Deep</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Faucet Type</td>
+<td>4" Center Faucet</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td># of Compartment</td>
+<td>3</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td># of Faucets</td>
+<td>1</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td># of Drainboards</td>
+<td>Left</td>
+</tr>
+</tbody>
+</table>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag># of Compartments_3</s:tag>
+    <s:tag>3-day</s:tag>
+    <s:tag>Drainboard_Left Drainboard</s:tag>
+    <s:tag>Product type_Bar Sinks</s:tag>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4164009220</id>
+      <title>Default Title</title>
+      <s:price currency="USD">782.38</s:price>
+      <s:sku>UB4-21-348LS</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4164009156</id>
+    <published>2016-01-12T22:10:00-06:00</published>
+    <updated>2016-01-12T22:10:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bkubs-248ts-48-underbar-sink-with-2-bowls-and-1-faucet-with-two-drainboard"/>
+    <title>BK Resources UB4-21-248TS 48&quot; Underbar Sink with 2 Bowls and 1 Faucet with Two Drainboard</title>
+    <s:type>Bar Sinks</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/BKRE-BKUBS-248T-2T.jpeg?v=1453934898"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Bar Sinks<br>
+        <strong>Price: </strong>
+            711.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-description.rte one-half">
+<p>BK Resources underbar sink is constructed using 304 stainless steel for added durability. The integrally welded bowls measure 10" length by 14" widht and 10" deep. This sink comes complete with faucet, basket drain and 7" overflow tubs.</p>
+<p><strong><span style="text-decoration: underline;">Includes:</span></strong></p>
+<li>1x Faucet </li>
+<li>2x Drain basket</li>
+<li>2x 7" Overflow Tube</li>
+</div>
+<div class="tablespecs">
+<table>
+<thead>
+<tr>
+<th class="toolbar" colspan="2">Specification</th>
+</tr>
+</thead>
+<tbody id="tbSpecSheetRows">
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Gauge</td>
+<td>T-304 18 Gauge</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Material</td>
+<td>Stainless Steel</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Leg Construction</td>
+<td><span>Stainless Steel</span></td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Length</td>
+<td>48"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Depth</td>
+<td>21"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Height</td>
+<td>37"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Bowl Size</td>
+<td>10" Width x 14" Length x 10" Deep</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Faucet Type</td>
+<td>4" Center Faucet</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td># of Compartment</td>
+<td>2</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td># of Faucets</td>
+<td>1</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td># of Drainboards</td>
+<td>Both</td>
+</tr>
+</tbody>
+</table>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag># of Compartments_2</s:tag>
+    <s:tag>3-day</s:tag>
+    <s:tag>Drainboard_Two Drainboard</s:tag>
+    <s:tag>Product type_Bar Sinks</s:tag>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4164009156</id>
+      <title>Default Title</title>
+      <s:price currency="USD">711.25</s:price>
+      <s:sku>UB4-21-248TS</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4164008772</id>
+    <published>2016-01-12T22:10:00-06:00</published>
+    <updated>2016-01-12T22:10:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bkubs-336s-36-underbar-sink-with-3-bowls-and-1-faucet-with-no-drainboard"/>
+    <title>BK Resources UB4-21-336S 36&quot; Underbar Sink with 3 Bowls and 1 Faucet with No Drainboard</title>
+    <s:type>Bar Sinks</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/BKRE-BKUBS-336-2T.jpeg?v=1453934901"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Bar Sinks<br>
+        <strong>Price: </strong>
+            801.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-description.rte one-half">
+<p>BK Resources underbar sink is constructed using 304 stainless steel for added durability. The integrally welded bowls measure 10" length by 14" widht and 10" deep. This sink comes complete with faucet, basket drain and 7" overflow tubs.</p>
+<p><strong><span style="text-decoration: underline;">Includes:</span></strong></p>
+<li>1x Faucet </li>
+<li>3x Drain basket</li>
+<li>3x 7" Overflow Tube</li>
+</div>
+<div class="tablespecs">
+<table>
+<thead>
+<tr>
+<th class="toolbar" colspan="2">Specification</th>
+</tr>
+</thead>
+<tbody id="tbSpecSheetRows">
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Gauge</td>
+<td>T-304 18 Gauge</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Material</td>
+<td>Stainless Steel</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Leg Construction</td>
+<td><span>Stainless Steel</span></td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Length</td>
+<td>36"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Depth</td>
+<td>21"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Height</td>
+<td>37"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Bowl Size</td>
+<td>10" Width x 14" Length x 10" Deep</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Faucet Type</td>
+<td>4" Center Faucet</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td># of Compartment</td>
+<td>3</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td># of Faucets</td>
+<td>1</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td># of Drainboards</td>
+<td>None</td>
+</tr>
+</tbody>
+</table>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag># of Compartments_3</s:tag>
+    <s:tag>3-day</s:tag>
+    <s:tag>Drainboard_None</s:tag>
+    <s:tag>Product type_Bar Sinks</s:tag>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4164008772</id>
+      <title>Default Title</title>
+      <s:price currency="USD">801.19</s:price>
+      <s:sku>UB4-21-336S</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.champsrestaurantsupply.com/products/4164008708</id>
+    <published>2016-01-12T22:10:00-06:00</published>
+    <updated>2016-01-12T22:10:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.champsrestaurantsupply.com/products/bk-resources-bkubs-224s-24-underbar-sink-with-2-bowls-and-1-faucet-with-no-drainboard"/>
+    <title>BK Resources UB4-21-224S 24&quot; Underbar Sink with 2 Bowls and 1 Faucet with No Drainboard</title>
+    <s:type>Bar Sinks</s:type>
+    <s:vendor>BK Resources</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0950/0340/products/BKBKUBS224.png?v=1453934797"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BK Resources<br>
+        <strong>Type: </strong>Bar Sinks<br>
+        <strong>Price: </strong>
+            696.56
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-description.rte one-half">
+<p>BK Resources underbar sink is constructed using 304 stainless steel for added durability. The integrally welded bowls measure 10"W x 14" front-to-back x 10" deep compartments. This sink comes complete with faucet, basket drain and 7" overflow tubs.</p>
+<p><strong><span style="text-decoration: underline;">Includes:</span></strong></p>
+<ul>
+<li>1x Faucet </li>
+<li>2x Drain basket</li>
+<li>2x 7" Overflow Tube</li>
+</ul>
+</div>
+<div class="tablespecs">
+<table>
+<thead>
+<tr>
+<th class="toolbar" colspan="2">Specification</th>
+</tr>
+</thead>
+<tbody id="tbSpecSheetRows">
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Gauge</td>
+<td>T-304 18 Gauge</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Material</td>
+<td>Stainless Steel</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Leg Construction</td>
+<td><span>Stainless Steel</span></td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Length</td>
+<td>24"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td class="tablespecs_title">Depth</td>
+<td>21"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Height</td>
+<td>37"</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Bowl Size</td>
+<td>10" Width x 14" Length x 10" Deep</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td>Faucet Type</td>
+<td>4" Center Faucet</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td># of Compartment</td>
+<td>2</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td># of Faucets</td>
+<td>1</td>
+</tr>
+<tr class="trSpecSheetRow">
+<td># of Drainboards</td>
+<td>None</td>
+</tr>
+</tbody>
+</table>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag># of Compartments_2</s:tag>
+    <s:tag>3-day</s:tag>
+    <s:tag>Drainboard_None</s:tag>
+    <s:tag>Product type_Bar Sinks</s:tag>
+    <s:tag>Vendor_BK Resources</s:tag>
+    <s:variant>
+      <id>https://www.champsrestaurantsupply.com/products/4164008708</id>
+      <title>Default Title</title>
+      <s:price currency="USD">696.56</s:price>
+      <s:sku>UB4-21-224S</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+</feed>
